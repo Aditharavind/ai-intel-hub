@@ -1,42 +1,48 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-29 04:14 UTC
+Generated: 2026-09-29 10:56 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-09-28 | DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations | [link](https://arxiv.org/pdf/2609.35761v1) |
+| 2026-09-28 | Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control | [link](https://arxiv.org/pdf/2609.35758v1) |
+| 2026-09-28 | GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space | [link](https://arxiv.org/pdf/2609.35734v1) |
+| 2026-09-28 | RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation | [link](https://arxiv.org/pdf/2609.35717v1) |
+| 2026-09-28 | X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets | [link](https://arxiv.org/pdf/2609.35715v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83578 | 33431.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63762 | 25504.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44620 | 17848.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30606 | 12242.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28696 | 11478.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83579 | 33431.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63763 | 25505.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44618 | 17847.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30608 | 12243.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28707 | 11482.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tsinghua-sigs-robot-lab/VeriLoop-E2 | 1790 | 540.1 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
-| sraivante/superfast-tiny-home-robotics-json-1m-v1 | 683 | 205.0 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
-| Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot | 247 | 74.2 | [link](https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot) |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 194 | 58.5 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| vladmandic/MicroDecoder | 136 | 40.9 | [link](https://huggingface.co/vladmandic/MicroDecoder) |
+| tsinghua-sigs-robot-lab/VeriLoop-E2 | 2180 | 657.1 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
+| sraivante/superfast-tiny-home-robotics-json-1m-v1 | 685 | 205.6 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
+| Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot | 435 | 130.6 | [link](https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 209 | 63.0 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
+| vladmandic/MicroDecoder | 179 | 53.8 | [link](https://huggingface.co/vladmandic/MicroDecoder) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-09-29 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-26 | Apptronik |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnNveThPbDVwUWdxWi1YM2NXWW1yaFpMZ05US0NnQlRUSU54MFFZd2xfY0sxdkhOQklnakp0UklGUGFKeU1TSkt5dE14OUd1Yy1NNUhUeWx3VjlHNU5yZ1h6YjdDdmNrQkFhYkdUWTNfbjR2UXFHc2dJLUxLOTVjYllfd09SQXl4V240RVhJZlFOQTVuUEtyUUp5cVg0VEdRVUNHSXdUUVlVeDZsdTB6aEZZXzZTNWp3RnhETmo1YndiT3M?oc=5) |
 | 2026-09-22 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWJIdHBpd1NjMmxJbnl3MnhreFZsaFhnTW50MFZWWi1EeWJsQjNUVWR4YTJ4S2lLcHZ3V2ZzRGczWG13MFZ4S05PVDJDX0lMYVA5SmN0MktRdGhtaUMzZ2xMeHJHUkVWVHNFaWZjYUJRUVQtME9RdWlDbWZzcnZrNkpuYnVnS0xpUmJTdWhMak1jZkRZY3h5MnBGUmlfU2FpOEFfb3hnVlNVTzJORjlPaA?oc=5) |
 | 2026-09-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
-| 2026-09-18 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-09-29 | Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
+| 2026-09-29 | AMD snaps up Fei-Fei Li's startup in $8.2 billion physical AI push - news.cgtn.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPeS1RaDlrT1ZLX2VWMHJ2SzVBOHA0TUgta1FZcTdvVktWVjhkWEk4YUtVS0ZNeHhhWDk1LUFqVzR0WXBQcWFlbFlmNkVJZWkzbTVGVUJEaEUzVGFJOG91M0R3ZDRDLU01c0VsaWNKZC1HTzdxc2syeVlza0w1TFNCc2pHNTh5emxEVUI0c25kaFBhaHUtUk5fNk4yQ2kxM0gyeVAyeHdSVFd6WnIzX2xadC00bTQxUG5zSWlOaVllbw?oc=5) |
+| 2026-09-29 | SiMa.AI Raises $150 Mn To Scale Physical AI Platform - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5) |
 | 2026-09-29 | Physical AI startup SiMa.ai raises $150M in Series C - YourStory.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDFQaGFzMjQxbElBd05raGFfNkhpR3JQRlNub2RoWXJLc1NabXZQMjJYUE8tUFVVd1JsQzNFdmVWcDd1YmJvc08zZ192M1d1ZlBfLWFwQlEtdEdRMjRTXy1xWHFmLTU3RFo0d1V6THZIbExIOENkWC1pYnJXRzNZNVVLYXBNdXJtSzROSw?oc=5) |
-| 2026-09-29 | Ropedia Launches Academic Partner Program Physical AI - TNGlobal | physical ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnd4RjJtREJjb0VDd2tTd0Q4ak9DeWh1Z0otbkc3bWYyVFZMODM5emRjbDhYSi1xa1g4bEtXRXRHRW5QcE1sakYxNExIMFBLUGR2VGF2T2hoSXAyZXI5eEJQWWFxb2d4Q0xxd1E3bkM0SEtsbmY4bDBNWTc0ZTFjbmNkVXF0WFFsU2pSb1BTV0w1ZUw3bVNGM3ZzUksxSlNKeDFxelBSeXVlempzMWFNczQtdmMzck9uWGZPZw?oc=5) |
-| 2026-09-28 | Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation - siliconangle.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3A4ZGlZWUZtOFlwZWY1WEVodnMyeERjc2pZM2tIb1hQT01hT1RaYlZvMHdxMm5QRl9veWpYQTlLUS0yMTFqbmQtTXh0MHR0dTlLY1ppNWNyN1BrSlZweVBWUS05ZDU2MjBSaUwxU1pwNDNzbGY5MVFxS0h6NDFpWGxFTzdpczIyTkNJanlzaWF0eG44aWNPS01sbGRuSndmZDlBLWZSODFlYkNS?oc=5) |
-| 2026-09-28 | AMD acquires startup cofounded by ‘godmother of AI’ Fei-Fei Li for $8.2 billion - Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTJZazg1STZjVGNheUZjOW1SczBSSXJCOXpzbldyNWFaWVlYZmFETkExZWZzdnRrNk42eVN5VjVxZzFBY0s3Um5rV0RxSHhpam5NMzc4bXVMZ2ZYOXVjSy1zMWtnTzlJcWFXOUI1V2UwNDhXNXY2Y1VJYXhxYzFmUTZ2QktsaTdtVUc5ekZYUQ?oc=5) |
-| 2026-09-28 | AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI' - Reuters | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5) |
+| 2026-09-29 | Physical AI startup SiMa.ai raises $150 million in Series C funding at $1.45 billion valuation - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUtIdDE5ZVlqSkhOZ0JCNXFTTHNHSUNld3FYc01RdGRpTkJ2U1ZIM2xBMVlGRU10eDFLeHpQMmRLLU90U2FLUGM3UURYSDF6azB5M0RqbXZ4SXROSFR6N1NTUUxTemlGZVo2LVBhbVR4YXVnYmFHa1VMdWx5bzJmdXAwa0ZkaEVGRUlCV3hDQkw3RWVHenJlN2JDY2s0QVNiRV9DT0lkNWl6U1FQeVdNZFktc1hmSElMVDhxNXdsS3lscjVLQ1RhZUJkRW41RXFpSXNZ0gHTAUFVX3lxTFAxS0h0MTllWWpKSE5nQkI1cVNMc0dJQ2V3cVhzTVF0ZGlOQnZTVkgzbEExWUZFTXR4MUt4elAyZEstT3RTYUtQYzdRRFhIMXprMHkzRGptdnhJdE5IVHo3U1NRTFN6aUZlWjYtUGFtVHhhdWdiYUdrVUx1bHlvMmZ1cDBrRmRoRUZFSUJXeENCTDdFZUd6cmU3YkNjazRBU2JFX0NPSWQ1aXpTUVB5V01kWS1zWGZISUxUOHE1d2xLeWxyNUtDVGFlQmRFbjVFcWlJc1k?oc=5) |

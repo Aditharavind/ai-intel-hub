@@ -1,5 +1,19 @@
 [
   {
+    "title": "Metal Gear Solid Moves From PlayStation to ESP32",
+    "source": "Hackaday",
+    "date": "2026-09-29",
+    "url": "https://hackaday.com/2026/09/29/metal-gear-solid-moves-from-playstation-to-esp32/",
+    "summary": "<div><img alt=\"The many polygons of Solid Snake on an ESP-driven LCD\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/MSGonESP32s3-feat.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you haven&#8217;t heard of Metal Gear, you probably haven&#8217;t played video games these last few decades. The original Metal Gear dates back to 1987 and launched on the MSX, <a class=\"read-more\" href=\"https://hackaday.com/2026/09/29/metal-gear-solid-moves-from-playstation-to-esp32/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Pitting a CFD-Optimized Toroidal Propeller Against a Conventional One",
+    "source": "Hackaday",
+    "date": "2026-09-29",
+    "url": "https://hackaday.com/2026/09/28/pitting-a-cfd-optimized-toroidal-propeller-against-a-conventional-one/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"427\" src=\"https://hackaday.com/wp-content/uploads/2026/09/toroidal_propeller_optimisation_neuronautics_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although we often think that we got certain aspects of aerodynamics pretty much licked at this point, details like the optimal shape of a propeller remains hotly debated, both in- <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/pitting-a-cfd-optimized-toroidal-propeller-against-a-conventional-one/\">&#8230;read more</a>"
+  },
+  {
     "title": "Two-Dimensional Material Now Easier to Manufacture",
     "source": "Hackaday",
     "date": "2026-09-29",
@@ -7,11 +21,60 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"452\" src=\"https://hackaday.com/wp-content/uploads/2026/09/mxene-main.jpeg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We often see scientific breakthroughs in journals or other media that&#8217;s reported on as if it&#8217;s a revolutionary technology guaranteed to reshape human existence, only to never hear about it <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/two-dimensional-material-now-easier-to-manufacture/\">&#8230;read more</a>"
   },
   {
+    "title": "NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports",
+    "source": "CNX Software",
+    "date": "2026-09-29",
+    "url": "https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/",
+    "summary": "<div><img alt=\"NXP FRDM-IMXRT1186\" class=\"attachment-medium size-medium wp-post-image\" height=\"514\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/NXP-FRDM-IMXRT1186-720x514.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has just launched the FRDM-IMXRT1186, a development board based on the i.MX RT1186 crossover MCU for industrial automation, robotics, PLCs, and edge computing applications. The MCU uses a heterogeneous architecture with an 800 MHz Arm Cortex-M7 core for application processing and a 300 MHz Arm Cortex-M33 core for real-time control and communications. The board includes 64 Mbit HyperRAM, 512 Mbit HyperFlash, and 128 Mbit QSPI Flash, along with two Gigabit Ethernet ports for TSN switching and two Fast Ethernet ports for EtherCAT or TSN switching. It also features a USB Type-C OTG port and a CAN transceiver, while debugging is supported through an on-board MCU-Link debugger and JTAG connector. For expansion, the board includes Arduino UNO R3 and FRDM headers, a FlexSPI follower header, an SRAMC header, and motor-control headers. NXP FRDM-IMXRT1186 development board specifications: SoC – NXP MIMXRT1186CVJ8C (i.MX RT1180 family, LFBGA196) CPU Arm Cortex-M7 application core @ [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/\">NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC",
     "source": "CNX Software",
     "date": "2026-09-29",
     "url": "https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/",
     "summary": "<div><img alt=\"Walnut Pi CM2\" class=\"attachment-medium size-medium wp-post-image\" height=\"467\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Walnut-Pi-CM2-720x467.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Walnut Pi CM2 is a low-cost Raspberry Pi CM5-compatible Compute Module powered by an Allwinner T527 octa-core Cortex-A55 processor paired with up to 4GB LPDDR4 RAM, 16GB eMMC flash, and an optional wireless module. It&#8217;s basically the company&#8217;s Walnut Pi 2B credit card-sized SBC in Pi Compute Module form factor, exposing I/Os via two 100-pin high-density connectors. Besides the price, benefits include a WiFi 6 and Bluetooth 5.0 module, a Gigabit Ethernet PHY on the module, and a built-in 2 TOPS NPU in the T527 SoC. Downsides are that the Allwinner T527 is not quite as powerful as the Broadcom BCM2712 (4x Cortex-A76 cores) found in the CM5, and as with other such &#8220;Raspberry Pi CM5-compatible&#8221; modules, it&#8217;s only partially electrically compatible. Walnut Pi CM2 specifications: SoC – Allwinner T527 CPU Octa-core Arm Cortex-A55 processor with four cores @ 1.80 GHz and four cores @ 1.42GHz E906 RISC-V core up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/\">Walnut Pi CM2 &#8211; A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Sustainability Design Challenge",
+    "source": "Electronics Weekly",
+    "date": "2026-09-29",
+    "url": "https://www.electronicsweekly.com/news/sustainability-design-challenge-2026-09/",
+    "summary": "<p>element14, has launched a  smart sustainability design challenge inviting engineers, makers and technology enthusiasts to design and build innovative projects focused on recycling, waste reduction and environmental sustainability. The challenge [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/sustainability-design-challenge-2026-09/\">Sustainability Design Challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "AMD buys World Labs for $8.2bn",
+    "source": "Electronics Weekly",
+    "date": "2026-09-29",
+    "url": "https://www.electronicsweekly.com/news/business/amd-buys-world-labs-for-2-8bn-2026-09/",
+    "summary": "<p>AMD is to buy World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei. The acquisition will strengthen AMD’s ability to develop AI hardware, software and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/amd-buys-world-labs-for-2-8bn-2026-09/\">AMD buys World Labs for $8.2bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Gimlet cloud and Cerebras to accelerate inference",
+    "source": "Electronics Weekly",
+    "date": "2026-09-29",
+    "url": "https://www.electronicsweekly.com/news/business/gimlet-cloud-and-cerebras-to-accelerate-inference-2026-09/",
+    "summary": "<p>Gimlet Labs and Cerebras Systems are to work together to deliver ultrafast AI inference at massive scale. The collaboration brings together Cerebras’ wafer-scale compute with the Gimlet Cloud to deliver a purpose-built [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gimlet-cloud-and-cerebras-to-accelerate-inference-2026-09/\">Gimlet cloud and Cerebras to accelerate inference</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Vanguard and NXP open jv fab and plan another",
+    "source": "Electronics Weekly",
+    "date": "2026-09-29",
+    "url": "https://www.electronicsweekly.com/news/business/a-guard-and-nxp-open-new-jv-fab-and-plan-another-2026-09/",
+    "summary": "<p>Yesterday, Vanguard International Semiconductor (VIS) and NXP  inaugurated  their jv fab in Singapore dubbed VisionPower Semiconductor Manufacturing Company (VSMC). . Volume production is planned for early 2027. The capacity of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/a-guard-and-nxp-open-new-jv-fab-and-plan-another-2026-09/\">Vanguard and NXP open jv fab and plan another</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "The Agent-Engineer",
+    "source": "Electronics Weekly",
+    "date": "2026-09-29",
+    "url": "https://www.electronicsweekly.com/news/business/the-agent-engineer-2026-09/",
+    "summary": "<p>Synopsys has come up with Agent-Engineers &#8211; agents that can reason, plan, and execute engineering workflows from silicon to systems across verification, system validation, implementation, analogue, manufacturing, and simulation and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/the-agent-engineer-2026-09/\">The Agent-Engineer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Cheap phones disappearing",
+    "source": "Electronics Weekly",
+    "date": "2026-09-29",
+    "url": "https://www.electronicsweekly.com/news/business/smartphone-market-fragmenting-2026-09/",
+    "summary": "<p>Smartphone shipments are forecast to recover to approximately 1.2 billion units in 2030, nearly back the level of 2025, says Counterpoint Research However, the sub-$200 segment is  expected to decline [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/smartphone-market-fragmenting-2026-09/\">Cheap phones disappearing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Gold Bonded Germanium Diodes Made In Scotland",
@@ -47,20 +110,6 @@
     "date": "2026-09-28",
     "url": "https://hackaday.com/2026/09/28/jet-megatextures-demo-for-esp32-s3/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"435\" src=\"https://hackaday.com/wp-content/uploads/2026/09/jet_megatextures_esp32-s3_phonicuk.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Mipmapping is a good way to add a lot more detail to a 3D scene without overburdening the rendering hardware with detail that won&#8217;t be seen by the user. This <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/jet-megatextures-demo-for-esp32-s3/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The FPGA Chronicles: Exploring the Tang Nano 20K",
-    "source": "Hackaday",
-    "date": "2026-09-28",
-    "url": "https://hackaday.com/2026/09/28/the-fpga-chronicles-exploring-the-tang-nano-20k/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/09/FPGAchronicles.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>FPGAs used to be mysterious, expensive devices, but these days you can buy surprisingly capable boards for very little money. Some years ago, I did an FPGA Bootcamp over on <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/the-fpga-chronicles-exploring-the-tang-nano-20k/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Using the SNES Super FX Chip to Run Super Mario 64",
-    "source": "Hackaday",
-    "date": "2026-09-28",
-    "url": "https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of <a class=\"read-more\" href=\"https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/\">&#8230;read more</a>"
   },
   {
     "title": "Critical Link MitySOM-AM62x/A/P – TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation",
@@ -110,48 +159,6 @@
     "date": "2026-09-28",
     "url": "https://www.electronicsweekly.com/news/products/connectors/versabeam-mini-16-fiber-ebo-connector-for-high-density-ai-networks-2026-09/",
     "summary": "<p>Molex is announcing VersaBeam Mini its ultra-compact, 16-fiber Expanded Beam Optical (EBO) connector. The company says it solves critical space, thermal and maintenance challenges in high-density AI and hyperscale networks. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/versabeam-mini-16-fiber-ebo-connector-for-high-density-ai-networks-2026-09/\">VersaBeam Mini 16-fiber EBO connector for high-density AI networks</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Q2 slowdown reports BEAMA",
-    "source": "Electronics Weekly",
-    "date": "2026-09-28",
-    "url": "https://www.electronicsweekly.com/news/q2-slowdown-reports-beama-2026-09/",
-    "summary": "<p>UK electrical manufacturers reported a sharp sales slowdown in Q2 2026, according to BEAMA&#8217;s latest Market Pulse. Four in ten (40.7%) manufacturers reported operating at 70% capacity or below, while [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/q2-slowdown-reports-beama-2026-09/\">Q2 slowdown reports BEAMA</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Raspberry Pi H1 revenue up 90%",
-    "source": "Electronics Weekly",
-    "date": "2026-09-28",
-    "url": "https://www.electronicsweekly.com/news/business/raspberry-pi-h1-revenue-up-90-2026-09/",
-    "summary": "<p>Raspberry Pi H1 revenue was up 90% YoY at $256.9 million, driven by a 17% increase in board shipments to 4.2 million units and a 42% rise in ASP. “Raspberry [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/raspberry-pi-h1-revenue-up-90-2026-09/\">Raspberry Pi H1 revenue up 90%</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "xAi’s models to catch up OpenAI and Anthropic by year-end",
-    "source": "Electronics Weekly",
-    "date": "2026-09-28",
-    "url": "https://www.electronicsweekly.com/news/business/musks-models-to-catch-up-openainand-anthropic-by-year-end-2026-09/",
-    "summary": "<p>Elon Musk expects that, by Christmas, xAI’s models will be as advanced as those from Anthropic and Open AI, &#8220;We will keep accelerating,” said Musk, “our AI efforts are only [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/musks-models-to-catch-up-openainand-anthropic-by-year-end-2026-09/\">xAi’s models to catch up OpenAI and Anthropic by year-end</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Wise Integration and Navitas Semi hook up for data centre PSU development",
-    "source": "Electronics Weekly",
-    "date": "2026-09-28",
-    "url": "https://www.electronicsweekly.com/news/business/wise-integration-and-navitas-semi-hook-up-2026-09/",
-    "summary": "<p>Wise Integration, which specialises in a digital control for GaN and SiC based power converters, and Navitas Semiconductor,  the GaN and SiC specialist, are to collaborate on advancing power-computing applications [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/wise-integration-and-navitas-semi-hook-up-2026-09/\">Wise Integration and Navitas Semi hook up for data centre PSU development</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "IC-Link by imec simplifies access to advanced nodes",
-    "source": "Electronics Weekly",
-    "date": "2026-09-28",
-    "url": "https://www.electronicsweekly.com/news/business/ic-link-by-imec-simplifies-access-2026-09/",
-    "summary": "<p>IC-Link by imec, imec’s design and manufacturing service provider for ASICs and silicon photonics, and TSMC are have simplifying customer access to advanced-node semiconductor design capabilities. As the newest member of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ic-link-by-imec-simplifies-access-2026-09/\">IC-Link by imec simplifies access to advanced nodes</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "PicoJool raises $275m to bring  VCSEL products to market",
-    "source": "Electronics Weekly",
-    "date": "2026-09-28",
-    "url": "https://www.electronicsweekly.com/news/business/picojool-raises-275m-to-bring-vcsel-products-to-market-2026-09/",
-    "summary": "<p>PicoJool, the VCSEL specialist, has raised $27.5 million in Series A funding following a $12 million seed round bringing total funding to $39.5 million. PicoJool will use the money to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/picojool-raises-275m-to-bring-vcsel-products-to-market-2026-09/\">PicoJool raises $275m to bring  VCSEL products to market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "A Game Boy Advance port of Real8",
@@ -390,13 +397,6 @@
     "date": "2026-09-23",
     "url": "https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/",
     "summary": "<div><img alt=\"MediaTek Dimensity CX C10 Max\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MediaTek-Dimensity-CX-C10-Max-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MediaTek Dimensity CX C10 Max is a 3nm &#8220;All Big Core&#8221; octa-core Armv9 CPU with an 11-core Immortalis-G925 MC11 GPU, and MediaTek&#8217;s  890 NPU delivering up to 55 TOPS for an &#8220;upcoming premium, ultra-portable Googlebook device&#8221; with all-day battery life. Googlebook is Google’s new premium laptop category built around the company&#8217;s Gemini Intelligence and running Googlebook OS, codenamed Aluminium OS, which merges parts of Android and ChromeOS platforms. If you visit the Googlebook website, you&#8217;ll find pre-orders for Intel Core Ultra and Qualcomm Snapdragon X Elite models, but Google will soon launch at least one model equipped with the new MediaTek SoC. MediaTek Dimensity CX C10 Max specifications: Octa-core CPU 1x Arm Cortex-X925 core clocked at up to 3.73 GHz with 2MB L2 cache 3x Arm Cortex-X4 cores with 1MB L2 cache 4x Arm Cortex-A720 cores with 512KB L2 cache Shared cache &#8211; 12MB L3 cache, 10MB SLC (System Level [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/mediatek-dimensity-cx-c10-max-octa-core-cortex-x925-x9-a720-soc-targets-googlebooks/\">MediaTek Dimensity CX C10 Max octa-core Cortex-X925/X4/A720 SoC targets Googlebooks</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-09-23",
-    "url": "https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/",
-    "summary": "<div><img alt=\"Soulart Station markerless motion tracking device with its ToF IR and RGB sensors\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Soulart-Station-markerless-motion-tracking-device-with-its-ToF-IR-and-RGB-sensors-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>South Korean startup Soulart has launched the Soulart Station, a markerless full-body motion tracker for VR, VTubing, and motion capture. The device uses a Time-of-Flight (ToF) sensor and an onboard Neural Processing Unit (NPU) to capture 3D point cloud data and process motion tracking on the device. By running machine learning models locally, it avoids expensive PC-side GPU computation or cloud processing, delivering 23-joint 6DoF motion data with a claimed ML latency under 10 milliseconds. Soulart Station specifications: SoC &#8211; TBD; They only mention Onboard dual-core NPU and built-in graphics processor Fully on-device processing (no PC GPU or cloud required; only motion data is transmitted for privacy) Connectivity &#8211; Wi-Fi Sensors Custom Time-of-Flight (ToF) module (940 nm IR) 4K RGB + NIR cameras Tracking Method &#8211; Markerless 3D scan + on-device ML pose (no wearables, suits, or pucks required) Point cloud &#8211; ~300,000 points (millimeter-scale) with sub-1% error Scan Rate [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/23/soulart-station-a-markerless-full-body-motion-tracker-for-vr-and-vtubers/\">Soulart Station – A markerless full-body motion tracker for VR and VTubers (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Synopsys, TSMC Advance Agentic AI for Chip Design",
