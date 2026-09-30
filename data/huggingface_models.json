@@ -1,5 +1,32 @@
 [
   {
+    "model": "harrywang01/real-robot-checkpoints",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
+    "date": "2026-09-30",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "fedorovivan/cs229-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fedorovivan/cs229-robotics-vision-language",
+    "date": "2026-09-30",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
+    "date": "2026-09-30",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "arifgunawan/reading-robotics-vision-language",
     "downloads": 0,
     "likes": 0,
@@ -18,15 +45,6 @@
     "score": 0.1
   },
   {
-    "model": "harrywang01/real-robot-checkpoints",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
-    "date": "2026-09-30",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
     "model": "unileon-robotics/YOLO26-ONNX",
     "downloads": 0,
     "likes": 0,
@@ -43,15 +61,6 @@
     "date": "2026-09-30",
     "keyword": "robot",
     "score": 6.0
-  },
-  {
-    "model": "Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
-    "date": "2026-09-30",
-    "keyword": "robot",
-    "score": 0.3
   },
   {
     "model": "BEN12324/zeva-ego-robotwin-jax-60k",
@@ -88,6 +97,24 @@
     "date": "2026-09-30",
     "keyword": "robot",
     "score": 14.8
+  },
+  {
+    "model": "vladlinv/PP-OCRv6_medium_rec_ru",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru",
+    "date": "2026-09-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladlinv/PP-OCRv6_tiny_rec_ru",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru",
+    "date": "2026-09-30",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "Najongs/vla-recipe-ckpts",
@@ -180,15 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "Primotion/Paimon_VLA-Arena",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Primotion/Paimon_VLA-Arena",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
     "downloads": 0,
     "likes": 0,
@@ -241,6 +259,15 @@
     "date": "2026-09-30",
     "keyword": "physical ai",
     "score": 0.1
+  },
+  {
+    "model": "Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
+    "downloads": 499,
+    "likes": 0,
+    "url": "https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot",
+    "date": "2026-09-30",
+    "keyword": "policy",
+    "score": 149.8
   },
   {
     "model": "cagataydev/strands-isaaclab-h1-rough-policy",
@@ -342,15 +369,6 @@
     "score": 0.1
   },
   {
-    "model": "shyunii/omx_act_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/shyunii/omx_act_policy",
-    "date": "2026-09-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "tavishh/robotarm",
     "downloads": 22,
     "likes": 0,
@@ -358,24 +376,6 @@
     "date": "2026-09-29",
     "keyword": "robot",
     "score": 6.7
-  },
-  {
-    "model": "qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3",
-    "date": "2026-09-29",
-    "keyword": "robotics",
-    "score": 4.6
-  },
-  {
-    "model": "Vlad39382/qwen3-0.6b-ru-struct-gguf",
-    "downloads": 47,
-    "likes": 0,
-    "url": "https://huggingface.co/Vlad39382/qwen3-0.6b-ru-struct-gguf",
-    "date": "2026-09-29",
-    "keyword": "vla",
-    "score": 14.2
   },
   {
     "model": "davidwdw/fa-historical-5080-embodiedclaw-v2-run-e5af66e6d3fc",
@@ -403,6 +403,15 @@
     "date": "2026-09-29",
     "keyword": "navigation",
     "score": 0.1
+  },
+  {
+    "model": "qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3",
+    "downloads": 15,
+    "likes": 0,
+    "url": "https://huggingface.co/qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3",
+    "date": "2026-09-29",
+    "keyword": "robotics",
+    "score": 4.6
   },
   {
     "model": "lucyjohnson/embodied-ai",
@@ -527,15 +536,6 @@
     "likes": 0,
     "url": "https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim",
     "date": "2026-09-27",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "sraivante/superfast-tiny-home-robotics-json-1m-v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v3",
-    "date": "2026-09-26",
     "keyword": "robotics",
     "score": 0.1
   },
