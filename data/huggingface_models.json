@@ -1,5 +1,23 @@
 [
   {
+    "model": "Robot-Haus/Qwen3.8-Flash-Next-MTP-Drafter-MLX-fp16",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-MTP-Drafter-MLX-fp16",
+    "date": "2026-09-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Robot-Haus/Qwen3.8-Flash-Next-RH-oQ3.5e-fp16-mtp",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-RH-oQ3.5e-fp16-mtp",
+    "date": "2026-09-29",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "tavishh/robotarm",
     "downloads": 0,
     "likes": 0,
@@ -70,6 +88,15 @@
     "date": "2026-09-29",
     "keyword": "vla",
     "score": 16.0
+  },
+  {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-09-29",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "Vlad39382/qwen3-0.6b-ru-struct-gguf",
@@ -144,15 +171,6 @@
     "score": 0.1
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-09-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "miracle-techlink/lingbot-vla-v2-6b-lerobot",
     "downloads": 57,
     "likes": 0,
@@ -207,15 +225,6 @@
     "score": 0.1
   },
   {
-    "model": "JoshuaAshkinaze/policyfx-nli",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/JoshuaAshkinaze/policyfx-nli",
-    "date": "2026-09-29",
-    "keyword": "policy",
-    "score": 4.6
-  },
-  {
     "model": "arclab-kmu/arc-mycobot-yolo-hand-policy",
     "downloads": 0,
     "likes": 0,
@@ -223,6 +232,15 @@
     "date": "2026-09-29",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "JoshuaAshkinaze/policyfx-nli",
+    "downloads": 15,
+    "likes": 0,
+    "url": "https://huggingface.co/JoshuaAshkinaze/policyfx-nli",
+    "date": "2026-09-29",
+    "keyword": "policy",
+    "score": 4.6
   },
   {
     "model": "ujheo/my_policy",
@@ -333,24 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "LIU79/robotwin-failure-aware-dp-final-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LIU79/robotwin-failure-aware-dp-final-checkpoints",
-    "date": "2026-09-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "pollen-robotics/microduck-roller-sprint-2m-reference",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/microduck-roller-sprint-2m-reference",
-    "date": "2026-09-28",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "lucyjohnson/embodied-ai",
     "downloads": 9,
     "likes": 0,
@@ -393,6 +393,15 @@
     "url": "https://huggingface.co/UCLA-VAIL/Visual-Navigation-Model-Checkpoints",
     "date": "2026-09-28",
     "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "pollen-robotics/microduck-roller-sprint-2m-reference",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/microduck-roller-sprint-2m-reference",
+    "date": "2026-09-28",
+    "keyword": "robotics",
     "score": 0.1
   },
   {

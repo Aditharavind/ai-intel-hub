@@ -1,14 +1,14 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-29 21:06 UTC
+Last Updated: 2026-09-30 00:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-09-29 | DevDay 2026 Recap | OpenAI | [link](https://openai.com/index/devday-2026-recap) |
 | 2026-09-29 | Introducing GPT-6.1 Sol | OpenAI | [link](https://openai.com/index/introducing-gpt-6-1-sol) |
+| 2026-09-29 | DevDay 2026 Recap | OpenAI | [link](https://openai.com/index/devday-2026-recap) |
 | 2026-09-29 | Introducing dots | OpenAI | [link](https://openai.com/index/introducing-dots) |
 | 2026-09-29 | NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction | Hugging Face | [link](https://huggingface.co/blog/nvidia/kumo-tabular) |
 | 2026-09-29 | Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents | Hugging Face | [link](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source) |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-30 | ESP32-C5 devkit features 3.5-inch touch LCD, optional camera and battery | CNX Software | [link](https://www.cnx-software.com/2026/09/30/esp32-c5-devkit-features-3-5-inch-touch-lcd-optional-camera-and-battery/) |
+| 2026-09-29 | The Deep Magic of 3D Graphics Perspective | Hackaday | [link](https://hackaday.com/2026/09/29/the-deep-magic-of-3d-graphics-perspective/) |
 | 2026-09-29 | Designing a Fully 3D-Printed Mechanical Calculator | Hackaday | [link](https://hackaday.com/2026/09/29/designing-a-fully-3d-printed-mechanical-calculator/) |
 | 2026-09-29 | Improved Double-Sided Toner Transfer Method | Hackaday | [link](https://hackaday.com/2026/09/29/improved-double-sided-toner-transfer-method/) |
 | 2026-09-29 | Electromechanical TV Goes 3D with This Light-field Display | Hackaday | [link](https://hackaday.com/2026/09/29/electromechanical-tv-goes-3d-with-this-light-field-display/) |
 | 2026-09-29 | Geothermal Cooling For New York’s Subways | Hackaday | [link](https://hackaday.com/2026/09/29/geothermal-cooling-for-new-yorks-subways/) |
 | 2026-09-29 | Testing Coulomb’s Law and Similar Fundamentals Yourself Remains Tricky | Hackaday | [link](https://hackaday.com/2026/09/29/testing-coulombs-law-and-similar-fundamentals-yourself-remains-tricky/) |
 | 2026-09-29 | Metal Gear Solid Moves From PlayStation to ESP32 | Hackaday | [link](https://hackaday.com/2026/09/29/metal-gear-solid-moves-from-playstation-to-esp32/) |
-| 2026-09-29 | Pitting a CFD-Optimized Toroidal Propeller Against a Conventional One | Hackaday | [link](https://hackaday.com/2026/09/28/pitting-a-cfd-optimized-toroidal-propeller-against-a-conventional-one/) |
 | 2026-09-29 | NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports | CNX Software | [link](https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/) |
 | 2026-09-29 | Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC | CNX Software | [link](https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/) |
-| 2026-09-29 | MathWorks Releases MATLAB and Simulink R2026b | Embedded.com | [link](https://www.embedded.com/mathworks-releases-matlab-and-simulink-r2026b/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-30 | Robot-Haus/Qwen3.8-Flash-Next-MTP-Drafter-MLX-fp16 | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-MTP-Drafter-MLX-fp16) |
+| 2026-09-29 | Robot-Haus/Qwen3.8-Flash-Next-RH-oQ3.5e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-RH-oQ3.5e-fp16-mtp) |
 | 2026-09-29 | tavishh/robotarm | 0 | 0 | [link](https://huggingface.co/tavishh/robotarm) |
 | 2026-09-29 | qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3) |
 | 2026-09-29 | louis392/bpp-robotwin-level2-rel-wip | 0 | 0 | [link](https://huggingface.co/louis392/bpp-robotwin-level2-rel-wip) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-29 | RobotsMali/soloni-be-kalan-v0 | 11 | 0 | [link](https://huggingface.co/RobotsMali/soloni-be-kalan-v0) |
 | 2026-09-29 | zmf2023/robotwin2 | 5 | 1 | [link](https://huggingface.co/zmf2023/robotwin2) |
 | 2026-09-29 | miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin | 53 | 0 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin) |
-| 2026-09-29 | Vlad39382/qwen3-0.6b-ru-struct-gguf | 0 | 0 | [link](https://huggingface.co/Vlad39382/qwen3-0.6b-ru-struct-gguf) |
-| 2026-09-29 | Vladniag/Bormolom | 0 | 0 | [link](https://huggingface.co/Vladniag/Bormolom) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28717 | Python | 11486.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3480 | Python | 1392.1 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3481 | Python | 1392.5 | [link](https://github.com/NVIDIA/skills) |
+| questdb/questdb | 17384 | Java | 6953.7 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16483 | Python | 6593.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| ArduPilot/ardupilot | 15960 | C++ | 6384.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| dora-rs/dora | 3987 | Rust | 1594.9 | [link](https://github.com/dora-rs/dora) |
+| vllm-project/vllm-omni | 7137 | Python | 2854.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| harvard-edge/cs249r_book | 28719 | Python | 11487.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1506 | Rust | 602.5 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 1054 | Python | 421.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63769 | Python | 25507.7 | [link](https://github.com/commaai/openpilot) |
-| questdb/questdb | 17383 | Java | 6953.3 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16477 | Python | 6590.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| zauberzeug/nicegui | 16254 | Python | 6501.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 15960 | C++ | 6384.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15388 | C++ | 6155.3 | [link](https://github.com/google-deepmind/mujoco) |
+| commaai/openpilot | 63770 | Python | 25508.1 | [link](https://github.com/commaai/openpilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -122,18 +122,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-29 | Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-29 | AMD Pays $8.2 Billion in Stock for Non-Chipmaking Startup as CEO Bets on Physical AI - 24/7 Wall St. | physical ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3NhcWdYajQxNDhXMjNuY2FmM1p4OUZWTEliVS1WSnpGNTc3ejBjYkNqYU5MZnZad1E1OVUzSnVXakdQYjQ5c0pmT2EyUVZuSGh2SEU2YUxvM0pDUVlITVJHaFpBRTZHWWxLb3F3VmF0MjRJNldaeEZTcWY0ZndXWWRkZFJtYWkwemhtaDBJODY2UDJEcFhsZlRxTkNKd2I5V3RRelR4S0R3NkRTZFN5UDBHeGtVVkJMUGJPYWJyNVBWV2JFNGc?oc=5) |
 | 2026-09-29 | AMD snaps up Fei-Fei Li's startup in $8.2 billion physical AI push - news.cgtn.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPeS1RaDlrT1ZLX2VWMHJ2SzVBOHA0TUgta1FZcTdvVktWVjhkWEk4YUtVS0ZNeHhhWDk1LUFqVzR0WXBQcWFlbFlmNkVJZWkzbTVGVUJEaEUzVGFJOG91M0R3ZDRDLU01c0VsaWNKZC1HTzdxc2syeVlza0w1TFNCc2pHNTh5emxEVUI0c25kaFBhaHUtUk5fNk4yQ2kxM0gyeVAyeHdSVFd6WnIzX2xadC00bTQxUG5zSWlOaVllbw?oc=5) |
-| 2026-09-29 | SiMa.AI Raises $150 Mn To Scale Physical AI Platform - bwdisrupt.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5) |
-| 2026-09-29 | Physical AI startup SiMa.ai raises $150 million in Series C funding at $1.45 billion valuation - indianstartupnews.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUtIdDE5ZVlqSkhOZ0JCNXFTTHNHSUNld3FYc01RdGRpTkJ2U1ZIM2xBMVlGRU10eDFLeHpQMmRLLU90U2FLUGM3UURYSDF6azB5M0RqbXZ4SXROSFR6N1NTUUxTemlGZVo2LVBhbVR4YXVnYmFHa1VMdWx5bzJmdXAwa0ZkaEVGRUlCV3hDQkw3RWVHenJlN2JDY2s0QVNiRV9DT0lkNWl6U1FQeVdNZFktc1hmSElMVDhxNXdsS3lscjVLQ1RhZUJkRW41RXFpSXNZ0gHTAUFVX3lxTFAxS0h0MTllWWpKSE5nQkI1cVNMc0dJQ2V3cVhzTVF0ZGlOQnZTVkgzbEExWUZFTXR4MUt4elAyZEstT3RTYUtQYzdRRFhIMXprMHkzRGptdnhJdE5IVHo3U1NRTFN6aUZlWjYtUGFtVHhhdWdiYUdrVUx1bHlvMmZ1cDBrRmRoRUZFSUJXeENCTDdFZUd6cmU3YkNjazRBU2JFX0NPSWQ1aXpTUVB5V01kWS1zWGZISUxUOHE1d2xLeWxyNUtDVGFlQmRFbjVFcWlJc1k?oc=5) |
+| 2026-09-29 | SiMa.AI Raises $150 Mn To Scale Physical AI Platform - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5) |
+| 2026-09-29 | Physical AI startup SiMa.ai raises $150 million in Series C funding at $1.45 billion valuation - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUtIdDE5ZVlqSkhOZ0JCNXFTTHNHSUNld3FYc01RdGRpTkJ2U1ZIM2xBMVlGRU10eDFLeHpQMmRLLU90U2FLUGM3UURYSDF6azB5M0RqbXZ4SXROSFR6N1NTUUxTemlGZVo2LVBhbVR4YXVnYmFHa1VMdWx5bzJmdXAwa0ZkaEVGRUlCV3hDQkw3RWVHenJlN2JDY2s0QVNiRV9DT0lkNWl6U1FQeVdNZFktc1hmSElMVDhxNXdsS3lscjVLQ1RhZUJkRW41RXFpSXNZ0gHTAUFVX3lxTFAxS0h0MTllWWpKSE5nQkI1cVNMc0dJQ2V3cVhzTVF0ZGlOQnZTVkgzbEExWUZFTXR4MUt4elAyZEstT3RTYUtQYzdRRFhIMXprMHkzRGptdnhJdE5IVHo3U1NRTFN6aUZlWjYtUGFtVHhhdWdiYUdrVUx1bHlvMmZ1cDBrRmRoRUZFSUJXeENCTDdFZUd6cmU3YkNjazRBU2JFX0NPSWQ1aXpTUVB5V01kWS1zWGZISUxUOHE1d2xLeWxyNUtDVGFlQmRFbjVFcWlJc1k?oc=5) |
 | 2026-09-29 | AMD Buys Its Way Into Physical AI With World Labs Deal - TradingView | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxONjRXRTFWeXNmQTBrYTdEbzZZTVd0V2ZlS2pITkN2cW5wN3hYcUpESTdhd1F2Qy16UmdHYWFvZW9xVTlNUjdselRobmtoaUxGbDFJcGZadm1PX0hvWHJtUDNOTVRMakE5VHh4cERLZlNrS2d6S3pjWU45UFM1ekRUS0VQbWJsN01saHo0bzAxalpMa25Tc2hER192bVdXNl9nTTYzU0lISFhqVWVLaXNVYVBCOVA?oc=5) |
 | 2026-09-29 | Physical AI startup SiMa.ai raises $150M in Series C - YourStory.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDFQaGFzMjQxbElBd05raGFfNkhpR3JQRlNub2RoWXJLc1NabXZQMjJYUE8tUFVVd1JsQzNFdmVWcDd1YmJvc08zZ192M1d1ZlBfLWFwQlEtdEdRMjRTXy1xWHFmLTU3RFo0d1V6THZIbExIOENkWC1pYnJXRzNZNVVLYXBNdXJtSzROSw?oc=5) |
-| 2026-09-29 | Nebius Opens 2026 Physical AI Awards: Five $150K Compute Prizes, Nine Judges, and an October 25 Deadline - MarkTechPost | physical ai startup | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTWF0dWxGODkzaFo3UzNFcldpbEVJdGRiOHlqYkRqX3M3NDVDeTRmeGhOSm9PT2hkcDNBbTRHM1R0WE54OE1KZjVYZUt0S1AzTGN2QXFwakRkR3lSNl9JeFU3WVQ5Z2dfRTlXLUdENGdsY3hxX0RDWVlaYURXZjRidFVqSHNNUzJoRUpiZVF3QWRFSkt6aGhFQzlNNmZFQXprV3d3QmhTRXpPVXBnOVRlT2otVVp5T0ZGdFl4Z0tIVmhfTUR1dzIteUgzVDV6UWRTenZPRTU2YlI?oc=5) |
 | 2026-09-29 | 36Kr Exclusive | Former Huawei Noah's Ark Lab Generative Large Models Head Launches Home Embodied Intelligence Startup, Secures Over 1 Billion Yuan Funding in One Year - eu.36kr.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hWHM0ckhIXzdnLWFrLU5TQkxNUDJJZ05BdE5xeWRoWV91Nkc1NHl6aDFHZmZmSzNqSWxrdGVPa2taUmtMOHBmZ1kydUNvU1ZVY0lR?oc=5) |
 | 2026-09-29 | China's embodied AI robots move from training rooms to real-world jobs - The Business Standard | embodied ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWtuWlNNVjh2OUcwdnNKaFMzU1JfWnp0UldTNEhKVTN4eXFIdW9JQTdPem5OSXNERUJEbFJkNFdKU1MtSFMwWDJkcy1DdHl4QnVqend0S1FPWDhsdFlhb3NldVBQV0FDNTRHc05qVUhRYlZ1RUVpamNqOHZSTXktcjJ0bDkxTGRKd3pzbmlQMlo0cnh0QXRIOF9SMmIzVlk?oc=5) |
+| 2026-09-29 | This $3,555 Humanoid Robot Learns New Chores in 30 Minutes, Startup Says - CNET | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1dxWTI5dHZRZWd4ZlVDbERuTXRwRzVtZ0U2dUNhUk84T1g1Y2RSOWZNaGRkcTFJY1E5Y1NCSWNMbFBEMm9RcWJ5MjBBdWN3U0h1YTUwQUx3LWt2OGh0QjRwWFhBTzlnNVdXQVFsZzdJaFRhMXUtdTVjWGdjOEVKN2NTRTZ5enFoWXhVUlhIdFFKcUJqUUFYMzQ5a1BDWU96Yll0aEFZTkVNdw?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
 | 2026-09-29 | AV Operations Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717486006) |
+| 2026-09-29 | Data Operations Coordinator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717759006) |
+| 2026-09-29 | Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-09-29 | Intelligent Robots & Systems Conference (IROS 2026) | Agility Robotics | Onsite- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6207854004) |
 | 2026-09-28 | Production Lead  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717229006) |
 | 2026-09-28 | Data Collection Manager | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208804004) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-25 | Mechanical Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=5986750004) |
 | 2026-09-25 | Senior Business Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208281004) |
 | 2026-09-25 | Senior Hardware Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208279004) |
-| 2026-09-25 | Senior Operations Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208283004) |
-| 2026-09-25 | Staff Systems Integration Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6083311004) |
 
 ## Automation
 
