@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-09-30 13:05 UTC
+Generated: 2026-09-30 18:38 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-09-30 13:05 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83583 | 33433.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63778 | 25511.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83586 | 33434.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63781 | 25512.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44621 | 17848.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30612 | 12244.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28736 | 11494.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30613 | 12245.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28749 | 11499.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| sraivante/superfast-tiny-home-robotics-json-1m-v1 | 689 | 206.8 | [link](https://huggingface.co/sraivante/superfast-tiny-home-robotics-json-1m-v1) |
-| Vladniag/Bormolom | 335 | 100.6 | [link](https://huggingface.co/Vladniag/Bormolom) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 220 | 66.3 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | ujheo/my_policy | 125 | 37.6 | [link](https://huggingface.co/ujheo/my_policy) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 91 | 27.4 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 84 | 25.7 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2 | 60 | 18.1 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -42,7 +42,7 @@ Generated: 2026-09-30 13:05 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-09-30 | Asia’s top tech startups move beyond software towards physical AI - The Business Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFdFVlRGcE0tWHU2NVFleWg4aUJZNHYtUE9HcE83NWZCQ0s0aXNUaG5IbGlMTzlQN0RQMF9aamk5TDNLSjc1c1FVQ0F3bTBISGlxYkFpWTlSbVFhTFhOdk9IYWVoamYxMlkxeDJfMlNDaHU1WmtYTWUzdlVhTzBZb3duNjJJOFVuV1NKTlNTcTB1a0NSdjNlVUNxVEQ4Q2FtekFhcml5YWdrVFg5RHJ4QQ?oc=5) |
+| 2026-09-30 | Humanoid Robots Adapt Appearances to Match Job Roles - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3kta1p0RzVNT2Y0OWZObXBveGlTMThHNUc0MWdDMTF2a19hYzI3Vi01MFk5RHpiSVN0UGoxN3k4TndyaTZTOFpyb1ZWZFBwaWJpVGZudk1iYW5QMTdlZk9EQnEtOGFua1RnRXVFNDdhbDh3bEkwSzIwb3dtNmxfdXpJMmwzQjFo?oc=5) |
 | 2026-09-29 | Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-29 | AMD Pays $8.2 Billion in Stock for Non-Chipmaking Startup as CEO Bets on Physical AI - 24/7 Wall St. | physical ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3NhcWdYajQxNDhXMjNuY2FmM1p4OUZWTEliVS1WSnpGNTc3ejBjYkNqYU5MZnZad1E1OVUzSnVXakdQYjQ5c0pmT2EyUVZuSGh2SEU2YUxvM0pDUVlITVJHaFpBRTZHWWxLb3F3VmF0MjRJNldaeEZTcWY0ZndXWWRkZFJtYWkwemhtaDBJODY2UDJEcFhsZlRxTkNKd2I5V3RRelR4S0R3NkRTZFN5UDBHeGtVVkJMUGJPYWJyNVBWV2JFNGc?oc=5) |
 | 2026-09-29 | SiMa.AI Raises $150 Mn To Scale Physical AI Platform - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5) |
-| 2026-09-29 | China's embodied AI robots move from training rooms to real-world jobs - The Business Standard | embodied ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWtuWlNNVjh2OUcwdnNKaFMzU1JfWnp0UldTNEhKVTN4eXFIdW9JQTdPem5OSXNERUJEbFJkNFdKU1MtSFMwWDJkcy1DdHl4QnVqend0S1FPWDhsdFlhb3NldVBQV0FDNTRHc05qVUhRYlZ1RUVpamNqOHZSTXktcjJ0bDkxTGRKd3pzbmlQMlo0cnh0QXRIOF9SMmIzVlk?oc=5) |
