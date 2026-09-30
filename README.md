@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-09-30 00:48 UTC
+Last Updated: 2026-09-30 06:03 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-09-30 | No More Windows For The Dutch Government, Ze Kiezen Nu Linux | Hackaday | [link](https://hackaday.com/2026/09/29/no-more-windows-for-the-dutch-government-its-linux-all-the-way/) |
+| 2026-09-30 | Determining Diamond’s Properties Under Extreme Pressures | Hackaday | [link](https://hackaday.com/2026/09/29/determining-diamonds-properties-under-extreme-pressures/) |
 | 2026-09-30 | ESP32-C5 devkit features 3.5-inch touch LCD, optional camera and battery | CNX Software | [link](https://www.cnx-software.com/2026/09/30/esp32-c5-devkit-features-3-5-inch-touch-lcd-optional-camera-and-battery/) |
+| 2026-09-30 | Anthropic reveals biggest pre-IPO loss  in history | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/anthropic-reveals-biggest-ipo-loss-in-history-2026-09/) |
+| 2026-09-30 | Could memory be softening? | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/could-memory-be-softening-2026-09/) |
+| 2026-09-30 | Versatile EdgeCortix chiplet for physical AI | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/versatile-edgecortix-chiplet-for-physical-ai-2026-09/) |
+| 2026-09-30 | Raspberry Pi-based underwater camera | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/raspberry-pi-underwater-camera-2026-09/) |
+| 2026-09-30 | Scalable high-density 2A LXI matrix for changing test requirements | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/pickering-interfaces-2026-09/) |
+| 2026-09-30 | Ten Best Paid Semi Execs | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/ten-best-paid-semi-execs-2026-09/) |
 | 2026-09-29 | The Deep Magic of 3D Graphics Perspective | Hackaday | [link](https://hackaday.com/2026/09/29/the-deep-magic-of-3d-graphics-perspective/) |
-| 2026-09-29 | Designing a Fully 3D-Printed Mechanical Calculator | Hackaday | [link](https://hackaday.com/2026/09/29/designing-a-fully-3d-printed-mechanical-calculator/) |
-| 2026-09-29 | Improved Double-Sided Toner Transfer Method | Hackaday | [link](https://hackaday.com/2026/09/29/improved-double-sided-toner-transfer-method/) |
-| 2026-09-29 | Electromechanical TV Goes 3D with This Light-field Display | Hackaday | [link](https://hackaday.com/2026/09/29/electromechanical-tv-goes-3d-with-this-light-field-display/) |
-| 2026-09-29 | Geothermal Cooling For New York’s Subways | Hackaday | [link](https://hackaday.com/2026/09/29/geothermal-cooling-for-new-yorks-subways/) |
-| 2026-09-29 | Testing Coulomb’s Law and Similar Fundamentals Yourself Remains Tricky | Hackaday | [link](https://hackaday.com/2026/09/29/testing-coulombs-law-and-similar-fundamentals-yourself-remains-tricky/) |
-| 2026-09-29 | Metal Gear Solid Moves From PlayStation to ESP32 | Hackaday | [link](https://hackaday.com/2026/09/29/metal-gear-solid-moves-from-playstation-to-esp32/) |
-| 2026-09-29 | NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports | CNX Software | [link](https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/) |
-| 2026-09-29 | Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC | CNX Software | [link](https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-28 | DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations | [link](https://arxiv.org/pdf/2609.35761v1) |
-| 2026-09-28 | Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control | [link](https://arxiv.org/pdf/2609.35758v1) |
-| 2026-09-28 | GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space | [link](https://arxiv.org/pdf/2609.35734v1) |
-| 2026-09-28 | RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation | [link](https://arxiv.org/pdf/2609.35717v1) |
-| 2026-09-28 | X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets | [link](https://arxiv.org/pdf/2609.35715v1) |
-| 2026-09-28 | Humanoid Loco-Manipulation With Discrete VLA Model | [link](https://arxiv.org/pdf/2609.35709v1) |
-| 2026-09-28 | ScAn-Bench: Evaluating Scaling Analysis Methodology | [link](https://arxiv.org/pdf/2609.35707v1) |
-| 2026-09-28 | DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time | [link](https://arxiv.org/pdf/2609.35704v1) |
-| 2026-09-28 | LQR-ArUco Fusion: Robust Hierarchical Control for Navigation and Asymmetric Manipulation in Two-Wheeled Robots | [link](https://arxiv.org/pdf/2609.35700v1) |
-| 2026-09-28 | Agent Priors-guided Policy Learning | [link](https://arxiv.org/pdf/2609.35690v1) |
+| 2026-09-29 | Skill-Space Shooting for Autonomous Robot Policy Improvement | [link](https://arxiv.org/pdf/2609.38178v1) |
+| 2026-09-29 | Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering | [link](https://arxiv.org/pdf/2609.38177v1) |
+| 2026-09-29 | In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks | [link](https://arxiv.org/pdf/2609.38173v1) |
+| 2026-09-29 | Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2609.38172v1) |
+| 2026-09-29 | Rho: A Foundation for Efficiently Adaptable VLA Models | [link](https://arxiv.org/pdf/2609.38164v1) |
+| 2026-09-29 | Rethinking Representations for World-Action Modeling | [link](https://arxiv.org/pdf/2609.38163v1) |
+| 2026-09-29 | LongLive-Plug: Once-for-All Distillation for Video Generation | [link](https://arxiv.org/pdf/2609.38154v1) |
+| 2026-09-29 | Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE | [link](https://arxiv.org/pdf/2609.38140v1) |
+| 2026-09-29 | CLeaR: A Unified Framework for Resolving the Leakage-Degradation Dilemma in Style Transfer | [link](https://arxiv.org/pdf/2609.38136v1) |
+| 2026-09-29 | Multi-Agent Flow Matching with Decoupled Generative Guidance | [link](https://arxiv.org/pdf/2609.38133v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-09-30 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
+| 2026-09-30 | BEN12324/zeva-ego-robotwin-jax-60k | 0 | 0 | [link](https://huggingface.co/BEN12324/zeva-ego-robotwin-jax-60k) |
+| 2026-09-30 | daniel-moreno/dl-robotics-vision-language31 | 0 | 0 | [link](https://huggingface.co/daniel-moreno/dl-robotics-vision-language31) |
+| 2026-09-30 | zmf2023/robotwin2 | 5 | 1 | [link](https://huggingface.co/zmf2023/robotwin2) |
+| 2026-09-30 | Senqiao/0330_robotwin_32_qwen3OFT_c32_onlyclean_ft | 0 | 0 | [link](https://huggingface.co/Senqiao/0330_robotwin_32_qwen3OFT_c32_onlyclean_ft) |
 | 2026-09-30 | Robot-Haus/Qwen3.8-Flash-Next-MTP-Drafter-MLX-fp16 | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-MTP-Drafter-MLX-fp16) |
-| 2026-09-29 | Robot-Haus/Qwen3.8-Flash-Next-RH-oQ3.5e-fp16-mtp | 0 | 0 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-RH-oQ3.5e-fp16-mtp) |
-| 2026-09-29 | tavishh/robotarm | 0 | 0 | [link](https://huggingface.co/tavishh/robotarm) |
-| 2026-09-29 | qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3 | 0 | 0 | [link](https://huggingface.co/qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3) |
-| 2026-09-29 | louis392/bpp-robotwin-level2-rel-wip | 0 | 0 | [link](https://huggingface.co/louis392/bpp-robotwin-level2-rel-wip) |
-| 2026-09-29 | QZWang/patchwam-robotwin-c2r-step140000 | 0 | 0 | [link](https://huggingface.co/QZWang/patchwam-robotwin-c2r-step140000) |
-| 2026-09-29 | Nico-robot/microduck-sprint-2m-plan4probe | 0 | 0 | [link](https://huggingface.co/Nico-robot/microduck-sprint-2m-plan4probe) |
-| 2026-09-29 | RobotsMali/soloni-be-kalan-v0 | 11 | 0 | [link](https://huggingface.co/RobotsMali/soloni-be-kalan-v0) |
-| 2026-09-29 | zmf2023/robotwin2 | 5 | 1 | [link](https://huggingface.co/zmf2023/robotwin2) |
-| 2026-09-29 | miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin | 53 | 0 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin) |
+| 2026-09-30 | DILL-VLA/disentangled-vla-libero-eef-qwen25vl | 0 | 0 | [link](https://huggingface.co/DILL-VLA/disentangled-vla-libero-eef-qwen25vl) |
+| 2026-09-30 | DILL-VLA/DILL-Encoders | 0 | 0 | [link](https://huggingface.co/DILL-VLA/DILL-Encoders) |
+| 2026-09-30 | Primotion/Paimon_VLA-Arena | 0 | 0 | [link](https://huggingface.co/Primotion/Paimon_VLA-Arena) |
+| 2026-09-30 | MasonJK99/temporal-flow-world-model | 0 | 0 | [link](https://huggingface.co/MasonJK99/temporal-flow-world-model) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| NVIDIA/skills | 3481 | Python | 1392.5 | [link](https://github.com/NVIDIA/skills) |
-| questdb/questdb | 17384 | Java | 6953.7 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16483 | Python | 6593.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| harvard-edge/cs249r_book | 28726 | Python | 11490.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3482 | Python | 1392.9 | [link](https://github.com/NVIDIA/skills) |
+| robocurve/inspect-robots | 627 | Python | 250.9 | [link](https://github.com/robocurve/inspect-robots) |
+| commaai/openpilot | 63773 | Python | 25509.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30613 | Python | 12245.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| questdb/questdb | 17392 | Java | 6956.9 | [link](https://github.com/questdb/questdb) |
+| earthtojake/text-to-cad | 16491 | Python | 6596.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | ArduPilot/ardupilot | 15960 | C++ | 6384.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| RLinf/RLinf | 5415 | Python | 2166.1 | [link](https://github.com/RLinf/RLinf) |
 | dora-rs/dora | 3987 | Rust | 1594.9 | [link](https://github.com/dora-rs/dora) |
-| vllm-project/vllm-omni | 7137 | Python | 2854.9 | [link](https://github.com/vllm-project/vllm-omni) |
-| harvard-edge/cs249r_book | 28719 | Python | 11487.7 | [link](https://github.com/harvard-edge/cs249r_book) |
-| copper-project/copper-rs | 1506 | Rust | 602.5 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 1054 | Python | 421.7 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63770 | Python | 25508.1 | [link](https://github.com/commaai/openpilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,13 +119,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-09-29 | Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-29 | AMD Pays $8.2 Billion in Stock for Non-Chipmaking Startup as CEO Bets on Physical AI - 24/7 Wall St. | physical ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3NhcWdYajQxNDhXMjNuY2FmM1p4OUZWTEliVS1WSnpGNTc3ejBjYkNqYU5MZnZad1E1OVUzSnVXakdQYjQ5c0pmT2EyUVZuSGh2SEU2YUxvM0pDUVlITVJHaFpBRTZHWWxLb3F3VmF0MjRJNldaeEZTcWY0ZndXWWRkZFJtYWkwemhtaDBJODY2UDJEcFhsZlRxTkNKd2I5V3RRelR4S0R3NkRTZFN5UDBHeGtVVkJMUGJPYWJyNVBWV2JFNGc?oc=5) |
+| 2026-09-29 | Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - businessinsider.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-29 | AMD snaps up Fei-Fei Li's startup in $8.2 billion physical AI push - news.cgtn.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxPeS1RaDlrT1ZLX2VWMHJ2SzVBOHA0TUgta1FZcTdvVktWVjhkWEk4YUtVS0ZNeHhhWDk1LUFqVzR0WXBQcWFlbFlmNkVJZWkzbTVGVUJEaEUzVGFJOG91M0R3ZDRDLU01c0VsaWNKZC1HTzdxc2syeVlza0w1TFNCc2pHNTh5emxEVUI0c25kaFBhaHUtUk5fNk4yQ2kxM0gyeVAyeHdSVFd6WnIzX2xadC00bTQxUG5zSWlOaVllbw?oc=5) |
-| 2026-09-29 | SiMa.AI Raises $150 Mn To Scale Physical AI Platform - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5) |
 | 2026-09-29 | Physical AI startup SiMa.ai raises $150 million in Series C funding at $1.45 billion valuation - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUtIdDE5ZVlqSkhOZ0JCNXFTTHNHSUNld3FYc01RdGRpTkJ2U1ZIM2xBMVlGRU10eDFLeHpQMmRLLU90U2FLUGM3UURYSDF6azB5M0RqbXZ4SXROSFR6N1NTUUxTemlGZVo2LVBhbVR4YXVnYmFHa1VMdWx5bzJmdXAwa0ZkaEVGRUlCV3hDQkw3RWVHenJlN2JDY2s0QVNiRV9DT0lkNWl6U1FQeVdNZFktc1hmSElMVDhxNXdsS3lscjVLQ1RhZUJkRW41RXFpSXNZ0gHTAUFVX3lxTFAxS0h0MTllWWpKSE5nQkI1cVNMc0dJQ2V3cVhzTVF0ZGlOQnZTVkgzbEExWUZFTXR4MUt4elAyZEstT3RTYUtQYzdRRFhIMXprMHkzRGptdnhJdE5IVHo3U1NRTFN6aUZlWjYtUGFtVHhhdWdiYUdrVUx1bHlvMmZ1cDBrRmRoRUZFSUJXeENCTDdFZUd6cmU3YkNjazRBU2JFX0NPSWQ1aXpTUVB5V01kWS1zWGZISUxUOHE1d2xLeWxyNUtDVGFlQmRFbjVFcWlJc1k?oc=5) |
+| 2026-09-29 | SiMa.AI Raises $150 Mn To Scale Physical AI Platform - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5) |
 | 2026-09-29 | AMD Buys Its Way Into Physical AI With World Labs Deal - TradingView | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxONjRXRTFWeXNmQTBrYTdEbzZZTVd0V2ZlS2pITkN2cW5wN3hYcUpESTdhd1F2Qy16UmdHYWFvZW9xVTlNUjdselRobmtoaUxGbDFJcGZadm1PX0hvWHJtUDNOTVRMakE5VHh4cERLZlNrS2d6S3pjWU45UFM1ekRUS0VQbWJsN01saHo0bzAxalpMa25Tc2hER192bVdXNl9nTTYzU0lISFhqVWVLaXNVYVBCOVA?oc=5) |
-| 2026-09-29 | Physical AI startup SiMa.ai raises $150M in Series C - YourStory.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDFQaGFzMjQxbElBd05raGFfNkhpR3JQRlNub2RoWXJLc1NabXZQMjJYUE8tUFVVd1JsQzNFdmVWcDd1YmJvc08zZ192M1d1ZlBfLWFwQlEtdEdRMjRTXy1xWHFmLTU3RFo0d1V6THZIbExIOENkWC1pYnJXRzNZNVVLYXBNdXJtSzROSw?oc=5) |
+| 2026-09-29 | China has three new criteria for humanoid robot IPOs. Few, if any, meet them - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE9YNmFTWUNibEJ2X3pqRkRKYlR0ZEdxX2FGUVFvZEdtWmZmaENWeHVGYlE2Sm9sRk9JbVY3OVRNbDM1akhsTU5aZU1Hdl9KeUM4a21sLVluX1ozOVFzc0M4YTdvd1lOYVhieDNMQVE1TFZncUZ0b0FTdW9zNNIBgAFBVV95cUxNSGdndTNLd0M0U1hDbXFwSGFBR2pDNkhIcno4MUN3OFBaUllucjVMQ29fZVVJdUp6bEJrUTRwX3NubTZCOGVpWEttajNCT0M1NkVjSmp1SDh4ZkkwWXVzY2FRcGtVcXJyTjVPbWF1c00zaWxQZW5rLXdyMEk5ekg2Ng?oc=5) |
 | 2026-09-29 | 36Kr Exclusive | Former Huawei Noah's Ark Lab Generative Large Models Head Launches Home Embodied Intelligence Startup, Secures Over 1 Billion Yuan Funding in One Year - eu.36kr.com | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hWHM0ckhIXzdnLWFrLU5TQkxNUDJJZ05BdE5xeWRoWV91Nkc1NHl6aDFHZmZmSzNqSWxrdGVPa2taUmtMOHBmZ1kydUNvU1ZVY0lR?oc=5) |
 | 2026-09-29 | China's embodied AI robots move from training rooms to real-world jobs - The Business Standard | embodied ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWtuWlNNVjh2OUcwdnNKaFMzU1JfWnp0UldTNEhKVTN4eXFIdW9JQTdPem5OSXNERUJEbFJkNFdKU1MtSFMwWDJkcy1DdHl4QnVqend0S1FPWDhsdFlhb3NldVBQV0FDNTRHc05qVUhRYlZ1RUVpamNqOHZSTXktcjJ0bDkxTGRKd3pzbmlQMlo0cnh0QXRIOF9SMmIzVlk?oc=5) |
 | 2026-09-29 | This $3,555 Humanoid Robot Learns New Chores in 30 Minutes, Startup Says - CNET | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1dxWTI5dHZRZWd4ZlVDbERuTXRwRzVtZ0U2dUNhUk84T1g1Y2RSOWZNaGRkcTFJY1E5Y1NCSWNMbFBEMm9RcWJ5MjBBdWN3U0h1YTUwQUx3LWt2OGh0QjRwWFhBTzlnNVdXQVFsZzdJaFRhMXUtdTVjWGdjOEVKN2NTRTZ5enFoWXhVUlhIdFFKcUJqUUFYMzQ5a1BDWU96Yll0aEFZTkVNdw?oc=5) |
