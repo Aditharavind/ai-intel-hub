@@ -1,11 +1,11 @@
 [
   {
-    "model": "RobotisSW/Groot-n17-PaperTowelRoll-Tasks730-732-733-RightArmOnly",
+    "model": "pollen-robotics/microduck-got-a-talent-reference",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Groot-n17-PaperTowelRoll-Tasks730-732-733-RightArmOnly",
+    "url": "https://huggingface.co/pollen-robotics/microduck-got-a-talent-reference",
     "date": "2026-10-01",
-    "keyword": "robot",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -16,6 +16,15 @@
     "date": "2026-10-01",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "RobotisSW/Groot-n17-PaperTowelRoll-Tasks730-732-733-RightArmOnly",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Groot-n17-PaperTowelRoll-Tasks730-732-733-RightArmOnly",
+    "date": "2026-10-01",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "pollen-robotics/microduck-sprint-2m-reference",
@@ -90,15 +99,6 @@
     "score": 3.7
   },
   {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "vladlinv/PP-OCRv6_tiny_rec_ru",
     "downloads": 0,
     "likes": 0,
@@ -123,6 +123,24 @@
     "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru",
     "date": "2026-10-01",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
+    "date": "2026-10-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_24.09.2026_200eps_policy_SmolVLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_policy_SmolVLA",
+    "date": "2026-10-01",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -279,15 +297,6 @@
     "score": 3.7
   },
   {
-    "model": "Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
-    "downloads": 356,
-    "likes": 1,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
-    "date": "2026-09-30",
-    "keyword": "robot",
-    "score": 107.1
-  },
-  {
     "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
@@ -313,15 +322,6 @@
     "date": "2026-09-30",
     "keyword": "vla",
     "score": 7.0
-  },
-  {
-    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r8-bf16-v1.1-s7-step10000-micro16",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r8-bf16-v1.1-s7-step10000-micro16",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 8.5
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
@@ -405,15 +405,6 @@
     "score": 4.6
   },
   {
-    "model": "jogarulfop/policy_2026-09-30_shake_it_up_on_cart_10kHz_nfft512",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/jogarulfop/policy_2026-09-30_shake_it_up_on_cart_10kHz_nfft512",
-    "date": "2026-09-30",
-    "keyword": "policy",
-    "score": 4.6
-  },
-  {
     "model": "arifgunawan/reading-robotics-vision-language",
     "downloads": 8,
     "likes": 0,
@@ -475,15 +466,6 @@
     "date": "2026-09-29",
     "keyword": "navigation",
     "score": 0.1
-  },
-  {
-    "model": "qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/qualia-robotics/smolvla-fm-tape-v1-1a7bc2b3",
-    "date": "2026-09-29",
-    "keyword": "robotics",
-    "score": 5.2
   },
   {
     "model": "lucyjohnson/embodied-ai",

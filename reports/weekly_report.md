@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-01 14:51 UTC
+Generated: 2026-10-01 19:56 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-01 14:51 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83595 | 33438.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63787 | 25514.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83597 | 33438.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63788 | 25515.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44626 | 17850.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30614 | 12245.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28775 | 11510.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30615 | 12246.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28780 | 11512.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot | 524 | 157.3 | [link](https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot) |
-| Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp | 356 | 107.1 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 225 | 67.8 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
 | mljn/policy-vs-other-v2 | 124 | 37.3 | [link](https://huggingface.co/mljn/policy-vs-other-v2) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 91 | 27.4 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 87 | 26.6 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
