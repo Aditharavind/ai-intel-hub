@@ -1,14 +1,5 @@
 [
   {
-    "model": "pollen-robotics/microduck-got-a-talent-reference",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/microduck-got-a-talent-reference",
-    "date": "2026-10-01",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "harrywang01/real-robot-checkpoints",
     "downloads": 0,
     "likes": 1,
@@ -16,6 +7,15 @@
     "date": "2026-10-01",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "pollen-robotics/microduck-got-a-talent-reference",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/microduck-got-a-talent-reference",
+    "date": "2026-10-01",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "RobotisSW/Groot-n17-PaperTowelRoll-Tasks730-732-733-RightArmOnly",
@@ -99,6 +99,24 @@
     "score": 3.7
   },
   {
+    "model": "VR-VLA/VR-gr1-xfer-proprio-delta-d300-adarms-lr1e4-bs64-100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VR-VLA/VR-gr1-xfer-proprio-delta-d300-adarms-lr1e4-bs64-100k",
+    "date": "2026-10-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
+    "date": "2026-10-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "vladlinv/PP-OCRv6_tiny_rec_ru",
     "downloads": 0,
     "likes": 0,
@@ -121,15 +139,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
     "date": "2026-10-01",
     "keyword": "vla",
     "score": 0.1
@@ -225,6 +234,15 @@
     "score": 1.0
   },
   {
+    "model": "karrlleereal/omx_act_policy_3_item",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/karrlleereal/omx_act_policy_3_item",
+    "date": "2026-10-01",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ilgyu26/orange_stressball_policy",
     "downloads": 45,
     "likes": 0,
@@ -315,15 +333,6 @@
     "score": 4.9
   },
   {
-    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r16-bf16-v1.1-s7-step10000-micro16",
-    "downloads": 23,
-    "likes": 0,
-    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r16-bf16-v1.1-s7-step10000-micro16",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 7.0
-  },
-  {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
     "downloads": 37,
     "likes": 0,
@@ -394,15 +403,6 @@
     "date": "2026-09-30",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "emmanuel-v/policy_2026-09-30_shake_it_up_on_cart_100kHz_nfft4096",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/emmanuel-v/policy_2026-09-30_shake_it_up_on_cart_100kHz_nfft4096",
-    "date": "2026-09-30",
-    "keyword": "policy",
-    "score": 4.6
   },
   {
     "model": "arifgunawan/reading-robotics-vision-language",
