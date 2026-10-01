@@ -1,27 +1,33 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-01 07:53 UTC
+Generated: 2026-10-01 14:51 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-09-30 | Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model | [link](https://arxiv.org/pdf/2609.40358v1) |
+| 2026-09-30 | AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents | [link](https://arxiv.org/pdf/2609.40353v1) |
+| 2026-09-30 | Image Classifiers are Efficient Self-Supervised Video Representation Learners | [link](https://arxiv.org/pdf/2609.40347v1) |
+| 2026-09-30 | Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning? | [link](https://arxiv.org/pdf/2609.40341v1) |
+| 2026-09-30 | WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents | [link](https://arxiv.org/pdf/2609.40325v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83592 | 33436.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63786 | 25514.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44624 | 17849.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30617 | 12246.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28764 | 11505.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83595 | 33438.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63787 | 25514.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44626 | 17850.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30614 | 12245.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28775 | 11510.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot | 499 | 149.8 | [link](https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot) |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 220 | 66.3 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| ujheo/my_policy | 125 | 37.6 | [link](https://huggingface.co/ujheo/my_policy) |
+| Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot | 524 | 157.3 | [link](https://huggingface.co/Chaenn/act_policy_so101_multitask_newsim_pick_place_stack_onehot) |
+| Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp | 356 | 107.1 | [link](https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 225 | 67.8 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
+| mljn/policy-vs-other-v2 | 124 | 37.3 | [link](https://huggingface.co/mljn/policy-vs-other-v2) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 91 | 27.4 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
-| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 84 | 25.7 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -35,7 +41,7 @@ _No items collected yet._
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-10-01 | Int and LG CNS Partner to Foster Physical AI Talent - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTJiWGVDbFByUkJQTi1nZ0JqZVZoQkhLUzF4Nzk1Y2RRVjFjbFVRSmlwa1VKeHhHQTN1U0FrWk1wRlBaVDhpbW9FWTEtbTFpVE5xTVJZRWRkeXVsVnFUendjZkdZbWhsMkxKbHU4TWlXWGVqYVVYMEh5ZWdzX3BtdGwxallaTmJw?oc=5) |
+| 2026-10-01 | Int. and LG CNS Partner on Physical AI - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTJiWGVDbFByUkJQTi1nZ0JqZVZoQkhLUzF4Nzk1Y2RRVjFjbFVRSmlwa1VKeHhHQTN1U0FrWk1wRlBaVDhpbW9FWTEtbTFpVE5xTVJZRWRkeXVsVnFUendjZkdZbWhsMkxKbHU4TWlXWGVqYVVYMEh5ZWdzX3BtdGwxallaTmJw?oc=5) |
 | 2026-10-01 | Humanoid robots take shape based on occupational needs - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3kta1p0RzVNT2Y0OWZObXBveGlTMThHNUc0MWdDMTF2a19hYzI3Vi01MFk5RHpiSVN0UGoxN3k4TndyaTZTOFpyb1ZWZFBwaWJpVGZudk1iYW5QMTdlZk9EQnEtOGFua1RnRXVFNDdhbDh3bEkwSzIwb3dtNmxfdXpJMmwzQjFo?oc=5) |
 | 2026-09-30 | Robotics startup takes massive sublease from Airbnb as physical AI race picks up steam - The Real Deal | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlVc0M2SFh5SW5tNzVMTWpoRWNmc182X2ZGSmYtVUtXX1lYSTVKWmxhYjRzZk1hdE15czYzNVFSUTdRZkhHd2pOX1pud0VHb3F1ZFN6MHZlUkZ4VTE1c1hjdE5MZ1NJdFdCQjk5Wm9OdnlPUzJ6OGxvNzJ1aFp3VjFKQWpSN2pTT1lsV3RlZXVrQ3BGMG9ILUsydUxjYTRZVUNMNDhMUnNsdWRp?oc=5) |
 | 2026-09-29 | Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |

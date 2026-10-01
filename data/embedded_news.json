@@ -1,5 +1,26 @@
 [
   {
+    "title": "Vacuum Drying and Making Stuff Hot in a Vacuum",
+    "source": "Hackaday",
+    "date": "2026-10-01",
+    "url": "https://hackaday.com/2026/10/01/vacuum-drying-and-making-stuff-hot-in-a-vacuum/",
+    "summary": "<div><img alt=\"Two diaphragm vacuum pump setups with high-tech jam jar vacuum vessel. (Credit: Maya Posch)\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/02/vacuum_drying_diaphragm_pump_configurations_maya_posch.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After previously exploring the impact of vapor pressure on the drying of desiccant and more, the conclusion was essentially that in order to drive moisture that&#8217;s not directly on a <a class=\"read-more\" href=\"https://hackaday.com/2026/10/01/vacuum-drying-and-making-stuff-hot-in-a-vacuum/\">&#8230;read more</a>"
+  },
+  {
+    "title": "The Whole Computer Is Vim",
+    "source": "Hackaday",
+    "date": "2026-10-01",
+    "url": "https://hackaday.com/2026/10/01/the-whole-computer-is-vim/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/esp-vim-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Love it or hate it, Vim, the vi-compatible minimalist editor, is a common denominator between a huge array of operating systems. If you need to edit a file, it&#8217;s usually <a class=\"read-more\" href=\"https://hackaday.com/2026/10/01/the-whole-computer-is-vim/\">&#8230;read more</a>"
+  },
+  {
+    "title": "SDR– Lets You Patch Together Your Setup",
+    "source": "Hackaday",
+    "date": "2026-10-01",
+    "url": "https://hackaday.com/2026/10/01/sdr-lets-you-patch-together-your-setup/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-10-01-101123-e1790813515650.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It is often helpful to think of a radio as a series of interconnected functional blocks—hence the use of block diagrams to convey how a given radio operates. [Julian Haag] <a class=\"read-more\" href=\"https://hackaday.com/2026/10/01/sdr-lets-you-patch-together-your-setup/\">&#8230;read more</a>"
+  },
+  {
     "title": "DIY Game Console Does It With Optical Disks",
     "source": "Hackaday",
     "date": "2026-10-01",
@@ -14,6 +35,13 @@
     "summary": "<div><img alt=\"Quantum computer\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2021/10/QuantumComputing.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Despite all the glamorous promises made about quantum computing, it&#8217;s hard to make the argument that today&#8217;s quantum computers hold a candle to the sheer practicality of classical computers, especially <a class=\"read-more\" href=\"https://hackaday.com/2026/09/30/will-superconducting-transistors-help-quantum-computers/\">&#8230;read more</a>"
   },
   {
+    "title": "LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner",
+    "source": "CNX Software",
+    "date": "2026-10-01",
+    "url": "https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/",
+    "summary": "<div><img alt=\"LilyGO T Display P4 running LakeShark open source firmware\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/LilyGO-T-Display-P4-running-LakeShark-open-source-firmware-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>LakeShark is open-source firmware by Samuel Reynolds (SAMS0N1TE) that turns the ESP32-P4-based LilyGO T-Display P4 into a handheld SDR scanner. Paired with an RTL-SDR Blog V3 or V4 dongle, it supports P25 Phase I trunking, analog FM/AM, POCSAG pager decoding, and 1090 MHz ADS-B reception directly on the ESP32-P4, without a PC, Raspberry Pi, or smartphone. It also includes an onboard SX1262 that supports LoRa and MeshCore applications. SDR devices like LimeSDR Micro, xSDR, UUGear’s VU GPSDR, and many others usually rely on a PC, Raspberry Pi, or smartphone for processing, but LakeShark shows that a powerful microcontroller can also handle many SDR tasks. We previously covered the LilyGO T-Display P4 in March 2026, and LakeShark makes good use of its built-in hardware, including the SX1262 for LoRa and MeshCore applications, L76K GPS receiver for location tracking and offline maps, and ESP32-C6 for Wi-Fi and Bluetooth connectivity. LakeShark hardware requirements: Primary [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/\">LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks",
     "source": "CNX Software",
     "date": "2026-10-01",
@@ -21,11 +49,32 @@
     "summary": "<div><img alt=\"Raspberry Pi Smart Display Module\" class=\"attachment-medium size-medium wp-post-image\" height=\"478\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Raspberry-Pi-Smart-Display-Module-720x478.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Raspberry Pi Smart Display Module is a CM5 carrier board compatible with the Intel Smart Display Module (SDM) specification, more specifically the SDM-L form factor (as opposed to the smaller SDM-S option). The Intel SDM standard has been around for years, and we first wrote it in 2018, covering the Axiomtek SDM300s (SDM-S) module. These cards are designed to be plugged into compatible digital signage displays, kiosks, point-of-sale systems, and so on. They feature a standard 98-pin PCIe edge connector with USB 3.0, HDMI 1.4/2.0, I2C/UART/SPI signalling, as well as Ethernet, HDMI, USB ports, and an M.2 expansion socket. Raspberry Pi Smart Display Module specifications: Compatible with Raspberry Pi Compute Module 5 Video Output &#8211; Full-size HDMI 2.0 port Camera &#8211; 22-way MIPI DSI/CSI-2 connector (internal) Networking Gigabit Ethernet RJ45 port WiFi 5 and Bluetooth 5.2 (on CM5) with U.FL antenna USB USB 3.0 Type-A port USB 2.0 Type-C port for programming [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/01/30-raspberry-pi-smart-display-module-for-cm5-targets-digital-signage-displays-and-kiosks/\">$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Fable: The Invention Which Took Time",
+    "source": "Electronics Weekly",
+    "date": "2026-10-01",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-invention-which-took-time-2026-10/",
+    "summary": "<p>There was once a man who was determined  to harness the electrons created by the Edison Effect to perform as a signal detector. After 15 years of experimentation he achieved [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-invention-which-took-time-2026-10/\">Fable: The Invention Which Took Time</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Nanosecond-level precision laser pulse control for lidar and ToF systems",
+    "source": "Electronics Weekly",
+    "date": "2026-10-01",
+    "url": "https://www.electronicsweekly.com/news/business/nanosecond-level-precision-laser-pulse-control-for-lidar-and-tof-systems-2026-10/",
+    "summary": "<p>Lidar and time-offlight (ToF) systems depend on fast, stable and repeatable laser pulses, write Laephar Castro and Anant Sinha. The growing adoption of autonomous vehicles, industrial automation and advanced robotics [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nanosecond-level-precision-laser-pulse-control-for-lidar-and-tof-systems-2026-10/\">Nanosecond-level precision laser pulse control for lidar and ToF systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "ESA, Mistral sign agreement to explore space AI",
+    "source": "Electronics Weekly",
+    "date": "2026-10-01",
+    "url": "https://www.electronicsweekly.com/news/business/esa-mistral-sign-agreement-to-explore-space-ai-2026-10/",
+    "summary": "<p>The European Space Agency (ESA) and Mistral will be working together to increase role of AI in space. Mistral AI is a French artificial intelligence company with a current company [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/esa-mistral-sign-agreement-to-explore-space-ai-2026-10/\">ESA, Mistral sign agreement to explore space AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "IPO market gets choppy",
     "source": "Electronics Weekly",
     "date": "2026-10-01",
     "url": "https://www.electronicsweekly.com/news/business/ipo-market-gets-choppy-2026-10/",
-    "summary": "<p>Earlier this week the smart ring company Oura  pulled a $15 billion IPO the day before it was due to list  citing &#8220;uncertainty in the IPO market&#8221;. Oura had intended [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ipo-market-gets-choppy-2026-10/\">IPO market gets choppy</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Earlier this week the smart ring company Oura pulled a $15 billion IPO the day before it was due to list  citing &#8220;uncertainty in the IPO market&#8221;. Oura had intended [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ipo-market-gets-choppy-2026-10/\">IPO market gets choppy</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "FTC to accelerate investigation into Anthropic and OpenAI",
@@ -39,21 +88,28 @@
     "source": "Electronics Weekly",
     "date": "2026-10-01",
     "url": "https://www.electronicsweekly.com/news/business/micron-has-54bn-revenue-quarter-2026-10/",
-    "summary": "<p>Micron had revenue of $54.23 billion for calendar Q3 (Micron’s fiscal Q4) versus $41.46 billion for the prior quarter and $11.32 billion for the same period last year Net profit [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-has-54bn-revenue-quarter-2026-10/\">Micron has $54bn revenue quarter</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Micron had revenue of $54.23 billion for calendar Q3 (Micron’s fiscal Q4) versus $41.46 billion for the prior quarter and $11.32 billion for the same period last year. Net profit [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/micron-has-54bn-revenue-quarter-2026-10/\">Micron has $54bn revenue quarter</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "SBC and controller deliver inference, vision, navigation, control and connectivity for robots.",
+    "title": "Iceye, Nokia partner for sovereign LEO satellite comms",
+    "source": "Electronics Weekly",
+    "date": "2026-10-01",
+    "url": "https://www.electronicsweekly.com/news/business/iceye-nokia-partner-for-sovereign-leo-satellite-comms-2026-10/",
+    "summary": "<p>Iceye, the specialist in satellite-based SAR imagery, is partnering with Nokia to develop secure, high-performance broadband low Earth orbit (LEO) satellite communications systems for governments. Sovereign is the keyword, according [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/iceye-nokia-partner-for-sovereign-leo-satellite-comms-2026-10/\">Iceye, Nokia partner for sovereign LEO satellite comms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "SBC and controller deliver inference, vision, navigation, control and connectivity for robots",
     "source": "Electronics Weekly",
     "date": "2026-10-01",
     "url": "https://www.electronicsweekly.com/news/business/platforms-deliver-inference-vision-navigation-control-and-connectivity-for-robots-2026-10/",
-    "summary": "<p>Advantech has introduced the ASR-A503 robot controller single-board computer and AFE-A503 industrial robot controller, both powered by the Qualcomm Dragonwing  IQ-9075M processor. The two platforms provide unified architecture for AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/platforms-deliver-inference-vision-navigation-control-and-connectivity-for-robots-2026-10/\">SBC and controller deliver inference, vision, navigation, control and connectivity for robots.</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Advantech has introduced the ASR-A503 robot controller single-board computer and AFE-A503 industrial robot controller, both powered by the Qualcomm Dragonwing IQ-9075M processor. The two platforms provide unified architecture for AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/platforms-deliver-inference-vision-navigation-control-and-connectivity-for-robots-2026-10/\">SBC and controller deliver inference, vision, navigation, control and connectivity for robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Murata in production of world’s smallest 3-terminal ESL MLCC",
     "source": "Electronics Weekly",
     "date": "2026-10-01",
     "url": "https://www.electronicsweekly.com/news/business/murata-in-production-of-worlds-smallest-3-terminal-esl-mlcc-2026-10/",
-    "summary": "<p>Murata has begun mass production of the LLD series, claimed to be the world’s smallest three-terminal low-equivalent series inductance (ESL) MLCC.. Measuring  0201-inch size (0.6 × 0.3 mm), the new [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/murata-in-production-of-worlds-smallest-3-terminal-esl-mlcc-2026-10/\">Murata in production of world’s smallest 3-terminal ESL MLCC</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Murata has begun mass production of the LLD series, claimed to be the world’s smallest three-terminal low-equivalent series inductance (ESL) MLCC. Measuring  0201-inch size (0.6 × 0.3 mm), the new [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/murata-in-production-of-worlds-smallest-3-terminal-esl-mlcc-2026-10/\">Murata in production of world’s smallest 3-terminal ESL MLCC</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "China Pulling Ahead In AI",
@@ -61,6 +117,48 @@
     "date": "2026-10-01",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/china-pulling-ahead-in-ai-2026-10/",
     "summary": "<p>A year ago, China made its first apperance in the top 10 of the Global Innovation Index, an annual report released by the World Intellectual Property Organisation. China has managed [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/china-pulling-ahead-in-ai-2026-10/\">China Pulling Ahead In AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Solder Fume Extractor – Magnetic Cover Rechargeable #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-01",
+    "url": "https://blog.adafruit.com/2026/10/01/solder-fume-extractor-magnetic-cover-rechargeable-3dthursday-3dprinting/",
+    "summary": "Vinark shares: A rechargeable, modular solder fume extractor designed for makers with less-advanced electronics skills. Slim 80×15mm PC fan (ARCTIC P8 Slim PWM PST), 18650 rechargeable battery cell, TP4056 charging/protection module, MT3608 step-up converter, on/off switch. Screwless design using 16× 6×3mm round magnets — easily swappable front grille and replaceable filter sponge. Includes 3 print [&#8230;]"
+  },
+  {
+    "title": "🛸Stand By As We Beam Into Another #ElectronicHalloween!",
+    "source": "Adafruit",
+    "date": "2026-10-01",
+    "url": "https://blog.adafruit.com/2026/10/01/%f0%9f%9b%b8stand-by-as-we-beam-into-another-electronichalloween/",
+    "summary": "The truth is right here and, something is watching&#8230; with Otherworldly Eyes. So be prepared when they land: try misdirecting mirrors or even ray gun blasters, because candy may not satiate the Xenomorph buckets. And remember, #ElectronicHalloween only visits once a year! &#160; All October we&#8217;ll doing the Monster Mask because it&#8217;s time for another [&#8230;]"
+  },
+  {
+    "title": "LED Halloween Horror Clown Candy Bowl #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-01",
+    "url": "https://blog.adafruit.com/2026/10/01/led-halloween-horror-clown-candy-bowl-3dthursday-3dprinting/",
+    "summary": "DIYWizard shares: A skull of a horror clown that can be used as a small candy bowl. Works great with a lamp under it for glowing effect, or painted for full detail. Hollow with relatively thin walls (tree supports needed). Designer notes: inner supports can be left in without affecting function. Painted white PLA. NOTE: [&#8230;]"
+  },
+  {
+    "title": "Universal Power Tool Holder – Modular Under-Shelf Mount for 40mm Handles #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-01",
+    "url": "https://blog.adafruit.com/2026/10/01/universal-power-tool-holder-modular-under-shelf-mount-for-40mm-handles-3dthursday-3dprinting/",
+    "summary": "igaldos10 shares: A simple modular holder to keep power tools organized, easy to grab, and off the bench. Sized for tools with ~40mm handles (42mm opening) — secure fit with room for the battery. Built-in side slot lets you line up multiple holders next to each other for even spacing. Works under shelves, cabinets, workbenches, [&#8230;]"
+  },
+  {
+    "title": "Halloween Mini Skull #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-01",
+    "url": "https://blog.adafruit.com/2026/10/01/halloween-mini-skull-3dthursday-3dprinting/",
+    "summary": "kaixims shares: A collection of very small skulls, each with a different expression. Prints well with silk-like PLA, or colored PETG/PLA with acrylic marker detail. Designer suggests mixing 2-3 plates with Halloween candies as decorations or party favors. Small, print-fast, and mass-producible for classroom rewards or trick-or-treat handouts download the files on: https://makerworld.com/en/models/633310 Every Thursday [&#8230;]"
+  },
+  {
+    "title": "Heltec LoRa 32 Case for Meshtastic #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-01",
+    "url": "https://blog.adafruit.com/2026/10/01/heltec-lora-32-case-for-meshtastic-3dthursday-3dprinting/",
+    "summary": "TonyG shares: A case for the Heltec LoRa 32 boards, designed with the Meshtastic project in mind. Modified frame model updated for the Heltec v3 board (still fits the previous v2.1). Seven files required for a complete case plus socket head cap screws and a micro push button. Multiple v7 Front versions: no-screen variant (for [&#8230;]"
   },
   {
     "title": "Soldering Tool Stand V2 – PCB Work + Spool Holder + Component Bins #3DThursday #3DPrinting",
@@ -91,6 +189,27 @@
     "summary": "Alex_B_4854992 shares: The original case design that started it all for the Heltec V4 LoRa board. Rugged form factor with room for 2× 18650 cells and integrated 1S 9A BMS. Assembly: 6× M3 heat-set inserts, 1× 2.9mm light pipe, 10× M3×6 hex socket head screws, 2× M3×10 countersunk screws, 1× slide switch. Print front and [&#8230;]"
   },
   {
+    "title": "sensiBel’s 32 MEMS Microphone Array Development Kit Accelerates Edge AI Acoustic Detection",
+    "source": "EE Journal",
+    "date": "2026-10-01",
+    "url": "https://www.eejournal.com/industry_news/sensibels-32-mems-microphone-array-development-kit-accelerates-edge-ai-acoustic-detection/",
+    "summary": "sensiBel, the leader in optical MEMS sensing, today launched NOVA32™, a complete acoustic-detection hardware kit that speeds the design to deployment of high-precision physical AI sensor solutions used in beamforming applications, such as drone detection, industrial predictive maintenance, and environmental noise mapping. NOVA32 is a plug-and-play hardware kit that aggregates 32 high-performance optical MEMS microphones &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/sensibels-32-mems-microphone-array-development-kit-accelerates-edge-ai-acoustic-detection/\">Read More &#8594;<span class=\"screen-reader-text\"> \"sensiBel’s 32 MEMS Microphone Array Development Kit Accelerates Edge AI Acoustic Detection\"</span></a>"
+  },
+  {
+    "title": "Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers",
+    "source": "EE Journal",
+    "date": "2026-10-01",
+    "url": "https://www.eejournal.com/industry_news/gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers/",
+    "summary": "Gigaphoton Inc. (Head Office: Oyama, Tochigi; President and CEO: Tatsuo Enami), a manufacturer of lightsources for semiconductor lithography, announced that it developed hTGM for ArF, the on-site neon gas recycling system for ArF excimer lasers. ArF lithography plays a critical role in the mass production of advanced semiconductors. Stable laser operation and the effective use &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers\"</span></a>"
+  },
+  {
+    "title": "Harnessing AI (and Humans)",
+    "source": "EE Journal",
+    "date": "2026-10-01",
+    "url": "https://www.eejournal.com/article/harnessing-ai-and-humans/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0523-image-for-home-page-innostax-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I don’t know about you, but I’m starting to feel like I need to run twice as fast just to keep up with everything that’s happening in AI space (where no one can hear you scream). No sooner do I wrap my brain around one concept than someone ambles into my life and introduces me &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/harnessing-ai-and-humans/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Harnessing AI (and Humans)\"</span></a>"
+  },
+  {
     "title": "Pogo-Bot Goes All Terrain With Compliant Foot",
     "source": "Hackaday",
     "date": "2026-09-30",
@@ -103,27 +222,6 @@
     "date": "2026-09-30",
     "url": "https://hackaday.com/2026/09/30/open-source-tricorder-is-in-it-for-the-science/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/OSS_cyberdeck_main_body_and_back_cover.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;re reading Hackaday there&#8217;s pretty good odds you&#8217;re at least somewhat fond of Star Trek. We&#8217;d bet good money most of you would quit your jobs today if a Starfleet <a class=\"read-more\" href=\"https://hackaday.com/2026/09/30/open-source-tricorder-is-in-it-for-the-science/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Apple Finally Made AirPods Repairable… Sort Of",
-    "source": "Hackaday",
-    "date": "2026-09-30",
-    "url": "https://hackaday.com/2026/09/30/apple-finally-made-airpods-repairable-sort-of/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"413\" src=\"https://hackaday.com/wp-content/uploads/2026/09/airpods_5_disassembly_ifixit_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s been true for a while now that Apple&#8217;s AirPods have been effectively disposable, with [iFixit] slapping each successive generation with an abysmal 0/10 repairability score. The moment that any <a class=\"read-more\" href=\"https://hackaday.com/2026/09/30/apple-finally-made-airpods-repairable-sort-of/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Assembling and Testing a DIY Jet Turbine",
-    "source": "Hackaday",
-    "date": "2026-09-30",
-    "url": "https://hackaday.com/2026/09/30/assembling-and-testing-a-diy-jet-turbine/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"429\" src=\"https://hackaday.com/wp-content/uploads/2026/09/diy_jet_turbine_parts_alfmart_cnc_garage_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After many months of painstaking work, [AlfMart CNC Garage] over at YouTube has finally reached the stage where he can fully assemble his DIY jet turbine and commence testing. Even <a class=\"read-more\" href=\"https://hackaday.com/2026/09/30/assembling-and-testing-a-diy-jet-turbine/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Roman Telescope Saves Fuel, Doubles Mission",
-    "source": "Hackaday",
-    "date": "2026-09-30",
-    "url": "https://hackaday.com/2026/09/30/roman-telescope-saves-fuel-doubles-mission/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/09/RomanTelescope.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Contemplate the events that might end a space mission, and you might picture something dramatic: detonation on the pad, a dead guidance system, or micrometeoroids shattering delicate solar panels. More <a class=\"read-more\" href=\"https://hackaday.com/2026/09/30/roman-telescope-saves-fuel-doubles-mission/\">&#8230;read more</a>"
   },
   {
     "title": "OpenArm 2.0 – An open-source 7-DOF robot arm with QDD joints, bilateral force feedback, in-hand camera",
@@ -154,34 +252,6 @@
     "summary": "<p>The device rebooted and the evidence disappeared. Now what?</p>\n<p>The post <a href=\"https://www.embedded.com/eu-cyber-resilience-act-evidence-matters/\">EU Cyber Resilience Act: Evidence Matters</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Putting the boot into Electronics",
-    "source": "Electronics Weekly",
-    "date": "2026-09-30",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/putting-the-boot-into-electronics-2026-09/",
-    "summary": "<p>One of the most eye-catching stands at Microelectronics UK 2026 was that of Sievi, showing a wide selection of shoes, trainers and boots. What's the connection between shoes and semiconductors, I wondered!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/putting-the-boot-into-electronics-2026-09/\">Putting the boot into Electronics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Space Scotland joins SCO network for new Auld Alliance",
-    "source": "Electronics Weekly",
-    "date": "2026-09-30",
-    "url": "https://www.electronicsweekly.com/news/space-scotland-joins-sco-network-for-new-auld-alliance-2026-09/",
-    "summary": "<p>Space Scotland has become the latest member of the Space for Climate Observatory (SCO) network, which is led by the French space agency CNES (Centre National d&#8217;Études Spatiales). SCO combines [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/space-scotland-joins-sco-network-for-new-auld-alliance-2026-09/\">Space Scotland joins SCO network for new Auld Alliance</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "How Will AI Affect Journalism?",
-    "source": "Electronics Weekly",
-    "date": "2026-09-30",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/how-will-ai-affect-journalism-2026-09/",
-    "summary": "<p>Publishers are facing the challenge of finding the right balance between AI-enabled efficiency gains and cost savings and figuring out what sets human-made journalism apart from what machines can do. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/how-will-ai-affect-journalism-2026-09/\">How Will AI Affect Journalism?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TSMC looking to build six fabs in Texas",
-    "source": "Electronics Weekly",
-    "date": "2026-09-30",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-looking-to-build-six-fabs-in-texas-2026-09/",
-    "summary": "<p>TSMC is reported to be considering an investment in  Texas which could be bigger than its planned $265 billion investment in Arizona. The Texas investment is said to be for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-looking-to-build-six-fabs-in-texas-2026-09/\">TSMC looking to build six fabs in Texas</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "ESP-SDR uses undocumented raw I/Q capture of ESP32 to make software defined radios",
     "source": "Adafruit",
     "date": "2026-09-30",
@@ -196,46 +266,39 @@
     "summary": "oeadmin at Open Electronics covers a voice assistant project by jayesh_nawani that runs entirely on an ESP32. An I2S microphone picks up speech, the clip is packaged as a WAV file and sent to the OpenAI Whisper API for transcription. GPT writes a reply and the TTS audio streams back out through a MAX98357A amplifier [&#8230;]"
   },
   {
-    "title": "Meshtastic Hardware Buyer’s Guide: Solar Node vs Mesh Tracker — Which One Do You Need?",
-    "source": "Adafruit",
+    "title": "Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform",
+    "source": "EE Journal",
     "date": "2026-09-30",
-    "url": "https://blog.adafruit.com/2026/09/30/meshtastic-hardware-buyers-guide-solar-node-vs-mesh-tracker-which-one-do-you-need/",
-    "summary": "Clara at the Seeed Studio Blog has posted a buyer&#8217;s guide for people starting out with Meshtastic hardware. The question it answers is a common one: should you buy a solar node or a mesh tracker? The two serve different jobs. A solar node is meant to sit in one place and stay powered by [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/",
+    "summary": "Synopsys, Inc. (Nasdaq: SNPS) today announced Synopsys AgentEngineer™ solutions, the industry&#8217;s broadest portfolio of domain-specific long-horizon agents that can reason, plan, and execute complete engineering workflows from silicon to systems across verification, system validation, implementation, analog, manufacturing, and simulation and analysis domains. Built on the Synopsys Autopilot™ Platform, a comprehensive, open, and secure foundation for autonomous engineering, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform\"</span></a>"
   },
   {
-    "title": "A XIAO nRF54LM20A based Matter sensor",
-    "source": "Adafruit",
+    "title": "Gigaphoton Begins Evaluation of L300KZ Excimer Laser for Pulsed Laser Deposition  ﻿for Advanced Materials Applications",
+    "source": "EE Journal",
     "date": "2026-09-30",
-    "url": "https://blog.adafruit.com/2026/09/30/a-xiao-nrf54lm20a-based-matter-sensor/",
-    "summary": "Hannes (hannesb) posted a working Matter temperature sensor build on the Seeed Studio forum, running on the XIAO nRF54LM20A. He started from the nRF Connect SDK Matter temperature template, added a BME sensor for temperature and humidity readings, and took supply current measurements. The source code is up on GitHub. SDK 3.4.1 did not produce [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications/",
+    "summary": "Gigaphoton Inc. (Head Office: Oyama, Tochigi; President and CEO: Tatsuo Enami), a manufacturer of lightsources for leading-edge semiconductor fabrication processes, today announced that it has installed its L300KZ KrF excimer laser for pulsed laser deposition (PLD) at a domestic manufacturer of high-temperature superconducting wire on September 25, 2026. Developed under Goal 10 of Japan’s Moonshot &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Gigaphoton Begins Evaluation of L300KZ Excimer Laser for Pulsed Laser Deposition  ﻿for Advanced Materials Applications\"</span></a>"
   },
   {
-    "title": "Floppy Emu hardware failure analysis results",
-    "source": "Adafruit",
+    "title": "Innodisk Launches DDR5 8000 RDIMM for Edge AI and High-Performance Computing",
+    "source": "EE Journal",
     "date": "2026-09-30",
-    "url": "https://blog.adafruit.com/2026/09/30/floppy-emu-hardware-failure-analysis-results/",
-    "summary": "A good case study on printed circuit board rework: Steve at Big Mess o&#8217; Wires finally worked through a pile of 68 Floppy Emu boards that had failed QA testing or come back from customers. It took about a month. He sorted the boards by root cause and wrote up the tally. The largest group [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/innodisk-launches-ddr5-8000-rdimm-for-edge-ai-and-high-performance-computing/",
+    "summary": "Innodisk, a leading global AI solution provider, today announced the launch of its new industrial-grade DDR5 8000 RDIMM, expanding its DDR5 portfolio for compute-intensive applications such as edge AI and enterprise servers. Delivering industry-leading data transfer speeds of 8000 MT/s, 11.1% higher than the previous generation, the module addresses growing memory bandwidth requirements while enhancing &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/innodisk-launches-ddr5-8000-rdimm-for-edge-ai-and-high-performance-computing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Innodisk Launches DDR5 8000 RDIMM for Edge AI and High-Performance Computing\"</span></a>"
   },
   {
-    "title": "Human In Motion Robotics’ XoMotion Exoskeleton",
-    "source": "Adafruit",
+    "title": "Renesas Introduces Smallest Configurable GreenPAK IC with Multi-Time Programmability in Ultra-Compact WLCSP and STQFN Packages",
+    "source": "EE Journal",
     "date": "2026-09-30",
-    "url": "https://blog.adafruit.com/2026/09/30/human-in-motion-robotics-intelligent-innovation-in-human-motion/",
-    "summary": "Human in Motion Robotics, based in Vancouver, Canada, has built a self-balancing exoskeleton called XoMotion for people with lower extremity motor deficits. The company says it is the first device of its kind to mimic the physiological motion of the lower limb, and that its sensors and multi-modal controllers let a user stand and walk [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/renesas-introduces-smallest-configurable-greenpak-ic-with-multi-time-programmability-in-ultra-compact-wlcsp-and-stqfn-packages/",
+    "summary": "The industry&#8217;s smallest WLCSP-packaged GreenPAK device, featuring a 9-ball, 1.155 mm × 1.155 mm, with an STQFN option for additional I/O and package flexibility. Multi-time programmable and target I²C enable in-system bug fixes, updates and configuration changes after deployment Full 1.71 V to 5.5 V operating and configurable range supports versatile, low-cost sensing, control and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/renesas-introduces-smallest-configurable-greenpak-ic-with-multi-time-programmability-in-ultra-compact-wlcsp-and-stqfn-packages/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Renesas Introduces Smallest Configurable GreenPAK IC with Multi-Time Programmability in Ultra-Compact WLCSP and STQFN Packages\"</span></a>"
   },
   {
-    "title": "Determining diamond’s properties under extreme pressures",
-    "source": "Adafruit",
+    "title": "ZincFive Expands Nickel-Zinc Technology into In-Rack Backup and AI Dynamic Power Solutions",
+    "source": "EE Journal",
     "date": "2026-09-30",
-    "url": "https://blog.adafruit.com/2026/09/30/determining-diamonds-properties-under-extreme-pressures/",
-    "summary": "Researchers at Lawrence Livermore National Laboratory (LLNL) have measured how diamond melts at pressures three times those at the Earth&#8217;s core, in a study published in Nature Physics. The experiments were run at the University of Rochester Omega Laser Facility, where a laser vaporized the outer layer of a tiny sample and drove a shockwave [&#8230;]"
-  },
-  {
-    "title": "The bizarre, murky history of Soviet-born Tetris…",
-    "source": "Adafruit",
-    "date": "2026-09-30",
-    "url": "https://blog.adafruit.com/2026/09/30/the-bizarre-murky-history-of-soviet-born-tetris/",
-    "summary": "Jason Kottke pointed readers on kottke.org to a piece on the tangled origin story of Tetris, the puzzle game written in the Soviet Union in the 1980s. The quote he pulls out gets at the odd legal situation behind the game: &#8220;Ironically, Tetris&#8217;s success began because the totalitarian Soviet regime did not recognize what we [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/zincfive-expands-nickel-zinc-technology-into-in-rack-backup-and-ai-dynamic-power-solutions/",
+    "summary": "ZincFive®, the leader in nickel-zinc (NiZn) battery-based solutions for immediate power applications, today announced its expansion into in-rack energy storage with the development of Battery Backup Unit (BBU) and AI Dynamic Power Module (DPM) solutions designed to address the evolving energy storage requirements of AI data centers. As AI drives higher rack power densities and increasingly &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/zincfive-expands-nickel-zinc-technology-into-in-rack-backup-and-ai-dynamic-power-solutions/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ZincFive Expands Nickel-Zinc Technology into In-Rack Backup and AI Dynamic Power Solutions\"</span></a>"
   },
   {
     "title": "NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports",
@@ -280,34 +343,6 @@
     "summary": "Powell Electronics, the supplier of connectors and more for high-rel applications including defence, aerospace and industrial, stocks Bernier’s CMA series of stainless-steel circular connectors. The versatile components are designed to provide reliable signal and data connectivity in harsh and demanding environments like industrial equipment, land defense, aeronautics, radio systems, tactical equipment, ruggedized PCs and displays, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/berniers-cma-series-stainless-steel-circular-connectors-delivering-reliable-connectivity-in-harsh-defence-and-industrial-environments-now-available-through-powell-electronics/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Bernier’s CMA series stainless-steel circular connectors delivering reliable connectivity in harsh defence and industrial environments now available through Powell Electronics\"</span></a>"
   },
   {
-    "title": "Efinix® Brings 64-Bit RISC-V Performance to Embedded FPGA Designs With New Sapphire™ RV64 SoC",
-    "source": "EE Journal",
-    "date": "2026-09-29",
-    "url": "https://www.eejournal.com/industry_news/efinix-brings-64-bit-risc-v-performance-to-embedded-fpga-designs-with-new-sapphire-rv64-soc/",
-    "summary": "Efinix® Inc., the FPGA company accelerating edge AI innovation, today announced the Sapphire™ RV64 SoC, a 64-bit RISC-V processor core that expands the company&#8217;s Sapphire SoC suite and gives embedded designers a high performance, configurable processor platform in a small, low power footprint. Built on the RISC-V Instruction Set Architecture (ISA), Sapphire RV64 is designed &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/efinix-brings-64-bit-risc-v-performance-to-embedded-fpga-designs-with-new-sapphire-rv64-soc/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Efinix® Brings 64-Bit RISC-V Performance to Embedded FPGA Designs With New Sapphire™ RV64 SoC\"</span></a>"
-  },
-  {
-    "title": "Infineon XENSIV™ TLx49012 digital angle sensors enable unique system self-calibration for automotive and industrial motor control applications",
-    "source": "EE Journal",
-    "date": "2026-09-29",
-    "url": "https://www.eejournal.com/industry_news/infineon-xensiv-tlx49012-digital-angle-sensors-enable-unique-system-self-calibration-for-automotive-and-industrial-motor-control-applications/",
-    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) introduces the XENSIV™ TLx49012, a family of four digital angle sensors based on Hall technology, designed for demanding motor control applications in automotive and industrial markets. As brushless DC motor adoption accelerates across automotive platforms and the robotics market enters a phase of rapid structural growth, the &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/infineon-xensiv-tlx49012-digital-angle-sensors-enable-unique-system-self-calibration-for-automotive-and-industrial-motor-control-applications/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Infineon XENSIV™ TLx49012 digital angle sensors enable unique system self-calibration for automotive and industrial motor control applications\"</span></a>"
-  },
-  {
-    "title": "New Sensirion Environmental Sensors, Available from Mouser, Enable Advanced Air Quality Monitoring",
-    "source": "EE Journal",
-    "date": "2026-09-29",
-    "url": "https://www.eejournal.com/industry_news/new-sensirion-environmental-sensors-available-from-mouser-enable-advanced-air-quality-monitoring/",
-    "summary": "Mouser Electronics, Inc., the New Product Introduction (NPI) leader™ empowering innovation, is stocking a wide range of authorized products from Sensirion, a leading manufacturer of environmental sensors. Since 2014, Mouser and Sensirion have partnered to provide engineers with the components and solutions needed to monitor indoor air quality, including carbon dioxide (CO₂), particulate matter (PM), &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/new-sensirion-environmental-sensors-available-from-mouser-enable-advanced-air-quality-monitoring/\">Read More &#8594;<span class=\"screen-reader-text\"> \"New Sensirion Environmental Sensors, Available from Mouser, Enable Advanced Air Quality Monitoring\"</span></a>"
-  },
-  {
-    "title": "Arduino VENTUNO Q: Physical AI for All, Including You!",
-    "source": "EE Journal",
-    "date": "2026-09-29",
-    "url": "https://www.eejournal.com/article/arduino-ventuno-q-physical-ai-for-all-including-you/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/09/max-0522-image-for-home-page-arduino-ventuno-q-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Things were different back in the early part of the 20th century. There was a much stronger do-it-yourself culture, with people routinely building and repairing things themselves. It was an age of makers before the term “makers” was even a thing. For example, my friend Rick Curl once showed me one of his grandfather’s scrapbooks, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/article/arduino-ventuno-q-physical-ai-for-all-including-you/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Arduino VENTUNO Q: Physical AI for All, Including You!\"</span></a>"
-  },
-  {
     "title": "Critical Link MitySOM-AM62x/A/P – TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation",
     "source": "CNX Software",
     "date": "2026-09-28",
@@ -334,34 +369,6 @@
     "date": "2026-09-28",
     "url": "https://www.embedded.com/leopard-imaging-lumotive-launch-3d-perception-platform-for-edge-ai-and-robotics/",
     "summary": "<p>Leopard Imaging and Lumotive have introduced Sirius Max, a long-range, software-defined 3D perception platform designed for robotics, industrial automation, autonomous machines, automotive systems, and edge AI applications. The LI-AR0234-AF0130-TX10-GMSL2-140H combines RGB imaging, intelligent indirect time-of-flight (iToF) depth sensing, embedded processing, synchronization, and programmable beam-steered illumination in a compact GMSL2 camera module. Sirius Max uses Lumotive's [...]</p>\n<p>The post <a href=\"https://www.embedded.com/leopard-imaging-lumotive-launch-3d-perception-platform-for-edge-ai-and-robotics/\">Leopard Imaging, Lumotive Launch 3D Perception Platform for Edge AI and Robotics</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ProLabs to Showcase Transceiver Solutions  That Reduce Deployment Costs at SCTE TechExpo 2026",
-    "source": "EE Journal",
-    "date": "2026-09-28",
-    "url": "https://www.eejournal.com/industry_news/prolabs-to-showcase-transceiver-solutions-that-reduce-deployment-costs-at-scte-techexpo-2026/",
-    "summary": "ProLabs, a global provider of optical connectivity solutions, today announced it will showcase its latest transceiver innovations at SCTE TechExpo 2026, highlighting new technology designed to help cable and network operators expand bandwidth, reduce deployment costs, and simplify infrastructure upgrades &#8211; all while leveraging their existing fiber networks. At the show, ProLabs will feature three &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/prolabs-to-showcase-transceiver-solutions-that-reduce-deployment-costs-at-scte-techexpo-2026/\">Read More &#8594;<span class=\"screen-reader-text\"> \"ProLabs to Showcase Transceiver Solutions  That Reduce Deployment Costs at SCTE TechExpo 2026\"</span></a>"
-  },
-  {
-    "title": "Keysight Enables UC Berkeley Research to Advance 6G Over-the-Air Testing",
-    "source": "EE Journal",
-    "date": "2026-09-28",
-    "url": "https://www.eejournal.com/industry_news/keysight-enables-uc-berkeley-research-to-advance-6g-over-the-air-testing/",
-    "summary": "Keysight Technologies, Inc. (NYSE: KEYS) today announced a new collaboration supporting research at the Berkeley Wireless Research Center (BWRC) that aims to accelerate and improve testing of next-generation wireless devices. Led by Professor Aditya Muppala at the University of California, Berkeley, the research explores a new approach to over-the-air (OTA) testing designed to help engineers &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/keysight-enables-uc-berkeley-research-to-advance-6g-over-the-air-testing/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Keysight Enables UC Berkeley Research to Advance 6G Over-the-Air Testing\"</span></a>"
-  },
-  {
-    "title": "Advanced Energy Launches Ultra-Ruggedized 160 W AC-DC Power Supply for Extreme Environments",
-    "source": "EE Journal",
-    "date": "2026-09-28",
-    "url": "https://www.eejournal.com/industry_news/advanced-energy-launches-ultra-ruggedized-160-w-ac-dc-power-supply-for-extreme-environments/",
-    "summary": "Advanced Energy Industries Inc. (Nasdaq: AEIS), a global leader in highly engineered, precision power conversion, measurement and control solutions, today launches the ruggedized DF150 160 W AC-DC power supply. This is the first offering in the company’s Defiant Future (DF) series of robust, high-reliability standard power supplies for extreme-environment applications across the defense, industrial, telecommunications, &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/advanced-energy-launches-ultra-ruggedized-160-w-ac-dc-power-supply-for-extreme-environments/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Advanced Energy Launches Ultra-Ruggedized 160 W AC-DC Power Supply for Extreme Environments\"</span></a>"
-  },
-  {
-    "title": "Fujitsu launches comprehensive security service for active cyber defense across enterprises and organizations",
-    "source": "EE Journal",
-    "date": "2026-09-28",
-    "url": "https://www.eejournal.com/industry_news/fujitsu-launches-comprehensive-security-service-for-active-cyber-defense-across-enterprises-and-organizations/",
-    "summary": "Fujitsu Limited today announced the launch of a new security service, effective September 25, 2026, that comprehensively supports customers from identifying signs of cyberattacks to investigation and response. Leveraging Fujitsu&#8217;s expertise in cybersecurity, this service combines dark web monitoring, attack surface management[1], and threat hunting[2] to proactively identify potential cyber risks in customer environments and &#8230; <a class=\"more-link\" href=\"https://www.eejournal.com/industry_news/fujitsu-launches-comprehensive-security-service-for-active-cyber-defense-across-enterprises-and-organizations/\">Read More &#8594;<span class=\"screen-reader-text\"> \"Fujitsu launches comprehensive security service for active cyber defense across enterprises and organizations\"</span></a>"
   },
   {
     "title": "LILYGO T-Dongle-C5 – An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED",
@@ -404,13 +411,6 @@
     "date": "2026-09-25",
     "url": "https://www.embedded.com/ezurio-unveils-bl54lm20-bluetooth-le-modules/",
     "summary": "<p>Ezurio has launched the BL54LM20 Series of Bluetooth LE modules. The new family includes the BL54LM20A with Bluetooth LE Core 6.x, 802.15.4 (Thread/Matter), and NFC; the BL54LM20B with Bluetooth LE, 802.15.4, NFC, and an edge AI neural processing unit (NPU); and the BL54LM20B USB-C adapter for Bluetooth LE and 802.15.4 connectivity. The BL54LM20 Series, built [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ezurio-unveils-bl54lm20-bluetooth-le-modules/\">Ezurio Unveils BL54LM20 Bluetooth LE Modules</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series",
-    "source": "CNX Software",
-    "date": "2026-09-24",
-    "url": "https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/",
-    "summary": "<div><img alt=\"Qualcomm Snapdragon X2 Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"486\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Qualcomm-Snapdragon-X2-Linux-720x486.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Qualcomm has released an &#8220;Early Developer Preview&#8221; of Linux for the Snapdragon X2 Armv9 family of laptop SoCs. This release is meant for distribution maintainers, toolchain developers, kernel contributors, and hardware enablement engineers. New Qualcomm processors for mobile PCs (that&#8217;s what Qualcomm calls laptops) usually target Windows only. We get comments asking about Linux support on most of these posts, but Qualcomm&#8217;s history with maintaining Linux is rather mixed. For instance, they demonstrated Debian 12 and Linux upstreaming for the Qualcomm Snapdragon X Elite SoC in collaboration with Linaro in 2024, but based on comments I&#8217;ve read, support is incomplete and not to the level you&#8217;d get on x86 targets. Maybe it will be different for the Snapdragon X2 Series. The announcement mentions that Qualcomm engineers have been working on upstream Linux since Snapdragon Summit 2025 (in September, one year ago). So far, the work includes low-level SoC enablement and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/\">Qualcomm releases Linux developer preview for the Snapdragon X2 Series</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "EdgeCortix Launches Scalable RAIDEN AI Chiplet Platform",
