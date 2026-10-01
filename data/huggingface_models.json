@@ -1,12 +1,39 @@
 [
   {
+    "model": "puppet-robotics/checkpoint_test_sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/checkpoint_test_sim",
+    "date": "2026-10-01",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "harrywang01/real-robot-checkpoints",
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-OfficialLR-Causal-bs16-step20000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-OfficialLR-Causal-bs16-step20000",
+    "date": "2026-10-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-OfficialLR-Causal-bs16-step10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Dongkkka/Task_000004_Peanut_Pick_Place_lerobot_Intern_VLA-JEPA-OfficialLR-Causal-bs16-step10000",
+    "date": "2026-10-01",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "fedorovivan/cs229-robotics-vision-language",
@@ -99,19 +126,19 @@
     "score": 14.8
   },
   {
-    "model": "vladlinv/PP-OCRv6_medium_rec_ru",
+    "model": "vladlinv/PP-OCRv6_tiny_rec_ru",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru",
+    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru",
     "date": "2026-09-30",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru",
+    "model": "vladlinv/PP-OCRv6_medium_rec_ru",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru",
+    "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru",
     "date": "2026-09-30",
     "keyword": "vla",
     "score": 0.1
@@ -189,24 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "DILL-VLA/disentangled-vla-libero-eef-qwen25vl",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DILL-VLA/disentangled-vla-libero-eef-qwen25vl",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "DILL-VLA/DILL-Encoders",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DILL-VLA/DILL-Encoders",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
     "downloads": 0,
     "likes": 0,
@@ -258,6 +267,15 @@
     "url": "https://huggingface.co/mws-physical-ai/gr00t-cosmos-right13-rawvideo",
     "date": "2026-09-30",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "karrlleereal/omx_act_policy5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/karrlleereal/omx_act_policy5",
+    "date": "2026-09-30",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -358,24 +376,6 @@
     "date": "2026-09-30",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "Jun226/omx_act_policy_2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jun226/omx_act_policy_2",
-    "date": "2026-09-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "tavishh/robotarm",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/tavishh/robotarm",
-    "date": "2026-09-29",
-    "keyword": "robot",
-    "score": 6.7
   },
   {
     "model": "davidwdw/fa-historical-5080-embodiedclaw-v2-run-e5af66e6d3fc",
@@ -529,15 +529,6 @@
     "date": "2026-09-27",
     "keyword": "robotics",
     "score": 5.2
-  },
-  {
-    "model": "hvsr-robotics/a1x-wrist-grasp-sim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hvsr-robotics/a1x-wrist-grasp-sim",
-    "date": "2026-09-27",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "KosmoCHE/worldmodel-audit-release",
