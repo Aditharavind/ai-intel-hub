@@ -1,14 +1,5 @@
 [
   {
-    "model": "Neotix-Robotics/robotwin-hanging-mug-dit",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Neotix-Robotics/robotwin-hanging-mug-dit",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "harrywang01/real-robot-checkpoints",
     "downloads": 0,
     "likes": 1,
@@ -16,6 +7,15 @@
     "date": "2026-10-02",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "Neotix-Robotics/robotwin-hanging-mug-dit",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Neotix-Robotics/robotwin-hanging-mug-dit",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt-2",
@@ -126,10 +126,46 @@
     "score": 0.1
   },
   {
+    "model": "jgalego/ms-pacman-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jgalego/ms-pacman-world-model",
+    "date": "2026-10-02",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "jgalego/space-invaders-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jgalego/space-invaders-world-model",
+    "date": "2026-10-02",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "jgalego/doom-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jgalego/doom-world-model",
+    "date": "2026-10-02",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "Donghyun1228/pi05-libero-policy-rollouts-idm-only-20261002",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Donghyun1228/pi05-libero-policy-rollouts-idm-only-20261002",
+    "date": "2026-10-02",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "summerMC/action1.5-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/summerMC/action1.5-policy",
     "date": "2026-10-02",
     "keyword": "policy",
     "score": 0.1
@@ -157,42 +193,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/VR-VLA/VR-gr1-xfer-proprio-delta-d300-adarms-lr1e4-bs64-100k",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_medium_rec_ru_onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru_onnx",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_medium_rec_ru",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru",
     "date": "2026-10-01",
     "keyword": "vla",
     "score": 0.1
@@ -241,6 +241,15 @@
     "date": "2026-10-01",
     "keyword": "vla",
     "score": 4.0
+  },
+  {
+    "model": "jgalego/breakout-world-model",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/jgalego/breakout-world-model",
+    "date": "2026-10-01",
+    "keyword": "world model",
+    "score": 1.0
   },
   {
     "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
@@ -351,15 +360,6 @@
     "score": 8.2
   },
   {
-    "model": "26L/omx_act_policy_10k",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/26L/omx_act_policy_10k",
-    "date": "2026-10-01",
-    "keyword": "policy",
-    "score": 5.8
-  },
-  {
     "model": "pollen-robotics/microduck-got-a-talent-reference",
     "downloads": 8,
     "likes": 0,
@@ -403,6 +403,42 @@
     "date": "2026-10-01",
     "keyword": "robotics",
     "score": 7.9
+  },
+  {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-09-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r64-bf16-v1.1-s7-step10000-micro8",
+    "downloads": 21,
+    "likes": 0,
+    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r64-bf16-v1.1-s7-step10000-micro8",
+    "date": "2026-09-30",
+    "keyword": "vla",
+    "score": 6.4
+  },
+  {
+    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r16-bf16-v1.1-s7-step10000-micro16",
+    "downloads": 24,
+    "likes": 0,
+    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r16-bf16-v1.1-s7-step10000-micro16",
+    "date": "2026-09-30",
+    "keyword": "vla",
+    "score": 7.3
+  },
+  {
+    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r8-bf16-v1.1-s7-step10000-micro16",
+    "downloads": 28,
+    "likes": 0,
+    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r8-bf16-v1.1-s7-step10000-micro16",
+    "date": "2026-09-30",
+    "keyword": "vla",
+    "score": 8.5
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
@@ -554,42 +590,6 @@
     "likes": 0,
     "url": "https://huggingface.co/saidaliu27/worldmodel-uncertainty-rt1-c3",
     "date": "2026-09-22",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "Banskie/newborn-250m-dual-memory-world-model",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/Banskie/newborn-250m-dual-memory-world-model",
-    "date": "2026-09-22",
-    "keyword": "world model",
-    "score": 8.8
-  },
-  {
-    "model": "qlearningwithworldmodels/anonymous-pixel-world-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/qlearningwithworldmodels/anonymous-pixel-world-models",
-    "date": "2026-09-21",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "qlearningwithworldmodels/anonymous-state-world-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/qlearningwithworldmodels/anonymous-state-world-models",
-    "date": "2026-09-21",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "sii-research/tau-0-vla-world-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sii-research/tau-0-vla-world-model",
-    "date": "2026-09-21",
     "keyword": "world model",
     "score": 0.1
   },
