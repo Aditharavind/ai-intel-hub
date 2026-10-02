@@ -1,21 +1,21 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-01 23:31 UTC
+Generated: 2026-10-02 02:39 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-09-30 | Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model | [link](https://arxiv.org/pdf/2609.40358v1) |
-| 2026-09-30 | AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents | [link](https://arxiv.org/pdf/2609.40353v1) |
-| 2026-09-30 | Image Classifiers are Efficient Self-Supervised Video Representation Learners | [link](https://arxiv.org/pdf/2609.40347v1) |
-| 2026-09-30 | Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning? | [link](https://arxiv.org/pdf/2609.40341v1) |
-| 2026-09-30 | WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents | [link](https://arxiv.org/pdf/2609.40325v1) |
+| 2026-10-01 | ROWBench: Do Video Models Render What the Program Specifies? | [link](https://arxiv.org/pdf/2610.02205v1) |
+| 2026-10-01 | Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents | [link](https://arxiv.org/pdf/2610.02204v1) |
+| 2026-10-01 | FERPO: Forward Entropy-Regularized Policy Optimization | [link](https://arxiv.org/pdf/2610.02198v1) |
+| 2026-10-01 | InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2610.02196v1) |
+| 2026-10-01 | Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry | [link](https://arxiv.org/pdf/2610.02186v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83597 | 33438.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63788 | 25515.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83598 | 33439.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63789 | 25515.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44626 | 17850.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30615 | 12246.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 28783 | 11513.3 | [link](https://github.com/harvard-edge/cs249r_book) |
@@ -41,8 +41,8 @@ Generated: 2026-10-01 23:31 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-10-01 | Int. and LG CNS Partner on Physical AI - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTJiWGVDbFByUkJQTi1nZ0JqZVZoQkhLUzF4Nzk1Y2RRVjFjbFVRSmlwa1VKeHhHQTN1U0FrWk1wRlBaVDhpbW9FWTEtbTFpVE5xTVJZRWRkeXVsVnFUendjZkdZbWhsMkxKbHU4TWlXWGVqYVVYMEh5ZWdzX3BtdGwxallaTmJw?oc=5) |
+| 2026-10-02 | Rosota selected for TIPS with surgical technique data collection and standardisation technology - 디지털투데이 | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa2NLRUJONVg1d3hoeGhtVWZYZEpKaVZLNlhvbU96b1lwYkg1cHdBeHh0d3ZaVGkyZlNMSmNSUDZIcWpGV05BVkt0ZzBvRzlrMGRfejlwejVQaXQ1WGJvRUFTOVUtYmNXQU1TSk1PRG5uZExHMElXU1YzM2NOYXVjNlhLekp0UlRyMjFCR091N0thTzdzanpMdng3QWRFYVF2Ri1Gdm5PZmNLaEd2TFpTdzZvMVJSLXVKb2haczBHaVNkUDN4akRMOGRMeEpzUFZFZGZsRVJHYw?oc=5) |
 | 2026-10-01 | Humanoid robots take shape based on occupational needs - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3kta1p0RzVNT2Y0OWZObXBveGlTMThHNUc0MWdDMTF2a19hYzI3Vi01MFk5RHpiSVN0UGoxN3k4TndyaTZTOFpyb1ZWZFBwaWJpVGZudk1iYW5QMTdlZk9EQnEtOGFua1RnRXVFNDdhbDh3bEkwSzIwb3dtNmxfdXpJMmwzQjFo?oc=5) |
-| 2026-09-30 | Robotics startup takes massive sublease from Airbnb as physical AI race picks up steam - therealdeal.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlVc0M2SFh5SW5tNzVMTWpoRWNmc182X2ZGSmYtVUtXX1lYSTVKWmxhYjRzZk1hdE15czYzNVFSUTdRZkhHd2pOX1pud0VHb3F1ZFN6MHZlUkZ4VTE1c1hjdE5MZ1NJdFdCQjk5Wm9OdnlPUzJ6OGxvNzJ1aFp3VjFKQWpSN2pTT1lsV3RlZXVrQ3BGMG9ILUsydUxjYTRZVUNMNDhMUnNsdWRp?oc=5) |
+| 2026-09-30 | Robotics startup takes massive sublease from Airbnb as physical AI race picks up steam - The Real Deal | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlVc0M2SFh5SW5tNzVMTWpoRWNmc182X2ZGSmYtVUtXX1lYSTVKWmxhYjRzZk1hdE15czYzNVFSUTdRZkhHd2pOX1pud0VHb3F1ZFN6MHZlUkZ4VTE1c1hjdE5MZ1NJdFdCQjk5Wm9OdnlPUzJ6OGxvNzJ1aFp3VjFKQWpSN2pTT1lsV3RlZXVrQ3BGMG9ILUsydUxjYTRZVUNMNDhMUnNsdWRp?oc=5) |
 | 2026-09-29 | Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-29 | AMD Pays $8.2 Billion in Stock for Non-Chipmaking Startup as CEO Bets on Physical AI - 24/7 Wall St. | physical ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3NhcWdYajQxNDhXMjNuY2FmM1p4OUZWTEliVS1WSnpGNTc3ejBjYkNqYU5MZnZad1E1OVUzSnVXakdQYjQ5c0pmT2EyUVZuSGh2SEU2YUxvM0pDUVlITVJHaFpBRTZHWWxLb3F3VmF0MjRJNldaeEZTcWY0ZndXWWRkZFJtYWkwemhtaDBJODY2UDJEcFhsZlRxTkNKd2I5V3RRelR4S0R3NkRTZFN5UDBHeGtVVkJMUGJPYWJyNVBWV2JFNGc?oc=5) |
