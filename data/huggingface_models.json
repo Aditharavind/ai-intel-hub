@@ -1,9 +1,36 @@
 [
   {
-    "model": "wcampbell/robotics-vision-language-study-2024",
+    "model": "robotfuel/act_so101_t16b_t16",
+    "downloads": 28,
+    "likes": 1,
+    "url": "https://huggingface.co/robotfuel/act_so101_t16b_t16",
+    "date": "2026-10-02",
+    "keyword": "robot",
+    "score": 8.7
+  },
+  {
+    "model": "robotfuel/act_so101_t16b_u16",
+    "downloads": 27,
+    "likes": 0,
+    "url": "https://huggingface.co/robotfuel/act_so101_t16b_u16",
+    "date": "2026-10-02",
+    "keyword": "robot",
+    "score": 8.2
+  },
+  {
+    "model": "robotfuel/act_so101_t16b",
+    "downloads": 177,
+    "likes": 1,
+    "url": "https://huggingface.co/robotfuel/act_so101_t16b",
+    "date": "2026-10-02",
+    "keyword": "robot",
+    "score": 53.4
+  },
+  {
+    "model": "danielcruz26/homework-robotics-vision-language",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wcampbell/robotics-vision-language-study-2024",
+    "url": "https://huggingface.co/danielcruz26/homework-robotics-vision-language",
     "date": "2026-10-02",
     "keyword": "robotics",
     "score": 0.1
@@ -16,6 +43,42 @@
     "date": "2026-10-02",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "RobotisSW/Groot-n17-PaperTowelRoll-Tasks726-729-RightArmOnly-Filtered",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Groot-n17-PaperTowelRoll-Tasks726-729-RightArmOnly-Filtered",
+    "date": "2026-10-02",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wcampbell/robotics-vision-language-study-2024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wcampbell/robotics-vision-language-study-2024",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "tsangb34/lingbot-vla-v2-6b-so101-upright-bottle-10ep",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-upright-bottle-10ep",
+    "date": "2026-10-02",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Atharvn07/3-cam-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Atharvn07/3-cam-policy",
+    "date": "2026-10-02",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "pollen-robotics/microduck-got-a-talent-reference",
@@ -61,51 +124,6 @@
     "date": "2026-10-01",
     "keyword": "robotics",
     "score": 3.1
-  },
-  {
-    "model": "pollen-robotics/microduck-hill-climb-1m5-reference",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/microduck-hill-climb-1m5-reference",
-    "date": "2026-10-01",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "ZiyadSaleh/review-robotics-vision-language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ZiyadSaleh/review-robotics-vision-language",
-    "date": "2026-10-01",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "zmf2023/robotwin2",
-    "downloads": 19,
-    "likes": 1,
-    "url": "https://huggingface.co/zmf2023/robotwin2",
-    "date": "2026-10-01",
-    "keyword": "robot",
-    "score": 6.0
-  },
-  {
-    "model": "Chanisorn/hand-gesture-robot-control-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chanisorn/hand-gesture-robot-control-v2",
-    "date": "2026-10-01",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "puppet-robotics/checkpoint_test_sim",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/checkpoint_test_sim",
-    "date": "2026-10-01",
-    "keyword": "robotics",
-    "score": 3.7
   },
   {
     "model": "VR-VLA/VR-gr1-xfer-proprio-delta-d300-adarms-lr1e4-bs64-100k",
@@ -262,12 +280,12 @@
   },
   {
     "model": "mljn/policy-vs-other-v2",
-    "downloads": 124,
+    "downloads": 137,
     "likes": 0,
     "url": "https://huggingface.co/mljn/policy-vs-other-v2",
     "date": "2026-10-01",
     "keyword": "policy",
-    "score": 37.3
+    "score": 41.2
   },
   {
     "model": "26L/omx_act_policy",
@@ -315,6 +333,33 @@
     "score": 5.5
   },
   {
+    "model": "pollen-robotics/microduck-hill-climb-1m5-reference",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/microduck-hill-climb-1m5-reference",
+    "date": "2026-10-01",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "ZiyadSaleh/review-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ZiyadSaleh/review-robotics-vision-language",
+    "date": "2026-10-01",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "puppet-robotics/checkpoint_test_sim",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/checkpoint_test_sim",
+    "date": "2026-10-01",
+    "keyword": "robotics",
+    "score": 3.7
+  },
+  {
     "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
@@ -322,15 +367,6 @@
     "date": "2026-09-30",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r64-bf16-v1.1-s7-step10000-micro8",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r64-bf16-v1.1-s7-step10000-micro8",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 4.9
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
@@ -396,15 +432,6 @@
     "score": 157.3
   },
   {
-    "model": "cagataydev/strands-isaaclab-h1-rough-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cagataydev/strands-isaaclab-h1-rough-policy",
-    "date": "2026-09-30",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "fedorovivan/cs229-robotics-vision-language",
     "downloads": 12,
     "likes": 0,
@@ -430,15 +457,6 @@
     "date": "2026-09-30",
     "keyword": "robotics",
     "score": 2.5
-  },
-  {
-    "model": "unileon-robotics/YOLO26-ONNX",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/unileon-robotics/YOLO26-ONNX",
-    "date": "2026-09-30",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "davidwdw/fa-historical-5080-embodiedclaw-v2-run-e5af66e6d3fc",
