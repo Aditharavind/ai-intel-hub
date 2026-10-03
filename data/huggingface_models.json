@@ -9,6 +9,24 @@
     "score": 0.3
   },
   {
+    "model": "Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
+    "downloads": 586,
+    "likes": 1,
+    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
+    "date": "2026-10-03",
+    "keyword": "robot",
+    "score": 176.1
+  },
+  {
+    "model": "dbal67/Robotkraft_TRI_v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dbal67/Robotkraft_TRI_v1",
+    "date": "2026-10-03",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "gzzyyxy/adaptive-policy-robotwin-clean-exp1",
     "downloads": 0,
     "likes": 0,
@@ -54,6 +72,15 @@
     "score": 0.1
   },
   {
+    "model": "research-vla/future-opend4rt-v0-blockcausal",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/research-vla/future-opend4rt-v0-blockcausal",
+    "date": "2026-10-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Samisaliveagain/so101_vla_jepa_stack",
     "downloads": 0,
     "likes": 0,
@@ -81,15 +108,6 @@
     "score": 0.1
   },
   {
-    "model": "j-llm/action1.5-policy",
-    "downloads": 11,
-    "likes": 1,
-    "url": "https://huggingface.co/j-llm/action1.5-policy",
-    "date": "2026-10-03",
-    "keyword": "policy",
-    "score": 3.6
-  },
-  {
     "model": "Donghyun1228/pi05-libero-policy-rollouts-idm-only-20261002",
     "downloads": 0,
     "likes": 0,
@@ -106,6 +124,15 @@
     "date": "2026-10-03",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "j-llm/action1.5-policy",
+    "downloads": 11,
+    "likes": 2,
+    "url": "https://huggingface.co/j-llm/action1.5-policy",
+    "date": "2026-10-03",
+    "keyword": "policy",
+    "score": 3.8
   },
   {
     "model": "Xun49/Event-aligned-robotwin",
@@ -126,6 +153,15 @@
     "score": 3.4
   },
   {
+    "model": "constructelligence/painting-vision-robotics-kit",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/constructelligence/painting-vision-robotics-kit",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
     "model": "puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt-2",
     "downloads": 20,
     "likes": 0,
@@ -133,33 +169,6 @@
     "date": "2026-10-02",
     "keyword": "robotics",
     "score": 6.1
-  },
-  {
-    "model": "unileon-robotics/YOLO8-ONNX",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/unileon-robotics/YOLO8-ONNX",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "unileon-robotics/YOLO11-ONNX",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/unileon-robotics/YOLO11-ONNX",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "mwilliamsdale/robotics-vision-language-survey",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/mwilliamsdale/robotics-vision-language-survey",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 4.0
   },
   {
     "model": "tsangb34/lingbot-vla-v2-6b-so101-upright-bottle-10ep",
@@ -232,6 +241,33 @@
     "date": "2026-10-02",
     "keyword": "policy",
     "score": 2.8
+  },
+  {
+    "model": "unileon-robotics/YOLO8-ONNX",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/unileon-robotics/YOLO8-ONNX",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "unileon-robotics/YOLO11-ONNX",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/unileon-robotics/YOLO11-ONNX",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "mwilliamsdale/robotics-vision-language-survey",
+    "downloads": 13,
+    "likes": 0,
+    "url": "https://huggingface.co/mwilliamsdale/robotics-vision-language-survey",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 4.0
   },
   {
     "model": "danielcruz26/homework-robotics-vision-language",
@@ -421,24 +457,6 @@
     "date": "2026-10-01",
     "keyword": "robotics",
     "score": 8.5
-  },
-  {
-    "model": "pollen-robotics/microduck-policies",
-    "downloads": 26099,
-    "likes": 15,
-    "url": "https://huggingface.co/pollen-robotics/microduck-policies",
-    "date": "2026-10-01",
-    "keyword": "robotics",
-    "score": 7832.8
-  },
-  {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
