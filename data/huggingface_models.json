@@ -1,11 +1,20 @@
 [
   {
-    "model": "Xun49/Event-aligned-robotwin",
+    "model": "sophiehughes/study-robotics-vision-language-2023",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Xun49/Event-aligned-robotwin",
-    "date": "2026-10-02",
-    "keyword": "robot",
+    "url": "https://huggingface.co/sophiehughes/study-robotics-vision-language-2023",
+    "date": "2026-10-03",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "wpj-666/lingbot-vla-robotwin-gen-v4-10k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wpj-666/lingbot-vla-robotwin-gen-v4-10k",
+    "date": "2026-10-03",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -13,9 +22,36 @@
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "keyword": "robot",
     "score": 0.3
+  },
+  {
+    "model": "motonovix/vladrop-pi05-plus-drop9-ft",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/motonovix/vladrop-pi05-plus-drop9-ft",
+    "date": "2026-10-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladHong/K2-Horizon-MoVA-36B-A4B-FAST",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladHong/K2-Horizon-MoVA-36B-A4B-FAST",
+    "date": "2026-10-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Xun49/Event-aligned-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Xun49/Event-aligned-robotwin",
+    "date": "2026-10-02",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "Neotix-Robotics/robotwin-hanging-mug-dit",
@@ -90,37 +126,10 @@
     "score": 54.0
   },
   {
-    "model": "danielcruz26/homework-robotics-vision-language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/danielcruz26/homework-robotics-vision-language",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/Groot-n17-PaperTowelRoll-Tasks726-729-RightArmOnly-Filtered",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Groot-n17-PaperTowelRoll-Tasks726-729-RightArmOnly-Filtered",
-    "date": "2026-10-02",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "tsangb34/lingbot-vla-v2-6b-so101-upright-bottle-10ep",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-upright-bottle-10ep",
-    "date": "2026-10-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "motonovix/vladrop-pi05-plus-drop9-ft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/motonovix/vladrop-pi05-plus-drop9-ft",
     "date": "2026-10-02",
     "keyword": "vla",
     "score": 0.1
@@ -204,6 +213,15 @@
     "url": "https://huggingface.co/Atharvn07/3-cam-policy",
     "date": "2026-10-02",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "danielcruz26/homework-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/danielcruz26/homework-robotics-vision-language",
+    "date": "2026-10-02",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -414,15 +432,6 @@
     "score": 7961.8
   },
   {
-    "model": "pollen-robotics/microduck-hill-climb-1m5-reference",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/microduck-hill-climb-1m5-reference",
-    "date": "2026-10-01",
-    "keyword": "robotics",
-    "score": 7.9
-  },
-  {
     "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
@@ -439,24 +448,6 @@
     "date": "2026-09-30",
     "keyword": "vla",
     "score": 6.4
-  },
-  {
-    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r16-bf16-v1.1-s7-step10000-micro16",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r16-bf16-v1.1-s7-step10000-micro16",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 7.3
-  },
-  {
-    "model": "poipoipoi233/lingbot-vla-v2-6b-lora-r8-bf16-v1.1-s7-step10000-micro16",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/poipoipoi233/lingbot-vla-v2-6b-lora-r8-bf16-v1.1-s7-step10000-micro16",
-    "date": "2026-09-30",
-    "keyword": "vla",
-    "score": 8.5
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
