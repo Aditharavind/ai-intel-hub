@@ -1,23 +1,17 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-02 20:20 UTC
+Generated: 2026-10-03 00:02 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-10-01 | ROWBench: Do Video Models Render What the Program Specifies? | [link](https://arxiv.org/pdf/2610.02205v1) |
-| 2026-10-01 | Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents | [link](https://arxiv.org/pdf/2610.02204v1) |
-| 2026-10-01 | FERPO: Forward Entropy-Regularized Policy Optimization | [link](https://arxiv.org/pdf/2610.02198v1) |
-| 2026-10-01 | InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2610.02196v1) |
-| 2026-10-01 | Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry | [link](https://arxiv.org/pdf/2610.02186v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83595 | 33438.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63792 | 25516.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44619 | 17847.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30619 | 12247.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 83597 | 33438.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63793 | 25517.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44620 | 17848.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30620 | 12248.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 28790 | 11516.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
