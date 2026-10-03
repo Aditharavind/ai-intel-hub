@@ -1,5 +1,32 @@
 [
   {
+    "model": "Myungkyu/rldx2_smoke_pi05_robotwin_ckpt200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/rldx2_smoke_pi05_robotwin_ckpt200",
+    "date": "2026-10-03",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Myungkyu/rldx2_smoke_rldx_robotwin_ckpt200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/rldx2_smoke_rldx_robotwin_ckpt200",
+    "date": "2026-10-03",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "zhuyuze/zero-wam-robot-hm-phase",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zhuyuze/zero-wam-robot-hm-phase",
+    "date": "2026-10-03",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "harrywang01/real-robot-checkpoints",
     "downloads": 0,
     "likes": 1,
@@ -72,6 +99,15 @@
     "score": 0.1
   },
   {
+    "model": "VladHong/K2-Horizon-MoVA-36B-A4B-FAST",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladHong/K2-Horizon-MoVA-36B-A4B-FAST",
+    "date": "2026-10-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "research-vla/future-opend4rt-v0-blockcausal",
     "downloads": 0,
     "likes": 0,
@@ -99,15 +135,6 @@
     "score": 0.1
   },
   {
-    "model": "VladHong/K2-Horizon-MoVA-36B-A4B-FAST",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VladHong/K2-Horizon-MoVA-36B-A4B-FAST",
-    "date": "2026-10-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Donghyun1228/pi05-libero-policy-rollouts-idm-only-20261002",
     "downloads": 0,
     "likes": 0,
@@ -117,10 +144,10 @@
     "score": 0.1
   },
   {
-    "model": "YunhengWang/kimodo-policy",
+    "model": "dhresearch/quality-router-v2-domain-code-policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/YunhengWang/kimodo-policy",
+    "url": "https://huggingface.co/dhresearch/quality-router-v2-domain-code-policy",
     "date": "2026-10-03",
     "keyword": "policy",
     "score": 0.1
@@ -135,6 +162,15 @@
     "score": 3.8
   },
   {
+    "model": "YunhengWang/kimodo-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YunhengWang/kimodo-policy",
+    "date": "2026-10-03",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Xun49/Event-aligned-robotwin",
     "downloads": 0,
     "likes": 0,
@@ -142,33 +178,6 @@
     "date": "2026-10-02",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "Neotix-Robotics/robotwin-hanging-mug-dit",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/Neotix-Robotics/robotwin-hanging-mug-dit",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 3.4
-  },
-  {
-    "model": "constructelligence/painting-vision-robotics-kit",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/constructelligence/painting-vision-robotics-kit",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 0.3
-  },
-  {
-    "model": "puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt-2",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt-2",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 6.1
   },
   {
     "model": "tsangb34/lingbot-vla-v2-6b-so101-upright-bottle-10ep",
@@ -241,6 +250,33 @@
     "date": "2026-10-02",
     "keyword": "policy",
     "score": 2.8
+  },
+  {
+    "model": "Neotix-Robotics/robotwin-hanging-mug-dit",
+    "downloads": 11,
+    "likes": 0,
+    "url": "https://huggingface.co/Neotix-Robotics/robotwin-hanging-mug-dit",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 3.4
+  },
+  {
+    "model": "constructelligence/painting-vision-robotics-kit",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/constructelligence/painting-vision-robotics-kit",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
+    "model": "puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt-2",
+    "downloads": 20,
+    "likes": 0,
+    "url": "https://huggingface.co/puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt-2",
+    "date": "2026-10-02",
+    "keyword": "robotics",
+    "score": 6.1
   },
   {
     "model": "unileon-robotics/YOLO8-ONNX",
@@ -421,15 +457,6 @@
     "date": "2026-10-01",
     "keyword": "policy",
     "score": 43.3
-  },
-  {
-    "model": "26L/omx_act_policy",
-    "downloads": 39,
-    "likes": 0,
-    "url": "https://huggingface.co/26L/omx_act_policy",
-    "date": "2026-10-01",
-    "keyword": "policy",
-    "score": 11.8
   },
   {
     "model": "pollen-robotics/microduck-got-a-talent-reference",
