@@ -1,5 +1,26 @@
 [
   {
+    "title": "Debloat The Internet With a Self-Hosted Compressing Proxy",
+    "source": "Hackaday",
+    "date": "2026-10-04",
+    "url": "https://hackaday.com/2026/10/03/debloat-the-internet-with-a-self-hosted-compressing-proxy/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/compression-proxy.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s no secret that the size of webpages has been slowly &#8212; or not so slowly &#8212; creeping up over the years. Does a simple website need to span multiple <a class=\"read-more\" href=\"https://hackaday.com/2026/10/03/debloat-the-internet-with-a-self-hosted-compressing-proxy/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Play PlayStation 2 and XBox 1 Games on Your Jailbroken PS5",
+    "source": "Hackaday",
+    "date": "2026-10-04",
+    "url": "https://hackaday.com/2026/10/03/play-playstation-2-and-xbox-1-games-on-your-jailbroken-ps5/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"447\" src=\"https://hackaday.com/wp-content/uploads/2026/10/PS5SX2_PS2_on_PS5_sword_pdf.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Whereas PlayStation 3 and earlier were rather specialized consoles, today&#8217;s consoles like the PlayStation 5 are essentially x86-based gaming PCs in a fancy case, with custom firmware to lock it <a class=\"read-more\" href=\"https://hackaday.com/2026/10/03/play-playstation-2-and-xbox-1-games-on-your-jailbroken-ps5/\">&#8230;read more</a>"
+  },
+  {
+    "title": "ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)",
+    "source": "CNX Software",
+    "date": "2026-10-04",
+    "url": "https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr/",
+    "summary": "<div><img alt=\"ESP WebSDR showing the live 2.4 GHz spectrum and waterfall using raw I Q data captured from an ESP32 S3\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/ESP-WebSDR-showing-the-live-2.4-GHz-spectrum-and-waterfall-using-raw-I-Q-data-captured-from-an-ESP32-S3-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We have seen ESP32s used for everything from simple IoT devices to AI, audio, and vision projects. But while looking for a new project, I found out about ESP-SDR firmware, which turns the ESP32 into a native Software-Defined Radio (SDR) without additional hardware. This open-source firmware bypasses the ESP32’s fixed-function Wi-Fi and Bluetooth modems and taps directly into the internal ADC signal chain to capture raw I/Q baseband samples. It then sends these samples to a computer over USB or UART, where they can be processed and viewed as a radio spectrum or waterfall display, turning supported ESP32 chips into low-cost software-defined radio receivers without requiring additional SDR hardware. Key features and supported hardware: Supported chips &#8211; ESP32, ESP32-C3, ESP32-C5 (dual-band 2.4/5 GHz), ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3, and the preview ESP32-S31 Tuning range &#8211; Nominally 2.4 GHz ISM (2.2–2.7 GHz on some chips) and 5 GHz (4.8–6.0 GHz on ESP32-C5); The [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr/\">ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "A Good DIY Solder Stencil Begins With a Cleanly-Sliced Soda Can",
     "source": "Hackaday",
     "date": "2026-10-03",
@@ -33,20 +54,6 @@
     "date": "2026-10-03",
     "url": "https://hackaday.com/2026/10/03/own-the-osd-chip-in-your-cheap-composite-monitor/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/osd-monitor-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Ogrinz Labs] has built a Robbie the Robot suit, which is super-cool, but has a huge flaw. When inside the suit, he&#8217;s too tall to do what the original Robbie <a class=\"read-more\" href=\"https://hackaday.com/2026/10/03/own-the-osd-chip-in-your-cheap-composite-monitor/\">&#8230;read more</a>"
-  },
-  {
-    "title": "That’s No Moon… That’s an Exoplanet!",
-    "source": "Hackaday",
-    "date": "2026-10-03",
-    "url": "https://hackaday.com/2026/10/03/thats-no-moon-thats-an-exoplanet/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"479\" src=\"https://hackaday.com/wp-content/uploads/2026/10/orbit.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It wasn&#8217;t that long ago that a science teacher would have told students that there was no evidence of planets around other star systems. Even more recently, they might have <a class=\"read-more\" href=\"https://hackaday.com/2026/10/03/thats-no-moon-thats-an-exoplanet/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Is This The Smallest Internet Radio?",
-    "source": "Hackaday",
-    "date": "2026-10-03",
-    "url": "https://hackaday.com/2026/10/02/is-this-the-smallest-internet-radio/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/tiny-internet-radio-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Internet radios have been a thing in some form for the last quarter century, and the advent of cheap networked microcontrollers has made them easier than ever to build. But <a class=\"read-more\" href=\"https://hackaday.com/2026/10/02/is-this-the-smallest-internet-radio/\">&#8230;read more</a>"
   },
   {
     "title": "UUNA TEK iAuto review – A professional handwriting and drawing machine",
@@ -103,76 +110,6 @@
     "date": "2026-10-02",
     "url": "https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations/",
     "summary": "<p>Local partners make it easier to align on requirements fast, handle revisions quickly, and validate complex boards with real-time collaboration.</p>\n<p>The post <a href=\"https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations/\">Local PCB Prototyping Cuts Delays and Speeds Iterations</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Most Read – VersaBeam Mini, Micron booming, TSMC fabs",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-versabeam-mini-micron-booming-tsmc-fabs-2026-10/",
-    "summary": "<p>The most popular ones on the site include Micron having a $54bn revenue quarter, Anthropic revealing the biggest pre-IPO loss in history and TSMC looking to build six fabs in Texas...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-versabeam-mini-micron-booming-tsmc-fabs-2026-10/\">Most Read &#8211; VersaBeam Mini, Micron booming, TSMC fabs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TDK DC-link film capacitors rated for up to +135 °C",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/",
-    "summary": "<p>TDK is introducing its B3272*A/G/T series of DC-link film capacitors that are qualified for continuous operation at case temperatures of up to +135 °C, with no derating required up to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/\">TDK DC-link film capacitors rated for up to +135 °C</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "US Chip Dominance Will Disappear",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/us-chip-dominance-will-disappear-2026-10/",
-    "summary": "<p>The renowned UK semiconductor expert, Dr Ian Mackintosh, argued in his keynote address at the 1978 International Solid State Circuits Conference in San Francisco, that much of America’s dominance in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/us-chip-dominance-will-disappear-2026-10/\">US Chip Dominance Will Disappear</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/slg46801-ultra-compact-greenpak-ic-offers-multi-time-programmability-2026-10/",
-    "summary": "<p>Renesas Electronics is sampling the SLG46801, its smallest GreenPAK configurable mixed-signal device. The 9-ball device combines an ultra-small footprint with multi-time programmability, highlights Renesas. It is aimed at compact products [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/slg46801-ultra-compact-greenpak-ic-offers-multi-time-programmability-2026-10/\">SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "OpenWorks eyes US market for AI-powered autonomous vision systems",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/openworks-eyes-us-market-for-ai-powered-autonomous-vision-systems-2026-10/",
-    "summary": "<p>Northumberland’s OpenWorks Engineering, a UK defence technology company, has announced its expansion into the US market. Specifically it is opening a US regional headquarters in Ashburn, Virginia. And future plans [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/openworks-eyes-us-market-for-ai-powered-autonomous-vision-systems-2026-10/\">OpenWorks eyes US market for AI-powered autonomous vision systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Synopsys and OpenAI to teach AI models to use EDA tools",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/synopsis-and-openai-to-automate-chip-design-2026-10/",
-    "summary": "<p>Synopsys and OpenAI are to jointly develop GPT-Synopsys, a specialised model, optimised to use Synopsys EDA tools to perform semiconductor design workflows. The agreement includes a revenue sharing arrangement and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/synopsis-and-openai-to-automate-chip-design-2026-10/\">Synopsys and OpenAI to teach AI models to use EDA tools</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "NeuroIGNITOR enables design and test simulation paradigms in living tissue",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/neuroignitor-enables-researchers-to-design-and-test-stimulation-paradigms-in-living-tissue-2026-10/",
-    "summary": "<p>Imec’a NeuroIGNITOR platform enables neuromodulation researchers and device developers to design and test stimulation paradigms directly in living tissue. It is a selective, bidirectional system that drastically reduces off-target effects [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/neuroignitor-enables-researchers-to-design-and-test-stimulation-paradigms-in-living-tissue-2026-10/\">NeuroIGNITOR enables design and test simulation paradigms in living tissue</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "H1 sales of petrol cars less than 50% of market for first time",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/h1-sales-of-petrol-cars-less-than-50-of-market-for-first-time-2026-10/",
-    "summary": "<p>In H1, for the first time, petrol cars took  less than 50% of global new-vehicle sales, says Mobility Global. Sales of petrol-engine vehicles fell 10% on the year to 20.25 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/h1-sales-of-petrol-cars-less-than-50-of-market-for-first-time-2026-10/\">H1 sales of petrol cars less than 50% of market for first time</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SpaceX gives Filtronic its largest-ever order",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/filtronic-gets-largest-ever-order-2026-10/",
-    "summary": "<p>Filtronic has secured its largest ever single order -worth $68.1 million &#8211; to supply parts for Starlink. The order is for Filtronic’s Cerus, E-Band GaN Solid State Power Amplifier (SSPA) [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/filtronic-gets-largest-ever-order-2026-10/\">SpaceX gives Filtronic its largest-ever order</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Mini-D RF interconnects for board-to-board RF applications",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/smpm-mini-d-rf-interconnects-for-board-to-board-rf-applications-2026-10/",
-    "summary": "<p>SV Microwave has introduced SMPM Mini-D RF Interconnects for board-to-board RF applications. The space-saving D-sub form factor delivers RF performance in a compact  package. The Interconnects have an  SMPM interface, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/smpm-mini-d-rf-interconnects-for-board-to-board-rf-applications-2026-10/\">Mini-D RF interconnects for board-to-board RF applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "HalloWing M4 Tombstone",
@@ -404,13 +341,6 @@
     "date": "2026-09-28",
     "url": "https://www.cnx-software.com/2026/09/28/critical-link-mitysom-am62x-a-p-ti-sitara-am62-so-dimm-soms-for-edge-ai-and-industrial-automation/",
     "summary": "<div><img alt=\"MitySOM AMxx Dev Kit\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MitySOM-AMxx-Dev-Kit-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Critical Link MitySOM-AM62x/A/P is a family of TI Sitara AM62-based industrial SO-DIMM SoMs designed for embedded Linux systems, industrial automation, HMI, and other embedded applications. The family includes the general-purpose MitySOM-AM62, AI-focused MitySOM-AM62A, and multimedia-oriented MitySOM-AM62P system-on-modules. The standard AM62 modules feature up to a quad-core Arm Cortex-A53 processor at 1.4 GHz, along with a 400 MHz Cortex-M4F MCU and dual programmable real-time units (PRUs). The AM62A adds a C7x DSP with Matrix Multiply Accelerator supporting up to 2 TOPS and an image signal processor (ISP), while the AM62P includes a 3D GPU rated above 50 GFLOPS and a four-lane MIPI DSI output. MitySOM-AM62x / AM62Ax / AM62Px specifications: SoM options MitySOM-AM62x – Texas Instruments Sitara AM62x Application CPU – Up to Quad-core Arm Cortex-A53 up to 1.4 GHz Real-time cores Arm Cortex-M4F up to 400 MHz Dual-core Programmable Real-Time Unit (PRU-SS) up to 333 MHz GPU – 3D Graphics [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/28/critical-link-mitysom-am62x-a-p-ti-sitara-am62-so-dimm-soms-for-edge-ai-and-industrial-automation/\">Critical Link MitySOM-AM62x/A/P &#8211; TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Up2Stream spins off from Arylic as a dedicated DIY audio brand (Sponsored)",
-    "source": "CNX Software",
-    "date": "2026-09-28",
-    "url": "https://www.cnx-software.com/2026/09/28/up2stream-spins-off-from-arylic-as-a-dedicated-diy-audio-brand/",
-    "summary": "<div><img alt=\"Up2stream DIY audio website\" class=\"attachment-medium size-medium wp-post-image\" height=\"555\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Up2stream-DIY-audio-website-720x555.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Up2Stream started as Arylic’s DIY audio board line and has now been spun off as its own brand. The split is not a rebadge or a clone of Arylic’s finished consumer streamers and amplifiers. It is a deliberate move to put the maker community first: boards, accessories, documentation, and support aimed at people who build speakers, restore vintage gear, or design custom multiroom systems. Many long-time users still treat “Up2Stream” and “Arylic” as the same storefront. Others assume the boards are a copy of Arylic’s boxed products. They are related in history, but they serve different jobs. Arylic’s consumer line is complete hardware you plug in. Up2Stream is the modular stack you drop into a cabinet, a plate amp, a passive pair, or a 2.1 build and wire yourself. Same streaming DNA, different product mission. The lineup is built around a few core modules and a set of add-ons that [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/28/up2stream-spins-off-from-arylic-as-a-dedicated-diy-audio-brand/\">Up2Stream spins off from Arylic as a dedicated DIY audio brand (Sponsored)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "EU Cyber Resilience Act Shifts Secure-by-Design for Embedded Developers",

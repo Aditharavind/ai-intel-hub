@@ -1,10 +1,19 @@
 [
   {
+    "model": "wpj-666/lingbot-vla-robotwin-gen-v4-15k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wpj-666/lingbot-vla-robotwin-gen-v4-15k",
+    "date": "2026-10-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "harrywang01/real-robot-checkpoints",
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "keyword": "robot",
     "score": 0.3
   },
@@ -13,8 +22,26 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/dbal67/Robotkraft_TRI_v3",
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RainyBot/LWM-VLA",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/RainyBot/LWM-VLA",
+    "date": "2026-10-04",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "Donghyun1228/pi05-libero-policy-loss-idm-bc-20261004",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Donghyun1228/pi05-libero-policy-loss-idm-bc-20261004",
+    "date": "2026-10-04",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -97,15 +124,6 @@
     "date": "2026-10-03",
     "keyword": "robot",
     "score": 6.0
-  },
-  {
-    "model": "sophiehughes/study-robotics-vision-language-2023",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sophiehughes/study-robotics-vision-language-2023",
-    "date": "2026-10-03",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "VR-VLA/VR-egoverse-v06-pretrained-subtask-adarms-lr1e4-bs64-100k",
@@ -213,6 +231,15 @@
     "url": "https://huggingface.co/YunhengWang/kimodo-policy",
     "date": "2026-10-03",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "sophiehughes/study-robotics-vision-language-2023",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sophiehughes/study-robotics-vision-language-2023",
+    "date": "2026-10-03",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -378,24 +405,6 @@
     "score": 4.9
   },
   {
-    "model": "ar-mine/lingbot-vla-v2-6b-fullft-bf16-epoch1-bs64-s7-step7738",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/ar-mine/lingbot-vla-v2-6b-fullft-bf16-epoch1-bs64-s7-step7738",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 4.0
-  },
-  {
-    "model": "tsangb34/lingbot-vla-v2-6b-so101-cube-drawer-10ep",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-cube-drawer-10ep",
-    "date": "2026-10-01",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "jgalego/breakout-world-model",
     "downloads": 4,
     "likes": 0,
@@ -407,11 +416,11 @@
   {
     "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
     "downloads": 20,
-    "likes": 4,
+    "likes": 6,
     "url": "https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B",
     "date": "2026-10-01",
     "keyword": "embodied",
-    "score": 6.9
+    "score": 7.3
   },
   {
     "model": "MasonJK99/temporal-flow-world-model",
@@ -457,15 +466,6 @@
     "date": "2026-10-01",
     "keyword": "policy",
     "score": 8.8
-  },
-  {
-    "model": "ilgyu26/orange_stressball_policy",
-    "downloads": 78,
-    "likes": 0,
-    "url": "https://huggingface.co/ilgyu26/orange_stressball_policy",
-    "date": "2026-10-01",
-    "keyword": "policy",
-    "score": 23.5
   },
   {
     "model": "pollen-robotics/microduck-got-a-talent-reference",
