@@ -1,5 +1,23 @@
 [
   {
+    "model": "harrywang01/real-robot-checkpoints",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
+    "date": "2026-10-04",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "constructelligence/painting-vision-robotics-kit",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/constructelligence/painting-vision-robotics-kit",
+    "date": "2026-10-04",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
     "model": "dbal67/act_robotkraft_etiq_v3",
     "downloads": 0,
     "likes": 0,
@@ -25,15 +43,6 @@
     "date": "2026-10-04",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "harrywang01/real-robot-checkpoints",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
-    "date": "2026-10-04",
-    "keyword": "robot",
-    "score": 0.3
   },
   {
     "model": "dbal67/act_robotkraft_tri_v3",
@@ -63,10 +72,10 @@
     "score": 0.1
   },
   {
-    "model": "tsangb34/lingbot-vla-v2-6b-so101-stack-bowls-10ep",
+    "model": "vladadu/stt-ar-fastconformer-sherpa-onnx",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-stack-bowls-10ep",
+    "url": "https://huggingface.co/vladadu/stt-ar-fastconformer-sherpa-onnx",
     "date": "2026-10-04",
     "keyword": "vla",
     "score": 0.1
@@ -81,19 +90,28 @@
     "score": 0.1
   },
   {
-    "model": "taalyelxor/vlap4p-fr3-azure-310000",
+    "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/taalyelxor/vlap4p-fr3-azure-310000",
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
     "date": "2026-10-04",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
+    "model": "tsangb34/lingbot-vla-v2-6b-so101-stack-bowls-10ep",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-stack-bowls-10ep",
+    "date": "2026-10-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "taalyelxor/vlap4p-fr3-azure-310000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/taalyelxor/vlap4p-fr3-azure-310000",
     "date": "2026-10-04",
     "keyword": "vla",
     "score": 0.1
@@ -106,6 +124,24 @@
     "date": "2026-10-04",
     "keyword": "vla",
     "score": 0.3
+  },
+  {
+    "model": "demishra/embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/demishra/embodied-ai",
+    "date": "2026-10-04",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "yusuketku/embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yusuketku/embodied-ai",
+    "date": "2026-10-04",
+    "keyword": "embodied",
+    "score": 0.1
   },
   {
     "model": "woshichaoren123/Eagle-Embodied-4B-Box-DFlash",
@@ -126,19 +162,28 @@
     "score": 0.1
   },
   {
-    "model": "Donghyun1228/pi05-libero-policy-loss-idm-bc-20261004",
+    "model": "Mark455/Copper-Policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Mark455/Copper-Policy",
+    "date": "2026-10-04",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "Consolatio/so101_pick_cube_policy_r1",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Donghyun1228/pi05-libero-policy-loss-idm-bc-20261004",
+    "url": "https://huggingface.co/Consolatio/so101_pick_cube_policy_r1",
     "date": "2026-10-04",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "Mark455/Copper-Policy",
+    "model": "Donghyun1228/pi05-libero-policy-loss-idm-bc-20261004",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Mark455/Copper-Policy",
+    "url": "https://huggingface.co/Donghyun1228/pi05-libero-policy-loss-idm-bc-20261004",
     "date": "2026-10-04",
     "keyword": "policy",
     "score": 0.1
@@ -178,15 +223,6 @@
     "date": "2026-10-03",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
-    "downloads": 766,
-    "likes": 1,
-    "url": "https://huggingface.co/Robot-Haus/Qwen3.8-Flash-Next-oQ3.5e-fp16-mtp",
-    "date": "2026-10-03",
-    "keyword": "robot",
-    "score": 230.1
   },
   {
     "model": "VR-VLA/VR-egoverse-v06-pretrained-subtask-adarms-lr1e4-bs64-100k",
@@ -229,15 +265,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/motonovix/vladrop-pi05-plus-drop9-ft",
-    "date": "2026-10-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "wpj-666/lingbot-vla-robotwin-gen-v4-10k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/wpj-666/lingbot-vla-robotwin-gen-v4-10k",
     "date": "2026-10-03",
     "keyword": "vla",
     "score": 0.1
@@ -369,15 +396,6 @@
     "score": 3.7
   },
   {
-    "model": "constructelligence/painting-vision-robotics-kit",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/constructelligence/painting-vision-robotics-kit",
-    "date": "2026-10-02",
-    "keyword": "robotics",
-    "score": 0.3
-  },
-  {
     "model": "puppet-robotics/golf-model-2-8fps-30-rtc-precond-no-putt-2",
     "downloads": 21,
     "likes": 0,
@@ -486,15 +504,6 @@
     "score": 3.1
   },
   {
-    "model": "karrlleereal/omx_act_policy_3_item",
-    "downloads": 29,
-    "likes": 0,
-    "url": "https://huggingface.co/karrlleereal/omx_act_policy_3_item",
-    "date": "2026-10-01",
-    "keyword": "policy",
-    "score": 8.8
-  },
-  {
     "model": "pollen-robotics/microduck-got-a-talent-reference",
     "downloads": 15,
     "likes": 0,
@@ -592,24 +601,6 @@
     "date": "2026-09-29",
     "keyword": "navigation",
     "score": 0.1
-  },
-  {
-    "model": "lucyjohnson/embodied-ai",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/lucyjohnson/embodied-ai",
-    "date": "2026-09-28",
-    "keyword": "embodied",
-    "score": 4.0
-  },
-  {
-    "model": "nankaigenomics/project-embodied-ai",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/nankaigenomics/project-embodied-ai",
-    "date": "2026-09-28",
-    "keyword": "embodied",
-    "score": 4.3
   },
   {
     "model": "UCLA-VAIL/Visual-Navigation-Model-Checkpoints",

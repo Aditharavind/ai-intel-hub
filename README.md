@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-04 12:53 UTC
+Last Updated: 2026-10-04 17:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -35,6 +35,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-04 | How robotics and physical AI can responsibly tackle key physical security challenges | Robotics Business Review | [link](https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/) |
 | 2026-10-03 | The physical AI race will be won in the patent office | Robotics Business Review | [link](https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/) |
 | 2026-10-02 | Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/) |
 | 2026-10-02 | Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-bioinspired-robotics) |
@@ -44,19 +45,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-01 | Atlas Robot’s New Hand May Outperform Humanlike Designs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robust-robot-hand) |
 | 2026-10-01 | How Maven Robotics plans to automate industrial work, one task at a time | Robotics Business Review | [link](https://www.therobotreport.com/how-maven-robotics-plans-automate-industrial-work-one-task-at-a-time/) |
 | 2026-10-01 | ANYbotics launches Shift to streamline robot fleet operations, scale inspections | Robotics Business Review | [link](https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/) |
-| 2026-10-01 | Boston Dynamics drops pinkie on new humanoid hand | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-04 | AVR Laptop Pushes the Limits of 8-Bit | Hackaday | [link](https://hackaday.com/2026/10/04/avr-laptop-pushes-the-limits-of-8-bit/) |
+| 2026-10-04 | Motion Control via Belt | Hackaday | [link](https://hackaday.com/2026/10/04/motion-control-via-belt/) |
 | 2026-10-04 | AI on Your Gaming PC | Hackaday | [link](https://hackaday.com/2026/10/04/ai-on-your-gaming-pc/) |
 | 2026-10-04 | The Big Moon Plot | Hackaday | [link](https://hackaday.com/2026/10/04/bringing-the-moon-home-with-plotting/) |
 | 2026-10-04 | Debloat The Internet With a Self-Hosted Compressing Proxy | Hackaday | [link](https://hackaday.com/2026/10/03/debloat-the-internet-with-a-self-hosted-compressing-proxy/) |
 | 2026-10-04 | Play PlayStation 2 and XBox 1 Games on Your Jailbroken PS5 | Hackaday | [link](https://hackaday.com/2026/10/03/play-playstation-2-and-xbox-1-games-on-your-jailbroken-ps5/) |
 | 2026-10-04 | ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR) | CNX Software | [link](https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr/) |
 | 2026-10-03 | A Good DIY Solder Stencil Begins With a Cleanly-Sliced Soda Can | Hackaday | [link](https://hackaday.com/2026/10/03/a-good-diy-solder-stencil-begins-with-a-cleanly-sliced-soda-can/) |
-| 2026-10-03 | 2026 Retrocomputer Challenge: Vectron65 Plus Puts the Emphasis on Plus | Hackaday | [link](https://hackaday.com/2026/10/03/2026-retrocomputer-challenge-vectron65-plus-puts-the-emphasis-on-plus/) |
-| 2026-10-03 | The ESP32, An SDR In Itself | Hackaday | [link](https://hackaday.com/2026/10/03/the-esp32-an-sdr-in-itself/) |
 | 2026-10-03 | UUNA TEK iAuto review – A professional handwriting and drawing machine | CNX Software | [link](https://www.cnx-software.com/2026/10/03/uuna-tek-iauto-review-a-professional-handwriting-and-drawing-machine/) |
 | 2026-10-03 | Celebrate a NASA Halloween | Adafruit | [link](https://blog.adafruit.com/2026/10/03/celebrate-a-nasa-halloween/) |
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-04 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
+| 2026-10-04 | constructelligence/painting-vision-robotics-kit | 0 | 1 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
 | 2026-10-04 | dbal67/act_robotkraft_etiq_v3 | 0 | 0 | [link](https://huggingface.co/dbal67/act_robotkraft_etiq_v3) |
 | 2026-10-04 | dbal67/act_robotkraft_masse | 0 | 0 | [link](https://huggingface.co/dbal67/act_robotkraft_masse) |
 | 2026-10-04 | Myungkyu/rldx2_pi05_robotwin_vanilla_b128_60k | 0 | 0 | [link](https://huggingface.co/Myungkyu/rldx2_pi05_robotwin_vanilla_b128_60k) |
-| 2026-10-04 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
 | 2026-10-04 | dbal67/act_robotkraft_tri_v3 | 0 | 0 | [link](https://huggingface.co/dbal67/act_robotkraft_tri_v3) |
 | 2026-10-04 | Myungkyu/rldx2_rldx_robotwin_vanilla_b128_60k | 0 | 0 | [link](https://huggingface.co/Myungkyu/rldx2_rldx_robotwin_vanilla_b128_60k) |
 | 2026-10-04 | wpj-666/lingbot-vla-robotwin-gen-v4-15k | 0 | 0 | [link](https://huggingface.co/wpj-666/lingbot-vla-robotwin-gen-v4-15k) |
-| 2026-10-04 | tsangb34/lingbot-vla-v2-6b-so101-stack-bowls-10ep | 0 | 0 | [link](https://huggingface.co/tsangb34/lingbot-vla-v2-6b-so101-stack-bowls-10ep) |
+| 2026-10-04 | vladadu/stt-ar-fastconformer-sherpa-onnx | 0 | 0 | [link](https://huggingface.co/vladadu/stt-ar-fastconformer-sherpa-onnx) |
 | 2026-10-04 | VladHong/K2-Horizon-MoVA-36B-A4B-FAST | 0 | 0 | [link](https://huggingface.co/VladHong/K2-Horizon-MoVA-36B-A4B-FAST) |
-| 2026-10-04 | taalyelxor/vlap4p-fr3-azure-310000 | 0 | 0 | [link](https://huggingface.co/taalyelxor/vlap4p-fr3-azure-310000) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28799 | Python | 11519.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28800 | Python | 11520.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1514 | Rust | 605.7 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63803 | Python | 25521.3 | [link](https://github.com/commaai/openpilot) |
+| pnoker/iot-dc3 | 1286 | Java | 514.5 | [link](https://github.com/pnoker/iot-dc3) |
+| commaai/openpilot | 63804 | Python | 25521.7 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30627 | Python | 12250.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | questdb/questdb | 17416 | Java | 6966.5 | [link](https://github.com/questdb/questdb) |
-| earthtojake/text-to-cad | 16670 | Python | 6668.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 16743 | Python | 6697.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | zauberzeug/nicegui | 16268 | Python | 6507.3 | [link](https://github.com/zauberzeug/nicegui) |
-| google-deepmind/mujoco | 15456 | C++ | 6182.5 | [link](https://github.com/google-deepmind/mujoco) |
-| dora-rs/dora | 3992 | Rust | 1596.9 | [link](https://github.com/dora-rs/dora) |
-| datawhalechina/every-embodied | 3914 | Jupyter Notebook | 1565.7 | [link](https://github.com/datawhalechina/every-embodied) |
+| google-deepmind/mujoco | 15457 | C++ | 6182.9 | [link](https://github.com/google-deepmind/mujoco) |
+| dora-rs/dora | 3993 | Rust | 1597.3 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -110,16 +110,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-30 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnlOVUlTN0d1bE9mWEswaHBUVW02NUpTa21Lc0xkb01ReXExTnZjblVZOFhQNDJlbzN2MzN6YjNZcW5abkV0Q0ZUd1F1XzdnMlNDM2NQTFJQbHFfd01DdEJVMjNwNVh0VHI2WndfOGtLRWRSaE5FbzhtaFQ1al9obEFiclpGR2JOTEstcVlpNXlZb3Nld1c2NmpWVjQ0RjFhQVBJSFdreHZBU1hYNkRmbURDVXpwVTJRMGptSHZjYVE?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-26 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFI3R3c4MVBtRWFrQXJWLXpaY3BwVW1wRUthS19EaU15SEdWYTdZWGc4WEJyN3RFOXNJUjEtM2xNMjhBcnRDNVNqY3d5SVgxb3BUMGlTX1ByemJFeWJHb1l5ODFnN1g3TllWaTJ0YjYycVZQeS1lNV9DTGFWSDhKQzFXb3dhdnZyb2QzU3ZTOTRETzVTN1FoTDcyQ2NYSV9RYWtwZlhlOEpMU1RMdzFqZ1QtT1BTamRNYUpQazBrOTl0OXBqcXNqTVYzeXFWd1gz?oc=5) |
+| 2026-09-26 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnNveThPbDVwUWdxWi1YM2NXWW1yaFpMZ05US0NnQlRUSU54MFFZd2xfY0sxdkhOQklnakp0UklGUGFKeU1TSkt5dE14OUd1Yy1NNUhUeWx3VjlHNU5yZ1h6YjdDdmNrQkFhYkdUWTNfbjR2UXFHc2dJLUxLOTVjYllfd09SQXl4V240RVhJZlFOQTVuUEtyUUp5cVg0VEdRVUNHSXdUUVlVeDZsdTB6aEZZXzZTNWp3RnhETmo1YndiT3M?oc=5) |
 | 2026-09-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmFWSTF5RExCM0kxZ3k4RTRtbVkzWmgxVjVhTkpTeF9VbWxsSVZGaWY5QXkyY2h1UEdRelJUb2FYcWlLdVEwRUtMQktkNExqd2RRZmVfMWZaeDYxNlVvU3F1UVdTbnJnVmJuUTJySG5fX2g2aUVhUWNNNWtNRW9VSjJEeFNKSmxCZ3ZTS1hmZG93blZRdXNtcFFQbEllYnYyTFUtM3dVUXRzeTUxa3VIV2o1Q0NXX2RWclRyUzVuUHpDaGNXX0t1bTBIRW83dDh1dVJCbjQ0LW9sQ1BrcEVGQ0VBdw?oc=5) |
 | 2026-09-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-18 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUFxbDRKOVBBRE9QZUtfRkNzTTlUaXJQaU1zZC03UkZlLVhUWDNHa2Fhc2lFTDRMREViMjJnd21NWG83ZDB2QS1wSG1EUnBtNXdOYmZBZGxmbTVFNnk1RDYtSm1hTTFNem0wTVlka1FfT2otcTU3ekJTQmNhRHlseTNIbnBUUnB1VDJTaG9hSE5aeDl4VE1ybw?oc=5) |
 | 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
-| 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-10-02 | The Godmother of AI Just Sold Her Startup for $8.2 Billion. Here’s Why Embodied AI Founders Are Nervous. - vocal.media | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pvbkFiRk5JbGNybE9sMVczaGp0Z3M3dEJraUQzY0ZFU2lYWVJiSmpKMXByMzNjNkxkV1BwNnhxZHp1UWFZSDVjVk1kUVNNZ293Zi1vZXJ0OEFnU1RYdTE5YkNueHZRLThWYy1xSlczbDYxVnZnODlpMXVvWUg4cEFhY2p4VzRZVUdJOV9Za0M5ZHRpSEhxRHhkeFpCY1o2S3JOWEk5OW1MeFpMbkxsQVc4ZHJKWWlwMnJHMmVHOA?oc=5) |
+| 2026-10-02 | The Godmother of AI Just Sold Her Startup for $8.2 Billion. Here’s Why Embodied AI Founders Are Nervous. - Vocal | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pvbkFiRk5JbGNybE9sMVczaGp0Z3M3dEJraUQzY0ZFU2lYWVJiSmpKMXByMzNjNkxkV1BwNnhxZHp1UWFZSDVjVk1kUVNNZ293Zi1vZXJ0OEFnU1RYdTE5YkNueHZRLThWYy1xSlczbDYxVnZnODlpMXVvWUg4cEFhY2p4VzRZVUdJOV9Za0M5ZHRpSEhxRHhkeFpCY1o2S3JOWEk5OW1MeFpMbkxsQVc4ZHJKWWlwMnJHMmVHOA?oc=5) |
 | 2026-10-02 | Rosota selected for TIPS with surgical technique data collection and standardisation technology - 디지털투데이 | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa2NLRUJONVg1d3hoeGhtVWZYZEpKaVZLNlhvbU96b1lwYkg1cHdBeHh0d3ZaVGkyZlNMSmNSUDZIcWpGV05BVkt0ZzBvRzlrMGRfejlwejVQaXQ1WGJvRUFTOVUtYmNXQU1TSk1PRG5uZExHMElXU1YzM2NOYXVjNlhLekp0UlRyMjFCR091N0thTzdzanpMdng3QWRFYVF2Ri1Gdm5PZmNLaEd2TFpTdzZvMVJSLXVKb2haczBHaVNkUDN4akRMOGRMeEpzUFZFZGZsRVJHYw?oc=5) |
 | 2026-10-01 | Humanoid robots take shape based on occupational needs - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3kta1p0RzVNT2Y0OWZObXBveGlTMThHNUc0MWdDMTF2a19hYzI3Vi01MFk5RHpiSVN0UGoxN3k4TndyaTZTOFpyb1ZWZFBwaWJpVGZudk1iYW5QMTdlZk9EQnEtOGFua1RnRXVFNDdhbDh3bEkwSzIwb3dtNmxfdXpJMmwzQjFo?oc=5) |
 | 2026-09-30 | Robotics startup takes massive sublease from Airbnb as physical AI race picks up steam - The Real Deal | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlVc0M2SFh5SW5tNzVMTWpoRWNmc182X2ZGSmYtVUtXX1lYSTVKWmxhYjRzZk1hdE15czYzNVFSUTdRZkhHd2pOX1pud0VHb3F1ZFN6MHZlUkZ4VTE1c1hjdE5MZ1NJdFdCQjk5Wm9OdnlPUzJ6OGxvNzJ1aFp3VjFKQWpSN2pTT1lsV3RlZXVrQ3BGMG9ILUsydUxjYTRZVUNMNDhMUnNsdWRp?oc=5) |
