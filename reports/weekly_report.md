@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-04 20:31 UTC
+Generated: 2026-10-04 23:38 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-10-04 20:31 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83610 | 33444.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83612 | 33444.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63805 | 25522.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44628 | 17851.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30627 | 12250.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28800 | 11520.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28803 | 11521.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-10-04 20:31 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-04 | Can Patent Filings Help Physical AI Companies Raise Capital? - Mondaq | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWY2Z0RjT1ltQlpnV09ZbDFaNXNaVUQxVlJTTG1KRGVyN25HZFVNZXozd2FVT3djQnJiYnNkUW1wZGRtaXVicUhjV0E2UVlGWFRhLXFOYV9jUGJldV81SnhBVVNLR1VQMHJCb1JCaGZyeEdMaFJLOEpGcFl4RmtJSmdxc3pSSENLdTdHcHhTQmpxelVZcG5mZDA3Zy1iMWljSkdVejVuOXRqWTBSY2lZMVNjS1ZZeThKdXpWMHN0blo4LVhzVTZ1bw?oc=5) |
+| 2026-10-04 | Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids - tomshardware.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzR6OVd2V0ZxdEx3SGNKc2pMdFdmcmVsSWNwcnRUR3FYdmtFMmdiQnlETVV0OEhVVjhwMUtrOW5FUDh3Q09wZnNsbTJYQm13RVNYMTlKS29NMExDZE0tMGhwWTRkU3JJMHNrcXFIX05aUDZ5ekZpYUJkbnlTbzZZQjFfTEFUUzdlZnA1MXdOTm1FQXlJdHM4RmRDRk1DYzh5bUZydGVSYlh4ZHU1dDF6Z3llelNGWkdoVkJVOG4zaktzV3RmU010dldCQUlsT2l6Q1A2WjRlZWpCLVYwMXExbTQyaHBJcnB5SW9PLWlBb1VFeVRlZmhaVE5BeHprUXhqQTlYUHlNUDRRWkpoNmw2WVVKakFsQ0JxYzBCdklIbnhlNnlSaVh2UE9mdk9ycm00bllJcV9yMDhwX3ZGMWdOSjV4WVZ5RGpKZi05Z1lxX3Nxc2p1d0tDcw?oc=5) |
 | 2026-10-02 | The Godmother of AI Just Sold Her Startup for $8.2 Billion. Here’s Why Embodied AI Founders Are Nervous. - Vocal | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pvbkFiRk5JbGNybE9sMVczaGp0Z3M3dEJraUQzY0ZFU2lYWVJiSmpKMXByMzNjNkxkV1BwNnhxZHp1UWFZSDVjVk1kUVNNZ293Zi1vZXJ0OEFnU1RYdTE5YkNueHZRLThWYy1xSlczbDYxVnZnODlpMXVvWUg4cEFhY2p4VzRZVUdJOV9Za0M5ZHRpSEhxRHhkeFpCY1o2S3JOWEk5OW1MeFpMbkxsQVc4ZHJKWWlwMnJHMmVHOA?oc=5) |
 | 2026-10-02 | Rosota selected for TIPS with surgical technique data collection and standardisation technology - 디지털투데이 | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa2NLRUJONVg1d3hoeGhtVWZYZEpKaVZLNlhvbU96b1lwYkg1cHdBeHh0d3ZaVGkyZlNMSmNSUDZIcWpGV05BVkt0ZzBvRzlrMGRfejlwejVQaXQ1WGJvRUFTOVUtYmNXQU1TSk1PRG5uZExHMElXU1YzM2NOYXVjNlhLekp0UlRyMjFCR091N0thTzdzanpMdng3QWRFYVF2Ri1Gdm5PZmNLaEd2TFpTdzZvMVJSLXVKb2haczBHaVNkUDN4akRMOGRMeEpzUFZFZGZsRVJHYw?oc=5) |
 | 2026-10-01 | Humanoid robots take shape based on occupational needs - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3kta1p0RzVNT2Y0OWZObXBveGlTMThHNUc0MWdDMTF2a19hYzI3Vi01MFk5RHpiSVN0UGoxN3k4TndyaTZTOFpyb1ZWZFBwaWJpVGZudk1iYW5QMTdlZk9EQnEtOGFua1RnRXVFNDdhbDh3bEkwSzIwb3dtNmxfdXpJMmwzQjFo?oc=5) |
-| 2026-09-30 | Robotics startup takes massive sublease from Airbnb as physical AI race picks up steam - The Real Deal | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlVc0M2SFh5SW5tNzVMTWpoRWNmc182X2ZGSmYtVUtXX1lYSTVKWmxhYjRzZk1hdE15czYzNVFSUTdRZkhHd2pOX1pud0VHb3F1ZFN6MHZlUkZ4VTE1c1hjdE5MZ1NJdFdCQjk5Wm9OdnlPUzJ6OGxvNzJ1aFp3VjFKQWpSN2pTT1lsV3RlZXVrQ3BGMG9ILUsydUxjYTRZVUNMNDhMUnNsdWRp?oc=5) |
-| 2026-09-30 | This $3,555 Humanoid Robot Is Slow, Basic, Cheap. Mission Accomplished. - Forbes | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGxEMVdWT29QdDhYSEpRbWcxRjlBS2hkRTc1ams4Y2VibWRxU3BVTUlfQjR2X3dMUV9kWmJpbTNCZXRYbDJIZ0djaERpekxwdGdrZ3AxaVUySFpwa0ZaWGoxVHhrekZmRDFDci1jamh4aTlDV0U4S0paUGVRUjZXTFFlX2ZjS2R6SDNzTF9Dc1pqSGlYQk5LY25YRTQxNnhnT3RWdXRVeTRPWmFUY0s2cGxubnhCS09ISjBv?oc=5) |
