@@ -1,5 +1,12 @@
 [
   {
+    "title": "Tearing Down a Heavy Oscilloscope",
+    "source": "Hackaday",
+    "date": "2026-10-04",
+    "url": "https://hackaday.com/2026/10/04/tearing-down-a-heavy-oscilloscope/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/tek.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When [Thomas] showed his 1960s-era Tektronix 545A oscilloscope in a recent video, it made us both nostalgic and happy. Nostalgic because we miss the days when our oscilloscopes were &#8220;mainframes&#8221; <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/tearing-down-a-heavy-oscilloscope/\">&#8230;read more</a>"
+  },
+  {
     "title": "AVR Laptop Pushes the Limits of 8-Bit",
     "source": "Hackaday",
     "date": "2026-10-04",
@@ -49,11 +56,18 @@
     "summary": "<div><img alt=\"ESP WebSDR showing the live 2.4 GHz spectrum and waterfall using raw I Q data captured from an ESP32 S3\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/ESP-WebSDR-showing-the-live-2.4-GHz-spectrum-and-waterfall-using-raw-I-Q-data-captured-from-an-ESP32-S3-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We have seen ESP32s used for everything from simple IoT devices to AI, audio, and vision projects. But while looking for a new project, I found out about ESP-SDR firmware, which turns the ESP32 into a native Software-Defined Radio (SDR) without additional hardware. This open-source firmware bypasses the ESP32’s fixed-function Wi-Fi and Bluetooth modems and taps directly into the internal ADC signal chain to capture raw I/Q baseband samples. It then sends these samples to a computer over USB or UART, where they can be processed and viewed as a radio spectrum or waterfall display, turning supported ESP32 chips into low-cost software-defined radio receivers without requiring additional SDR hardware. Key features and supported hardware: Supported chips &#8211; ESP32, ESP32-C3, ESP32-C5 (dual-band 2.4/5 GHz), ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3, and the preview ESP32-S31 Tuning range &#8211; Nominally 2.4 GHz ISM (2.2–2.7 GHz on some chips) and 5 GHz (4.8–6.0 GHz on ESP32-C5); The [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr/\">ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "A Good DIY Solder Stencil Begins With a Cleanly-Sliced Soda Can",
-    "source": "Hackaday",
-    "date": "2026-10-03",
-    "url": "https://hackaday.com/2026/10/03/a-good-diy-solder-stencil-begins-with-a-cleanly-sliced-soda-can/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Laser-cutting-PCB-stencil-_-Xtool-F1-Ultra-_-Turn-a-Soda-Can-Into-a-PCB-Solder-Paste-Stencil-0-7-screenshot-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Solder stencils are a fantastic way to accurately apply solder paste to a PCB. Professionally-made stencils are cut from steel, but for the home hacker, soda cans continue to be <a class=\"read-more\" href=\"https://hackaday.com/2026/10/03/a-good-diy-solder-stencil-begins-with-a-cleanly-sliced-soda-can/\">&#8230;read more</a>"
+    "title": "The Aquabots are Swimming",
+    "source": "Adafruit",
+    "date": "2026-10-04",
+    "url": "https://blog.adafruit.com/2026/10/04/the-aquabots-are-swimming/",
+    "summary": "MIT engineers developed a soft robot that can flap through water in response to flashes of light. Credits: Photo: Melanie Gonick, MIT via MIT MIT engineers have developed a thin, muscle-powered swimming robot. The engineers showed that the paper-thin bot could swim and swivel through a simple watery maze. At its fastest, the robot can [&#8230;]"
+  },
+  {
+    "title": "Phyllotaxis: An audio-reactive LED display",
+    "source": "Adafruit",
+    "date": "2026-10-04",
+    "url": "https://blog.adafruit.com/2026/10/04/phyllotaxis-an-audio-reactive-led-display/",
+    "summary": "A phyllotaxis describes a distinct arrangement of leaves some plants form. It is one of nature&#8217;s mesmerizing patterns and one that maker Jagi Natarajan is particularly interested in. In this project they created spiraling audio-reactive LED display. It has 89 individual cells each lit by an addressable LED. The project has already gone through two [&#8230;]"
   },
   {
     "title": "UUNA TEK iAuto review – A professional handwriting and drawing machine",
@@ -236,20 +250,6 @@
     "date": "2026-10-02",
     "url": "https://blog.adafruit.com/2026/10/02/get-ready-for-electronic-halloween-with-adafruit-matrix-portal/",
     "summary": "What&#8217;s the easiest way to make a custom colorful LED display for Halloween? Like, no solder, no wiring, just instant plug-and-play? Adafruit Matrix Portal! With our add-on for RGB Matricies it&#8217;s never been easier. Plug directly into the back of any Adafruit HUB-75 display (all the ones we stock will work) from 16&#215;32 up to [&#8230;]"
-  },
-  {
-    "title": "Cybernetic Animated Eyeball #ElectronicHalloween",
-    "source": "Adafruit",
-    "date": "2026-10-02",
-    "url": "https://blog.adafruit.com/2026/10/02/cybernetic-animated-eyeball-electronichalloween/",
-    "summary": "The Cyberdyne Systems T-800 Series Model 101 Terminator is one of the all time classic cyborg characters from science fiction. You can get a terrific Halloween mask of the T-800 and even display it as a piece of artwork, but it&#8217;s just missing a little something. I know, a terrifying cyborg eyeball to look around, [&#8230;]"
-  },
-  {
-    "title": "Celebrate National Hispanic Heritage Month with The Miami-Dade Public Library System #HispanicHeritageMonth",
-    "source": "Adafruit",
-    "date": "2026-10-02",
-    "url": "https://blog.adafruit.com/2026/10/02/celebrate-national-hispanic-heritage-month-with-the-miami-dade-public-library-system-hispanicheritagemonth/",
-    "summary": "The Miami-Dade Public Library System is celebrating National Hispanic Heritage Month with a variety of events, recommended reads for kids, and resources."
   },
   {
     "title": "Vector and SCSK Collaborate to Simplify Embedded Software Development on Renesas RL78/F2x",
