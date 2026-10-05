@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-05 09:39 UTC
+Generated: 2026-10-05 18:53 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,35 +14,35 @@ Generated: 2026-10-05 09:39 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83614 | 33445.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63808 | 25523.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44630 | 17852.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30630 | 12252.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28812 | 11524.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83622 | 33448.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63819 | 25527.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44631 | 17852.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30633 | 12253.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28813 | 11525.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 239 | 72.0 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 99 | 29.8 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
-| j-llm/action1.5-policy | 77 | 23.6 | [link](https://huggingface.co/j-llm/action1.5-policy) |
-| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 69 | 21.2 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
-| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2 | 66 | 19.9 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2) |
+| pollen-robotics/microduck-policies | 24790 | 7440.3 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 242 | 72.9 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
+| ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 100 | 30.1 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
+| j-llm/action1.5-policy | 79 | 24.2 | [link](https://huggingface.co/j-llm/action1.5-policy) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy | 66 | 20.3 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-10-02 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5) |
+| 2026-10-01 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2JQV082eW5UcHB5czB0eTNSVmxaZEdoVVRFODZ1ZEhKWDd5dnRWa24yUV84dC00bWdpT3ZwdTI4N0ZsbVJ6bHZKMlozOFVYV21yR1BEaFdPWnVYYk5WZzhaNGd6Nl9YaGV4VG9qTGdZUUZLVnIyaXFoMVBNbVlJNGt5VjRjTjB1d3hRRzg1ajZzQUticlR4QUszRFZlUlhwczNCVUZydkRBT0dx?oc=5) |
 | 2026-10-01 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnhWcVl6V2NIUXN5aEo1UVdDZDI0SFBCeGRrNXl1Q2RlZ1plQWo0eGN5S3YzWHhreG0tUFlNeklyVllVNmRBU2xOOHNRbXZ5ZlpIZGx2NjZoRWluRUFjVUphZnNjSEdzQ0hwbWdZeGFjSUZwSC1rMkNmbmlhTllfeW9yTzgtakt4eDFXa1F2bzFIaERzVV9Fd2pWYXZnUGFmM3lN?oc=5) |
 | 2026-09-30 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnlOVUlTN0d1bE9mWEswaHBUVW02NUpTa21Lc0xkb01ReXExTnZjblVZOFhQNDJlbzN2MzN6YjNZcW5abkV0Q0ZUd1F1XzdnMlNDM2NQTFJQbHFfd01DdEJVMjNwNVh0VHI2WndfOGtLRWRSaE5FbzhtaFQ1al9obEFiclpGR2JOTEstcVlpNXlZb3Nld1c2NmpWVjQ0RjFhQVBJSFdreHZBU1hYNkRmbURDVXpwVTJRMGptSHZjYVE?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
-| 2026-09-26 | Skild AI |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFI3R3c4MVBtRWFrQXJWLXpaY3BwVW1wRUthS19EaU15SEdWYTdZWGc4WEJyN3RFOXNJUjEtM2xNMjhBcnRDNVNqY3d5SVgxb3BUMGlTX1ByemJFeWJHb1l5ODFnN1g3TllWaTJ0YjYycVZQeS1lNV9DTGFWSDhKQzFXb3dhdnZyb2QzU3ZTOTRETzVTN1FoTDcyQ2NYSV9RYWtwZlhlOEpMU1RMdzFqZ1QtT1BTamRNYUpQazBrOTl0OXBqcXNqTVYzeXFWd1gz?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-10-05 | Can Patent Filings Help Physical AI Companies Raise Capital? - mondaq.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWY2Z0RjT1ltQlpnV09ZbDFaNXNaVUQxVlJTTG1KRGVyN25HZFVNZXozd2FVT3djQnJiYnNkUW1wZGRtaXVicUhjV0E2UVlGWFRhLXFOYV9jUGJldV81SnhBVVNLR1VQMHJCb1JCaGZyeEdMaFJLOEpGcFl4RmtJSmdxc3pSSENLdTdHcHhTQmpxelVZcG5mZDA3Zy1iMWljSkdVejVuOXRqWTBSY2lZMVNjS1ZZeThKdXpWMHN0blo4LVhzVTZ1bw?oc=5) |
+| 2026-10-05 | RobCo Hits $1 Billion Valuation on Physical AI Demand - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVZFTnBEV2M1bmpfNDBHbkVXR2R1V1FMUXA4QkxJYk5VZEt2eVBBejNzbFV3bmFUdW03UzFpVUdDMWlibDB3MVVKSy16WXpUbXRwY1UtQWs4dTREdUtCUHhmeHp0ekJHT2p6bDlCWmZMVy1xdFM0UnFReHFFV2xEaDFJcU1oVnI1ZDlhWVFselpqRHNhMk1KRkxVWTBZTWpuLW9ZRFZkQ0NGaWp6R0ZtWkJRdUpoQ1ZjTjQ2OGh3?oc=5) |
+| 2026-10-05 | German robotics startup RobCo hits $1B valuation: WSJ - TradingView | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2hGbzFPTWNFZlZYa19Hcld4QkllT0hnVFVNV0I3bGR5aWpXa2E3dnhaVjRicXhHaGc2WG5TVmV4NHVYQ3RyNHd4VHhzLVR5aVZxbklnVkNtWWV6Vk9Vd0E5N3hxbDFGM3hiMTF4TkkxaTJYdXVtTy10VWl6UWlNa3FFTkpuMnRiRDVTbmJlRHZKSExxOVY2dDQ3WnpidnpXclRneG1YS2VPM1BCT1VJcF9PZG0?oc=5) |
+| 2026-10-05 | Humanoid robots pummel YouTuber in cage matches, California tells startup to stop the fights - TechSpot | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1V2eWpwM00xRlNxTm03VmxxRDhVMkhOSnlBQ0U0N2JKU2lablNCeW5hOWxjNW04VWVEdU5JZ2w1dkZEUTNQMTUyQTg5c2dpUlBvR215RWM3TUZVWk5fazVWaExHUW5FS2FFVXZvakc2Z0NqUFc1MmZ2X2x3TmtqYjcyQTQ0aXNMZHNtU1A5Z1VVaDIwdF94WFQ2a3QyOEZXanNXMHJ3?oc=5) |
 | 2026-10-04 | Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids - Tom's Hardware | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzR6OVd2V0ZxdEx3SGNKc2pMdFdmcmVsSWNwcnRUR3FYdmtFMmdiQnlETVV0OEhVVjhwMUtrOW5FUDh3Q09wZnNsbTJYQm13RVNYMTlKS29NMExDZE0tMGhwWTRkU3JJMHNrcXFIX05aUDZ5ekZpYUJkbnlTbzZZQjFfTEFUUzdlZnA1MXdOTm1FQXlJdHM4RmRDRk1DYzh5bUZydGVSYlh4ZHU1dDF6Z3llelNGWkdoVkJVOG4zaktzV3RmU010dldCQUlsT2l6Q1A2WjRlZWpCLVYwMXExbTQyaHBJcnB5SW9PLWlBb1VFeVRlZmhaVE5BeHprUXhqQTlYUHlNUDRRWkpoNmw2WVVKakFsQ0JxYzBCdklIbnhlNnlSaVh2UE9mdk9ycm00bllJcV9yMDhwX3ZGMWdOSjV4WVZ5RGpKZi05Z1lxX3Nxc2p1d0tDcw?oc=5) |
-| 2026-10-02 | The Godmother of AI Just Sold Her Startup for $8.2 Billion. Here’s Why Embodied AI Founders Are Nervous. - vocal.media | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pvbkFiRk5JbGNybE9sMVczaGp0Z3M3dEJraUQzY0ZFU2lYWVJiSmpKMXByMzNjNkxkV1BwNnhxZHp1UWFZSDVjVk1kUVNNZ293Zi1vZXJ0OEFnU1RYdTE5YkNueHZRLThWYy1xSlczbDYxVnZnODlpMXVvWUg4cEFhY2p4VzRZVUdJOV9Za0M5ZHRpSEhxRHhkeFpCY1o2S3JOWEk5OW1MeFpMbkxsQVc4ZHJKWWlwMnJHMmVHOA?oc=5) |
-| 2026-10-02 | Rosota selected for TIPS with surgical technique data collection and standardisation technology - digitaltoday.co.kr | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa2NLRUJONVg1d3hoeGhtVWZYZEpKaVZLNlhvbU96b1lwYkg1cHdBeHh0d3ZaVGkyZlNMSmNSUDZIcWpGV05BVkt0ZzBvRzlrMGRfejlwejVQaXQ1WGJvRUFTOVUtYmNXQU1TSk1PRG5uZExHMElXU1YzM2NOYXVjNlhLekp0UlRyMjFCR091N0thTzdzanpMdng3QWRFYVF2Ri1Gdm5PZmNLaEd2TFpTdzZvMVJSLXVKb2haczBHaVNkUDN4akRMOGRMeEpzUFZFZGZsRVJHYw?oc=5) |
-| 2026-10-01 | Humanoid robots take shape based on occupational needs - 조선일보 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3kta1p0RzVNT2Y0OWZObXBveGlTMThHNUc0MWdDMTF2a19hYzI3Vi01MFk5RHpiSVN0UGoxN3k4TndyaTZTOFpyb1ZWZFBwaWJpVGZudk1iYW5QMTdlZk9EQnEtOGFua1RnRXVFNDdhbDh3bEkwSzIwb3dtNmxfdXpJMmwzQjFo?oc=5) |
+| 2026-10-02 | The Godmother of AI Just Sold Her Startup for $8.2 Billion. Here’s Why Embodied AI Founders Are Nervous. - Vocal | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pvbkFiRk5JbGNybE9sMVczaGp0Z3M3dEJraUQzY0ZFU2lYWVJiSmpKMXByMzNjNkxkV1BwNnhxZHp1UWFZSDVjVk1kUVNNZ293Zi1vZXJ0OEFnU1RYdTE5YkNueHZRLThWYy1xSlczbDYxVnZnODlpMXVvWUg4cEFhY2p4VzRZVUdJOV9Za0M5ZHRpSEhxRHhkeFpCY1o2S3JOWEk5OW1MeFpMbkxsQVc4ZHJKWWlwMnJHMmVHOA?oc=5) |
