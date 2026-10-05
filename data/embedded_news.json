@@ -1,5 +1,33 @@
 [
   {
+    "title": "Upgrading a Benchtop Laser for Megawatt Power",
+    "source": "Hackaday",
+    "date": "2026-10-05",
+    "url": "https://hackaday.com/2026/10/04/upgrading-a-benchtop-laser-for-megawatt-power/",
+    "summary": "<div><img alt=\"A dark optical bench is shown, with a lens in the right-hand part of the image. In front of the image, a bright blue spark appears in the air, with no equipment near it.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/q-switch_laser_spark.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One fascinating thing about a pulsed laser is that, though the average power may be measured in watts or milliwatts, the peak power can easily reach millions of times that. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/upgrading-a-benchtop-laser-for-megawatt-power/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Geekworm UPS Scap 5V5A – A supercapacitor UPS HAT for Raspberry Pi 5",
+    "source": "CNX Software",
+    "date": "2026-10-05",
+    "url": "https://www.cnx-software.com/2026/10/05/geekworm-ups-scap-5v5a-a-supercapacitor-ups-hat-for-raspberry-pi-5/",
+    "summary": "<div><img alt=\"Geekworm’s Raspberry Pi 5 supercapacitor UPS HAT\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Geekworms-Raspberry-Pi-5-supercapacitor-UPS-HAT-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Geekworm, in collaboration with Mcuzone, has launched the UPS Scap 5V5A, a new supercapacitor UPS HAT for the Raspberry Pi 5 designed to keep the Raspberry Pi running long enough (a few seconds to a few minutes) to save data and shut down safely, rather than provide hours of backup power. Available in 100F, 60F, and 22F versions, the HAT has a built-in PD chip that negotiates a true 5V/5A output. This gives the Raspberry Pi 5 enough power to run properly without triggering the low-voltage warnings that can happen with some power supplies. The module connects to the Raspberry Pi 5 through pogo pins to detect power loss and supports I2C for checking voltage and current in real time. It also features dual independent power inputs, so you can power it with either a wide-voltage DC barrel jack or a standard USB-C PD charger. Geekworm UPS Scap 5V5A supercapacitor [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/05/geekworm-ups-scap-5v5a-a-supercapacitor-ups-hat-for-raspberry-pi-5/\">Geekworm UPS Scap 5V5A &#8211; A supercapacitor UPS HAT for Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Ed The Scammer",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-the-scammer-2026-10/",
+    "summary": "<p>The obscene price of memory has spawned ‘Scamaggedon’ &#8211; a tsunami of  fake parts hitting the market, Ed confides to his diary. The guy with his finger on the pulse [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-the-scammer-2026-10/\">Ed The Scammer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Adafruit Weekly Editorial Round-Up: Adafruit Top 10, Pepper’s Ghost effect, 3D printing Timelapse and more!",
+    "source": "Adafruit",
+    "date": "2026-10-05",
+    "url": "https://blog.adafruit.com/2026/10/04/adafruit-weekly-editorial-round-up-adafruit-top-10-peppers-ghost-effect-3d-printing-timelapse-and-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Adafruit’s Top 10 [&#8230;]"
+  },
+  {
     "title": "Hackaday Links: October 3, 2026",
     "source": "Hackaday",
     "date": "2026-10-04",
@@ -40,13 +68,6 @@
     "date": "2026-10-04",
     "url": "https://hackaday.com/2026/10/04/bringing-the-moon-home-with-plotting/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/I-Tried-Making-a-Pen-Plotter-to-Draw-Maps-of-the-Moon-27-58-screenshot-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When you look into the night sky, you can&#8217;t help but wish to bring the outer worlds to your doorstep. One of the best ways to do that is to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/bringing-the-moon-home-with-plotting/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Debloat The Internet With a Self-Hosted Compressing Proxy",
-    "source": "Hackaday",
-    "date": "2026-10-04",
-    "url": "https://hackaday.com/2026/10/03/debloat-the-internet-with-a-self-hosted-compressing-proxy/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/compression-proxy.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s no secret that the size of webpages has been slowly &#8212; or not so slowly &#8212; creeping up over the years. Does a simple website need to span multiple <a class=\"read-more\" href=\"https://hackaday.com/2026/10/03/debloat-the-internet-with-a-self-hosted-compressing-proxy/\">&#8230;read more</a>"
   },
   {
     "title": "ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)",
@@ -126,6 +147,69 @@
     "summary": "<p>Local partners make it easier to align on requirements fast, handle revisions quickly, and validate complex boards with real-time collaboration.</p>\n<p>The post <a href=\"https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations/\">Local PCB Prototyping Cuts Delays and Speeds Iterations</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
+    "title": "Most Read – VersaBeam Mini, Micron booming, TSMC fabs",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-versabeam-mini-micron-booming-tsmc-fabs-2026-10/",
+    "summary": "<p>The most popular ones on the site include Micron having a $54bn revenue quarter, Anthropic revealing the biggest pre-IPO loss in history and TSMC looking to build six fabs in Texas...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-versabeam-mini-micron-booming-tsmc-fabs-2026-10/\">Most Read &#8211; VersaBeam Mini, Micron booming, TSMC fabs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "TDK DC-link film capacitors rated for up to +135 °C",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/",
+    "summary": "<p>TDK is introducing its B3272*A/G/T series of DC-link film capacitors that are qualified for continuous operation at case temperatures of up to +135 °C, with no derating required up to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/\">TDK DC-link film capacitors rated for up to +135 °C</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "US Chip Dominance Will Disappear",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/us-chip-dominance-will-disappear-2026-10/",
+    "summary": "<p>The renowned UK semiconductor expert, Dr Ian Mackintosh, argued in his keynote address at the 1978 International Solid State Circuits Conference in San Francisco, that much of America’s dominance in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/us-chip-dominance-will-disappear-2026-10/\">US Chip Dominance Will Disappear</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/slg46801-ultra-compact-greenpak-ic-offers-multi-time-programmability-2026-10/",
+    "summary": "<p>Renesas Electronics is sampling the SLG46801, its smallest GreenPAK configurable mixed-signal device. The 9-ball device combines an ultra-small footprint with multi-time programmability, highlights Renesas. It is aimed at compact products [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/slg46801-ultra-compact-greenpak-ic-offers-multi-time-programmability-2026-10/\">SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "OpenWorks eyes US market for AI-powered autonomous vision systems",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/news/business/openworks-eyes-us-market-for-ai-powered-autonomous-vision-systems-2026-10/",
+    "summary": "<p>Northumberland’s OpenWorks Engineering, a UK defence technology company, has announced its expansion into the US market. Specifically it is opening a US regional headquarters in Ashburn, Virginia. And future plans [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/openworks-eyes-us-market-for-ai-powered-autonomous-vision-systems-2026-10/\">OpenWorks eyes US market for AI-powered autonomous vision systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Synopsys and OpenAI to teach AI models to use EDA tools",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/news/business/synopsis-and-openai-to-automate-chip-design-2026-10/",
+    "summary": "<p>Synopsys and OpenAI are to jointly develop GPT-Synopsys, a specialised model, optimised to use Synopsys EDA tools to perform semiconductor design workflows. The agreement includes a revenue sharing arrangement and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/synopsis-and-openai-to-automate-chip-design-2026-10/\">Synopsys and OpenAI to teach AI models to use EDA tools</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "NeuroIGNITOR enables design and test simulation paradigms in living tissue",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/news/business/neuroignitor-enables-researchers-to-design-and-test-stimulation-paradigms-in-living-tissue-2026-10/",
+    "summary": "<p>Imec’a NeuroIGNITOR platform enables neuromodulation researchers and device developers to design and test stimulation paradigms directly in living tissue. It is a selective, bidirectional system that drastically reduces off-target effects [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/neuroignitor-enables-researchers-to-design-and-test-stimulation-paradigms-in-living-tissue-2026-10/\">NeuroIGNITOR enables design and test simulation paradigms in living tissue</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "H1 sales of petrol cars less than 50% of market for first time",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/news/business/h1-sales-of-petrol-cars-less-than-50-of-market-for-first-time-2026-10/",
+    "summary": "<p>In H1, for the first time, petrol cars took  less than 50% of global new-vehicle sales, says Mobility Global. Sales of petrol-engine vehicles fell 10% on the year to 20.25 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/h1-sales-of-petrol-cars-less-than-50-of-market-for-first-time-2026-10/\">H1 sales of petrol cars less than 50% of market for first time</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "SpaceX gives Filtronic its largest-ever order",
+    "source": "Electronics Weekly",
+    "date": "2026-10-02",
+    "url": "https://www.electronicsweekly.com/news/filtronic-gets-largest-ever-order-2026-10/",
+    "summary": "<p>Filtronic has secured its largest ever single order -worth $68.1 million &#8211; to supply parts for Starlink. The order is for Filtronic’s Cerus, E-Band GaN Solid State Power Amplifier (SSPA) [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/filtronic-gets-largest-ever-order-2026-10/\">SpaceX gives Filtronic its largest-ever order</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "HalloWing M4 Tombstone",
     "source": "Adafruit",
     "date": "2026-10-02",
@@ -173,13 +257,6 @@
     "date": "2026-10-02",
     "url": "https://blog.adafruit.com/2026/10/02/sensea-underwater-camera-raspberry-pi-raspberrypi/",
     "summary": "Via Raspberrypi.com/news Sensea was conceived as “a low-cost DIY underwater explorer that would reveal what’s going on below the surface of our local ponds and rivers”, proving that you don’t need expensive equipment to investigate the depths. For context, the boys’ agitated pleas for a GoPro fell on deaf ears, so they built a custom [&#8230;]"
-  },
-  {
-    "title": "Get Ready for Electronic Halloween with Adafruit Matrix Portal",
-    "source": "Adafruit",
-    "date": "2026-10-02",
-    "url": "https://blog.adafruit.com/2026/10/02/get-ready-for-electronic-halloween-with-adafruit-matrix-portal/",
-    "summary": "What&#8217;s the easiest way to make a custom colorful LED display for Halloween? Like, no solder, no wiring, just instant plug-and-play? Adafruit Matrix Portal! With our add-on for RGB Matricies it&#8217;s never been easier. Plug directly into the back of any Adafruit HUB-75 display (all the ones we stock will work) from 16&#215;32 up to [&#8230;]"
   },
   {
     "title": "Vector and SCSK Collaborate to Simplify Embedded Software Development on Renesas RL78/F2x",
@@ -334,13 +411,6 @@
     "date": "2026-09-29",
     "url": "https://www.embedded.com/eu-cyber-resilience-act-secure-by-design-vs-bolt-on-security/",
     "summary": "<p>Making the right security choices for the EU Cyber Resilience Act and why this matters now.</p>\n<p>The post <a href=\"https://www.embedded.com/eu-cyber-resilience-act-secure-by-design-vs-bolt-on-security/\">EU Cyber Resilience Act: Secure-By-Design vs. Bolt-On Security</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Critical Link MitySOM-AM62x/A/P – TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation",
-    "source": "CNX Software",
-    "date": "2026-09-28",
-    "url": "https://www.cnx-software.com/2026/09/28/critical-link-mitysom-am62x-a-p-ti-sitara-am62-so-dimm-soms-for-edge-ai-and-industrial-automation/",
-    "summary": "<div><img alt=\"MitySOM AMxx Dev Kit\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/MitySOM-AMxx-Dev-Kit-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Critical Link MitySOM-AM62x/A/P is a family of TI Sitara AM62-based industrial SO-DIMM SoMs designed for embedded Linux systems, industrial automation, HMI, and other embedded applications. The family includes the general-purpose MitySOM-AM62, AI-focused MitySOM-AM62A, and multimedia-oriented MitySOM-AM62P system-on-modules. The standard AM62 modules feature up to a quad-core Arm Cortex-A53 processor at 1.4 GHz, along with a 400 MHz Cortex-M4F MCU and dual programmable real-time units (PRUs). The AM62A adds a C7x DSP with Matrix Multiply Accelerator supporting up to 2 TOPS and an image signal processor (ISP), while the AM62P includes a 3D GPU rated above 50 GFLOPS and a four-lane MIPI DSI output. MitySOM-AM62x / AM62Ax / AM62Px specifications: SoM options MitySOM-AM62x – Texas Instruments Sitara AM62x Application CPU – Up to Quad-core Arm Cortex-A53 up to 1.4 GHz Real-time cores Arm Cortex-M4F up to 400 MHz Dual-core Programmable Real-Time Unit (PRU-SS) up to 333 MHz GPU – 3D Graphics [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/28/critical-link-mitysom-am62x-a-p-ti-sitara-am62-so-dimm-soms-for-edge-ai-and-industrial-automation/\">Critical Link MitySOM-AM62x/A/P &#8211; TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "EU Cyber Resilience Act Shifts Secure-by-Design for Embedded Developers",
