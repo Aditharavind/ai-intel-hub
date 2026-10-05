@@ -1,5 +1,19 @@
 [
   {
+    "title": "Conveyor Belt GBoard Brings the Keys to You",
+    "source": "Hackaday",
+    "date": "2026-10-05",
+    "url": "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/gboard-conveyer-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It must be April in October again, because Google Japan has a new, hilariously impractical reimagining of the keyboard: a conveyor belt. This time it&#8217;s on GitHub with firmware, STLs, <a class=\"read-more\" href=\"https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/\">&#8230;read more</a>"
+  },
+  {
+    "title": "It’s GW-BASIC, Jim, But Not as We Know It",
+    "source": "Hackaday",
+    "date": "2026-10-05",
+    "url": "https://hackaday.com/2026/10/04/its-gw-basic-jim-but-not-as-we-know-it/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/thoreau-basic-1-e1791126487232.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Back in the old days the IBM-PC, like most of its contemporary computers, shipped with BASIC in ROM. Even after it stopped living in ROM, IBM-Compatibles shipped with GW-BASIC, and <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/its-gw-basic-jim-but-not-as-we-know-it/\">&#8230;read more</a>"
+  },
+  {
     "title": "Upgrading a Benchtop Laser for Megawatt Power",
     "source": "Hackaday",
     "date": "2026-10-05",
@@ -7,11 +21,67 @@
     "summary": "<div><img alt=\"A dark optical bench is shown, with a lens in the right-hand part of the image. In front of the image, a bright blue spark appears in the air, with no equipment near it.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/q-switch_laser_spark.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One fascinating thing about a pulsed laser is that, though the average power may be measured in watts or milliwatts, the peak power can easily reach millions of times that. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/upgrading-a-benchtop-laser-for-megawatt-power/\">&#8230;read more</a>"
   },
   {
+    "title": "DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support",
+    "source": "CNX Software",
+    "date": "2026-10-05",
+    "url": "https://www.cnx-software.com/2026/10/05/debix-m8391-01-industrial-sbc-features-mediatek-genio-720-soc-with-9-tops-npu-dual-display-support/",
+    "summary": "<div><img alt=\"DEBIX M8391 01 SBC with MediaTek Genio 720 SoCjpg\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/DEBIX-M8391-01-SBC-with-MediaTek-Genio-720-SoCjpg-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The DEBIX M8391-01 is a compact industrial SBC built around the MediaTek MT8391 (Genio 720) processor, designed for edge AI, computer vision, robotics, and intelligent IoT applications. The S0C&#8217;s 9-TOPS NPU enables local AI inference without relying on cloud processing. The board features up to 16GB LPDDR4 memory and up to 64GB eMMC storage, with M.2 PCIe 2.0 NVMe SSD and MicroSD card expansion. It also offers a 4-lane MIPI CSI camera input, MIPI DSI up to 2.5K and eDP 1.4 display interfaces, Gigabit Ethernet with PoE, Wi-Fi 6, Bluetooth 5.4, five USB ports, and a 40-pin expansion header. With an industrial operating temperature range (-40°C to 85°C), this credit card-sized, Raspberry Pi-inspired SBC can be used for edge AI vision, robotics, industrial IoT, and other embedded systems. DEBIX M8391-01 specifications: MediaTeck Genio 720 (MT8391) CPU Commercial-grade (default) – 2x Arm Cortex-A78 cores @ up to 2.6 GHz, 6x Arm [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/05/debix-m8391-01-industrial-sbc-features-mediatek-genio-720-soc-with-9-tops-npu-dual-display-support/\">DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Geekworm UPS Scap 5V5A – A supercapacitor UPS HAT for Raspberry Pi 5",
     "source": "CNX Software",
     "date": "2026-10-05",
     "url": "https://www.cnx-software.com/2026/10/05/geekworm-ups-scap-5v5a-a-supercapacitor-ups-hat-for-raspberry-pi-5/",
     "summary": "<div><img alt=\"Geekworm’s Raspberry Pi 5 supercapacitor UPS HAT\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Geekworms-Raspberry-Pi-5-supercapacitor-UPS-HAT-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Geekworm, in collaboration with Mcuzone, has launched the UPS Scap 5V5A, a new supercapacitor UPS HAT for the Raspberry Pi 5 designed to keep the Raspberry Pi running long enough (a few seconds to a few minutes) to save data and shut down safely, rather than provide hours of backup power. Available in 100F, 60F, and 22F versions, the HAT has a built-in PD chip that negotiates a true 5V/5A output. This gives the Raspberry Pi 5 enough power to run properly without triggering the low-voltage warnings that can happen with some power supplies. The module connects to the Raspberry Pi 5 through pogo pins to detect power loss and supports I2C for checking voltage and current in real time. It also features dual independent power inputs, so you can power it with either a wide-voltage DC barrel jack or a standard USB-C PD charger. Geekworm UPS Scap 5V5A supercapacitor [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/05/geekworm-ups-scap-5v5a-a-supercapacitor-ups-hat-for-raspberry-pi-5/\">Geekworm UPS Scap 5V5A &#8211; A supercapacitor UPS HAT for Raspberry Pi 5</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Professor Cyril Hilsum 1925-2026",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/news/business/professor-cyril-hilsum-1925-2026-2026-10/",
+    "summary": "<p>Professor Cyril Hilsum, physicist and academic has died at the age of 101. Hilsum had a long career and was responsible for introducing III-V semiconductor, semiconductor lasers, Gunn diodes and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/professor-cyril-hilsum-1925-2026-2026-10/\">Professor Cyril Hilsum 1925-2026</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "BT buys TalkTalk",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/news/business/bt-buys-talk-talk-2026-10/",
+    "summary": "<p>BT has bought TalkTalk out of administration for £400 million, overriding competition issues to protect vulnerable customers who rely on its support services. ‘Our focus is simple,’ says BT to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/bt-buys-talk-talk-2026-10/\">BT buys TalkTalk</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Robotaxis acquiring a business case",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/news/business/robotaxis-getting-a-business-case-2026-10/",
+    "summary": "<p>The global robotaxi fleet is expected to reach 331,000 vehicles in 2031, an average annual growth of 78%, says Yole. Powering the expansion are a 70% reduction in vehicle BOM [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/robotaxis-getting-a-business-case-2026-10/\">Robotaxis acquiring a business case</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "SK Hynix chairman to sell shares worth $700m",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/news/business/sk-hynix-chairman-to-sell-shares-worth-700m-2026-10/",
+    "summary": "<p>S K Hynix chairman Chey Tae-Won(pictured) is selling $700 million worth of Hynix stock representing a 2.26% stake in the company. The sale is to finance a divorce settlement in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sk-hynix-chairman-to-sell-shares-worth-700m-2026-10/\">SK Hynix chairman to sell shares worth $700m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "The best product ever",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/news/business/the-best-product-ever-2026-10/",
+    "summary": "<p>Tesla is aiming for an Optimus production line of 1,000 robots a week by the end of this year from its Fremont, California factory. The factory, a converted car factory, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/the-best-product-ever-2026-10/\">The best product ever</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Qorvo sampling C-band radar ICs for pulsed ESA systems",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/news/business/qorvo-sampling-c-band-radar-ics-for-pulsed-esa-systems-2026-10/",
+    "summary": "<p>At C-band, frequency agility across 5.2 to 5.9 GHz has meant assembling discrete filters, switches and RF routing because an integrated switched filter bank has not been available. At high [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qorvo-sampling-c-band-radar-ics-for-pulsed-esa-systems-2026-10/\">Qorvo sampling C-band radar ICs for pulsed ESA systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Oversized Cable Exits",
+    "source": "Electronics Weekly",
+    "date": "2026-10-05",
+    "url": "https://www.electronicsweekly.com/news/products/connectors/oversized-cable-exits-2026-10/",
+    "summary": "<p>Yamaichi Electronics is expanding its Y-Cir P T-Series with new Oversize Cable Exits. These allow for the use of larger cable diameters by utilising cable exits from the next larger [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/oversized-cable-exits-2026-10/\">Oversized Cable Exits</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Ed The Scammer",
@@ -54,20 +124,6 @@
     "date": "2026-10-04",
     "url": "https://hackaday.com/2026/10/04/motion-control-via-belt/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/move.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Tolko] wanted to encourage kids to have some physical activity, but noted that they only wanted to play games. That led to BlobJump, a Raspberry Pi-based game sort of like <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/motion-control-via-belt/\">&#8230;read more</a>"
-  },
-  {
-    "title": "AI on Your Gaming PC",
-    "source": "Hackaday",
-    "date": "2026-10-04",
-    "url": "https://hackaday.com/2026/10/04/ai-on-your-gaming-pc/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"617\" src=\"https://hackaday.com/wp-content/uploads/2026/10/strat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you want to experiment with LLMs, you typically have a choice of sending your requests to someone else&#8217;s computer or fielding a very large GPU and CPU setup to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/ai-on-your-gaming-pc/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The Big Moon Plot",
-    "source": "Hackaday",
-    "date": "2026-10-04",
-    "url": "https://hackaday.com/2026/10/04/bringing-the-moon-home-with-plotting/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/I-Tried-Making-a-Pen-Plotter-to-Draw-Maps-of-the-Moon-27-58-screenshot-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When you look into the night sky, you can&#8217;t help but wish to bring the outer worlds to your doorstep. One of the best ways to do that is to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/04/bringing-the-moon-home-with-plotting/\">&#8230;read more</a>"
   },
   {
     "title": "ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)",
@@ -159,55 +215,6 @@
     "date": "2026-10-02",
     "url": "https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/",
     "summary": "<p>TDK is introducing its B3272*A/G/T series of DC-link film capacitors that are qualified for continuous operation at case temperatures of up to +135 °C, with no derating required up to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/\">TDK DC-link film capacitors rated for up to +135 °C</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "US Chip Dominance Will Disappear",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/us-chip-dominance-will-disappear-2026-10/",
-    "summary": "<p>The renowned UK semiconductor expert, Dr Ian Mackintosh, argued in his keynote address at the 1978 International Solid State Circuits Conference in San Francisco, that much of America’s dominance in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/us-chip-dominance-will-disappear-2026-10/\">US Chip Dominance Will Disappear</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/slg46801-ultra-compact-greenpak-ic-offers-multi-time-programmability-2026-10/",
-    "summary": "<p>Renesas Electronics is sampling the SLG46801, its smallest GreenPAK configurable mixed-signal device. The 9-ball device combines an ultra-small footprint with multi-time programmability, highlights Renesas. It is aimed at compact products [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/slg46801-ultra-compact-greenpak-ic-offers-multi-time-programmability-2026-10/\">SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "OpenWorks eyes US market for AI-powered autonomous vision systems",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/openworks-eyes-us-market-for-ai-powered-autonomous-vision-systems-2026-10/",
-    "summary": "<p>Northumberland’s OpenWorks Engineering, a UK defence technology company, has announced its expansion into the US market. Specifically it is opening a US regional headquarters in Ashburn, Virginia. And future plans [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/openworks-eyes-us-market-for-ai-powered-autonomous-vision-systems-2026-10/\">OpenWorks eyes US market for AI-powered autonomous vision systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Synopsys and OpenAI to teach AI models to use EDA tools",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/synopsis-and-openai-to-automate-chip-design-2026-10/",
-    "summary": "<p>Synopsys and OpenAI are to jointly develop GPT-Synopsys, a specialised model, optimised to use Synopsys EDA tools to perform semiconductor design workflows. The agreement includes a revenue sharing arrangement and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/synopsis-and-openai-to-automate-chip-design-2026-10/\">Synopsys and OpenAI to teach AI models to use EDA tools</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "NeuroIGNITOR enables design and test simulation paradigms in living tissue",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/neuroignitor-enables-researchers-to-design-and-test-stimulation-paradigms-in-living-tissue-2026-10/",
-    "summary": "<p>Imec’a NeuroIGNITOR platform enables neuromodulation researchers and device developers to design and test stimulation paradigms directly in living tissue. It is a selective, bidirectional system that drastically reduces off-target effects [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/neuroignitor-enables-researchers-to-design-and-test-stimulation-paradigms-in-living-tissue-2026-10/\">NeuroIGNITOR enables design and test simulation paradigms in living tissue</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "H1 sales of petrol cars less than 50% of market for first time",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/business/h1-sales-of-petrol-cars-less-than-50-of-market-for-first-time-2026-10/",
-    "summary": "<p>In H1, for the first time, petrol cars took  less than 50% of global new-vehicle sales, says Mobility Global. Sales of petrol-engine vehicles fell 10% on the year to 20.25 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/h1-sales-of-petrol-cars-less-than-50-of-market-for-first-time-2026-10/\">H1 sales of petrol cars less than 50% of market for first time</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SpaceX gives Filtronic its largest-ever order",
-    "source": "Electronics Weekly",
-    "date": "2026-10-02",
-    "url": "https://www.electronicsweekly.com/news/filtronic-gets-largest-ever-order-2026-10/",
-    "summary": "<p>Filtronic has secured its largest ever single order -worth $68.1 million &#8211; to supply parts for Starlink. The order is for Filtronic’s Cerus, E-Band GaN Solid State Power Amplifier (SSPA) [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/filtronic-gets-largest-ever-order-2026-10/\">SpaceX gives Filtronic its largest-ever order</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "HalloWing M4 Tombstone",
@@ -390,13 +397,6 @@
     "date": "2026-09-29",
     "url": "https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/",
     "summary": "<div><img alt=\"NXP FRDM-IMXRT1186\" class=\"attachment-medium size-medium wp-post-image\" height=\"514\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/NXP-FRDM-IMXRT1186-720x514.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP has just launched the FRDM-IMXRT1186, a development board based on the i.MX RT1186 crossover MCU for industrial automation, robotics, PLCs, and edge computing applications. The MCU uses a heterogeneous architecture with an 800 MHz Arm Cortex-M7 core for application processing and a 300 MHz Arm Cortex-M33 core for real-time control and communications. The board includes 64 Mbit HyperRAM, 512 Mbit HyperFlash, and 128 Mbit QSPI Flash, along with two Gigabit Ethernet ports for TSN switching and two Fast Ethernet ports for EtherCAT or TSN switching. It also features a USB Type-C OTG port and a CAN transceiver, while debugging is supported through an on-board MCU-Link debugger and JTAG connector. For expansion, the board includes Arduino UNO R3 and FRDM headers, a FlexSPI follower header, an SRAMC header, and motor-control headers. NXP FRDM-IMXRT1186 development board specifications: SoC – NXP MIMXRT1186CVJ8C (i.MX RT1180 family, LFBGA196) CPU Arm Cortex-M7 application core @ [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/\">NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC",
-    "source": "CNX Software",
-    "date": "2026-09-29",
-    "url": "https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/",
-    "summary": "<div><img alt=\"Walnut Pi CM2\" class=\"attachment-medium size-medium wp-post-image\" height=\"467\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Walnut-Pi-CM2-720x467.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Walnut Pi CM2 is a low-cost Raspberry Pi CM5-compatible Compute Module powered by an Allwinner T527 octa-core Cortex-A55 processor paired with up to 4GB LPDDR4 RAM, 16GB eMMC flash, and an optional wireless module. It&#8217;s basically the company&#8217;s Walnut Pi 2B credit card-sized SBC in Pi Compute Module form factor, exposing I/Os via two 100-pin high-density connectors. Besides the price, benefits include a WiFi 6 and Bluetooth 5.0 module, a Gigabit Ethernet PHY on the module, and a built-in 2 TOPS NPU in the T527 SoC. Downsides are that the Allwinner T527 is not quite as powerful as the Broadcom BCM2712 (4x Cortex-A76 cores) found in the CM5, and as with other such &#8220;Raspberry Pi CM5-compatible&#8221; modules, it&#8217;s only partially electrically compatible. Walnut Pi CM2 specifications: SoC – Allwinner T527 CPU Octa-core Arm Cortex-A55 processor with four cores @ 1.80 GHz and four cores @ 1.42GHz E906 RISC-V core up [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/\">Walnut Pi CM2 &#8211; A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "MathWorks Releases MATLAB and Simulink R2026b",
