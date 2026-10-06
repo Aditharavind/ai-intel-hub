@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-06 19:08 UTC
+Generated: 2026-10-06 23:22 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-10-06 19:08 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83628 | 33451.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63832 | 25532.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44642 | 17856.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30636 | 12254.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28827 | 11530.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83627 | 33450.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63833 | 25533.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44643 | 17857.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30637 | 12254.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28835 | 11534.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

@@ -1,12 +1,14 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-06 19:08 UTC
+Last Updated: 2026-10-06 23:22 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-06 | How Jump Trading is scaling quant research with ChatGPT | OpenAI | [link](https://openai.com/index/jump-trading) |
+| 2026-10-06 | Sharing AI progress in mathematics | OpenAI | [link](https://openai.com/index/sharing-ai-progress-in-mathematics) |
 | 2026-10-06 | Advancing computer use with Ironclad | OpenAI | [link](https://openai.com/index/advancing-computer-use-with-ironclad) |
 | 2026-10-06 | Atlassian and OpenAI expand partnership to turn enterprise knowledge into action | OpenAI | [link](https://openai.com/index/atlassian-partnership) |
 | 2026-10-06 | Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance | Hugging Face | [link](https://huggingface.co/blog/tiiuae/falcon-emirati) |
@@ -15,12 +17,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-03 | The Agent Said It Was Done. The Database Disagreed. | Hugging Face | [link](https://huggingface.co/blog/microsoft/thinkingbox) |
 | 2026-10-02 | A model guide for the GPT-6 family | OpenAI | [link](https://openai.com/index/practical-guide-building-gpt-6) |
 | 2026-10-02 | Chatham scales its capital markets expertise with OpenAI | OpenAI | [link](https://openai.com/index/chatham-financial) |
-| 2026-10-02 | Open-sourcing AstaBrief, the fast report-generation model in Asta | Hugging Face | [link](https://huggingface.co/blog/allenai/astabrief) |
-| 2026-10-02 | AutoSynthData: Generating Training Data for Enterprise Agents | Hugging Face | [link](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-06 | Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/) |
 | 2026-10-02 | Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-bioinspired-robotics) |
 | 2026-10-01 | Atlas Robot’s New Hand May Outperform Humanlike Designs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robust-robot-hand) |
 | 2026-10-01 | Boston Dynamics drops pinkie on new humanoid hand | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/) |
@@ -30,7 +31,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-16 | Rethinking Robot Safety in the Age of AI | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone) |
 | 2026-09-16 | The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5 | Robotics Business Review | [link](https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/) |
 | 2026-09-15 | Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/humanoid-robot-safety) |
-| 2026-09-11 | Video Friday: Humanoid Robot Takes On Monkey Bars | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-disaster-response-robots) |
 
 ## Robotics News
 | Date | Title | Source | URL |
@@ -38,24 +38,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-06 | Sovereign AI, same landlord — thoughts on the physical AI race | Robotics Business Review | [link](https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/) |
 | 2026-10-06 | FireDome builds autonomous ‘artillery’ for wildfire defense | Robotics Business Review | [link](https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/) |
 | 2026-10-06 | Overview AI launches OV Spark line of AI inspection cameras | Robotics Business Review | [link](https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/) |
+| 2026-10-06 | Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/) |
+| 2026-10-06 | Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs | Robotics Business Review | [link](https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/) |
 | 2026-10-05 | FCC robot restrictions could accelerate shift to local AI | Robotics Business Review | [link](https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/) |
 | 2026-10-05 | Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing | Robotics Business Review | [link](https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/) |
 | 2026-10-04 | How robotics and physical AI can responsibly tackle key physical security challenges | Robotics Business Review | [link](https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/) |
 | 2026-10-03 | The physical AI race will be won in the patent office | Robotics Business Review | [link](https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/) |
 | 2026-10-02 | Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon | Robotics Business Review | [link](https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/) |
-| 2026-10-02 | Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-bioinspired-robotics) |
-| 2026-10-02 | Runway introduces Praxis-1 world action model for robotics | Robotics Business Review | [link](https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-06 | DIY Algae Biodiesel is Harder Than You Think | Hackaday | [link](https://hackaday.com/2026/10/06/diy-algae-biodiesel-is-harder-than-you-think/) |
+| 2026-10-06 | SmallTV Hacking With Surprisingly Little Fuss | Hackaday | [link](https://hackaday.com/2026/10/06/smalltv-hacking-with-surprisingly-little-fuss/) |
 | 2026-10-06 | Scientists Create Hexagonal Packed Ice at Extreme Pressures | Hackaday | [link](https://hackaday.com/2026/10/06/scientists-create-hexagonal-packed-ice-at-extreme-pressures/) |
 | 2026-10-06 | A Headset Fit For A Hackaday Writer | Hackaday | [link](https://hackaday.com/2026/10/06/a-headset-fit-for-a-hackaday-writer/) |
 | 2026-10-06 | The EDG C++ Compiler Frontend has been Open Sourced | Hackaday | [link](https://hackaday.com/2026/10/06/the-edg-c-compiler-frontend-has-been-open-sourced/) |
 | 2026-10-06 | Using LineageOS for Phones and DIY Smart TVs is Pretty Nifty | Hackaday | [link](https://hackaday.com/2026/10/06/using-lineageos-for-phones-and-diy-smart-tvs-is-pretty-nifty/) |
 | 2026-10-06 | USB-C PD Tamed with this Analyzer | Hackaday | [link](https://hackaday.com/2026/10/06/usb-c-pd-tamed-with-this-analyzer/) |
-| 2026-10-06 | A New Type of LLM on the Block: Decision-Making Models | Hackaday | [link](https://hackaday.com/2026/10/06/a-new-type-of-llm-on-the-block-decision-making-models/) |
-| 2026-10-06 | Two Microcontrollers Talking, All It Needs is an LED | Hackaday | [link](https://hackaday.com/2026/10/05/two-microcontrollers-talking-all-it-needs-is-an-led/) |
 | 2026-10-06 | XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556 | CNX Software | [link](https://www.cnx-software.com/2026/10/06/ximea-mu003tg-sy-uc-a-miniature-modular-0-3mp-usb-3-0-tof-sensor-based-on-sony-imx556/) |
 | 2026-10-06 | Save $70 on GEEKOM A5 Pro 2026 Edition mini PC during Prime Day Sale (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/10/06/save-70-on-geekom-a5-pro-2026-edition-mini-pc-for-prime-day-sale/) |
 | 2026-10-06 | Innodisk Unveils Industrial DDR5 8000 RDIMM | Embedded.com | [link](https://www.embedded.com/innodisk-unveils-industrial-ddr5-8000-rdimm/) |
@@ -78,6 +78,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-10-06 | Jinyan0924/qwen_robotics_nav_policy | 0 | 1 | [link](https://huggingface.co/Jinyan0924/qwen_robotics_nav_policy) |
+| 2026-10-06 | Xun49/Event-aligned-robotwin | 0 | 0 | [link](https://huggingface.co/Xun49/Event-aligned-robotwin) |
 | 2026-10-06 | Myungkyu/rldx2_rldxmem_robotwin_b128_60k | 0 | 0 | [link](https://huggingface.co/Myungkyu/rldx2_rldxmem_robotwin_b128_60k) |
 | 2026-10-06 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
 | 2026-10-06 | oodogan3127/robotics-vision-language-reading | 0 | 0 | [link](https://huggingface.co/oodogan3127/robotics-vision-language-reading) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Instruct-Rationale-30traj | 17 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Instruct-Rationale-30traj) |
 | 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-90traj | 30 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-90traj) |
 | 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-120traj | 26 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-120traj) |
-| 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-60traj | 26 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-60traj) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28827 | Python | 11530.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3530 | Python | 1412.1 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 28835 | Python | 11534.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3529 | Python | 1411.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1519 | Rust | 607.7 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1065 | Python | 426.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 83628 |  | 33451.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63832 | Python | 25532.9 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30636 | Python | 12254.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| earthtojake/text-to-cad | 17862 | Python | 7144.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17423 | Java | 6969.3 | [link](https://github.com/questdb/questdb) |
+| Developer-Y/cs-video-courses | 83627 |  | 33450.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63833 | Python | 25533.3 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30637 | Python | 12254.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| earthtojake/text-to-cad | 17951 | Python | 7180.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17424 | Java | 6969.7 | [link](https://github.com/questdb/questdb) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -135,14 +135,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- | --- |
 | 2026-10-06 | AV Operations Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717486006) |
 | 2026-10-06 | Commercial Operations Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719239006) |
+| 2026-10-06 | Commercial Operations Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719591006) |
 | 2026-10-06 | Data Operations Coordinator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717759006) |
 | 2026-10-06 | Deployment Engineer - Commercial Sites | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
 | 2026-10-06 | Deployment Engineer (Data Collection) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696724006) |
+| 2026-10-06 | Electrical Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4006355006) |
 | 2026-10-06 | Electrical Engineer, Actuator Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4688381006) |
 | 2026-10-06 | Electrical Engineering Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
 | 2026-10-06 | Electrical Engineer, Torso | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4313470006) |
-| 2026-10-06 | Electrical Validation Engineer – Hand Subsystem | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4615252006) |
-| 2026-10-06 | Fabricator | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4439202006) |
 
 ## Automation
 
