@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-05 18:53 UTC
+Generated: 2026-10-06 00:24 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-10-05 18:53 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83622 | 33448.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63819 | 25527.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44631 | 17852.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30633 | 12253.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28813 | 11525.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83623 | 33449.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63822 | 25528.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44630 | 17852.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30632 | 12252.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28814 | 11525.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -42,7 +42,7 @@ Generated: 2026-10-05 18:53 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-05 | RobCo Hits $1 Billion Valuation on Physical AI Demand - konsulteer.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVZFTnBEV2M1bmpfNDBHbkVXR2R1V1FMUXA4QkxJYk5VZEt2eVBBejNzbFV3bmFUdW03UzFpVUdDMWlibDB3MVVKSy16WXpUbXRwY1UtQWs4dTREdUtCUHhmeHp0ekJHT2p6bDlCWmZMVy1xdFM0UnFReHFFV2xEaDFJcU1oVnI1ZDlhWVFselpqRHNhMk1KRkxVWTBZTWpuLW9ZRFZkQ0NGaWp6R0ZtWkJRdUpoQ1ZjTjQ2OGh3?oc=5) |
+| 2026-10-05 | NVIDIA Finalist WIM Targets the Gap Between AI Decisions and Robot Motion - KoreaTechDesk | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTSkdtVlhFNjRKakdXcktCUGhheUkzRmVYQ1JzaFFMdjN4REFOUTVZVzJpU1dBb00zMk5uSEloaGsyMUZsSXVVWlJsa1pJOGdaSzRJSUhwQlJ6MDk3clN5N252WWZLZy1YM0UyWTBIOENnd29HQnpLdkZEYw?oc=5) |
 | 2026-10-05 | German robotics startup RobCo hits $1B valuation: WSJ - TradingView | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2hGbzFPTWNFZlZYa19Hcld4QkllT0hnVFVNV0I3bGR5aWpXa2E3dnhaVjRicXhHaGc2WG5TVmV4NHVYQ3RyNHd4VHhzLVR5aVZxbklnVkNtWWV6Vk9Vd0E5N3hxbDFGM3hiMTF4TkkxaTJYdXVtTy10VWl6UWlNa3FFTkpuMnRiRDVTbmJlRHZKSExxOVY2dDQ3WnpidnpXclRneG1YS2VPM1BCT1VJcF9PZG0?oc=5) |
 | 2026-10-05 | Humanoid robots pummel YouTuber in cage matches, California tells startup to stop the fights - TechSpot | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1V2eWpwM00xRlNxTm03VmxxRDhVMkhOSnlBQ0U0N2JKU2lablNCeW5hOWxjNW04VWVEdU5JZ2w1dkZEUTNQMTUyQTg5c2dpUlBvR215RWM3TUZVWk5fazVWaExHUW5FS2FFVXZvakc2Z0NqUFc1MmZ2X2x3TmtqYjcyQTQ0aXNMZHNtU1A5Z1VVaDIwdF94WFQ2a3QyOEZXanNXMHJ3?oc=5) |
 | 2026-10-04 | Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids - Tom's Hardware | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzR6OVd2V0ZxdEx3SGNKc2pMdFdmcmVsSWNwcnRUR3FYdmtFMmdiQnlETVV0OEhVVjhwMUtrOW5FUDh3Q09wZnNsbTJYQm13RVNYMTlKS29NMExDZE0tMGhwWTRkU3JJMHNrcXFIX05aUDZ5ekZpYUJkbnlTbzZZQjFfTEFUUzdlZnA1MXdOTm1FQXlJdHM4RmRDRk1DYzh5bUZydGVSYlh4ZHU1dDF6Z3llelNGWkdoVkJVOG4zaktzV3RmU010dldCQUlsT2l6Q1A2WjRlZWpCLVYwMXExbTQyaHBJcnB5SW9PLWlBb1VFeVRlZmhaVE5BeHprUXhqQTlYUHlNUDRRWkpoNmw2WVVKakFsQ0JxYzBCdklIbnhlNnlSaVh2UE9mdk9ycm00bllJcV9yMDhwX3ZGMWdOSjV4WVZ5RGpKZi05Z1lxX3Nxc2p1d0tDcw?oc=5) |
-| 2026-10-02 | The Godmother of AI Just Sold Her Startup for $8.2 Billion. Here’s Why Embodied AI Founders Are Nervous. - Vocal | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pvbkFiRk5JbGNybE9sMVczaGp0Z3M3dEJraUQzY0ZFU2lYWVJiSmpKMXByMzNjNkxkV1BwNnhxZHp1UWFZSDVjVk1kUVNNZ293Zi1vZXJ0OEFnU1RYdTE5YkNueHZRLThWYy1xSlczbDYxVnZnODlpMXVvWUg4cEFhY2p4VzRZVUdJOV9Za0M5ZHRpSEhxRHhkeFpCY1o2S3JOWEk5OW1MeFpMbkxsQVc4ZHJKWWlwMnJHMmVHOA?oc=5) |
