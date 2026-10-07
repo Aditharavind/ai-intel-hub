@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-06 23:22 UTC
+Last Updated: 2026-10-07 02:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-07 | Upgrading An iPhone Lens To The Max | Hackaday | [link](https://hackaday.com/2026/10/06/upgrading-an-iphone-lens-to-the-max/) |
+| 2026-10-07 | NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU | CNX Software | [link](https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/) |
+| 2026-10-07 | Top Ten SiC Producers | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-sic-producers-2026-10/) |
 | 2026-10-06 | DIY Algae Biodiesel is Harder Than You Think | Hackaday | [link](https://hackaday.com/2026/10/06/diy-algae-biodiesel-is-harder-than-you-think/) |
 | 2026-10-06 | SmallTV Hacking With Surprisingly Little Fuss | Hackaday | [link](https://hackaday.com/2026/10/06/smalltv-hacking-with-surprisingly-little-fuss/) |
 | 2026-10-06 | Scientists Create Hexagonal Packed Ice at Extreme Pressures | Hackaday | [link](https://hackaday.com/2026/10/06/scientists-create-hexagonal-packed-ice-at-extreme-pressures/) |
 | 2026-10-06 | A Headset Fit For A Hackaday Writer | Hackaday | [link](https://hackaday.com/2026/10/06/a-headset-fit-for-a-hackaday-writer/) |
 | 2026-10-06 | The EDG C++ Compiler Frontend has been Open Sourced | Hackaday | [link](https://hackaday.com/2026/10/06/the-edg-c-compiler-frontend-has-been-open-sourced/) |
 | 2026-10-06 | Using LineageOS for Phones and DIY Smart TVs is Pretty Nifty | Hackaday | [link](https://hackaday.com/2026/10/06/using-lineageos-for-phones-and-diy-smart-tvs-is-pretty-nifty/) |
-| 2026-10-06 | USB-C PD Tamed with this Analyzer | Hackaday | [link](https://hackaday.com/2026/10/06/usb-c-pd-tamed-with-this-analyzer/) |
 | 2026-10-06 | XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556 | CNX Software | [link](https://www.cnx-software.com/2026/10/06/ximea-mu003tg-sy-uc-a-miniature-modular-0-3mp-usb-3-0-tof-sensor-based-on-sony-imx556/) |
-| 2026-10-06 | Save $70 on GEEKOM A5 Pro 2026 Edition mini PC during Prime Day Sale (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/10/06/save-70-on-geekom-a5-pro-2026-edition-mini-pc-for-prime-day-sale/) |
-| 2026-10-06 | Innodisk Unveils Industrial DDR5 8000 RDIMM | Embedded.com | [link](https://www.embedded.com/innodisk-unveils-industrial-ddr5-8000-rdimm/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-05 | InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation | [link](https://arxiv.org/pdf/2610.06850v1) |
-| 2026-10-05 | Recursive Video In-Context Learning for Agentic Robot | [link](https://arxiv.org/pdf/2610.06843v1) |
-| 2026-10-05 | TAPDreamer: Transferable Adversarial Patches for World Action Models | [link](https://arxiv.org/pdf/2610.06814v1) |
-| 2026-10-05 | Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models | [link](https://arxiv.org/pdf/2610.06813v1) |
-| 2026-10-05 | Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation | [link](https://arxiv.org/pdf/2610.06809v1) |
-| 2026-10-05 | H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning | [link](https://arxiv.org/pdf/2610.06805v1) |
-| 2026-10-05 | How to scale your HEP ML models: A recipe for robust architecture comparisons at scale | [link](https://arxiv.org/pdf/2610.06784v1) |
-| 2026-10-05 | On Learning Optimal Corners in Orthogonal Partially Observable Cooperative Guard Art Galleries | [link](https://arxiv.org/pdf/2610.06777v1) |
-| 2026-10-05 | MatrixFormer: A Foundation Model for Matrix Completion | [link](https://arxiv.org/pdf/2610.06751v1) |
-| 2026-10-05 | To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks | [link](https://arxiv.org/pdf/2610.06694v1) |
+| 2026-10-06 | World Models' Last Exam in Physics | [link](https://arxiv.org/pdf/2610.08791v1) |
+| 2026-10-06 | QF3: Fast Flow RL with Filtered Q-Gradients | [link](https://arxiv.org/pdf/2610.08789v1) |
+| 2026-10-06 | PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation | [link](https://arxiv.org/pdf/2610.08784v1) |
+| 2026-10-06 | 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction | [link](https://arxiv.org/pdf/2610.08782v1) |
+| 2026-10-06 | DepthWorld: 3D World Model for Robot Manipulation | [link](https://arxiv.org/pdf/2610.08780v1) |
+| 2026-10-06 | CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching | [link](https://arxiv.org/pdf/2610.08777v1) |
+| 2026-10-06 | AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model | [link](https://arxiv.org/pdf/2610.08773v1) |
+| 2026-10-06 | Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study | [link](https://arxiv.org/pdf/2610.08771v1) |
+| 2026-10-06 | LBA-CBF: Rapidly Adaptive Safety Filters via Parallel Dynamics Inference | [link](https://arxiv.org/pdf/2610.08765v1) |
+| 2026-10-06 | VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning | [link](https://arxiv.org/pdf/2610.08761v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-10-06 | Jinyan0924/qwen_robotics_nav_policy | 0 | 1 | [link](https://huggingface.co/Jinyan0924/qwen_robotics_nav_policy) |
+| 2026-10-07 | Myungkyu/rldx2_rldx_robotwin_nomask_b128_60k | 0 | 0 | [link](https://huggingface.co/Myungkyu/rldx2_rldx_robotwin_nomask_b128_60k) |
+| 2026-10-07 | zmf2023/robotwin2 | 19 | 0 | [link](https://huggingface.co/zmf2023/robotwin2) |
+| 2026-10-07 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
+| 2026-10-07 | TakuyaMatsumoto/cs229-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/TakuyaMatsumoto/cs229-robotics-vision-language) |
+| 2026-10-07 | Jinyan0924/qwen_robotics_nav_policy | 0 | 1 | [link](https://huggingface.co/Jinyan0924/qwen_robotics_nav_policy) |
+| 2026-10-07 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
+| 2026-10-07 | kaylalopez/embodied-ai-alpha18-2024 | 0 | 0 | [link](https://huggingface.co/kaylalopez/embodied-ai-alpha18-2024) |
 | 2026-10-06 | Xun49/Event-aligned-robotwin | 0 | 0 | [link](https://huggingface.co/Xun49/Event-aligned-robotwin) |
 | 2026-10-06 | Myungkyu/rldx2_rldxmem_robotwin_b128_60k | 0 | 0 | [link](https://huggingface.co/Myungkyu/rldx2_rldxmem_robotwin_b128_60k) |
-| 2026-10-06 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
 | 2026-10-06 | oodogan3127/robotics-vision-language-reading | 0 | 0 | [link](https://huggingface.co/oodogan3127/robotics-vision-language-reading) |
-| 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-30traj | 15 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-30traj) |
-| 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-150traj | 25 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-150traj) |
-| 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Instruct-Rationale-30traj | 17 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Instruct-Rationale-30traj) |
-| 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-90traj | 30 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-90traj) |
-| 2026-10-06 | DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-120traj | 26 | 0 | [link](https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-120traj) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28835 | Python | 11534.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3529 | Python | 1411.7 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1519 | Rust | 607.7 | [link](https://github.com/copper-project/copper-rs) |
-| pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
-| mosaico-labs/mosaico | 1065 | Python | 426.1 | [link](https://github.com/mosaico-labs/mosaico) |
-| Developer-Y/cs-video-courses | 83627 |  | 33450.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63833 | Python | 25533.3 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30637 | Python | 12254.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| earthtojake/text-to-cad | 17951 | Python | 7180.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| harvard-edge/cs249r_book | 28838 | Python | 11535.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3532 | Python | 1412.9 | [link](https://github.com/NVIDIA/skills) |
+| commaai/openpilot | 63835 | Python | 25534.1 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 18029 | Python | 7211.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17424 | Java | 6969.7 | [link](https://github.com/questdb/questdb) |
+| dora-rs/dora | 3993 | Rust | 1597.3 | [link](https://github.com/dora-rs/dora) |
+| PhyAgentOS/PhyAgentOS-core | 2732 | Python | 1092.9 | [link](https://github.com/PhyAgentOS/PhyAgentOS-core) |
+| deeplethe/utopia | 8118 | Rust | 3247.3 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7061 | Python | 2824.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| thanhndv212/figaroh-plus | 64 | Python | 25.7 | [link](https://github.com/thanhndv212/figaroh-plus) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -137,7 +137,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-06 | Commercial Operations Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719239006) |
 | 2026-10-06 | Commercial Operations Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719591006) |
 | 2026-10-06 | Data Operations Coordinator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717759006) |
-| 2026-10-06 | Deployment Engineer - Commercial Sites | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
+| 2026-10-06 | Deployment Engineer, Commercial Sites | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
 | 2026-10-06 | Deployment Engineer (Data Collection) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696724006) |
 | 2026-10-06 | Electrical Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4006355006) |
 | 2026-10-06 | Electrical Engineer, Actuator Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4688381006) |

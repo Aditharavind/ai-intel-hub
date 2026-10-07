@@ -1,12 +1,66 @@
 [
   {
+    "model": "Myungkyu/rldx2_rldx_robotwin_nomask_b128_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/rldx2_rldx_robotwin_nomask_b128_60k",
+    "date": "2026-10-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "zmf2023/robotwin2",
+    "downloads": 19,
+    "likes": 0,
+    "url": "https://huggingface.co/zmf2023/robotwin2",
+    "date": "2026-10-07",
+    "keyword": "robot",
+    "score": 5.8
+  },
+  {
+    "model": "harrywang01/real-robot-checkpoints",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
+    "date": "2026-10-07",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "TakuyaMatsumoto/cs229-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TakuyaMatsumoto/cs229-robotics-vision-language",
+    "date": "2026-10-07",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "Jinyan0924/qwen_robotics_nav_policy",
     "downloads": 0,
     "likes": 1,
     "url": "https://huggingface.co/Jinyan0924/qwen_robotics_nav_policy",
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "keyword": "robotics",
     "score": 0.3
+  },
+  {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-10-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "kaylalopez/embodied-ai-alpha18-2024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kaylalopez/embodied-ai-alpha18-2024",
+    "date": "2026-10-07",
+    "keyword": "embodied",
+    "score": 0.1
   },
   {
     "model": "Xun49/Event-aligned-robotwin",
@@ -25,15 +79,6 @@
     "date": "2026-10-06",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "harrywang01/real-robot-checkpoints",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/harrywang01/real-robot-checkpoints",
-    "date": "2026-10-06",
-    "keyword": "robot",
-    "score": 0.3
   },
   {
     "model": "oodogan3127/robotics-vision-language-reading",
@@ -81,46 +126,10 @@
     "score": 9.1
   },
   {
-    "model": "DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-120traj",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-120traj",
-    "date": "2026-10-06",
-    "keyword": "robot",
-    "score": 7.9
-  },
-  {
-    "model": "DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-60traj",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Thinking-Rationale-60traj",
-    "date": "2026-10-06",
-    "keyword": "robot",
-    "score": 7.9
-  },
-  {
-    "model": "DorianAtSchool/RoboTalk-Qwen3-VL-8B-Instruct-150traj",
-    "downloads": 33,
-    "likes": 0,
-    "url": "https://huggingface.co/DorianAtSchool/RoboTalk-Qwen3-VL-8B-Instruct-150traj",
-    "date": "2026-10-06",
-    "keyword": "robot",
-    "score": 10.0
-  },
-  {
     "model": "latency-sensitive-bench/vla-finetuning-scope-models",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/latency-sensitive-bench/vla-finetuning-scope-models",
-    "date": "2026-10-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
     "date": "2026-10-06",
     "keyword": "vla",
     "score": 0.1
@@ -459,15 +468,6 @@
     "score": 37.9
   },
   {
-    "model": "kobayashiren94/robotics-vision-language",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/kobayashiren94/robotics-vision-language",
-    "date": "2026-10-05",
-    "keyword": "robotics",
-    "score": 4.3
-  },
-  {
     "model": "demishra/embodied-ai",
     "downloads": 19,
     "likes": 0,
@@ -619,15 +619,6 @@
     "date": "2026-09-30",
     "keyword": "world model",
     "score": 15.7
-  },
-  {
-    "model": "rajeshsinghford/embodied-ai-analysis",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/rajeshsinghford/embodied-ai-analysis",
-    "date": "2026-09-30",
-    "keyword": "embodied",
-    "score": 4.3
   },
   {
     "model": "mws-physical-ai/gr00t-cosmos-right13-rawvideo",

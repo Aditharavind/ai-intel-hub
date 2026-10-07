@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-06 23:22 UTC
+Generated: 2026-10-07 02:47 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-05 | InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation | [link](https://arxiv.org/pdf/2610.06850v1) |
-| 2026-10-05 | Recursive Video In-Context Learning for Agentic Robot | [link](https://arxiv.org/pdf/2610.06843v1) |
-| 2026-10-05 | TAPDreamer: Transferable Adversarial Patches for World Action Models | [link](https://arxiv.org/pdf/2610.06814v1) |
-| 2026-10-05 | Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models | [link](https://arxiv.org/pdf/2610.06813v1) |
-| 2026-10-05 | Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation | [link](https://arxiv.org/pdf/2610.06809v1) |
+| 2026-10-06 | World Models' Last Exam in Physics | [link](https://arxiv.org/pdf/2610.08791v1) |
+| 2026-10-06 | QF3: Fast Flow RL with Filtered Q-Gradients | [link](https://arxiv.org/pdf/2610.08789v1) |
+| 2026-10-06 | PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation | [link](https://arxiv.org/pdf/2610.08784v1) |
+| 2026-10-06 | 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction | [link](https://arxiv.org/pdf/2610.08782v1) |
+| 2026-10-06 | DepthWorld: 3D World Model for Robot Manipulation | [link](https://arxiv.org/pdf/2610.08780v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83627 | 33450.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63833 | 25533.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44643 | 17857.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30637 | 12254.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28835 | 11534.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83629 | 33451.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63835 | 25534.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44647 | 17858.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30636 | 12254.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28838 | 11535.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
