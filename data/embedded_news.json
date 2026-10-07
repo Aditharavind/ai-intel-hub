@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Commodore 64 Keyboard Font, For Everyone",
+    "source": "Hackaday",
+    "date": "2026-10-07",
+    "url": "https://hackaday.com/2026/10/07/the-commodore-64-keyboard-font-for-everyone/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/c64-font-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are some classic fonts which appeared in one place and became almost iconic, yet never made it into the digital age. The font on the Commodore 64 keyboard for <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/the-commodore-64-keyboard-font-for-everyone/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Don’t Worry, This R/C Airship is Supposed To Be On Fire",
+    "source": "Hackaday",
+    "date": "2026-10-07",
+    "url": "https://hackaday.com/2026/10/06/dont-worry-this-r-c-airship-is-supposed-to-be-on-fire/",
+    "summary": "<div><img alt=\"[Avery] standing inside the inflating envelope of his airship\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/thermal-airship2.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve had a lot of flying hacks here over the years, and that includes just about any way to get airborne you can think of &#8212; but very few of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/06/dont-worry-this-r-c-airship-is-supposed-to-be-on-fire/\">&#8230;read more</a>"
+  },
+  {
     "title": "Upgrading An iPhone Lens To The Max",
     "source": "Hackaday",
     "date": "2026-10-07",
@@ -7,11 +21,60 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/iphone-camera-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The camera in a typical mobile phone is now at a standard at which it can be considered a serious device rather than a toy, such has been the effort <a class=\"read-more\" href=\"https://hackaday.com/2026/10/06/upgrading-an-iphone-lens-to-the-max/\">&#8230;read more</a>"
   },
   {
+    "title": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine",
+    "source": "CNX Software",
+    "date": "2026-10-07",
+    "url": "https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/",
+    "summary": "<div><img alt=\"Raspberry Pi Pico configuration in DSPi Console\" class=\"attachment-medium size-medium wp-post-image\" height=\"539\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Raspberry-Pi-Pico-configuration-in-DSPi-Console-720x539.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>DSPi is a full-featured audio DSP firmware for the Raspberry Pi Pico, Pico 2, and other Raspberry Pi RP2040/RP2350 boards, which turns them into a USB sound card with an integrated DSP. It allows users to make use of essential tools like room correction, active crossovers, parametric EQ, time alignment, and more, and essentially works as a regular sound card on your computer. DSPi firmware’s capabilities: Dual-Core DSP &#8211; EQ processing is split across both cores on both RP2040 and RP2350. USB Audio Interface &#8211; Supports 16-bit and 24-bit PCM input at 44.1, 48, and 96 kHz, working on macOS, Windows, Linux, and iOS. S/PDIF Input &#8211; 24-bit PCM stereo audio at 44.1 or 48kHz. 24-bit S/PDIF or I2S Outputs &#8211; Up to 4x independent stereo output slots (8x channels on RP2350, 4x channels on RP2040). Subwoofer Output &#8211; Dedicated mono PDM output channel with a high-performance 2nd-order delta-sigma modulator, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/\">DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU",
     "source": "CNX Software",
     "date": "2026-10-07",
     "url": "https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/",
     "summary": "<div><img alt=\"NuMaker IoT MA35H0 A2 evaluation board\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/NuMaker-IoT-MA35H0-A2-evaluation-board-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Nuvoton has added MA35D05KH67C, MA35D05KI67C, and MA35D05KJ67C, three new LQFP128 MPUs, to the NuMicro MA35D0 series, along with the NuMaker-IoT-MA35D0-A2 (Chili Pro) evaluation board. Designed for industrial AI, smart gateways, and renewable energy systems, this heterogeneous MPU has two 64-bit Arm Cortex-A35 cores at up to 650 MHz, plus a dedicated 180 MHz Arm Cortex-M4 for real-time work. Nuvoton’s press release calls Chili Pro the “industry’s smallest Linux platform,” but the board is 45 × 45 mm, which is bigger than other boards we wrote about previously, like the VoCore2 (25.4 × 25.4 × 2.8 mm), the Milk-V Duo 256M (51 × 21 mm), NanoPi NEO (40 × 40 mm), and even the Raspberry Pi Zero 2 W (65 × 30 mm). Still, considering that it fits full-sized RJ45 and USB ports along with the other interfaces, it is a pretty compact and capable board. Nuvoton NuMaker-IoT-MA35D0-A2 evaluation board specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/\">NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Don’t get drunk on the numbers, says Penn",
+    "source": "Electronics Weekly",
+    "date": "2026-10-07",
+    "url": "https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/",
+    "summary": "<p>The aberrant behaviour of the chip market has changed in one respect &#8211; unit volumes are growing again &#8211; although ASPs are still responsible for 90% of the dollar growth, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/\">Don&#8217;t get drunk on the numbers, says Penn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Why infrastructure is the most valuable element of industrial systems",
+    "source": "Electronics Weekly",
+    "date": "2026-10-07",
+    "url": "https://www.electronicsweekly.com/news/business/why-infrastructure-is-the-most-valuable-element-of-industrial-systems-2026-10/",
+    "summary": "<p>Infrastructure has become the foundation of operational resilience, determining whether systems continue running or costly downtime brings production to a halt, writes Iwona Zalewska. Industrial organisations often blame software when [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/why-infrastructure-is-the-most-valuable-element-of-industrial-systems-2026-10/\">Why infrastructure is the most valuable element of industrial systems </a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "MS and Meta cut back Anthropic spend",
+    "source": "Electronics Weekly",
+    "date": "2026-10-07",
+    "url": "https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/",
+    "summary": "<p>Microsoft and Meta have told staff to cut back on internal use of the Anthropic model Claude, according to The Information. Microsoft reduced its projected internal spending on Claude by [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/\">MS and Meta cut back Anthropic spend</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Qualcomm vs Arm (cont’d)",
+    "source": "Electronics Weekly",
+    "date": "2026-10-07",
+    "url": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/",
+    "summary": "<p>In the Qualcomm  versus Arm trial in Delaware which started on Monday it was alleged that Arm is looking for a 1,800% increase in royalty payments from Qualcomm for its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/\">Qualcomm vs Arm (cont’d)</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Semi Sales Hit $1trn",
+    "source": "Electronics Weekly",
+    "date": "2026-10-07",
+    "url": "https://www.electronicsweekly.com/news/business/semi-sales-hit-1trb-2026-10/",
+    "summary": "<p>Semiconductor sales were $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/semi-sales-hit-1trb-2026-10/\">Semi Sales Hit $1trn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Farnell adds Amphenol NEXUS Technologies",
+    "source": "Electronics Weekly",
+    "date": "2026-10-07",
+    "url": "https://www.electronicsweekly.com/news/business/farnell-adds-amphenol-nexus-technologies-2026-10/",
+    "summary": "<p>Farnell has signed a distribution agreement with Amphenol NEXUS Technologies and now offers their portfolio of: Audio connectors Waterproof breakaway connectors TAC connectors Ranger connectors M55116/MIL-SPEC-type connectors Microphone and telephone [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/farnell-adds-amphenol-nexus-technologies-2026-10/\">Farnell adds Amphenol NEXUS Technologies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Top Ten SiC Producers",
@@ -47,20 +110,6 @@
     "date": "2026-10-06",
     "url": "https://hackaday.com/2026/10/06/a-headset-fit-for-a-hackaday-writer/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/jennys-headset-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>I started writing this from a commuter train passing at speed through the outskirts of London, and my headset had just broken. The flexible joint that attaches one earpiece to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/06/a-headset-fit-for-a-hackaday-writer/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The EDG C++ Compiler Frontend has been Open Sourced",
-    "source": "Hackaday",
-    "date": "2026-10-06",
-    "url": "https://hackaday.com/2026/10/06/the-edg-c-compiler-frontend-has-been-open-sourced/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2017/05/c.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Recently [John Spicer] of the EDG C++ compiler front-end project announced that the project will be made open source, from now on managed by the non-profit C++ Alliance. Related source <a class=\"read-more\" href=\"https://hackaday.com/2026/10/06/the-edg-c-compiler-frontend-has-been-open-sourced/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Using LineageOS for Phones and DIY Smart TVs is Pretty Nifty",
-    "source": "Hackaday",
-    "date": "2026-10-06",
-    "url": "https://hackaday.com/2026/10/06/using-lineageos-for-phones-and-diy-smart-tvs-is-pretty-nifty/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"534\" src=\"https://hackaday.com/wp-content/uploads/2026/10/lineage_stacked_teal.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although Android is essentially just another Linux distribution, most people only experience it in the form of the rather restrictive and proprietary versions found on smartphones, tablets and smart TVs. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/06/using-lineageos-for-phones-and-diy-smart-tvs-is-pretty-nifty/\">&#8230;read more</a>"
   },
   {
     "title": "XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556",
@@ -110,48 +159,6 @@
     "date": "2026-10-06",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/genius/the-2026-innovation-index-2026-10/",
     "summary": "<p>The World Intellectual Property Organization (WIPO) has released its 2026 Global Innovation Index (GII). Switzerland tops the rankings once again with a score of 66,7 out of 100. This is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/genius/the-2026-innovation-index-2026-10/\">The 2026 Innovation Index</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing",
-    "source": "Electronics Weekly",
-    "date": "2026-10-06",
-    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/pctels-seehawk-touch-adds-wi-fi-6-6e-coverage-testing-2026-10/",
-    "summary": "<p>PCTEL is adding Wi-Fi 6/6E coverage testing to its SeeHawk Touch network testing software. The company highlights it allows Wi-Fi technologies (on 2.4, 5, and 6 GHz channels) to be [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/pctels-seehawk-touch-adds-wi-fi-6-6e-coverage-testing-2026-10/\">PCTEL&#8217;s SeeHawk Touch adds Wi-Fi 6/6E coverage testing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK Space Landing Pad Programme launches at UCL",
-    "source": "Electronics Weekly",
-    "date": "2026-10-06",
-    "url": "https://www.electronicsweekly.com/news/uk-space-landing-pad-programme-launches-at-ucl-2026-10/",
-    "summary": "<p>The UK government is backing the UK Space Landing Pad Programme, which is a six-month pilot to attract and support international space companies looking to establish a commercial presence in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/uk-space-landing-pad-programme-launches-at-ucl-2026-10/\">UK Space Landing Pad Programme launches at UCL</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "date": "2026-10-06",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
-    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Arm vs Qualcomm episode 2",
-    "source": "Electronics Weekly",
-    "date": "2026-10-06",
-    "url": "https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/",
-    "summary": "<p>Yesterday a second trial in the Qualcomm vs Arm legal marathon opened in Delaware. It is before a jury and slated to last five days. The original Qualcomm vs Arm [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/\">Arm vs Qualcomm episode 2</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SkyeChip becomes Rapidus design associate",
-    "source": "Electronics Weekly",
-    "date": "2026-10-06",
-    "url": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/",
-    "summary": "<p>SkyeChip, the Malaysian IP developer and IC design house, has joined the Rapidus Collaborative Open Rapid Ecosystem as one of 17 inaugural &#8220;design solution associates.&#8221; SkyeChip, which is listed on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/\">SkyeChip becomes Rapidus design associate</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "MOSAIC-G integrates UK 5G tech",
-    "source": "Electronics Weekly",
-    "date": "2026-10-06",
-    "url": "https://www.electronicsweekly.com/news/business/mosaic-g-integrates-uk-5g-tech-2026-10/",
-    "summary": "<p>Aerix, Antevia Networks, Spry Fox Networks, Noema Signal Labs, Attocore, RANsemi, Liverpool 5G and Bath &#38; North East Somerset Council have launched MOSAIC-5G (Multi-vendor Open System Architecture for Integrated Connectivity). [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mosaic-g-integrates-uk-5g-tech-2026-10/\">MOSAIC-G integrates UK 5G tech</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "New nEw NEWS From Adafruit Round-Up: July, August & September 2026",
@@ -383,13 +390,6 @@
     "date": "2026-10-01",
     "url": "https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/",
     "summary": "<div><img alt=\"LilyGO T Display P4 running LakeShark open source firmware\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/LilyGO-T-Display-P4-running-LakeShark-open-source-firmware-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>LakeShark is open-source firmware by Samuel Reynolds (SAMS0N1TE) that turns the ESP32-P4-based LilyGO T-Display P4 into a handheld SDR scanner. Paired with an RTL-SDR Blog V3 or V4 dongle, it supports P25 Phase I trunking, analog FM/AM, POCSAG pager decoding, and 1090 MHz ADS-B reception directly on the ESP32-P4, without a PC, Raspberry Pi, or smartphone. It also includes an onboard SX1262 that supports LoRa and MeshCore applications. SDR devices like LimeSDR Micro, xSDR, UUGear’s VU GPSDR, and many others usually rely on a PC, Raspberry Pi, or smartphone for processing, but LakeShark shows that a powerful microcontroller can also handle many SDR tasks. We previously covered the LilyGO T-Display P4 in March 2026, and LakeShark makes good use of its built-in hardware, including the SX1262 for LoRa and MeshCore applications, L76K GPS receiver for location tracking and offline maps, and ESP32-C6 for Wi-Fi and Bluetooth connectivity. LakeShark hardware requirements: Primary [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/\">LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks",
-    "source": "CNX Software",
-    "date": "2026-10-01",
-    "url": "https://www.cnx-software.com/2026/10/01/30-raspberry-pi-smart-display-module-for-cm5-targets-digital-signage-displays-and-kiosks/",
-    "summary": "<div><img alt=\"Raspberry Pi Smart Display Module\" class=\"attachment-medium size-medium wp-post-image\" height=\"478\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/Raspberry-Pi-Smart-Display-Module-720x478.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Raspberry Pi Smart Display Module is a CM5 carrier board compatible with the Intel Smart Display Module (SDM) specification, more specifically the SDM-L form factor (as opposed to the smaller SDM-S option). The Intel SDM standard has been around for years, and we first wrote it in 2018, covering the Axiomtek SDM300s (SDM-S) module. These cards are designed to be plugged into compatible digital signage displays, kiosks, point-of-sale systems, and so on. They feature a standard 98-pin PCIe edge connector with USB 3.0, HDMI 1.4/2.0, I2C/UART/SPI signalling, as well as Ethernet, HDMI, USB ports, and an M.2 expansion socket. Raspberry Pi Smart Display Module specifications: Compatible with Raspberry Pi Compute Module 5 Video Output &#8211; Full-size HDMI 2.0 port Camera &#8211; 22-way MIPI DSI/CSI-2 connector (internal) Networking Gigabit Ethernet RJ45 port WiFi 5 and Bluetooth 5.2 (on CM5) with U.FL antenna USB USB 3.0 Type-A port USB 2.0 Type-C port for programming [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/01/30-raspberry-pi-smart-display-module-for-cm5-targets-digital-signage-displays-and-kiosks/\">$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Vector, SCSK Simplify RL78/F2x Embedded Software Development",
