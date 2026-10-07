@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-07 09:24 UTC
+Generated: 2026-10-07 17:02 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,29 +14,29 @@ Generated: 2026-10-07 09:24 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83636 | 33454.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63838 | 25535.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44650 | 17860.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 83638 | 33455.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63841 | 25536.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44654 | 17861.7 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30638 | 12255.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28843 | 11537.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28856 | 11542.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | mradermacher/semantic-world-model-4B-GGUF | 266 | 80.1 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
-| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 245 | 73.8 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin | 110 | 33.1 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin) |
+| ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 248 | 74.7 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
+| miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin | 120 | 36.1 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 102 | 30.7 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
-| miracle-techlink/lingbot-vla-v2-6b-lerobot | 83 | 25.0 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot) |
+| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2 | 67 | 20.4 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-10-07 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
 | 2026-10-02 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdlB3WE40MnpRb2RsaUFaV0tjekEyM2dMNFFWZTc0LWJEa3ZpUEFVVFZWTUtwR3lyY1JRRjFmTlVldHRWbHdZTks4TnR6aFJ3NXVwYXdRdFNKaFR0R241UUNQQVEtZ2hQb0F2WWZyUjNvWmpfNnBjUC1oUzhVdktrdXhFd2t3a2dRRzAtQS1TREZvM011MUlvVGVWaFBLYjlRdFpz?oc=5) |
 | 2026-10-01 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2JQV082eW5UcHB5czB0eTNSVmxaZEdoVVRFODZ1ZEhKWDd5dnRWa24yUV84dC00bWdpT3ZwdTI4N0ZsbVJ6bHZKMlozOFVYV21yR1BEaFdPWnVYYk5WZzhaNGd6Nl9YaGV4VG9qTGdZUUZLVnIyaXFoMVBNbVlJNGt5VjRjTjB1d3hRRzg1ajZzQUticlR4QUszRFZlUlhwczNCVUZydkRBT0dx?oc=5) |
 | 2026-10-01 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnhWcVl6V2NIUXN5aEo1UVdDZDI0SFBCeGRrNXl1Q2RlZ1plQWo0eGN5S3YzWHhreG0tUFlNeklyVllVNmRBU2xOOHNRbXZ5ZlpIZGx2NjZoRWluRUFjVUphZnNjSEdzQ0hwbWdZeGFjSUZwSC1rMkNmbmlhTllfeW9yTzgtakt4eDFXa1F2bzFIaERzVV9Fd2pWYXZnUGFmM3lN?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
-| 2026-09-20 | Unitree |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
