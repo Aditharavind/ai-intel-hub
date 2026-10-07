@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-07 17:02 UTC
+Generated: 2026-10-07 22:19 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,18 +14,18 @@ Generated: 2026-10-07 17:02 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83638 | 33455.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83639 | 33455.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63841 | 25536.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44654 | 17861.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30638 | 12255.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28856 | 11542.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NaiboWang/EasySpider | 44655 | 17862.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30639 | 12255.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28860 | 11544.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | mradermacher/semantic-world-model-4B-GGUF | 266 | 80.1 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 248 | 74.7 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin | 120 | 36.1 | [link](https://huggingface.co/miracle-techlink/lingbot-vla-v2-6b-lerobot-robotwin) |
+| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 112 | 33.9 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 102 | 30.7 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
 | DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2 | 67 | 20.4 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2) |
 

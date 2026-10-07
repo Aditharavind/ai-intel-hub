@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-07 17:02 UTC
+Last Updated: 2026-10-07 22:19 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-10-07 | Helping teens learn, plan, and shape the future of AI | OpenAI | [link](https://openai.com/index/teens-learn-and-plan) |
+| 2026-10-07 | Radisson Hotel Group brings hotel discovery into ChatGPT | OpenAI | [link](https://openai.com/index/radisson) |
+| 2026-10-07 | GPT-6 and Intelligent UI for everyone | OpenAI | [link](https://openai.com/index/gpt-6-for-everyone) |
 | 2026-10-07 | Multimodal open d1 decision models for the edge | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/open-d1) |
 | 2026-10-07 | One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO | Hugging Face | [link](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) |
 | 2026-10-06 | How Jump Trading is scaling quant research with ChatGPT | OpenAI | [link](https://openai.com/index/jump-trading) |
@@ -15,8 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-06 | Advancing computer use with Ironclad | OpenAI | [link](https://openai.com/index/advancing-computer-use-with-ironclad) |
 | 2026-10-06 | Atlassian and OpenAI expand partnership to turn enterprise knowledge into action | OpenAI | [link](https://openai.com/index/atlassian-partnership) |
 | 2026-10-05 | Our approach to EU text provenance rules | OpenAI | [link](https://openai.com/index/eu-text-provenance) |
-| 2026-10-05 | Building advertising for the way people use AI | OpenAI | [link](https://openai.com/index/new-chatgpt-ads-format-and-measurement) |
-| 2026-10-03 | The Agent Said It Was Done. The Database Disagreed. | Hugging Face | [link](https://huggingface.co/blog/microsoft/thinkingbox) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -38,27 +38,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-07 | HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction | IEEE Spectrum Robotics | [link](https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/) |
 | 2026-10-07 | Teradyne Robotics, Elite Robots settle cobot dispute | Robotics Business Review | [link](https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/) |
 | 2026-10-07 | Harmonic Drive to share how integrated actuators can reduce engineering at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/harmonic-drive-share-how-integrated-actuators-reduce-engineering-robobusiness/) |
+| 2026-10-07 | PTC acquisition positions Schneider Electric to challenge Siemens | Robotics Business Review | [link](https://www.therobotreport.com/ptc-acquisition-positions-schneider-electric-challenge-siemens/) |
 | 2026-10-06 | Sovereign AI, same landlord — thoughts on the physical AI race | Robotics Business Review | [link](https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/) |
 | 2026-10-06 | FireDome builds autonomous ‘artillery’ for wildfire defense | Robotics Business Review | [link](https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/) |
 | 2026-10-06 | Overview AI launches OV Spark line of AI inspection cameras | Robotics Business Review | [link](https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/) |
 | 2026-10-06 | Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/) |
 | 2026-10-06 | Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs | Robotics Business Review | [link](https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/) |
 | 2026-10-05 | FCC robot restrictions could accelerate shift to local AI | Robotics Business Review | [link](https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/) |
-| 2026-10-05 | Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing | Robotics Business Review | [link](https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-07 | Handheld Atari 2600 Packs a CRT | Hackaday | [link](https://hackaday.com/2026/10/07/handheld-atari-2600-packs-a-crt/) |
+| 2026-10-07 | Repairing a Couple of Very Expensive Registered DDR5 RAM Sticks | Hackaday | [link](https://hackaday.com/2026/10/07/repairing-a-couple-of-very-expensive-registered-ddr5-ram-sticks/) |
 | 2026-10-07 | 2026 Retrocomputing Challenge: Dungeons of Daggorath, But Without Quite So Much Typing | Hackaday | [link](https://hackaday.com/2026/10/07/2026-retrocomputing-challenge-dungeons-of-daggorath-but-without-quite-so-much-typing/) |
-| 2026-10-07 | ESP32 As Your Raspberri Pi’s Linux Wireless Co-processor | Hackaday | [link](https://hackaday.com/2026/10/07/esp32-as-your-raspberri-pis-linux-wireless-co-processor/) |
+| 2026-10-07 | ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor | Hackaday | [link](https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/) |
 | 2026-10-07 | Don’t Try this At Home, Transcranial Magnetic Stimulation Edition | Hackaday | [link](https://hackaday.com/2026/10/07/dont-try-this-at-home-transcranial-magnetic-stimulation-edition/) |
 | 2026-10-07 | The Commodore 64 Keyboard Font, For Everyone | Hackaday | [link](https://hackaday.com/2026/10/07/the-commodore-64-keyboard-font-for-everyone/) |
 | 2026-10-07 | Don’t Worry, This R/C Airship is Supposed To Be On Fire | Hackaday | [link](https://hackaday.com/2026/10/06/dont-worry-this-r-c-airship-is-supposed-to-be-on-fire/) |
-| 2026-10-07 | Upgrading An iPhone Lens To The Max | Hackaday | [link](https://hackaday.com/2026/10/06/upgrading-an-iphone-lens-to-the-max/) |
 | 2026-10-07 | DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine | CNX Software | [link](https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/) |
 | 2026-10-07 | NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU | CNX Software | [link](https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/) |
-| 2026-10-07 | From Silicon to Cloud: Engineering Cyber-Resilient Software-Defined Vehicles | Embedded.com | [link](https://www.embedded.com/from-silicon-to-cloud-engineering-cyber-resilient-software-defined-vehicles/) |
-| 2026-10-07 | Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-10/) |
+| 2026-10-07 | Silicon Labs Expands AI Tools for Embedded IoT Development | Embedded.com | [link](https://www.embedded.com/silicon-labs-expands-ai-tools-for-embedded-iot-development/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-10-07 | niejunnan25/pi05-robotwin | 0 | 0 | [link](https://huggingface.co/niejunnan25/pi05-robotwin) |
 | 2026-10-07 | Jinyan0924/qwen_robotics_nav_policy | 0 | 1 | [link](https://huggingface.co/Jinyan0924/qwen_robotics_nav_policy) |
-| 2026-10-07 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
-| 2026-10-07 | abcamiletto/robot-models | 0 | 0 | [link](https://huggingface.co/abcamiletto/robot-models) |
-| 2026-10-07 | kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s5000-60k | 0 | 0 | [link](https://huggingface.co/kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s5000-60k) |
-| 2026-10-07 | kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s4000-60k | 0 | 0 | [link](https://huggingface.co/kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s4000-60k) |
-| 2026-10-07 | kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s3000-60k | 0 | 0 | [link](https://huggingface.co/kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s3000-60k) |
-| 2026-10-07 | kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s2000-60k | 0 | 0 | [link](https://huggingface.co/kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s2000-60k) |
-| 2026-10-07 | kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s1000-60k | 0 | 0 | [link](https://huggingface.co/kheechan04/webcam-teach-robot-act-stack3-webcam-corrected-s1000-60k) |
-| 2026-10-07 | kheechan04/webcam-teach-robot-act-stack2-webcam-s5000-60k | 0 | 0 | [link](https://huggingface.co/kheechan04/webcam-teach-robot-act-stack2-webcam-s5000-60k) |
+| 2026-10-07 | niejunnan25/pi05-robotwin | 0 | 0 | [link](https://huggingface.co/niejunnan25/pi05-robotwin) |
+| 2026-10-07 | RobotsMali/Wuro | 0 | 0 | [link](https://huggingface.co/RobotsMali/Wuro) |
+| 2026-10-07 | Myungkyu/rldx2_pi05_robotwin_deltaeef_b128_60k | 0 | 1 | [link](https://huggingface.co/Myungkyu/rldx2_pi05_robotwin_deltaeef_b128_60k) |
+| 2026-10-07 | polarisai-robots/bento_ur7e_pi05_v4 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v4) |
+| 2026-10-07 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0 | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0) |
+| 2026-10-07 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle) |
+| 2026-10-07 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0 | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0) |
+| 2026-10-07 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round) |
+| 2026-10-07 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28856 | Python | 11542.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3536 | Python | 1414.5 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 28860 | Python | 11544.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3537 | Python | 1414.9 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1519 | Rust | 607.7 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1436 | Go | 574.5 | [link](https://github.com/Edgenesis/shifu) |
 | pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1067 | Python | 426.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 63841 | Python | 25536.5 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 18244 | Python | 7297.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17426 | Java | 6970.5 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16270 | Python | 6508.1 | [link](https://github.com/zauberzeug/nicegui) |
+| earthtojake/text-to-cad | 18272 | Python | 7308.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17428 | Java | 6971.3 | [link](https://github.com/questdb/questdb) |
+| zauberzeug/nicegui | 16271 | Python | 6508.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -133,16 +133,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-07 | AV Operations Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717486006) |
 | 2026-10-07 | Commercial Operations Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719239006) |
+| 2026-10-07 | Commercial Operations Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719591006) |
+| 2026-10-07 | Commercial Technician (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719958006) |
+| 2026-10-07 | Data Operations Coordinator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717759006) |
 | 2026-10-07 | Deployment Engineer, Commercial Sites | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4674403006) |
-| 2026-10-07 | Field Service Technician, Commercial Site Team | Figure AI | Fontana, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4683847006) |
-| 2026-10-07 | Global Supply Manager, EE and Semiconductors | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4648671006) |
-| 2026-10-07 | Grid Operations Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719235006) |
-| 2026-10-07 | Humanoid Robot Operator (Afternoon Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4644956006) |
-| 2026-10-07 | Humanoid Robot Operator, Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
-| 2026-10-07 | Humanoid Robot Operator, Commercial Site Team (LA)  | Figure AI | Los Angeles, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4698238006) |
-| 2026-10-07 | Humanoid Robot Operator, Commercial Site Team (Reno) | Figure AI | Reno, NV | [link](https://job-boards.greenhouse.io/figureai/jobs/4674402006) |
-| 2026-10-07 | Humanoid Robot Operator (Morning Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4406268006) |
+| 2026-10-07 | Deployment Engineer (Data Collection) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4696724006) |
+| 2026-10-07 | Electrical Engineer, Actuator Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4688381006) |
+| 2026-10-07 | Electrical Engineering Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
+| 2026-10-07 | Electrical Engineer, Torso | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4313470006) |
 
 ## Automation
 
