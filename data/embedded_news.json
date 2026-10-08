@@ -1,5 +1,33 @@
 [
   {
+    "title": "Keep That Old Radio Alive With An ESP32",
+    "source": "Hackaday",
+    "date": "2026-10-08",
+    "url": "https://hackaday.com/2026/10/07/keep-that-old-radio-alive-with-an-esp32/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/am-tx-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As the legacy AM broadcast bands fade away, what happens to the millions of devices built to receive them? Many of them will go into e-waste, but with a century <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/keep-that-old-radio-alive-with-an-esp32/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Efinix Sapphire RV64 SoC – Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs",
+    "source": "CNX Software",
+    "date": "2026-10-08",
+    "url": "https://www.cnx-software.com/2026/10/08/efinix-sapphire-rv64-soc-configurable-risc-v-soft-cores-with-ddr3-lpddr4x-and-hyperram-for-efinix-fpgas/",
+    "summary": "<div><img alt=\"Sapphire RV64 SoC block diagram. The VexiiRiscv cores, caches, and peripherals are built in the FPGA\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Sapphire-RV64-SoC-block-diagram.-The-VexiiRiscv-cores-caches-and-peripherals-are-built-in-the-FPGA-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Efinix has introduced the Sapphire RV64 SoC, a configurable 64-bit RISC-V soft-core processor designed for its Titanium and Trion FPGAs. It is based on the VexiiRiscv core and can be configured with one to four RISC-V cores running at up to 400 MHz. The Sapphire RV64 has a seven-stage pipeline, configurable L1 caches, optional 64–512 KB L2 cache, and 4–512 KB of on-chip RAM. It supports DDR3, LPDDR4x, and HyperRAM with up to 512-bit AXI interfaces and external memory from 4 MB to 8 GB. Other features include an optional FPU, branch predictor, prefetchers, SV39 MMU, up to 32 GPIOs, five I²C, three SPI, three UARTs, timers, watchdog, and up to eight user interrupts. Efinix Sapphire RV64 SoC specifications: CPU 1 to 4x VexiiRiscv 64-bit cores with a 7-stage pipeline (fetch, align-decompress, decode, issue, execute, memory, and writeback) Configurable system clock frequency from 20 MHz to 400 MHz Supports RV64IMACFD_Zba_Zbc_Zbs extensions [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/08/efinix-sapphire-rv64-soc-configurable-risc-v-soft-cores-with-ddr3-lpddr4x-and-hyperram-for-efinix-fpgas/\">Efinix Sapphire RV64 SoC &#8211; Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Apple’s Fading Support Acts",
+    "source": "Electronics Weekly",
+    "date": "2026-10-08",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-fading-impact-of-apples-support-acts-2026-10/",
+    "summary": "<p>Apple’s supporting cast, including smart home products. Apple Watch, AirPods and the Apple Vision Pro, has struggled to keep up with the growth of the rest of the company in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/the-fading-impact-of-apples-support-acts-2026-10/\">Apple’s Fading Support Acts</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Streaming Games Means the Nintendo DSi Will Never Be Obsolete",
+    "source": "Hackaday",
+    "date": "2026-10-07",
+    "url": "https://hackaday.com/2026/10/07/streaming-games-means-the-nintendo-dsi-will-never-be-obsolete/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/DSi-gamestream.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There comes a point where you have to acknowledge that your beloved console is out of date and&#8211; barring the odd homebrew title&#8211; won&#8217;t be playing new games ever again. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/streaming-games-means-the-nintendo-dsi-will-never-be-obsolete/\">&#8230;read more</a>"
+  },
+  {
     "title": "Handheld Atari 2600 Packs a CRT",
     "source": "Hackaday",
     "date": "2026-10-07",
@@ -33,20 +61,6 @@
     "date": "2026-10-07",
     "url": "https://hackaday.com/2026/10/07/dont-try-this-at-home-transcranial-magnetic-stimulation-edition/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/figure_8_multilayer_coil_naked_5.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Transcranial magnetic stimulation is one of those things that seems too wacky to be true. Depression not responding to treatment? Let&#8217;s smack you upside the head with strong magnetic fields! <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/dont-try-this-at-home-transcranial-magnetic-stimulation-edition/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The Commodore 64 Keyboard Font, For Everyone",
-    "source": "Hackaday",
-    "date": "2026-10-07",
-    "url": "https://hackaday.com/2026/10/07/the-commodore-64-keyboard-font-for-everyone/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/c64-font-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are some classic fonts which appeared in one place and became almost iconic, yet never made it into the digital age. The font on the Commodore 64 keyboard for <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/the-commodore-64-keyboard-font-for-everyone/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Don’t Worry, This R/C Airship is Supposed To Be On Fire",
-    "source": "Hackaday",
-    "date": "2026-10-07",
-    "url": "https://hackaday.com/2026/10/06/dont-worry-this-r-c-airship-is-supposed-to-be-on-fire/",
-    "summary": "<div><img alt=\"[Avery] standing inside the inflating envelope of his airship\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/thermal-airship2.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ve had a lot of flying hacks here over the years, and that includes just about any way to get airborne you can think of &#8212; but very few of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/06/dont-worry-this-r-c-airship-is-supposed-to-be-on-fire/\">&#8230;read more</a>"
   },
   {
     "title": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine",
@@ -138,13 +152,6 @@
     "date": "2026-10-07",
     "url": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/",
     "summary": "<p>In the Qualcomm  versus Arm trial in Delaware which started on Monday it was alleged that Arm is looking for a 1,800% increase in royalty payments from Qualcomm for its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/\">Qualcomm vs Arm (cont’d)</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Semi Sales Hit $1trn",
-    "source": "Electronics Weekly",
-    "date": "2026-10-07",
-    "url": "https://www.electronicsweekly.com/news/business/semi-sales-hit-1trb-2026-10/",
-    "summary": "<p>Semiconductor sales were $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/semi-sales-hit-1trb-2026-10/\">Semi Sales Hit $1trn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Integrating Electronics With Human Cells",
@@ -397,13 +404,6 @@
     "date": "2026-10-02",
     "url": "https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations/",
     "summary": "<p>Local partners make it easier to align on requirements fast, handle revisions quickly, and validate complex boards with real-time collaboration.</p>\n<p>The post <a href=\"https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations/\">Local PCB Prototyping Cuts Delays and Speeds Iterations</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner",
-    "source": "CNX Software",
-    "date": "2026-10-01",
-    "url": "https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/",
-    "summary": "<div><img alt=\"LilyGO T Display P4 running LakeShark open source firmware\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/LilyGO-T-Display-P4-running-LakeShark-open-source-firmware-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>LakeShark is open-source firmware by Samuel Reynolds (SAMS0N1TE) that turns the ESP32-P4-based LilyGO T-Display P4 into a handheld SDR scanner. Paired with an RTL-SDR Blog V3 or V4 dongle, it supports P25 Phase I trunking, analog FM/AM, POCSAG pager decoding, and 1090 MHz ADS-B reception directly on the ESP32-P4, without a PC, Raspberry Pi, or smartphone. It also includes an onboard SX1262 that supports LoRa and MeshCore applications. SDR devices like LimeSDR Micro, xSDR, UUGear’s VU GPSDR, and many others usually rely on a PC, Raspberry Pi, or smartphone for processing, but LakeShark shows that a powerful microcontroller can also handle many SDR tasks. We previously covered the LilyGO T-Display P4 in March 2026, and LakeShark makes good use of its built-in hardware, including the SX1262 for LoRa and MeshCore applications, L76K GPS receiver for location tracking and offline maps, and ESP32-C6 for Wi-Fi and Bluetooth connectivity. LakeShark hardware requirements: Primary [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/\">LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Vector, SCSK Simplify RL78/F2x Embedded Software Development",
