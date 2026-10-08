@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-08 02:19 UTC
+Last Updated: 2026-10-08 09:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-08 | 2026 Retrocomputing Challenge: Retro Terminal Bartop Arcade Topper | Hackaday | [link](https://hackaday.com/2026/10/08/2026-retrocomputing-challenge-retro-terminal-bartop-arcade-topper/) |
+| 2026-10-08 | Solve Your TTL Video Woes With An RP2350 | Hackaday | [link](https://hackaday.com/2026/10/07/solve-your-ttl-video-woes-with-an-rp2350/) |
 | 2026-10-08 | Keep That Old Radio Alive With An ESP32 | Hackaday | [link](https://hackaday.com/2026/10/07/keep-that-old-radio-alive-with-an-esp32/) |
+| 2026-10-08 | Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/) |
 | 2026-10-08 | Efinix Sapphire RV64 SoC – Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs | CNX Software | [link](https://www.cnx-software.com/2026/10/08/efinix-sapphire-rv64-soc-configurable-risc-v-soft-cores-with-ddr3-lpddr4x-and-hyperram-for-efinix-fpgas/) |
-| 2026-10-08 | Apple’s Fading Support Acts | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/markets/the-fading-impact-of-apples-support-acts-2026-10/) |
-| 2026-10-07 | Streaming Games Means the Nintendo DSi Will Never Be Obsolete | Hackaday | [link](https://hackaday.com/2026/10/07/streaming-games-means-the-nintendo-dsi-will-never-be-obsolete/) |
-| 2026-10-07 | Handheld Atari 2600 Packs a CRT | Hackaday | [link](https://hackaday.com/2026/10/07/handheld-atari-2600-packs-a-crt/) |
-| 2026-10-07 | Repairing a Couple of Very Expensive Registered DDR5 RAM Sticks | Hackaday | [link](https://hackaday.com/2026/10/07/repairing-a-couple-of-very-expensive-registered-ddr5-ram-sticks/) |
-| 2026-10-07 | 2026 Retrocomputing Challenge: Dungeons of Daggorath, But Without Quite So Much Typing | Hackaday | [link](https://hackaday.com/2026/10/07/2026-retrocomputing-challenge-dungeons-of-daggorath-but-without-quite-so-much-typing/) |
-| 2026-10-07 | ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor | Hackaday | [link](https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/) |
-| 2026-10-07 | Don’t Try this At Home, Transcranial Magnetic Stimulation Edition | Hackaday | [link](https://hackaday.com/2026/10/07/dont-try-this-at-home-transcranial-magnetic-stimulation-edition/) |
-| 2026-10-07 | DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine | CNX Software | [link](https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/) |
+| 2026-10-08 | Qualcomm vs Arm (day 3) | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-3-2026-10/) |
+| 2026-10-08 | Intel and Applied hook up on process | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/intel-and-applied-hook-up-on-process-2026-10/) |
+| 2026-10-08 | Wolfspeed gets $1.5bn loan from US government | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/wolfspeed-gets-1-5bn-loan-from-us-government-2026-10/) |
+| 2026-10-08 | Infineon and ZuriQ to scale qubits | Electronics Weekly | [link](https://www.electronicsweekly.com/news/infineon-and-zuriq-to-scale-qubits-2026-10/) |
+| 2026-10-08 | 100V E-mode GaN-based discrete power transistors | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/100v-enhancement-mode-e-mode-gan-based-discrete-power-transistors-2026-10/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-08 | niejunnan25/pi05-robotwin | 0 | 0 | [link](https://huggingface.co/niejunnan25/pi05-robotwin) |
+| 2026-10-08 | liuxuetao/ME-Dex-1.0-RoboTwin-Clean2Random-Leaderboard | 0 | 0 | [link](https://huggingface.co/liuxuetao/ME-Dex-1.0-RoboTwin-Clean2Random-Leaderboard) |
+| 2026-10-08 | RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24 | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24) |
+| 2026-10-08 | DAVIAN-Robotics/pi05_droid_jointpos | 939 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/pi05_droid_jointpos) |
+| 2026-10-08 | HuaNG038B/sd14-dreambooth-lora-robot-toy | 0 | 0 | [link](https://huggingface.co/HuaNG038B/sd14-dreambooth-lora-robot-toy) |
+| 2026-10-08 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
+| 2026-10-08 | andrewand03/robotics-vision-language-tutorial-2023 | 0 | 0 | [link](https://huggingface.co/andrewand03/robotics-vision-language-tutorial-2023) |
 | 2026-10-08 | teokonkwo/robotics-vision-language-run178 | 0 | 0 | [link](https://huggingface.co/teokonkwo/robotics-vision-language-run178) |
 | 2026-10-08 | Jinyan0924/qwen_robotics_nav_policy | 0 | 1 | [link](https://huggingface.co/Jinyan0924/qwen_robotics_nav_policy) |
-| 2026-10-08 | Dongkkka/Task_000759_Move_Vegetable_Whiteroom_VLA-JEPA-bs8-step10000-lr1e4 | 0 | 0 | [link](https://huggingface.co/Dongkkka/Task_000759_Move_Vegetable_Whiteroom_VLA-JEPA-bs8-step10000-lr1e4) |
-| 2026-10-08 | VladHong/llama-cpp-K2-FAST2 | 0 | 0 | [link](https://huggingface.co/VladHong/llama-cpp-K2-FAST2) |
-| 2026-10-07 | niejunnan25/pi05-robotwin | 0 | 0 | [link](https://huggingface.co/niejunnan25/pi05-robotwin) |
-| 2026-10-07 | RobotsMali/Wuro | 0 | 0 | [link](https://huggingface.co/RobotsMali/Wuro) |
-| 2026-10-07 | Myungkyu/rldx2_pi05_robotwin_deltaeef_b128_60k | 0 | 1 | [link](https://huggingface.co/Myungkyu/rldx2_pi05_robotwin_deltaeef_b128_60k) |
-| 2026-10-07 | polarisai-robots/bento_ur7e_pi05_v4 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v4) |
-| 2026-10-07 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0 | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0) |
-| 2026-10-07 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle | 0 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle) |
+| 2026-10-08 | owendudu/VLA-ACL | 0 | 1 | [link](https://huggingface.co/owendudu/VLA-ACL) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28871 | Python | 11548.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28896 | Python | 11558.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1519 | Rust | 607.7 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 63844 | Python | 25537.7 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 18290 | Python | 7316.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17430 | Java | 6972.1 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16012 | C++ | 6404.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15508 | C++ | 6203.3 | [link](https://github.com/google-deepmind/mujoco) |
-| RLinf/RLinf | 5454 | Python | 2181.7 | [link](https://github.com/RLinf/RLinf) |
-| deeplethe/utopia | 8145 | Rust | 3258.1 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 7068 | Python | 2827.3 | [link](https://github.com/vllm-project/vllm-omni) |
+| mosaico-labs/mosaico | 1068 | Python | 427.3 | [link](https://github.com/mosaico-labs/mosaico) |
+| commaai/openpilot | 63843 | Python | 25537.3 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 18340 | Python | 7336.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17432 | Java | 6972.9 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 16014 | C++ | 6405.7 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 15517 | C++ | 6206.9 | [link](https://github.com/google-deepmind/mujoco) |
+| RLinf/RLinf | 5457 | Python | 2182.9 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 3996 | Rust | 1598.5 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -111,10 +111,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-01 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2JQV082eW5UcHB5czB0eTNSVmxaZEdoVVRFODZ1ZEhKWDd5dnRWa24yUV84dC00bWdpT3ZwdTI4N0ZsbVJ6bHZKMlozOFVYV21yR1BEaFdPWnVYYk5WZzhaNGd6Nl9YaGV4VG9qTGdZUUZLVnIyaXFoMVBNbVlJNGt5VjRjTjB1d3hRRzg1ajZzQUticlR4QUszRFZlUlhwczNCVUZydkRBT0dx?oc=5) |
 | 2026-10-01 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnhWcVl6V2NIUXN5aEo1UVdDZDI0SFBCeGRrNXl1Q2RlZ1plQWo0eGN5S3YzWHhreG0tUFlNeklyVllVNmRBU2xOOHNRbXZ5ZlpIZGx2NjZoRWluRUFjVUphZnNjSEdzQ0hwbWdZeGFjSUZwSC1rMkNmbmlhTllfeW9yTzgtakt4eDFXa1F2bzFIaERzVV9Fd2pWYXZnUGFmM3lN?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
-| 2026-09-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-16 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUFSRWNnR1QtQ0w3NTY4Y1BjUlV6SlBQclAxYVJuWGFabjBqSkxoNERDelc0ZkNiRjF5ZEcyc2Z6aU9selJGNWF2NDNrUVpOczJQX2ZINFlhZ3FfZFBtYl83RWtNNThRWnlXcTVKVFlob2pQU2x4b1lNUy0yS09DVHk3X3V6WVFtSmJZWUtYT1JXelRPM19ETi1qRko5SGpveEp1N29tY0x1aHVKbEdDYjM5ZUtaQlRBaWZkcWNrUFhSZTdt?oc=5) |
 | 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
+| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

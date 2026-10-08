@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-08 02:19 UTC
+Generated: 2026-10-08 09:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-08 02:19 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83639 | 33455.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63844 | 25537.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44656 | 17862.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30641 | 12256.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28871 | 11548.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83640 | 33456.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63843 | 25537.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44662 | 17864.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30644 | 12257.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28896 | 11558.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| mradermacher/semantic-world-model-4B-GGUF | 266 | 80.1 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
+| DAVIAN-Robotics/pi05_droid_jointpos | 939 | 281.8 | [link](https://huggingface.co/DAVIAN-Robotics/pi05_droid_jointpos) |
+| mradermacher/semantic-world-model-4B-GGUF | 364 | 109.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | ubr-physical-ai/Cosmos3-Edge-INT4-AWQ | 248 | 74.7 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-INT4-AWQ) |
-| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 112 | 33.9 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 223 | 67.2 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
 | ubr-physical-ai/Cosmos3-Edge-NF4-bnb | 102 | 30.7 | [link](https://huggingface.co/ubr-physical-ai/Cosmos3-Edge-NF4-bnb) |
-| DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2 | 67 | 20.4 | [link](https://huggingface.co/DecisionFacts/Physical_AI_SO101_Cup_Nesting_ACT_Policy_v2) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

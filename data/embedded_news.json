@@ -1,10 +1,31 @@
 [
   {
+    "title": "2026 Retrocomputing Challenge: Retro Terminal Bartop Arcade Topper",
+    "source": "Hackaday",
+    "date": "2026-10-08",
+    "url": "https://hackaday.com/2026/10/08/2026-retrocomputing-challenge-retro-terminal-bartop-arcade-topper/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Retro-Terminal-for-Bartop-Arcade-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Retrocomputing is more than just hardware. It&#8217;s also a feel, a vibe, and [valkyrie0528]&#8217;s Retro Terminal Bartop Arcade Topper has it in spades. Here&#8217;s how it happened. The gorgeous device <a class=\"read-more\" href=\"https://hackaday.com/2026/10/08/2026-retrocomputing-challenge-retro-terminal-bartop-arcade-topper/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Solve Your TTL Video Woes With An RP2350",
+    "source": "Hackaday",
+    "date": "2026-10-08",
+    "url": "https://hackaday.com/2026/10/07/solve-your-ttl-video-woes-with-an-rp2350/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/ttl2dvi-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Before HDMI and DVI there was VGA, and before that? TTL RGB, in which instead of analogue voltages, the connector carried TTL logic voltages. TTL monitors used to be ten <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/solve-your-ttl-video-woes-with-an-rp2350/\">&#8230;read more</a>"
+  },
+  {
     "title": "Keep That Old Radio Alive With An ESP32",
     "source": "Hackaday",
     "date": "2026-10-08",
     "url": "https://hackaday.com/2026/10/07/keep-that-old-radio-alive-with-an-esp32/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/am-tx-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As the legacy AM broadcast bands fade away, what happens to the millions of devices built to receive them? Many of them will go into e-waste, but with a century <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/keep-that-old-radio-alive-with-an-esp32/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-10-08",
+    "url": "https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/",
+    "summary": "<div><img alt=\"Q8botOne A Serious Quadruped That Fits in Your Hand\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Q8botOne-A-Serious-Quadruped-That-Fits-in-Your-Hand-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ZeroWire Robotics Q8botOne is an open-source, palm-sized quadruped robot built around an ESP32-C3 MCU and ROBOTIS DYNAMIXEL smart actuators. Designed with a unique wire-free architecture, the robot integrates all components onto a central printed circuit board also used as the structural chassis. The robot is roughly the size of a smartphone and can jog, jump, and carry up to twice its 250-gram weight. The main PCB uses a dedicated 6V/16A step-down converter for motor power and includes a battery management system for two 14500 Li-ion cells. For control, the kit includes a separate ESP32-C3 controller PCB with an Adafruit Mini I2C Gamepad. Q8botOne specifications: Wireless module – Espressif Systems ESP32-C3-MINI-1-N4 module with: ESP32-C3 (ESP32-C3FN4) SoC CPU &#8211; 32-bit RISC-V single-core processor up to 160 MHz Memory &#8211; 400 KB SRAM (16 KB for cache), 8 KB SRAM in RTC Storage &#8211; 4 MB embedded flash, 384 KB ROM Connectivity – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/\">Q8botOne &#8211; A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Efinix Sapphire RV64 SoC – Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs",
@@ -14,11 +35,88 @@
     "summary": "<div><img alt=\"Sapphire RV64 SoC block diagram. The VexiiRiscv cores, caches, and peripherals are built in the FPGA\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Sapphire-RV64-SoC-block-diagram.-The-VexiiRiscv-cores-caches-and-peripherals-are-built-in-the-FPGA-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Efinix has introduced the Sapphire RV64 SoC, a configurable 64-bit RISC-V soft-core processor designed for its Titanium and Trion FPGAs. It is based on the VexiiRiscv core and can be configured with one to four RISC-V cores running at up to 400 MHz. The Sapphire RV64 has a seven-stage pipeline, configurable L1 caches, optional 64–512 KB L2 cache, and 4–512 KB of on-chip RAM. It supports DDR3, LPDDR4x, and HyperRAM with up to 512-bit AXI interfaces and external memory from 4 MB to 8 GB. Other features include an optional FPU, branch predictor, prefetchers, SV39 MMU, up to 32 GPIOs, five I²C, three SPI, three UARTs, timers, watchdog, and up to eight user interrupts. Efinix Sapphire RV64 SoC specifications: CPU 1 to 4x VexiiRiscv 64-bit cores with a 7-stage pipeline (fetch, align-decompress, decode, issue, execute, memory, and writeback) Configurable system clock frequency from 20 MHz to 400 MHz Supports RV64IMACFD_Zba_Zbc_Zbs extensions [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/08/efinix-sapphire-rv64-soc-configurable-risc-v-soft-cores-with-ddr3-lpddr4x-and-hyperram-for-efinix-fpgas/\">Efinix Sapphire RV64 SoC &#8211; Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Qualcomm vs Arm (day 3)",
+    "source": "Electronics Weekly",
+    "date": "2026-10-08",
+    "url": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-3-2026-10/",
+    "summary": "<p>Yesterday the Qualcomm vs Arm case covered the struggle for leverage, differing architectural interpretations and good faith (or not) in the negotiations regarding Arm&#8217;s v10 technology. A major focus was [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-3-2026-10/\">Qualcomm vs Arm (day 3)</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Intel and Applied hook up on process",
+    "source": "Electronics Weekly",
+    "date": "2026-10-08",
+    "url": "https://www.electronicsweekly.com/news/business/intel-and-applied-hook-up-on-process-2026-10/",
+    "summary": "<p>Intel and Applied are getting together for a multi-site, multi-technology collaboration on process technology. The work will cover front-end and back-end, transistor development, packaging, interconnect and power delivery. The work [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/intel-and-applied-hook-up-on-process-2026-10/\">Intel and Applied hook up on process</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Wolfspeed gets $1.5bn loan from US government",
+    "source": "Electronics Weekly",
+    "date": "2026-10-08",
+    "url": "https://www.electronicsweekly.com/news/business/wolfspeed-gets-1-5bn-loan-from-us-government-2026-10/",
+    "summary": "<p>Wolfspeed has received a conditional loan commitment letter from the U.S. Department of War (&#8220;DoW&#8221;), through its Office of Strategic Capital (&#8220;OSC&#8221;), for up to $1.5 billion. The money will [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/wolfspeed-gets-1-5bn-loan-from-us-government-2026-10/\">Wolfspeed gets $1.5bn loan from US government</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Infineon and ZuriQ to scale qubits",
+    "source": "Electronics Weekly",
+    "date": "2026-10-08",
+    "url": "https://www.electronicsweekly.com/news/infineon-and-zuriq-to-scale-qubits-2026-10/",
+    "summary": "<p>Infineon and ZuriQ, the Swiss quantum computing company spun out of ETH Zurich, are to expand their collaboration to scale qubits. The partnership combines ZuriQ’s trapped-ion quantum computing architecture with [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/infineon-and-zuriq-to-scale-qubits-2026-10/\">Infineon and ZuriQ to scale qubits</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "100V E-mode GaN-based discrete power transistors",
+    "source": "Electronics Weekly",
+    "date": "2026-10-08",
+    "url": "https://www.electronicsweekly.com/news/business/100v-enhancement-mode-e-mode-gan-based-discrete-power-transistors-2026-10/",
+    "summary": "<p>Renesas has expanded its GaN portfolio into low-voltage applications with its first family of 100V enhancement mode GaN-based discrete power transistors. The RTP100E005G1FL, RTP100E2P6G1FL, RTP100E1P8G1FL-DSC and RTP100E1P2G1FL-DSC low-voltage GaN FETs [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/100v-enhancement-mode-e-mode-gan-based-discrete-power-transistors-2026-10/\">100V E-mode GaN-based discrete power transistors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Apple’s Fading Support Acts",
     "source": "Electronics Weekly",
     "date": "2026-10-08",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-fading-impact-of-apples-support-acts-2026-10/",
     "summary": "<p>Apple’s supporting cast, including smart home products. Apple Watch, AirPods and the Apple Vision Pro, has struggled to keep up with the growth of the rest of the company in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/the-fading-impact-of-apples-support-acts-2026-10/\">Apple’s Fading Support Acts</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "ESP32-CYD Modular Case with GPS/NFC/IR/RF/CC1101/NRF24L01 Bays #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-08",
+    "url": "https://blog.adafruit.com/2026/10/08/esp32-cyd-modular-case-with-gps-nfc-ir-rf-cc1101-nrf24l01-bays-3dthursday-3dprinting/",
+    "summary": "Rousie shares: A robust portable enclosure that transforms an ESP32-based Cheap Yellow Display into a multifunctional handheld. Holds 4× 18650 batteries, space for a power bank board (charging functionality), SMA connectors for multiple antennas. Dedicated bays: GPS, NFC, IR, RF (315/433MHz), CC1101, NRF24L01, and speaker modules. PETG-CF recommended at 0.2mm layer, 25–30% infill. Designed for [&#8230;]"
+  },
+  {
+    "title": "Castle Cat House #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-08",
+    "url": "https://blog.adafruit.com/2026/10/08/castle-cat-house-3dthursday-3dprinting/",
+    "summary": "BenBurnski shares: Model is divided into multiple individual parts and can be printed on printers with a min. build volume of 220x220x220mm download the files on: https://www.printables.com/model/1863268-small-castle-cat-house-3d-printed-pet-castle Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics [&#8230;]"
+  },
+  {
+    "title": "Magnetic PCB Holder – Snap-On Steel Print Surface Work Holder #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-08",
+    "url": "https://blog.adafruit.com/2026/10/08/magnetic-pcb-holder-snap-on-steel-print-surface-work-holder-3dthursday-3dprinting/",
+    "summary": "TYnextnext shares: A magnetic work-holding solution that snaps onto any steel print surface (or any ferrous work surface) to securely hold PCBs for soldering, probing, rework, and photos. Adjustable clamps and low-profile form factor. Requires M4×12mm bolts, M4 nuts, and 8×2mm or 10×2mm neodymium disc magnets. Recommended: PETG or ABS for heat resistance (PLA OK [&#8230;]"
+  },
+  {
+    "title": "Melting Ghost Figure – Shelf-Edge Halloween Decoration #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-08",
+    "url": "https://blog.adafruit.com/2026/10/08/melting-ghost-figure-shelf-edge-halloween-decoration-3dthursday-3dprinting/",
+    "summary": "Fierro_3D shares: A spooky shelf-edge decoration featuring a ghostly figure that appears to drip and melt over the edge — artistic aesthetic suited for Halloween displays. Requires supports for the hanging position and overhangs (careful orientation matters). Two print profiles: standard version (1.7 hours) and a larger version (5.1 hours) designed to accommodate an LED [&#8230;]"
+  },
+  {
+    "title": "From the mail bag…",
+    "source": "Adafruit",
+    "date": "2026-10-08",
+    "url": "https://blog.adafruit.com/2026/10/08/from-the-mail-bag-808/",
+    "summary": "From the mail bag! Hello Adafruit team, Your CircuitPython introduction makes a lovely point: after a board is set up, saving an edited file is enough to run the change. That short distance between an idea and its result makes experimentation feel approachable. Thank you for explaining the process so clearly and for building a [&#8230;]"
+  },
+  {
+    "title": "Haunted House — A Halloween Scene with LED Illumination #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-08",
+    "url": "https://blog.adafruit.com/2026/10/08/haunted-house-a-halloween-scene-with-led-illumination-3dthursday-3dprinting/",
+    "summary": "Daniel4d shares: A full-scale centerpiece Halloween build: illuminated haunted house surrounded by pumpkins, lanterns, and a gargoyle. Multi-colored components for perfect color control and easy assembly — no soldering required. Three lighting options: basic LED kit, extended multi-point illumination, or no lighting. Powerbank slot accommodates the extended setup. Main file: 32 hours / 12 plates. [&#8230;]"
   },
   {
     "title": "Streaming Games Means the Nintendo DSi Will Never Be Obsolete",
@@ -47,20 +145,6 @@
     "date": "2026-10-07",
     "url": "https://hackaday.com/2026/10/07/2026-retrocomputing-challenge-dungeons-of-daggorath-but-without-quite-so-much-typing/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Dungeons-of-Doom-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>People mod games all the time, but it&#8217;s not every day someone mods Dungeons of Daggorath for the TRS-80. [Nick Bild] did exactly that, adding joystick support and a couple <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/2026-retrocomputing-challenge-dungeons-of-daggorath-but-without-quite-so-much-typing/\">&#8230;read more</a>"
-  },
-  {
-    "title": "ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor",
-    "source": "Hackaday",
-    "date": "2026-10-07",
-    "url": "https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A laptop with no wireless connectivity feels like a rarity &#8211; but when you shop for powerful Linux single-board computers (SBCs), it is pretty common to see one skimp on <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Don’t Try this At Home, Transcranial Magnetic Stimulation Edition",
-    "source": "Hackaday",
-    "date": "2026-10-07",
-    "url": "https://hackaday.com/2026/10/07/dont-try-this-at-home-transcranial-magnetic-stimulation-edition/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/figure_8_multilayer_coil_naked_5.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Transcranial magnetic stimulation is one of those things that seems too wacky to be true. Depression not responding to treatment? Let&#8217;s smack you upside the head with strong magnetic fields! <a class=\"read-more\" href=\"https://hackaday.com/2026/10/07/dont-try-this-at-home-transcranial-magnetic-stimulation-edition/\">&#8230;read more</a>"
   },
   {
     "title": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine",
@@ -119,41 +203,6 @@
     "summary": "<p>There’s a chance that the de-frothing of the AI market could be an orderly retreat rather than a sudden bust. Anthropic’s two largest customers are weaning themselves off Anthropic products [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/an-orderly-de-frothing-2026-10/\">An Orderly De-Frothing?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Omron R1 inverter drives into high-power applications",
-    "source": "Electronics Weekly",
-    "date": "2026-10-07",
-    "url": "https://www.electronicsweekly.com/news/products/power-supplies/omron-r1-inverter-drives-into-high-power-applications-2026-10/",
-    "summary": "<p>Omron is introducing its R1 (3G3R1) variable speed drive as the most powerful member of its inverter family, for demanding, high-power applications. For example in pump sequencing, solar pumping entrance [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/omron-r1-inverter-drives-into-high-power-applications-2026-10/\">Omron R1 inverter drives into high-power applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Don’t get drunk on the numbers, says Penn",
-    "source": "Electronics Weekly",
-    "date": "2026-10-07",
-    "url": "https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/",
-    "summary": "<p>The aberrant behaviour of the chip market has changed in one respect &#8211; unit volumes are growing again &#8211; although ASPs are still responsible for 90% of the dollar growth, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/\">Don&#8217;t get drunk on the numbers, says Penn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Why infrastructure is the most valuable element of industrial systems",
-    "source": "Electronics Weekly",
-    "date": "2026-10-07",
-    "url": "https://www.electronicsweekly.com/news/business/why-infrastructure-is-the-most-valuable-element-of-industrial-systems-2026-10/",
-    "summary": "<p>Infrastructure has become the foundation of operational resilience, determining whether systems continue running or costly downtime brings production to a halt, writes Iwona Zalewska. Industrial organisations often blame software when [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/why-infrastructure-is-the-most-valuable-element-of-industrial-systems-2026-10/\">Why infrastructure is the most valuable element of industrial systems </a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "MS and Meta cut back Anthropic spend",
-    "source": "Electronics Weekly",
-    "date": "2026-10-07",
-    "url": "https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/",
-    "summary": "<p>Microsoft and Meta have told staff to cut back on internal use of the Anthropic model Claude, according to The Information. Microsoft reduced its projected internal spending on Claude by [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/\">MS and Meta cut back Anthropic spend</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qualcomm vs Arm (cont’d)",
-    "source": "Electronics Weekly",
-    "date": "2026-10-07",
-    "url": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/",
-    "summary": "<p>In the Qualcomm  versus Arm trial in Delaware which started on Monday it was alleged that Arm is looking for a 1,800% increase in royalty payments from Qualcomm for its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/\">Qualcomm vs Arm (cont’d)</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Integrating Electronics With Human Cells",
     "source": "Adafruit",
     "date": "2026-10-07",
@@ -194,48 +243,6 @@
     "date": "2026-10-07",
     "url": "https://blog.adafruit.com/2026/10/07/watch-vectrex-doom-via-the-uvmc2-multicart/",
     "summary": "Kris Moyse, writing at Time Extension, covered new footage of DOOM appearing on the Vectrex, Milton Bradley&#8217;s vector-display tabletop console from 1982. E1M1 is recognizable, with id Software&#8217;s 1993 shooter redrawn as moving vector lines instead of pixels. The demo is the work of modder Jason Kopp, known as ArcadeJason. It uses the UVMC2, the [&#8230;]"
-  },
-  {
-    "title": "OFFgrid-SDR: make your own RTL USB HTML SDR radio",
-    "source": "Adafruit",
-    "date": "2026-10-07",
-    "url": "https://blog.adafruit.com/2026/10/07/offgrid-sdr-make-your-own-rtl-usb-html-sdr-radio/",
-    "summary": "diddy-boy has published OFFgrid-SDR on GitHub, a software defined radio receiver that runs in a web browser from a single file. Copy index.html to a USB drive, plug in an RTL-SDR stick and an antenna, and the page becomes a shortwave, FM, airband and VHF/UHF receiver. There is nothing to install, no administrator rights needed, [&#8230;]"
-  },
-  {
-    "title": "I hired an illustrator to draw my house. Now it’s my Home Assistant dashboard",
-    "source": "Adafruit",
-    "date": "2026-10-07",
-    "url": "https://blog.adafruit.com/2026/10/07/i-hired-an-illustrator-to-draw-my-house-now-its-my-home-assistant-dashboard/",
-    "summary": "Anton Frolov, writing on his Substack, commissioned an environment artist to illustrate his house and turned the artwork into a Home Assistant dashboard. The goal was simple: nobody else in the family would open the Home Assistant app, so the garden lights and the sprinkler timer went unused. The assignment mattered as much to the [&#8230;]"
-  },
-  {
-    "title": "Automating a 35mm film scanning pipeline",
-    "source": "Adafruit",
-    "date": "2026-10-07",
-    "url": "https://blog.adafruit.com/2026/10/07/automating-a-35mm-film-scanning-pipeline/",
-    "summary": "A photographer shooting a Canon AE-1P was spending about four hours per roll of 36 frames: scanning negatives, inverting each file by hand in darktable, cleaning up dust, then editing and filing the results. The write-up on shannadige.com covers the build of a pipeline to take most of that off their plate. The first attempt [&#8230;]"
-  },
-  {
-    "title": "A terminal monitor for SDR hardware – written in Rust",
-    "source": "Adafruit",
-    "date": "2026-10-07",
-    "url": "https://blog.adafruit.com/2026/10/07/a-terminal-monitor-for-sdr-hardware-written-in-rust/",
-    "summary": "MusiThang has published sdrtop on GitHub, a terminal monitor for software defined radio hardware, written in Rust. It draws a spectrum, a waterfall and a set of bench instruments inside a tmux pane, an SSH session or a small cyberdeck screen. Measurements include a Friis noise figure model, bandwidth measured about the carrier rather than [&#8230;]"
-  },
-  {
-    "title": "Shipping Alert: Indigenous Peoples’ Day – Monday, October 12",
-    "source": "Adafruit",
-    "date": "2026-10-07",
-    "url": "https://blog.adafruit.com/2026/10/07/shipping-alert-indigenous-peoples-day-monday-october-12/",
-    "summary": "&#160; Monday, October 12, 2026 is Indigenous Peoples’ Day. This is a holiday for the Adafruit team as well as some shipping services. We will still be shipping orders on Monday. Delays may occur on orders placed after Friday 11 AM EDT. There will be no USPS pickup [UPS and DHL are expected to ship [&#8230;]"
-  },
-  {
-    "title": "Niklas Roy – the Glashütte Trash Clock  #ArtTuesday",
-    "source": "Adafruit",
-    "date": "2026-10-07",
-    "url": "https://blog.adafruit.com/2026/10/07/niklas-roy-the-glashutte-trash-clock-arttuesday/",
-    "summary": "The Glashütte Trash Clock is a working pendulum clockwork built almost entirely from discarded materials found in Glashütte, Saxony, during an artist residency hosted by the mechanical watch manufacturer NOMOS. It runs for about half an hour on a falling weight, so it displays only seconds and minutes. The pendulum is a folding wooden ruler [&#8230;]"
   },
   {
     "title": "TDK expands multilayer inductors for automotive power over-coax circuits",
@@ -383,13 +390,6 @@
     "date": "2026-10-02",
     "url": "https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/",
     "summary": "<div><img alt=\"Avaota F2 SBC\" class=\"attachment-medium size-medium wp-post-image\" height=\"572\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/03/Avaota-F2-SBC-720x572.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Avaota F2 is the first SBC based on an Allwinner V861 dual-core 64-bit RISC-V SoC with 128MB on-chip DDR3 memory, support for 4K cameras, H.265 video codec, and a 1 TOPS AI accelerator. It&#8217;s an update to the earlier Avaota F1 camera board based on an Allwinner V821 SoC. The new open-source hardware F2 SBC offers several benefits, including support for both Full HD and 4K camera sensors, motor control for the PTZ (Pan-Tilt-Zoom) feature, and improved audio support through speaker (one) and microphone (two) connectors. However, the F1 also included WiFi, which the Avaota F2 lacks. Avaota F2 specifications: SoC – Allwinner V861M2-XXX CPU Dual-Core RISC-V XuanTie C907 (RV64GCBV/RV32GGCBV) clocked up to 1.4GHz with RVV 1.0 extensions Single-core RISC-V XuanTie E907 (RV32IMAFC) clocked up to 800MHz VPU Video Encoder H.264/H.265 up to  4K @ 25fps (M)JPEG up to 8192×8192 Video Decoder – (M)JPEG up to 1080p60 AI accelerator – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/\">Avaota F2 &#8211; Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "ASRock Industrial NUC 300 series – Intel Core 3 304/Core 5 320 mini PCs and motherboards",
-    "source": "CNX Software",
-    "date": "2026-10-02",
-    "url": "https://www.cnx-software.com/2026/10/02/asrock-industrial-nuc-300-series-intel-core-3-304-core-5-320-mini-pcs-and-motherboards/",
-    "summary": "<div><img alt=\"ASRock NUC 320 motherboard alongside the NUC BOX 320 mini PC\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/ASRock-NUC-320-motherboard-alongside-the-NUC-BOX-320-mini-PC-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ASRock Industrial has introduced the NUC Core 300 BOX series of mini PCs and the NUC Core 300 motherboards built around Intel Core Series 3 Wildcat Lake-U processors. The lineup includes the NUC BOX-320, with the Intel Core 5 320 SoC, and the NUC BOX-304, which uses the Core 3 304 SoC. The company also offers the NUC-320 and NUC-304 as standalone motherboards for custom systems. The systems support up to 64GB DDR5-6400 with In-Band ECC, dual M.2 PCIe Gen4 storage, dual 2.5GbE, Wi-Fi 6E, Bluetooth 5.3, triple-display output, USB 3.2 connectivity, and 12–24V DC input. These features make them suitable for industrial PCs, edge computing systems, and other embedded applications. ASRock NUC Core 300 series specifications: Wildcat Lake SoC Intel Core 3 304 (NUC BOX-304, NUC-304) 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 1-core Intel Xe3 Graphics @ [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/02/asrock-industrial-nuc-300-series-intel-core-3-304-core-5-320-mini-pcs-and-motherboards/\">ASRock Industrial NUC 300 series &#8211; Intel Core 3 304/Core 5 320 mini PCs and motherboards</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "EU CRA for Embedded Developers: Secure-by-Design, Redesign Vs. Bolt-On Security, and Compliance Evidence: Embedded Week Insights",
