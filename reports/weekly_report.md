@@ -1,18 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-08 17:00 UTC
+Generated: 2026-10-08 21:50 UTC
 
 ## Top Papers
-_No items collected yet._
+| Published | Title | PDF |
+| --- | --- | --- |
+| 2026-10-07 | Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos | [link](https://arxiv.org/pdf/2610.10538v1) |
+| 2026-10-07 | RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input | [link](https://arxiv.org/pdf/2610.10534v1) |
+| 2026-10-07 | Long-WAM: Scaling the Context of World-Action Models | [link](https://arxiv.org/pdf/2610.10528v1) |
+| 2026-10-07 | Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2610.10526v1) |
+| 2026-10-07 | Trend formation with sparse global sampling | [link](https://arxiv.org/pdf/2610.10521v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83642 | 33456.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63843 | 25537.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83643 | 33457.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63845 | 25538.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44665 | 17866.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30647 | 12258.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28916 | 11566.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28914 | 11565.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -37,6 +43,6 @@ _No items collected yet._
 | --- | --- | --- | --- |
 | 2026-10-08 | Report: Physical AI Growing Faster Than Markets Are Ready to Deploy - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2dnMnpKZlpIVENDTU1NcUM3UmVoRlVOcHZzSTRCNGtqYUpQTS0tYlE1Y1NrbUt6VURfZXl1UEdLWm9JTWE0S1JnSW1fM1RBR3UxZjdfcnZpem1jNE45QTUtTnR5YnRqWmZmajMwNHJNRE51MDlEUENYS3diM0NSM1ppZmQwOXVoUHBCamZ3Y25pemxnTUNhcGFNZ284SUZITTVfZGx5MA?oc=5) |
 | 2026-10-08 | Miko Maker Inner Sky Labs Unveils Foundation Models For Physical AI - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkVTUGlPZ1BnQ0FLamxBeUZKNW45YzRRSVBWTlZSU2ZZVFZTcVNZRkY0dk80UzJBckZMSmljNUxWRmYwNzRqQVBRQnMxM0E2dVE4RnVXcjM1VHpSYXZpMnpuWWwwSlJBOG9tVTgxSTl1NnhvQjcwUGUtR3RvQUJGbzRyTkpXUTBwbVNIckhCeFZudzlkRXc?oc=5) |
+| 2026-10-08 | AWS Launches Open-Source Physical AI Toolchain for Robotics Development - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDJiN1NQVnk2anRnY3dTUzJmR0ZiWXJVZWRwandkRGQ4SUhEYzlMZjRYYTdSbUNTQVRXMFE1Y2QyaFlxOXJnWVpGRDhFejhUdERZb3ByMDFQSFFNbmNzX3JtYXVBcEQxZFVxd0d2cDB6ZXJBWkJRQWdIVEkwQWV3SFR2UnBsaDM4TmhaY3Yxd1FHdXZFbWZ4QkNQLU9MRndtVktsU0hmcVllZkVhNUE?oc=5) |
 | 2026-10-08 | That Humanoid Fighting Robot Startup on Van Ness Just Got a Cease and Desist From the State - SFist | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXZnRjFkZlFGMVZHSVpjWTVHUG8zTGQ4eTZZS085UHVXTVktM2VwSnZuY29WWUlMOVkzbVg3U3FYOS1qdWlURk1OOUd6cGlBUWdPeTNWVjYwZ0RqanZVMWJQQ3NMMWxwcl9uZGxWRDl2bEJnLUV2alNVSG1UYnM1ZUREYUpTdk8yakp4UF8xVUVGQ0UtVmlYclVFaEZpeUo2akdKNzNZZTJrbk9kSFkxT0dhdDd3bUduSHh0ZUFR?oc=5) |
-| 2026-10-07 | From Silicon to Steel: Taiwan Takes Its Physical AI Push to Silicon Valley - Macau Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeTV5c2FYZkRxSWtFSmw2X2tSUmdBamltRzhjZm5VeURJT1YxQVoxdmFXclJncmtIV3hmM09uNWhVWlpZbWJRRHEzZTVtbEZXXzNueHpTdTFTWWh5b1owRW9RaXI2Um02VEM1b0JKdG1ZWFFvUGVZb1FXNWJyQzhWM010R3gtb0x2WVBaTXc0a1dIWXNtU3MwbEZ6dlVsWjc1V2c?oc=5) |
-| 2026-10-06 | Nearhuman raises £350,000 pre-seed to bring physical AI to e-scooters - Yahoo Finance UK | physical ai startup | [link](https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUlpM3hKeFZDSWNVREdSSTlSVks0VDNFYlBOVnBsZVR5aEJxdXdUZXIxdnMzZUFnUDF4cU0tSjc4aWpUTUZzbHpfQUhFX2tMdVpVQTZQcVZNYk4zWTdnT05mb3V4RXB5ekx0YlRsTXI0X3RJZ1M1U1RsYkhNaDNHN1hTNA?oc=5) |
+| 2026-10-08 | Ex-Tesla AI lead starts firm making specialized industrial robots, not humanoids. - Pluang | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaEk2Ni1jSTZRT0VudVVreVhESFpVWmxfRU53Q0FPY1RqZjJadDJmNTg3TWxwQnBBVEpmUEtXbGxRdGU5ZVRSSVRSSHBsNEFIdkkzTFRaTTUxVXVxaWZzR05fbUoydzlLY0NQNzkzakpDcm5sbEZaR2F5R1JtVFJveHY0djMwemdUNFdfa19tLXFZcmloX1lEOG54b0NLMjlVX2RWQWFYVQ?oc=5) |

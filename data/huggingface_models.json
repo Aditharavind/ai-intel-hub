@@ -1,5 +1,14 @@
 [
   {
+    "model": "daikikimura/random-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/daikikimura/random-robotics-vision-language",
+    "date": "2026-10-08",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "niejunnan25/pi05-robotwin",
     "downloads": 0,
     "likes": 2,
@@ -99,19 +108,46 @@
     "score": 0.1
   },
   {
-    "model": "andrewand03/robotics-vision-language-tutorial-2023",
-    "downloads": 11,
+    "model": "maximellerbach/lingbot_vla_v2_omx_multicubes_distill",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/andrewand03/robotics-vision-language-tutorial-2023",
+    "url": "https://huggingface.co/maximellerbach/lingbot_vla_v2_omx_multicubes_distill",
     "date": "2026-10-08",
-    "keyword": "robotics",
-    "score": 3.4
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-10-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jasonren-ai2/g1-vla-finetune-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jasonren-ai2/g1-vla-finetune-checkpoints",
+    "date": "2026-10-08",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Danielxsy/safedrive-vla",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Danielxsy/safedrive-vla",
+    "date": "2026-10-08",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "vlapky/Kokoro-7M-Distill-ONNX",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlapky/Kokoro-7M-Distill-ONNX",
     "date": "2026-10-08",
     "keyword": "vla",
     "score": 0.1
@@ -180,31 +216,13 @@
     "score": 0.1
   },
   {
-    "model": "RocheL/vlatest",
+    "model": "dosharma87/embodied-ai",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RocheL/vlatest",
+    "url": "https://huggingface.co/dosharma87/embodied-ai",
     "date": "2026-10-08",
-    "keyword": "vla",
+    "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "Dongkkka/Task_000759_Move_Vegetable_Whiteroom_VLA-JEPA-bs8-step10000-lr1e4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Dongkkka/Task_000759_Move_Vegetable_Whiteroom_VLA-JEPA-bs8-step10000-lr1e4",
-    "date": "2026-10-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VladHong/llama-cpp-K2-FAST2",
-    "downloads": 128,
-    "likes": 0,
-    "url": "https://huggingface.co/VladHong/llama-cpp-K2-FAST2",
-    "date": "2026-10-08",
-    "keyword": "vla",
-    "score": 38.5
   },
   {
     "model": "jasonsje/embodied-ai-sandbox",
@@ -241,6 +259,15 @@
     "date": "2026-10-08",
     "keyword": "physical ai",
     "score": 0.3
+  },
+  {
+    "model": "evan3939/so101_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/evan3939/so101_act_policy",
+    "date": "2026-10-08",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "aDaikiKamata/patch_policy_libero10_tipsv2_token_long",
@@ -315,6 +342,15 @@
     "score": 0.3
   },
   {
+    "model": "andrewand03/robotics-vision-language-tutorial-2023",
+    "downloads": 11,
+    "likes": 0,
+    "url": "https://huggingface.co/andrewand03/robotics-vision-language-tutorial-2023",
+    "date": "2026-10-08",
+    "keyword": "robotics",
+    "score": 3.4
+  },
+  {
     "model": "teokonkwo/robotics-vision-language-run178",
     "downloads": 13,
     "likes": 0,
@@ -322,15 +358,6 @@
     "date": "2026-10-08",
     "keyword": "robotics",
     "score": 4.0
-  },
-  {
-    "model": "mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
-    "downloads": 223,
-    "likes": 1,
-    "url": "https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
-    "date": "2026-10-07",
-    "keyword": "physical ai",
-    "score": 67.2
   },
   {
     "model": "Prahaladha/flappy-world-model",
@@ -387,6 +414,15 @@
     "score": 5.2
   },
   {
+    "model": "mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
+    "downloads": 223,
+    "likes": 1,
+    "url": "https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
+    "date": "2026-10-07",
+    "keyword": "physical ai",
+    "score": 67.2
+  },
+  {
     "model": "sovrasov/flux3_policy_black_cubes_20k-ema",
     "downloads": 17,
     "likes": 0,
@@ -409,15 +445,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-10-07",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Snapkitty/license-policy-engine",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Snapkitty/license-policy-engine",
     "date": "2026-10-07",
     "keyword": "policy",
     "score": 0.1
@@ -463,15 +490,6 @@
     "downloads": 9,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0",
-    "date": "2026-10-07",
-    "keyword": "robotics",
-    "score": 2.8
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
     "date": "2026-10-07",
     "keyword": "robotics",
     "score": 2.8
@@ -556,15 +574,6 @@
     "date": "2026-10-05",
     "keyword": "embodied",
     "score": 15.7
-  },
-  {
-    "model": "hugorodr/grad-embodied-ai",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/hugorodr/grad-embodied-ai",
-    "date": "2026-10-05",
-    "keyword": "embodied",
-    "score": 4.0
   },
   {
     "model": "mws-physical-ai/SpaceVLA",
