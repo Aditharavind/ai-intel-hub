@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-08 21:50 UTC
+Last Updated: 2026-10-09 01:30 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,14 +9,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-10-08 | How Oracle turns days of work into minutes with ChatGPT and Codex | OpenAI | [link](https://openai.com/index/oracle) |
 | 2026-10-08 | Pollo AI turns creative ideas into campaigns with OpenAI | OpenAI | [link](https://openai.com/index/pollo-ai) |
+| 2026-10-08 | LegalOn halves Codex costs while maintaining development speed | OpenAI | [link](https://openai.com/index/legalon-halves-codex-costs) |
 | 2026-10-08 | Disrupting AI-enabled “false front” operations | OpenAI | [link](https://openai.com/index/disrupting-ai-enabled-false-front-operations) |
+| 2026-10-08 | The model that didn't exist, so you made it yourself | Hugging Face | [link](https://huggingface.co/blog/building-with-ml-intern) |
 | 2026-10-07 | Helping teens learn, plan, and shape the future of AI | OpenAI | [link](https://openai.com/index/teens-learn-and-plan) |
 | 2026-10-07 | Radisson Hotel Group brings hotel discovery into ChatGPT | OpenAI | [link](https://openai.com/index/radisson) |
 | 2026-10-07 | GPT-6 and Intelligent UI for everyone | OpenAI | [link](https://openai.com/index/gpt-6-for-everyone) |
 | 2026-10-07 | Multimodal open d1 decision models for the edge | Hugging Face | [link](https://huggingface.co/blog/LiquidAI/open-d1) |
 | 2026-10-07 | Introducing Falcon ASR | Hugging Face | [link](https://huggingface.co/blog/tiiuae/falcon-asr) |
-| 2026-10-07 | One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO | Hugging Face | [link](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) |
-| 2026-10-06 | How Jump Trading is scaling quant research with ChatGPT | OpenAI | [link](https://openai.com/index/jump-trading) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,34 +49,36 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-09 | Where Are The Centrists? | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/) |
+| 2026-10-09 | Deluxe Gothic Skull USB LED Lamp – Bambu LED Kit MH001 #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/10/08/deluxe-gothic-skull-usb-led-lamp-bambu-led-kit-mh001-3dthursday-3dprinting/) |
+| 2026-10-08 | Turning a Run-Over Samsung Galaxy S23 into a Gaming PC | Hackaday | [link](https://hackaday.com/2026/10/08/turning-a-run-over-samsung-galaxy-s23-into-a-gaming-pc/) |
 | 2026-10-08 | The 80s Called: They Say This DIY Phone Is, Like, Totally Rad | Hackaday | [link](https://hackaday.com/2026/10/08/the-80s-called-they-say-this-diy-phone-is-like-totally-rad/) |
 | 2026-10-08 | Digital Signage in the Browser With Just a Click | Hackaday | [link](https://hackaday.com/2026/10/08/digital-signage-in-the-browser-with-just-a-click/) |
 | 2026-10-08 | With Latest Update, Alexa Refuses to Pass the Aux | Hackaday | [link](https://hackaday.com/2026/10/08/with-latest-update-alexa-refuses-to-pass-the-aux/) |
 | 2026-10-08 | Lead a Discord Exodus with a Matrix Server | Hackaday | [link](https://hackaday.com/2026/10/08/lead-a-discord-exodus-with-a-matrix-server/) |
 | 2026-10-08 | The World’s Smallest TV Console Plays DOOM | Hackaday | [link](https://hackaday.com/2026/10/08/the-worlds-smallest-tv-console-plays-doom/) |
 | 2026-10-08 | 2026 Retrocomputing Challenge: Retro Terminal Bartop Arcade Topper | Hackaday | [link](https://hackaday.com/2026/10/08/2026-retrocomputing-challenge-retro-terminal-bartop-arcade-topper/) |
-| 2026-10-08 | Solve Your TTL Video Woes With An RP2350 | Hackaday | [link](https://hackaday.com/2026/10/07/solve-your-ttl-video-woes-with-an-rp2350/) |
 | 2026-10-08 | Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/) |
-| 2026-10-08 | Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/) |
-| 2026-10-08 | Efinix Sapphire RV64 SoC – Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs | CNX Software | [link](https://www.cnx-software.com/2026/10/08/efinix-sapphire-rv64-soc-configurable-risc-v-soft-cores-with-ddr3-lpddr4x-and-hyperram-for-efinix-fpgas/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-07 | Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos | [link](https://arxiv.org/pdf/2610.10538v1) |
-| 2026-10-07 | RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input | [link](https://arxiv.org/pdf/2610.10534v1) |
-| 2026-10-07 | Long-WAM: Scaling the Context of World-Action Models | [link](https://arxiv.org/pdf/2610.10528v1) |
-| 2026-10-07 | Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models | [link](https://arxiv.org/pdf/2610.10526v1) |
-| 2026-10-07 | Trend formation with sparse global sampling | [link](https://arxiv.org/pdf/2610.10521v1) |
-| 2026-10-07 | RoboJEPA: Scaling Robotic Latent World Models | [link](https://arxiv.org/pdf/2610.10515v1) |
-| 2026-10-07 | Factorized Tactile Representation and Control for Sim-to-Real Manipulation | [link](https://arxiv.org/pdf/2610.10510v1) |
-| 2026-10-07 | EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution | [link](https://arxiv.org/pdf/2610.10498v1) |
-| 2026-10-07 | HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion | [link](https://arxiv.org/pdf/2610.10489v1) |
-| 2026-10-07 | A Compositional Perspective on Communication-Control Co-Design for Mobile Broadband Systems Beyond 6G | [link](https://arxiv.org/pdf/2610.10486v1) |
+| 2026-10-08 | Can Jev be Your Q or Policy in Reinforcement Learning? | [link](https://arxiv.org/pdf/2610.11692v1) |
+| 2026-10-08 | Autonomous thermodynamic cycles via robotic mobility and sensing | [link](https://arxiv.org/pdf/2610.11667v1) |
+| 2026-10-08 | YOCO: You Only Calibrate Once! Fast Mocap Calibration for Dexterous Teleoperation | [link](https://arxiv.org/pdf/2610.11657v1) |
+| 2026-10-08 | Scalable LEO Conjunction Screening using Adaptive Synthetic-Covariance Thresholds | [link](https://arxiv.org/pdf/2610.11645v1) |
+| 2026-10-08 | Neural Networks for Temporal Pattern Recognition and Dynamic Arm Gesture Speed Estimation for Robot Control | [link](https://arxiv.org/pdf/2610.11631v1) |
+| 2026-10-08 | Learning Language-Conditioned Traversability Representations for Adaptive Visual Navigation | [link](https://arxiv.org/pdf/2610.11622v1) |
+| 2026-10-08 | AgentEvolver: System-Wide Self-Evolution Through Task Execution | [link](https://arxiv.org/pdf/2610.11613v1) |
+| 2026-10-08 | PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors | [link](https://arxiv.org/pdf/2610.11612v1) |
+| 2026-10-08 | Acting from Belief, Looking When Needed: A Bayesian Spatial World Model for Navigation under Intermittent Perception | [link](https://arxiv.org/pdf/2610.11591v1) |
+| 2026-10-08 | SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving | [link](https://arxiv.org/pdf/2610.11583v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-09 | eoinedge/robotics-fusion | 0 | 0 | [link](https://huggingface.co/eoinedge/robotics-fusion) |
+| 2026-10-09 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
 | 2026-10-08 | daikikimura/random-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/daikikimura/random-robotics-vision-language) |
 | 2026-10-08 | niejunnan25/pi05-robotwin | 0 | 2 | [link](https://huggingface.co/niejunnan25/pi05-robotwin) |
 | 2026-10-08 | harrywang01/real-robot-checkpoints | 0 | 1 | [link](https://huggingface.co/harrywang01/real-robot-checkpoints) |
@@ -85,26 +87,25 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-08 | constructelligence/painting-vision-robotics-kit | 16 | 1 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
 | 2026-10-08 | djbob/balance_robot | 0 | 0 | [link](https://huggingface.co/djbob/balance_robot) |
 | 2026-10-08 | taeyong-robot/block_to_bin_act | 0 | 0 | [link](https://huggingface.co/taeyong-robot/block_to_bin_act) |
-| 2026-10-08 | liuxuetao/ME-Dex-1.0-RoboTwin-Clean2Random-Leaderboard | 0 | 0 | [link](https://huggingface.co/liuxuetao/ME-Dex-1.0-RoboTwin-Clean2Random-Leaderboard) |
-| 2026-10-08 | RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24 | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28914 | Python | 11565.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28917 | Python | 11566.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 | NVIDIA/skills | 3543 | Python | 1417.3 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1519 | Rust | 607.7 | [link](https://github.com/copper-project/copper-rs) |
-| pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
-| mosaico-labs/mosaico | 1073 | Python | 429.3 | [link](https://github.com/mosaico-labs/mosaico) |
-| commaai/openpilot | 63845 | Python | 25538.1 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 18451 | Python | 7380.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63846 | Python | 25538.5 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 18479 | Python | 7391.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17433 | Java | 6973.3 | [link](https://github.com/questdb/questdb) |
 | ArduPilot/ardupilot | 16016 | C++ | 6406.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15526 | C++ | 6210.5 | [link](https://github.com/google-deepmind/mujoco) |
+| deeplethe/utopia | 8174 | Rust | 3269.7 | [link](https://github.com/deeplethe/utopia) |
+| isaac-sim/IsaacLab | 8299 | Python | 3319.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| roboninecom/SO-ARM-102 | 59 |  | 23.7 | [link](https://github.com/roboninecom/SO-ARM-102) |
+| copper-project/copper-rs | 1519 | Rust | 607.7 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-10-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJnVDRXTF80VnJNWUtScWZtaHV4cGt2dTFiaWVETVcwX2VrSW8xeWhPdThCUFg2SlpLTnNRcFJGSlZQME9Tb2ItNkYyalpRUDVadjdDVG9YWXA4OFBpUFI3Qk4zYzVmTHVKYmJuOXlCWWZqbGxxY3lkWDV4N3NuVXRUOWJlaUswSFplR1FMc3NzZTg?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUFzNkpkdGUtdjhiNVFsVGFwZmlHNnR0bEVrT1lGYy1zQ1dkM25keGFDR01jalRCampzaFBJU2owWnJRaHlRWEZSODVaV2FZRmtUc1lNamM4cXlBTnQteTJhZWpjVzVOZklyUlExUm1CbThNMEpxYVRUSUtaT0NHcEJLeExKQ2FSN2dTdEt5QWdnWTlIX0ZNWVRnSFVjTjg0dkRNdDFIUkkyUWt6NHRqWdIBrAFBVV95cUxNbGd2THB6QnFPU2dLMTdOaGdYM0wyR0ttd2stT0lOdnkxdGZIb0FmeHd4YktFb2lyM2phMS1oaHliUGp5MFp2Rk5oUFE1RFNuTUhsakE4ZFpENnNWbTlWZXBtY3F0VFVaSkNvUFVsQVRYTWltMVJnc204OVFzZ0gxdVYwU0NoYTVGMUV3bjZ5X2JVUThLMFRVZDlXck4zRmthRzBtQkV5aFpNb2FJ?oc=5) |
 | 2026-10-01 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2JQV082eW5UcHB5czB0eTNSVmxaZEdoVVRFODZ1ZEhKWDd5dnRWa24yUV84dC00bWdpT3ZwdTI4N0ZsbVJ6bHZKMlozOFVYV21yR1BEaFdPWnVYYk5WZzhaNGd6Nl9YaGV4VG9qTGdZUUZLVnIyaXFoMVBNbVlJNGt5VjRjTjB1d3hRRzg1ajZzQUticlR4QUszRFZlUlhwczNCVUZydkRBT0dx?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |
-| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

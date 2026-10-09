@@ -1,5 +1,23 @@
 [
   {
+    "model": "eoinedge/robotics-fusion",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/eoinedge/robotics-fusion",
+    "date": "2026-10-09",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-10-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "daikikimura/random-robotics-vision-language",
     "downloads": 0,
     "likes": 0,
@@ -99,28 +117,10 @@
     "score": 303.7
   },
   {
-    "model": "HuaNG038B/sd14-dreambooth-lora-robot-toy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/HuaNG038B/sd14-dreambooth-lora-robot-toy",
-    "date": "2026-10-08",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "maximellerbach/lingbot_vla_v2_omx_multicubes_distill",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/maximellerbach/lingbot_vla_v2_omx_multicubes_distill",
-    "date": "2026-10-08",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
     "date": "2026-10-08",
     "keyword": "vla",
     "score": 0.1
@@ -259,6 +259,24 @@
     "date": "2026-10-08",
     "keyword": "physical ai",
     "score": 0.3
+  },
+  {
+    "model": "Kobichris/cb-policy-tone",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Kobichris/cb-policy-tone",
+    "date": "2026-10-08",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "musubilabs/policylm-1.7b",
+    "downloads": 111,
+    "likes": 6,
+    "url": "https://huggingface.co/musubilabs/policylm-1.7b",
+    "date": "2026-10-08",
+    "keyword": "policy",
+    "score": 34.6
   },
   {
     "model": "evan3939/so101_act_policy",
@@ -432,24 +450,6 @@
     "score": 5.2
   },
   {
-    "model": "sovrasov/flux3_policy_black_cubes_20k",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/sovrasov/flux3_policy_black_cubes_20k",
-    "date": "2026-10-07",
-    "keyword": "policy",
-    "score": 3.4
-  },
-  {
-    "model": "policyengine/policyengine-uk-data-private",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-10-07",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
     "downloads": 12,
     "likes": 0,
@@ -484,15 +484,6 @@
     "date": "2026-10-07",
     "keyword": "robotics",
     "score": 2.2
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0",
-    "date": "2026-10-07",
-    "keyword": "robotics",
-    "score": 2.8
   },
   {
     "model": "mradermacher/semantic-world-model-4B-GGUF",
