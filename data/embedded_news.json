@@ -1,5 +1,26 @@
 [
   {
+    "title": "Getting to Know the TP223 Capacitive Touch Sensor",
+    "source": "Hackaday",
+    "date": "2026-10-09",
+    "url": "https://hackaday.com/2026/10/09/getting-to-know-the-tp223-capacitive-touch-sensor/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/touch.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Mechanical and prone to failure, switches can seem quaint these days. Plus, everyone is used to having touch screens on their phones and other devices. So why not use touch <a class=\"read-more\" href=\"https://hackaday.com/2026/10/09/getting-to-know-the-tp223-capacitive-touch-sensor/\">&#8230;read more</a>"
+  },
+  {
+    "title": "This Week in Security: New Spectre Attacks, Crushing Quantity of Linux Vulns, Google Gets Too Much AI, and Hacking Lawnmowers",
+    "source": "Hackaday",
+    "date": "2026-10-09",
+    "url": "https://hackaday.com/2026/10/09/this-week-in-security-new-spectre-attacks-crushing-quantity-of-linux-vulns-google-gets-too-much-ai-and-hacking-lawnmowers/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Just-in-time, or JIT, compilation could be considered a fundamental backbone of modern computing.  JIT compilation turns scripting languages like JavaScript or intermediary binary forms like Web Assembly into native code <a class=\"read-more\" href=\"https://hackaday.com/2026/10/09/this-week-in-security-new-spectre-attacks-crushing-quantity-of-linux-vulns-google-gets-too-much-ai-and-hacking-lawnmowers/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Margret Hamilton, Pioneering Software Engineer, Dies Aged 90",
+    "source": "Hackaday",
+    "date": "2026-10-09",
+    "url": "https://hackaday.com/2026/10/09/margret-hamilton-pioneering-software-engineer-dies-aged-90/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2018/04/margarethamilton.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As Director of the Software Engineering Division at the MIT Instrumentation Laboratory, Margret Hamilton was responsible for the software for the Apollo program. The code she was responsible for ran <a class=\"read-more\" href=\"https://hackaday.com/2026/10/09/margret-hamilton-pioneering-software-engineer-dies-aged-90/\">&#8230;read more</a>"
+  },
+  {
     "title": "Belt File from Old Mixer and Junk Bin Parts",
     "source": "Hackaday",
     "date": "2026-10-09",
@@ -21,6 +42,62 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"467\" src=\"https://hackaday.com/wp-content/uploads/2026/10/lsens-gagraphic-3726055.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most home security sensors require a chemical battery or external power source to operate, which can be a point of weakness. If the battery in a window or door sensor <a class=\"read-more\" href=\"https://hackaday.com/2026/10/08/introducing-the-garlic-powered-door-and-window-sensor/\">&#8230;read more</a>"
   },
   {
+    "title": "Open-source ESP32-C3 DNS ad blocker supports up to over 500,000 domains without PSRAM",
+    "source": "CNX Software",
+    "date": "2026-10-09",
+    "url": "https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/",
+    "summary": "<div><img alt=\"ESP32 C3 SuperMini DNS ad blocker in a 3D printed enclosure with a USB A adapter for direct connection to a router\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/ESP32-C3-SuperMini-DNS-ad-blocker-in-a-3D-printed-enclosure-with-a-USB-A-adapter-for-direct-connection-to-a-router-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Developed by Zed (M-Abozaid), the esp32-c3-adblock is an open-source, Pi-hole-style DNS ad blocker that runs on a $2 ESP32-C3 microcontroller board/module without requiring PSRAM. It blocks ads and tracking domains across devices on a home or small office network by filtering DNS requests. Instead of storing domain strings in RAM, the project stores them as sorted 40-bit FNV-1a hashes in flash memory and uses binary search to check DNS requests. When a UDP DNS query comes in, the C++ firmware extracts the domain, hashes it (including parent suffixes), and performs a binary search against the flash hash table. If the domain is on the blocklist, the ESP32-C3 returns 0.0.0.0 to block the request. Otherwise, it forwards the query to an upstream DNS server and returns the response to the client. This method fits over 140,000 domains into ~0.7 MB of flash memory while using only ~50 KB of RAM. A [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/\">Open-source ESP32-C3 DNS ad blocker supports up to over 500,000 domains without PSRAM</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Microchip Adds Parallel Sensing to Touch Controllers",
+    "source": "Embedded.com",
+    "date": "2026-10-09",
+    "url": "https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/",
+    "summary": "<p>Microchip Technology Inc. has launched its first turnkey touch controllers with parallel sensing for buttons, sliders, and wheels in appliances and outdoor and industrial applications. The two new additions to the capacitive-touch family offer enhanced touch sensitivity and noise immunity, enabling touch detection through thick cover materials and gloves. The MTCH3380P and MTCH3240P controllers target [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/\">Microchip Adds Parallel Sensing to Touch Controllers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Defence satcom revenues to surpass $23bn by 2035",
+    "source": "Electronics Weekly",
+    "date": "2026-10-09",
+    "url": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+    "summary": "<p>Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/\">Defence satcom revenues to surpass $23bn by 2035</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Axiom Space highlights space computing progress",
+    "source": "Electronics Weekly",
+    "date": "2026-10-09",
+    "url": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+    "summary": "<p>Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its &#8220;orbital compute&#8221; strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/\">Axiom Space highlights space computing progress</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "The Single-Chip PC",
+    "source": "Electronics Weekly",
+    "date": "2026-10-09",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+    "summary": "<p>28 years ago,  EW carried this yarn: &#160; ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/\">The Single-Chip PC</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Failure analysis in the era of 3D integration",
+    "source": "Electronics Weekly",
+    "date": "2026-10-09",
+    "url": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+    "summary": "<p>TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/\">Failure analysis in the era of 3D integration</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+    "source": "Electronics Weekly",
+    "date": "2026-10-09",
+    "url": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+    "summary": "<p>Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/\">Automotive SBRFP devices feature avalanche energy ratings up to 145mJ</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+    "source": "Electronics Weekly",
+    "date": "2026-10-09",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+    "summary": "<p>The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/\">Most Read &#8211; Robotaxi growth, Arm Qualcomm battle</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Qualcomm vs Arm (Day 4)",
     "source": "Electronics Weekly",
     "date": "2026-10-09",
@@ -32,14 +109,14 @@
     "source": "Electronics Weekly",
     "date": "2026-10-09",
     "url": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
-    "summary": "<p>ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm  which high NA tools can deliver. The 5nm litho tool is dubbed Hyper [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/\">ASML starts on Hyper NA EUV</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/\">ASML starts on Hyper NA EUV</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "TSMC September revenue up 54% YoY",
     "source": "Electronics Weekly",
     "date": "2026-10-09",
     "url": "https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/",
-    "summary": "<p>TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025.  Revenue for January through September 2026 totalled $122 billion, an increase of 41.1% compared [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/\">TSMC September revenue up 54% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/\">TSMC September revenue up 54% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Globalfoundries to make silicon interposers for TSMC",
@@ -49,18 +126,46 @@
     "summary": "<p>GlobalFoundries is to establish a U.S.-based supply of silicon interposers for TSMC&#8217;s CoWoS packaging ecosystem. Under the agreement, GF will provide manufacturing service to TSMC, and add fabrication capacity at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/\">Globalfoundries to make silicon interposers for TSMC</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Astute signs Samwha Capacitor",
-    "source": "Electronics Weekly",
+    "title": "John Park’s CircuitPython Parsec: I2C Target",
+    "source": "Adafruit",
     "date": "2026-10-09",
-    "url": "https://www.electronicsweekly.com/news/business/astute-signs-samwha-capacitor-2026-10/",
-    "summary": "<p>Astute Group has signed a franchise distribution agreement with Samwha Capacitor Group, adding Samwha’s range of capacitors, energy storage components, ferrite products, inductors and transformer technologies to its portfolio. The [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/astute-signs-samwha-capacitor-2026-10/\">Astute signs Samwha Capacitor</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/09/john-parks-circuitpython-parsec-i2c-target/",
+    "summary": "You can turn a microcontroller into an I2C target for a second microcontroller. What is this witchcraft? Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
   },
   {
-    "title": "Where Are The Centrists?",
-    "source": "Electronics Weekly",
+    "title": "Halfspace: an experimental IDE for solid modeling",
+    "source": "Adafruit",
     "date": "2026-10-09",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/",
-    "summary": "<p>Political centrists outnumber Rightists and Leftists  in Germany, Japan, and South Africa, according to  Statista Consumer Insights. In Germany, 41% of respondents said that they were in the  centre , [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/\">Where Are The Centrists?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/09/halfspace-an-experimental-ide-for-solid-modeling/",
+    "summary": "Matt Keeter has released Halfspace, an experimental IDE for solid modeling with distance fields, and written about it on his site. It is a GUI wrapped around his Fidget geometry kernel, which handles rasterization and meshing. Models can be built from pre-defined primitives and hand-written scripts, then exported as images or triangle meshes. There is [&#8230;]"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-10-09",
+    "url": "https://blog.adafruit.com/2026/10/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-9-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "key-right: an upgrade for the Elgato Key Light",
+    "source": "Adafruit",
+    "date": "2026-10-09",
+    "url": "https://blog.adafruit.com/2026/10/09/key-right-an-upgrade-for-the-elgato-key-light/",
+    "summary": "Michael (@micthiesen) has published key-right on GitHub, a Rust firmware project that swaps the Realtek controller in an Elgato Key Light for an ESP32-C3-MINI-1. The rest of the lamp stays: the PCA9635 LED driver, the stock driver circuitry, the LEDs, and the power supply. The point is local control from Apple Home over Matter and [&#8230;]"
+  },
+  {
+    "title": "Fog Machine with Motion Sensor and Adafruit IO #ElectronicHalloween",
+    "source": "Adafruit",
+    "date": "2026-10-09",
+    "url": "https://blog.adafruit.com/2026/10/09/fog-machine-with-motion-sensor-and-adafruit-io-electronichalloween/",
+    "summary": "Step up your decor game this year with a motion-sensitive fog machine. This guide will show you how to hack a standard-issue Halloween-store fog machine to add lights and reactivity, and also how to use Adafruit IO to control your lights and fog from your smart phone &#8212; from anywhere in the world! Make your [&#8230;]"
+  },
+  {
+    "title": "Alma Martinez Fallon #HispanicHeritageMonth",
+    "source": "Adafruit",
+    "date": "2026-10-09",
+    "url": "https://blog.adafruit.com/2026/10/09/hispanicheritagemonth/",
+    "summary": "Back in 2021, the Society of Women Engineers highlighted engineer Alma Martinez Fallon. The full transcript can be found here. Fallon is a senior life Fellow and past president of the Society of Women Engineers (SWE). She is also a Fellow of the American Society of Mechanical Engineers, and served on ASME&#8217;s board of governors. [&#8230;]"
   },
   {
     "title": "Deluxe Gothic Skull USB LED Lamp – Bambu LED Kit MH001 #3DThursday #3DPrinting",
@@ -75,27 +180,6 @@
     "date": "2026-10-08",
     "url": "https://hackaday.com/2026/10/08/turning-a-run-over-samsung-galaxy-s23-into-a-gaming-pc/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"477\" src=\"https://hackaday.com/wp-content/uploads/2026/10/samsung_galaxy_s23_converted_lastcomputer_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Repurposing old smartphones for more general purpose computing isn&#8217;t a new thing, but the project by [LastComputer] ups the ante by going from a Samsung Galaxy S23 that looks like <a class=\"read-more\" href=\"https://hackaday.com/2026/10/08/turning-a-run-over-samsung-galaxy-s23-into-a-gaming-pc/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The 80s Called: They Say This DIY Phone Is, Like, Totally Rad",
-    "source": "Hackaday",
-    "date": "2026-10-08",
-    "url": "https://hackaday.com/2026/10/08/the-80s-called-they-say-this-diy-phone-is-like-totally-rad/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/ADHD-brick.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Like more than a few of us , [Kevin Noki] is sick of being pulled out of flow state by that annoyingly addictive black rectangle we all carry around. His <a class=\"read-more\" href=\"https://hackaday.com/2026/10/08/the-80s-called-they-say-this-diy-phone-is-like-totally-rad/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Digital Signage in the Browser With Just a Click",
-    "source": "Hackaday",
-    "date": "2026-10-08",
-    "url": "https://hackaday.com/2026/10/08/digital-signage-in-the-browser-with-just-a-click/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"373\" src=\"https://hackaday.com/wp-content/uploads/2026/10/bigwords_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are many ways to display text on a computer screen, but most require at least some manual effort from the user. It&#8217;s annoying enough even if you&#8217;re dealing with <a class=\"read-more\" href=\"https://hackaday.com/2026/10/08/digital-signage-in-the-browser-with-just-a-click/\">&#8230;read more</a>"
-  },
-  {
-    "title": "With Latest Update, Alexa Refuses to Pass the Aux",
-    "source": "Hackaday",
-    "date": "2026-10-08",
-    "url": "https://hackaday.com/2026/10/08/with-latest-update-alexa-refuses-to-pass-the-aux/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2018/01/echo.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the feature has been deleted from newer models, there was a time when Amazon&#8217;s Echo devices included a 3.5 mm &#8220;aux&#8221; input jack that let you connect other audio <a class=\"read-more\" href=\"https://hackaday.com/2026/10/08/with-latest-update-alexa-refuses-to-pass-the-aux/\">&#8230;read more</a>"
   },
   {
     "title": "Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)",
@@ -133,34 +217,6 @@
     "summary": "<p>The evolution of edge systems is shifting the focus from computing power alone to how efficiently each watt is transformed into useful performance. Chiplets and modular system-on-chips (SoCs) enable the combination of CPUs, accelerators, memory, and I/O based on specific needs, creating new possibilities for designing more compact, flexible, and efficient platforms. From silicon scalability [...]</p>\n<p>The post <a href=\"https://www.embedded.com/chiplets-at-the-edge-how-modular-socs-redefine-performance-per-watt/\">Chiplets at the Edge: How Modular SoCs Redefine Performance Per Watt</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Universal Quantum raises $100m for trapped-ion quantum computing",
-    "source": "Electronics Weekly",
-    "date": "2026-10-08",
-    "url": "https://www.electronicsweekly.com/uk-region/universal-quantum-raises-100m-for-trapped-ion-quantum-computing-2026-10/",
-    "summary": "<p>Universal Quantum, the UK and German quantum computing startup, has secured $100 million in Series A funding. The company notes it is the largest Series A ever raised by a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/uk-region/universal-quantum-raises-100m-for-trapped-ion-quantum-computing-2026-10/\">Universal Quantum raises $100m for trapped-ion quantum computing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Powell supplies low-force 15-pin connectors from Planetary Systems",
-    "source": "Electronics Weekly",
-    "date": "2026-10-08",
-    "url": "https://www.electronicsweekly.com/news/products/connectors/powell-supplies-low-force-15-pin-connectors-from-planetary-systems-2026-10/",
-    "summary": "<p>Powell Electronics is supplying a low-force 15-pin connector pair from Planetary Systems for signal transfers in spaceflight applications. The pair &#8211; 4000106C for the lower separation connector and 4000107C for [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/powell-supplies-low-force-15-pin-connectors-from-planetary-systems-2026-10/\">Powell supplies low-force 15-pin connectors from Planetary Systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Fable: The Guy Who Focussed",
-    "source": "Electronics Weekly",
-    "date": "2026-10-08",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-guy-who-focussed-2026-10/",
-    "summary": "<p>There was once a sprawling corporate which was bleeding to death. It lost $5.7 billion one year on top of the $3.1 billion it had lost the previous year. Then a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-guy-who-focussed-2026-10/\">Fable: The Guy Who Focussed</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit",
-    "source": "Electronics Weekly",
-    "date": "2026-10-08",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/",
-    "summary": "<p>Check out the launch of Google's Project Suncatcher prototype datacentre satellite, with its Trillium TPUs (Tensor Processing Units). It's courtesy of SpaceX's Transporter-18 rideshare mission.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/\">Pic of the Day: Google&#8217;s Project Suncatcher datacentre satellite in orbit</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Arduino R4 Universal Case / Universal Enclosure #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-08",
@@ -194,48 +250,6 @@
     "date": "2026-10-08",
     "url": "https://blog.adafruit.com/2026/10/08/john-parks-workshop-live-today-10-8-26/",
     "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today (the usual time, no change to the Workshop show schedule)!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects CircuitPython Parsec Learn Guides Tool Tips Retro Gear Coupon Code and more! The live video will be on [&#8230;]"
-  },
-  {
-    "title": "Mopility Raspberry Pi Zero Mobile Case – USB-C Charging + Power Switch #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-08",
-    "url": "https://blog.adafruit.com/2026/10/08/mopility-raspberry-pi-zero-mobile-case-usb-c-charging-power-switch-3dthursday-3dprinting/",
-    "summary": "A compact and functional 3D-printed enclosure designed for Raspberry Pi Zero W projects on the go. Accommodates the SBC, a 2000mAh LiPo battery, and a 5V USB boost converter module. Features: USB Type-C charging input, microSD card access port, MN1 physical power switch for safe shutdown, tight-fitting design with minimal cable management. Suitable for mobile, [&#8230;]"
-  },
-  {
-    "title": "Halloween Headbands – Witch Hat, Knife-Through-Head Costume Props #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-08",
-    "url": "https://blog.adafruit.com/2026/10/08/halloween-headbands-witch-hat-knife-through-head-costume-props-3dthursday-3dprinting/",
-    "summary": "themapster shares: Lightweight, comfortable 3D-printed headband designs for Halloween costumes — fast to print and easy to wear with minimal filament, ideal for last-minute costume needs. Current items: Witch Hat Headband (50-minute print, 5.0/5 rating) and Knife-Through-the-Head Headband (27-minute print). Designer notes &#8216;more to come&#8217; with multiple print profiles for filament color changes or single-color [&#8230;]"
-  },
-  {
-    "title": "Articulated Rexagon – T-Rex + Dragon Flexi Hybrid, No Supports #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-08",
-    "url": "https://blog.adafruit.com/2026/10/08/articulated-rexagon-t-rex-dragon-flexi-hybrid-no-supports-3dthursday-3dprinting/",
-    "summary": "A fully-articulated hybrid flexi combining dragon and T-Rex characteristics — smooth articulation joints for poseable movement. No supports needed. Available in 2-color and 3-color versions. Print times: 1.6–5.9 hours depending on variant. Optimized profiles for Bambu A1, X1, H2D, P1S. H2D printers have a dedicated faster 2-color variant (1.6 hour print). 0.2mm layer, 2 walls, [&#8230;]"
-  },
-  {
-    "title": "micro-repl: A MicroPython IDE for multiple platforms",
-    "source": "Adafruit",
-    "date": "2026-10-08",
-    "url": "https://blog.adafruit.com/2026/10/08/micro-repl-a-micropython-ide-for-multiple-platforms/",
-    "summary": "Mahmoud Aly has published Micro REPL on GitHub, a MicroPython IDE that runs on Android, Windows, macOS, Linux and in the browser. Plug a board in over USB and you get a live REPL, a file explorer and a code editor with the same layout on every platform. The terminal runs code, keeps command history, [&#8230;]"
-  },
-  {
-    "title": "DSPi: a fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)",
-    "source": "Adafruit",
-    "date": "2026-10-08",
-    "url": "https://blog.adafruit.com/2026/10/08/dspi-a-fully-featured-audio-dsp-firmware-for-the-raspberry-pi-pico-rp2040-and-pico-2-rp2350/",
-    "summary": "Weeb Labs has published DSPi on GitHub, a firmware that turns a Raspberry Pi Pico or Pico 2 into a USB sound card with an onboard DSP engine. It handles room correction, active crossovers, parametric EQ, time alignment, loudness compensation, and headphone crossfeed. Both chips run at a fixed 307.2 MHz system clock, which keeps [&#8230;]"
-  },
-  {
-    "title": "Spooky Halloween Tombstones – ‘RIP My Filament Supply’ Funny Inscriptions #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-08",
-    "url": "https://blog.adafruit.com/2026/10/08/spooky-halloween-tombstones-rip-my-filament-supply-funny-inscriptions-3dthursday-3dprinting/",
-    "summary": "tim_hrt shares: Multiple gravestone designs with humorous inscriptions like &#8216;RIP My Filament Supply&#8217; and &#8216;Game Over&#8217; — easy-to-print Halloween decorations requiring minimal supports. Three separate print files: &#8216;Game Over&#8217; (49 minutes), &#8216;Filament&#8217; (1 hour), and &#8216;R.I.P&#8217; (1.1 hours). Each uses one plate. 5.0 stars across all three designs. Perfect tabletop prop or desk decoration for [&#8230;]"
   },
   {
     "title": "50+ km Bluetooth? You Want to Do What?",
@@ -399,13 +413,6 @@
     "summary": "<div><img alt=\"uuna tek iauto review\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/uunatekiauto_00_coveri_mage-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Hello, today I am going to review the UUNA TEK iAuto, an automatic handwriting machine designed to reproduce physical handwriting using a real pen on real paper. It also supports wireless connectivity, spreadsheet-based mail merge, custom fonts, and font variation features that can make the writing look more natural. The machine can handle paper sizes up to A3 and supports pens with a diameter of up to 18 mm. The UUNA TEK iAuto works with the manufacturer’s free iAuto software, which is available for Windows on both x64 and Arm-based systems, as well as for macOS on Apple M1, M2, M3, and Intel-based Macs. Most of the following review focuses on the machine’s writing capabilities, including tests with text, SVG graphics, different writing speeds, various pens, and different paper types. Unboxing The parcel was shipped from China by land transportation and took around six days to arrive at my office [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/03/uuna-tek-iauto-review-a-professional-handwriting-and-drawing-machine/\">UUNA TEK iAuto review &#8211; A professional handwriting and drawing machine</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "UP Xtreme PTL Edge Air Panther Lake Mini PC gets AirJet solid-state active cooling solution",
-    "source": "CNX Software",
-    "date": "2026-10-02",
-    "url": "https://www.cnx-software.com/2026/10/02/up-xtreme-ptl-edge-air-panther-lake-mini-pc-gets-airjet-solid-state-active-cooling-solution/",
-    "summary": "<div><img alt=\"UP Xtreme PTL Edge Air\" class=\"attachment-medium size-medium wp-post-image\" height=\"374\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/UP-Xtreme-PTL-Edge-Air-720x374.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAEON has introduced a new version of its UP Xtreme PTL Edge Panther Lake mini PC with the &#8220;Air&#8221; variant featuring Frore Systems AirJet solid-state active cooling solution. The company says the AirJet passive cooling technology makes the Panther Lake mini PC 35% thinner, 43% lighter, and capable of operating silently at under 21 dBA. This is mostly achieved by removing the thick (and heavy) heatsink found on the original design. The mini PC still benefits from up to an Intel Core Ultra X7 358H with 180 TOPS of AI performance, a 40-pin GPIO header, two RS-232/422/485 COM ports, and a wide 19 to 36V DC input range. UP Xtreme PTL Edge Air specifications: Intel Core Ultra Series 3 Panther Lake SoC (one or the other) Intel Core Ultra X7 Processor 358H CPU &#8211; 16-core (4P + 8E + 4LPE) @ 1.9/1.5/1.5 GHz Base frequency, 4.8/3.5/3.5 GHz Turbo frequency Cache [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/02/up-xtreme-ptl-edge-air-panther-lake-mini-pc-gets-airjet-solid-state-active-cooling-solution/\">UP Xtreme PTL Edge Air Panther Lake Mini PC gets AirJet solid-state active cooling solution</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "EU CRA for Embedded Developers: Secure-by-Design, Redesign Vs. Bolt-On Security, and Compliance Evidence: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-10-02",
@@ -418,12 +425,5 @@
     "date": "2026-10-02",
     "url": "https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations/",
     "summary": "<p>Local partners make it easier to align on requirements fast, handle revisions quickly, and validate complex boards with real-time collaboration.</p>\n<p>The post <a href=\"https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations/\">Local PCB Prototyping Cuts Delays and Speeds Iterations</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Vector, SCSK Simplify RL78/F2x Embedded Software Development",
-    "source": "Embedded.com",
-    "date": "2026-10-01",
-    "url": "https://www.embedded.com/vector-scsk-simplify-rl78-f2x-embedded-software-development/",
-    "summary": "<p>Vector Informatik GmbH and SCSK Corp. have developed a joint evaluation bundle for embedded sensor and actuator applications based on Renesas RL78/F2x microcontrollers (MCUs). The package combines Vector's MICROSAR IO with SCSK's QINeS-Lite software platform and device drivers, providing a pre-integrated software foundation intended to reduce initial setup and integration work during application development and evaluation. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/vector-scsk-simplify-rl78-f2x-embedded-software-development/\">Vector, SCSK Simplify RL78/F2x Embedded Software Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
