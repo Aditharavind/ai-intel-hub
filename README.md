@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-10 00:22 UTC
+Last Updated: 2026-10-10 06:28 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-10 | Super Mario 64 Comes to the Microsoft Zune | Hackaday | [link](https://hackaday.com/2026/10/09/super-mario-64-comes-to-the-microsoft-zune/) |
+| 2026-10-10 | 2026 Retrocomputing Challenge: NEC 286 Laptop Rides Again | Hackaday | [link](https://hackaday.com/2026/10/09/2026-retrocomputing-challenge-nec-286-laptop-rides-again/) |
 | 2026-10-09 | Embedded 3D Printing with Liquids on a Bricked Prusa FDM Printer | Hackaday | [link](https://hackaday.com/2026/10/09/embedded-3d-printing-with-liquids-on-a-bricked-prusa-fdm-printer/) |
 | 2026-10-09 | Two-Component H-shifter for Racing Sims | Hackaday | [link](https://hackaday.com/2026/10/09/two-component-h-shifter-for-racing-sims/) |
 | 2026-10-09 | Hackaday Podcast Episode 390: DOOM, Cranium Stuff, and Odd OpenSCAD Opportunities | Hackaday | [link](https://hackaday.com/2026/10/09/hackaday-podcast-episode-390-doom-cranium-stuff-and-odd-openscad-opportunities/) |
 | 2026-10-09 | Getting to Know the TP223 Capacitive Touch Sensor | Hackaday | [link](https://hackaday.com/2026/10/09/getting-to-know-the-tp223-capacitive-touch-sensor/) |
 | 2026-10-09 | This Week in Security: New Spectre Attacks, Crushing Quantity of Linux Vulns, Google Gets Too Much AI, and Hacking Lawnmowers | Hackaday | [link](https://hackaday.com/2026/10/09/this-week-in-security-new-spectre-attacks-crushing-quantity-of-linux-vulns-google-gets-too-much-ai-and-hacking-lawnmowers/) |
-| 2026-10-09 | Margaret Hamilton, Pioneering Software Engineer, Dies Aged 90 | Hackaday | [link](https://hackaday.com/2026/10/09/margaret-hamilton-pioneering-software-engineer-dies-aged-90/) |
-| 2026-10-09 | Belt File from Old Mixer and Junk Bin Parts | Hackaday | [link](https://hackaday.com/2026/10/09/belt-file-from-old-mixer-and-junk-bin-parts/) |
 | 2026-10-09 | Open-source ESP32-C3 DNS ad blocker supports up to over 500,000 domains without PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/) |
 | 2026-10-09 | Chiplets at the Edge, Physical Edge Computing, Engineering Cyber-Resilient SDVs: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/chiplets-at-the-edge-physical-edge-computing-engineering-cyber-resilient-sdvs-embedded-week-insights/) |
 | 2026-10-09 | Microchip Adds Parallel Sensing to Touch Controllers | Embedded.com | [link](https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/) |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0 | 13 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle | 9 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0 | 14 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round | 8 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 10 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube | 10 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube) |
-| 2026-10-09 | constructelligence/painting-vision-robotics-kit | 41 | 1 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0 | 11 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana | 9 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana) |
-| 2026-10-09 | DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0 | 7 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0) |
+| 2026-10-10 | tsinghua-sigs-robot-lab/VeriLoop-E2 | 2614 | 29 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
+| 2026-10-10 | chenpyyy/UniWAM-robotwin-clean | 0 | 0 | [link](https://huggingface.co/chenpyyy/UniWAM-robotwin-clean) |
+| 2026-10-10 | x-square-robot/X2Streaming-ASR-4B-1009 | 0 | 2 | [link](https://huggingface.co/x-square-robot/X2Streaming-ASR-4B-1009) |
+| 2026-10-10 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
+| 2026-10-10 | owendudu/VLA-ACL | 0 | 1 | [link](https://huggingface.co/owendudu/VLA-ACL) |
+| 2026-10-10 | vladimirivi/mocov3-finetuned | 0 | 0 | [link](https://huggingface.co/vladimirivi/mocov3-finetuned) |
+| 2026-10-10 | vladfi/phillip-models | 0 | 0 | [link](https://huggingface.co/vladfi/phillip-models) |
+| 2026-10-10 | tonynguyen1985/embodied-ai-reading | 0 | 0 | [link](https://huggingface.co/tonynguyen1985/embodied-ai-reading) |
+| 2026-10-10 | Dqmoreno/undergrad-embodied-ai-2024 | 0 | 0 | [link](https://huggingface.co/Dqmoreno/undergrad-embodied-ai-2024) |
+| 2026-10-10 | masterset-ai/PhysicalEye-Decide-35B | 0 | 1 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| autonomous-ai/Physical-AI-Operating-System | 403 | Python | 161.3 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
-| commaai/openpilot | 63849 | Python | 25539.7 | [link](https://github.com/commaai/openpilot) |
-| ArduPilot/ardupilot | 16022 | C++ | 6408.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| dora-rs/dora | 3999 | Rust | 1599.7 | [link](https://github.com/dora-rs/dora) |
-| harvard-edge/cs249r_book | 28921 | Python | 11568.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3553 | Python | 1421.3 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1522 | Rust | 608.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 1074 | Python | 429.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| harvard-edge/cs249r_book | 28922 | Python | 11568.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 | awslabs/awsome-distributed-ai | 484 | Shell | 193.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| v-modal/vmodal_sdk_robotics | 461 | Python | 184.5 | [link](https://github.com/v-modal/vmodal_sdk_robotics) |
+| autonomous-ai/Physical-AI-Operating-System | 406 | Python | 162.5 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
+| commaai/openpilot | 63850 | Python | 25540.1 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 18825 | Python | 7530.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17435 | Java | 6974.1 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 16023 | C++ | 6409.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| google-deepmind/mujoco | 15568 | C++ | 6227.3 | [link](https://github.com/google-deepmind/mujoco) |
+| dora-rs/dora | 3999 | Rust | 1599.7 | [link](https://github.com/dora-rs/dora) |
+| baidu-baige/LoongForge | 666 | Python | 266.5 | [link](https://github.com/baidu-baige/LoongForge) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -120,7 +120,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-09 | Inner Sky Labs Launches Physical AI Foundation Models Beyond Miko Robots - Konsulteer | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVo3UnNuSkpKU1EzcURnNFpuaU1WNXlIRzhTUkR5S2pIVWlZejZlSnhkYnVaVmpZenVoNlhhN2JsbkQtQmozOFB4Tk5PdnItZUtxczdoY2NqMDJ3bUJieVBzMFBjaEYzVHFzSTR6QVRobkRwUGQ0RlhYZ0tLMzBLM2hwa3pCbEpwM1o3VFoxQ3kycjlNbzljOUV0cm9OdDA1b2dUWFRMdkNhcjQ?oc=5) |
-| 2026-10-09 | Minimal CEO Says Physical AI Teams Must Control Operations - n24.com.tr | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXIxNS1PSzVicHZiWTNoOURDdG0yR1RhQS04cFloTW90ZVlmUEd2VTRTZWhVY3lWNzctYzY5M2c1MnR0aF9RVlZ1dTd0TzQ2bWJhek5TU1NvQjM5WFlER2FpYldRcEFZYm0zenhkODFENldEMXRJU2pSU1pzY1RVenZEdnkwZ3pRejcwZTZLREJ3dDc4S245TGtPbw?oc=5) |
 | 2026-10-09 | Baidu, Galbot back robot-data startup Genrobot AI as "picks-and-shovels" bet heats up - Dealroom | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQa19XdUt1TWtWajBZUXJXSElqT3lZcDNWbFpQT3paSkFkeS1YT2gxUk9VLTZqNk9GdVlyaEhfaEMwVTd5eVF6b3o2ellvSTZnNi03R253V25Sa2prdS1yX1VQYVNfbUk2Zkh2dGc1cmVNOThxNGMwVDNnUUx3NjhXTHFBY09Pa2syRUxZc045a0pnUFcyV1R4cDI5RW55cjVmUVJJREx1akZQemtQZVBxWUVldFh3RWc?oc=5) |
 | 2026-10-09 | China's AI boom turns students at Asia's top university into multimillion-dollar startup founders - VnExpress International | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmlXUFlmWUFlWUpmellLUmdlNEotbWRNR2tnenpFQmxhSkJGUDdIY0FMV3VEMmNoZzFGN0owdlE4MGkwM0xYdG1QSUtRTnIzRlBLZGFWM1pNM3BvYkdDVGhRUjdtUVpOcE5ERDlPdDZ4aHltTEs3T01vX1JWWlhHQXlfdVd6R0RmNHhZTFlSclNFdUVCZEVzNVZUUVZsY09sYUZBTVlfZFFwZWdYazRqb0xsZE4wdWkzWG1ENTZPNlBJc1lJVnZrUlVKUHBQM1Awa1NpcTVWaGlSYUJQSGJSNjF2YzJFR2dLZDJHUGZaRQ?oc=5) |
 | 2026-10-09 | Startup Launches Humanoid Robot for Under $30,000 - Assembly Magazine | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDlUSmR5MTJDZVdwZVYyWVBLdmVJQlpFNXJyOTZmTkYxS2ZmTTFnX2sxQzdIRWhFTWtzenlLWmFhVndTOXZlVXFmUVpqQXM2Rk82NkpwekJRVUk2Z0NtLTFlQ2R6b2xrcnlEVTdUTmJ4Q2o5MGNLd0w0cllPMWp6a2ZLNkREaTdYT1FKZk1fVExuUElkcVpF?oc=5) |
@@ -129,6 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-08 | Miko Maker Inner Sky Labs Unveils Foundation Models For Physical AI - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkVTUGlPZ1BnQ0FLamxBeUZKNW45YzRRSVBWTlZSU2ZZVFZTcVNZRkY0dk80UzJBckZMSmljNUxWRmYwNzRqQVBRQnMxM0E2dVE4RnVXcjM1VHpSYXZpMnpuWWwwSlJBOG9tVTgxSTl1NnhvQjcwUGUtR3RvQUJGbzRyTkpXUTBwbVNIckhCeFZudzlkRXc?oc=5) |
 | 2026-10-08 | That Humanoid Fighting Robot Startup on Van Ness Just Got a Cease and Desist From the State - SFist | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXZnRjFkZlFGMVZHSVpjWTVHUG8zTGQ4eTZZS085UHVXTVktM2VwSnZuY29WWUlMOVkzbVg3U3FYOS1qdWlURk1OOUd6cGlBUWdPeTNWVjYwZ0RqanZVMWJQQ3NMMWxwcl9uZGxWRDl2bEJnLUV2alNVSG1UYnM1ZUREYUpTdk8yakp4UF8xVUVGQ0UtVmlYclVFaEZpeUo2akdKNzNZZTJrbk9kSFkxT0dhdDd3bUduSHh0ZUFR?oc=5) |
 | 2026-10-07 | From Silicon to Steel: Taiwan Takes Its Physical AI Push to Silicon Valley - Macau Business | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeTV5c2FYZkRxSWtFSmw2X2tSUmdBamltRzhjZm5VeURJT1YxQVoxdmFXclJncmtIV3hmM09uNWhVWlpZbWJRRHEzZTVtbEZXXzNueHpTdTFTWWh5b1owRW9RaXI2Um02VEM1b0JKdG1ZWFFvUGVZb1FXNWJyQzhWM010R3gtb0x2WVBaTXc0a1dIWXNtU3MwbEZ6dlVsWjc1V2c?oc=5) |
+| 2026-10-06 | Nearhuman raises £350,000 pre-seed to bring physical AI to e-scooters - Yahoo Finance UK | physical ai startup | [link](https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUlpM3hKeFZDSWNVREdSSTlSVks0VDNFYlBOVnBsZVR5aEJxdXdUZXIxdnMzZUFnUDF4cU0tSjc4aWpUTUZzbHpfQUhFX2tMdVpVQTZQcVZNYk4zWTdnT05mb3V4RXB5ekx0YlRsTXI0X3RJZ1M1U1RsYkhNaDNHN1hTNA?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
