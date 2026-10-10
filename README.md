@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-10 18:05 UTC
+Last Updated: 2026-10-10 22:03 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-10 | Valve Releases Hardware and CAD Reference For New VR Headset | Hackaday | [link](https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/) |
 | 2026-10-10 | Restoring an Altimeter Watch to Former Heights | Hackaday | [link](https://hackaday.com/2026/10/10/restoring-an-altimeter-watch-to-former-heights/) |
 | 2026-10-10 | The Weirdest Video Games were Hacks | Hackaday | [link](https://hackaday.com/2026/10/10/the-weirdest-video-games-were-hacks/) |
 | 2026-10-10 | Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It | Hackaday | [link](https://hackaday.com/2026/10/10/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it/) |
@@ -57,8 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-10 | 2026 Retrocomputing Challenge: NEC 286 Laptop Rides Again | Hackaday | [link](https://hackaday.com/2026/10/09/2026-retrocomputing-challenge-nec-286-laptop-rides-again/) |
 | 2026-10-10 | M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread | CNX Software | [link](https://www.cnx-software.com/2026/10/10/m5stack-toughc5-weatherproof-esp32-c5-iot-controller-offers-dual-band-wi-fi-6-ble-5-and-zigbee-thread/) |
 | 2026-10-10 | Jury still out in Qualcomm vs Arm case | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/) |
-| 2026-10-10 | TinkerNews Free Electronics Tools | Adafruit | [link](https://blog.adafruit.com/2026/10/10/tinkernews-free-electronics-tools/) |
-| 2026-10-10 | The dawn of the age of the exoskeleton | Adafruit | [link](https://blog.adafruit.com/2026/10/10/the-dawn-of-the-age-of-the-exoskeleton/) |
+| 2026-10-10 | A mountain of AI math, a few precious bytes | Adafruit | [link](https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-10 | Myungkyu/rldx2_rldxmem_robotwin_b128_60k | 0 | 0 | [link](https://huggingface.co/Myungkyu/rldx2_rldxmem_robotwin_b128_60k) |
 | 2026-10-10 | louis392/pi05-robotwin-l1-lora | 0 | 0 | [link](https://huggingface.co/louis392/pi05-robotwin-l1-lora) |
 | 2026-10-10 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 17 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
 | 2026-10-10 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube | 17 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube) |
@@ -86,27 +87,25 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-10 | ArchiveStudio/Muse-Robotics-1 | 0 | 0 | [link](https://huggingface.co/ArchiveStudio/Muse-Robotics-1) |
 | 2026-10-10 | amilliontries/tag-robot-gen4 | 0 | 0 | [link](https://huggingface.co/amilliontries/tag-robot-gen4) |
 | 2026-10-10 | amilliontries/tag-robot-ep6 | 0 | 0 | [link](https://huggingface.co/amilliontries/tag-robot-ep6) |
-| 2026-10-10 | mr-robot-01/xvla_pickup_right_bottle_restats | 0 | 0 | [link](https://huggingface.co/mr-robot-01/xvla_pickup_right_bottle_restats) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28927 | Python | 11570.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28929 | Python | 11571.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1523 | Rust | 609.3 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 484 | Shell | 193.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | v-modal/vmodal_sdk_robotics | 460 | Python | 184.1 | [link](https://github.com/v-modal/vmodal_sdk_robotics) |
 | autonomous-ai/Physical-AI-Operating-System | 414 | Python | 165.7 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
-| commaai/openpilot | 63855 | Python | 25542.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44678 | JavaScript | 17871.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| earthtojake/text-to-cad | 18946 | Python | 7578.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63854 | Python | 25541.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44681 | JavaScript | 17872.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| earthtojake/text-to-cad | 18974 | Python | 7589.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17437 | Java | 6974.9 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16025 | C++ | 6410.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 16026 | C++ | 6410.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-10-09 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5) |
-| 2026-10-09 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFl1VFhLaXN6aTFLT0ZSLWpQdEoxMHNVQ2RyMTFMNXlrdzg2N291YUNwTHNGZVpnY3J5Q0czN0dKQWhqMUJPTGczYy0yajV3LUE0M1FYVGw3QlV1NFk0Y0FzQ1hCdW9USWt6LVB0QWFidDJ5VXBlblkxekphNWlHR0hzOEZiU1hqUUJfUlljdXJ1d0tJaW1xakJsdVlyYkNhd25IMzI5czE?oc=5) |
 | 2026-10-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJnVDRXTF80VnJNWUtScWZtaHV4cGt2dTFiaWVETVcwX2VrSW8xeWhPdThCUFg2SlpLTnNRcFJGSlZQME9Tb2ItNkYyalpRUDVadjdDVG9YWXA4OFBpUFI3Qk4zYzVmTHVKYmJuOXlCWWZqbGxxY3lkWDV4N3NuVXRUOWJlaUswSFplR1FMc3NzZTg?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUFzNkpkdGUtdjhiNVFsVGFwZmlHNnR0bEVrT1lGYy1zQ1dkM25keGFDR01jalRCampzaFBJU2owWnJRaHlRWEZSODVaV2FZRmtUc1lNamM4cXlBTnQteTJhZWpjVzVOZklyUlExUm1CbThNMEpxYVRUSUtaT0NHcEJLeExKQ2FSN2dTdEt5QWdnWTlIX0ZNWVRnSFVjTjg0dkRNdDFIUkkyUWt6NHRqWdIBrAFBVV95cUxNbGd2THB6QnFPU2dLMTdOaGdYM0wyR0ttd2stT0lOdnkxdGZIb0FmeHd4YktFb2lyM2phMS1oaHliUGp5MFp2Rk5oUFE1RFNuTUhsakE4ZFpENnNWbTlWZXBtY3F0VFVaSkNvUFVsQVRYTWltMVJnc204OVFzZ0gxdVYwU0NoYTVGMUV3bjZ5X2JVUThLMFRVZDlXck4zRmthRzBtQkV5aFpNb2FJ?oc=5) |
@@ -115,6 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
+| 2026-09-07 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
