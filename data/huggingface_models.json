@@ -108,10 +108,46 @@
     "score": 2.2
   },
   {
+    "model": "UCSC-VLAA/ClinSeek-35B-A3B",
+    "downloads": 65,
+    "likes": 3,
+    "url": "https://huggingface.co/UCSC-VLAA/ClinSeek-35B-A3B",
+    "date": "2026-10-09",
+    "keyword": "vla",
+    "score": 20.2
+  },
+  {
+    "model": "mradermacher/RS4-VLA-2B-GGUF",
+    "downloads": 164,
+    "likes": 0,
+    "url": "https://huggingface.co/mradermacher/RS4-VLA-2B-GGUF",
+    "date": "2026-10-09",
+    "keyword": "vla",
+    "score": 49.3
+  },
+  {
     "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-10-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jasonren-ai2/g1-vla-finetune-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jasonren-ai2/g1-vla-finetune-checkpoints",
+    "date": "2026-10-09",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladfi/phillip-models",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladfi/phillip-models",
     "date": "2026-10-09",
     "keyword": "vla",
     "score": 0.1
@@ -175,42 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Suyash44/vla_jepa_blue_cylinder",
-    "date": "2026-10-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VR-VLA/VR-egoverse-v06-pretrained-moe-rtc-lr1e4-bs64-60k-snapshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VR-VLA/VR-egoverse-v06-pretrained-moe-rtc-lr1e4-bs64-60k-snapshot",
-    "date": "2026-10-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VR-VLA/VR-egoverse-v06-pretrained-rtc-lr1e4-bs64-60k-snapshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VR-VLA/VR-egoverse-v06-pretrained-rtc-lr1e4-bs64-60k-snapshot",
-    "date": "2026-10-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "VR-VLA/VR-egoverse-v06-pretrained-moe-lr1e4-bs64-60k-snapshot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VR-VLA/VR-egoverse-v06-pretrained-moe-lr1e4-bs64-60k-snapshot",
-    "date": "2026-10-09",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "jasonren-ai2/g1-vla-finetune-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jasonren-ai2/g1-vla-finetune-checkpoints",
     "date": "2026-10-09",
     "keyword": "vla",
     "score": 0.1
@@ -452,11 +452,11 @@
   {
     "model": "musubilabs/policylm-1.7b",
     "downloads": 133,
-    "likes": 7,
+    "likes": 8,
     "url": "https://huggingface.co/musubilabs/policylm-1.7b",
     "date": "2026-10-08",
     "keyword": "policy",
-    "score": 41.4
+    "score": 41.6
   },
   {
     "model": "evan3939/so101_act_policy",

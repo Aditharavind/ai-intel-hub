@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-09 20:22 UTC
+Generated: 2026-10-10 00:22 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-09 20:22 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83642 | 33456.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63846 | 25538.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44671 | 17868.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30653 | 12261.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28920 | 11568.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83643 | 33457.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63849 | 25539.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44673 | 17869.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30654 | 12261.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28921 | 11568.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | mradermacher/semantic-world-model-4B-GGUF | 364 | 109.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 246 | 74.1 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
-| musubilabs/policylm-1.7b | 133 | 41.4 | [link](https://huggingface.co/musubilabs/policylm-1.7b) |
-| bestak/uav-navigation-sasp | 53 | 16.0 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
-| frankmorales2020/topo-cbp-world-model-3d | 52 | 15.7 | [link](https://huggingface.co/frankmorales2020/topo-cbp-world-model-3d) |
+| mradermacher/RS4-VLA-2B-GGUF | 164 | 49.3 | [link](https://huggingface.co/mradermacher/RS4-VLA-2B-GGUF) |
+| musubilabs/policylm-1.7b | 133 | 41.6 | [link](https://huggingface.co/musubilabs/policylm-1.7b) |
+| UCSC-VLAA/ClinSeek-35B-A3B | 65 | 20.2 | [link](https://huggingface.co/UCSC-VLAA/ClinSeek-35B-A3B) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

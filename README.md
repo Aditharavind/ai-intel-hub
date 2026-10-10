@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-09 20:22 UTC
+Last Updated: 2026-10-10 00:22 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-09 | Embedded 3D Printing with Liquids on a Bricked Prusa FDM Printer | Hackaday | [link](https://hackaday.com/2026/10/09/embedded-3d-printing-with-liquids-on-a-bricked-prusa-fdm-printer/) |
 | 2026-10-09 | Two-Component H-shifter for Racing Sims | Hackaday | [link](https://hackaday.com/2026/10/09/two-component-h-shifter-for-racing-sims/) |
 | 2026-10-09 | Hackaday Podcast Episode 390: DOOM, Cranium Stuff, and Odd OpenSCAD Opportunities | Hackaday | [link](https://hackaday.com/2026/10/09/hackaday-podcast-episode-390-doom-cranium-stuff-and-odd-openscad-opportunities/) |
 | 2026-10-09 | Getting to Know the TP223 Capacitive Touch Sensor | Hackaday | [link](https://hackaday.com/2026/10/09/getting-to-know-the-tp223-capacitive-touch-sensor/) |
 | 2026-10-09 | This Week in Security: New Spectre Attacks, Crushing Quantity of Linux Vulns, Google Gets Too Much AI, and Hacking Lawnmowers | Hackaday | [link](https://hackaday.com/2026/10/09/this-week-in-security-new-spectre-attacks-crushing-quantity-of-linux-vulns-google-gets-too-much-ai-and-hacking-lawnmowers/) |
 | 2026-10-09 | Margaret Hamilton, Pioneering Software Engineer, Dies Aged 90 | Hackaday | [link](https://hackaday.com/2026/10/09/margaret-hamilton-pioneering-software-engineer-dies-aged-90/) |
 | 2026-10-09 | Belt File from Old Mixer and Junk Bin Parts | Hackaday | [link](https://hackaday.com/2026/10/09/belt-file-from-old-mixer-and-junk-bin-parts/) |
-| 2026-10-09 | Low Current Density Nickel Plating | Hackaday | [link](https://hackaday.com/2026/10/08/low-current-density-nickel-plating/) |
 | 2026-10-09 | Open-source ESP32-C3 DNS ad blocker supports up to over 500,000 domains without PSRAM | CNX Software | [link](https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/) |
 | 2026-10-09 | Chiplets at the Edge, Physical Edge Computing, Engineering Cyber-Resilient SDVs: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/chiplets-at-the-edge-physical-edge-computing-engineering-cyber-resilient-sdvs-embedded-week-insights/) |
 | 2026-10-09 | Microchip Adds Parallel Sensing to Touch Controllers | Embedded.com | [link](https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28920 | Python | 11568.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3548 | Python | 1419.3 | [link](https://github.com/NVIDIA/skills) |
+| autonomous-ai/Physical-AI-Operating-System | 403 | Python | 161.3 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
+| commaai/openpilot | 63849 | Python | 25539.7 | [link](https://github.com/commaai/openpilot) |
+| ArduPilot/ardupilot | 16022 | C++ | 6408.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| dora-rs/dora | 3999 | Rust | 1599.7 | [link](https://github.com/dora-rs/dora) |
+| harvard-edge/cs249r_book | 28921 | Python | 11568.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3553 | Python | 1421.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1522 | Rust | 608.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 1074 | Python | 429.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | awslabs/awsome-distributed-ai | 484 | Shell | 193.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | v-modal/vmodal_sdk_robotics | 461 | Python | 184.5 | [link](https://github.com/v-modal/vmodal_sdk_robotics) |
-| commaai/openpilot | 63846 | Python | 25538.5 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 18713 | Python | 7485.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17436 | Java | 6974.5 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16022 | C++ | 6408.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,7 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 | 2026-09-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTWpiTlNmSjROU2hWME1sQjZUTWxfVUg2M1cyVkVfVmduOUZ5ejBNM0pGSk9Sd3Y0Z1lQN2NreEN5ZVVwcWpuYnVObUVNWWZuUXc?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |
-| 2026-09-07 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5) |
+| 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tZG9Nak05YThrN2JjY2c5RXlUd3Y3Wm5mUlB2RFBmQXFMNGswcl9kck5sdlptRTFwZzdWNmRsSjFPb1pjN1NBZVdKMnNReU9lWkJndnRYSlBPY1NWSmsyRXJCeG9adVNIbG1sbGVQZGI3S2tfN2c?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -124,7 +124,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-09 | Baidu, Galbot back robot-data startup Genrobot AI as "picks-and-shovels" bet heats up - Dealroom | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQa19XdUt1TWtWajBZUXJXSElqT3lZcDNWbFpQT3paSkFkeS1YT2gxUk9VLTZqNk9GdVlyaEhfaEMwVTd5eVF6b3o2ellvSTZnNi03R253V25Sa2prdS1yX1VQYVNfbUk2Zkh2dGc1cmVNOThxNGMwVDNnUUx3NjhXTHFBY09Pa2syRUxZc045a0pnUFcyV1R4cDI5RW55cjVmUVJJREx1akZQemtQZVBxWUVldFh3RWc?oc=5) |
 | 2026-10-09 | China's AI boom turns students at Asia's top university into multimillion-dollar startup founders - VnExpress International | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmlXUFlmWUFlWUpmellLUmdlNEotbWRNR2tnenpFQmxhSkJGUDdIY0FMV3VEMmNoZzFGN0owdlE4MGkwM0xYdG1QSUtRTnIzRlBLZGFWM1pNM3BvYkdDVGhRUjdtUVpOcE5ERDlPdDZ4aHltTEs3T01vX1JWWlhHQXlfdVd6R0RmNHhZTFlSclNFdUVCZEVzNVZUUVZsY09sYUZBTVlfZFFwZWdYazRqb0xsZE4wdWkzWG1ENTZPNlBJc1lJVnZrUlVKUHBQM1Awa1NpcTVWaGlSYUJQSGJSNjF2YzJFR2dLZDJHUGZaRQ?oc=5) |
 | 2026-10-09 | Startup Launches Humanoid Robot for Under $30,000 - Assembly Magazine | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDlUSmR5MTJDZVdwZVYyWVBLdmVJQlpFNXJyOTZmTkYxS2ZmTTFnX2sxQzdIRWhFTWtzenlLWmFhVndTOXZlVXFmUVpqQXM2Rk82NkpwekJRVUk2Z0NtLTFlQ2R6b2xrcnlEVTdUTmJ4Q2o5MGNLd0w0cllPMWp6a2ZLNkREaTdYT1FKZk1fVExuUElkcVpF?oc=5) |
-| 2026-10-09 | Chinese startup LinkerBot unveils LinkerHand O30 humanoid robot hand - Global Sources | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVJ5NXlCekNMOWFHSWI1YTdnMGNFS21naXVJRlZnZWczaVNXcG1zWHh0bGtTM3JvWlpZbkRCWmZLbTZELVUwSzNXM1MySm9obXpIRm9iM2NFVjN6WXNxY0ZUUk5oaDVGVVhoRHViWGplTmp1NlBzWEkzZXNFOGt4Ym1lOWpQN3UtcGg4LUxZVGZCT2VuVmNxWXlwWC16TXM1MzVvUU1LbFdRNHNFc3JmQW93SElhRGZrTTJKTGF3WnFLQTNCMFlyUDZtU0RfbVk2?oc=5) |
+| 2026-10-09 | Chinese startup LinkerBot unveils LinkerHand O30 humanoid robot hand - Global Sources | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjYxM0JIcWl3dXk3WVlRc21hNVg5ZVZtSm85WlNLZjNEMXJ3REtqekw3aWpydk9ZWmU3UUN3VmN2UXdnaDNFOW93X3lvV1FoLTFQaFZIa1RmaHBiY3h5SnpWb1JpZFpIN1NYVHRBMVBoSGJyMnBoYkFKbFhXeEU3eWhWbnhVVURfcjBITkVsdmx3QmdYLTJVVjVaYXhyekc3TFhHV05SMFhpSmkxa1NVdTlFUktDdw?oc=5) |
 | 2026-10-08 | Report: Physical AI Growing Faster Than Markets Are Ready to Deploy - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2dnMnpKZlpIVENDTU1NcUM3UmVoRlVOcHZzSTRCNGtqYUpQTS0tYlE1Y1NrbUt6VURfZXl1UEdLWm9JTWE0S1JnSW1fM1RBR3UxZjdfcnZpem1jNE45QTUtTnR5YnRqWmZmajMwNHJNRE51MDlEUENYS3diM0NSM1ppZmQwOXVoUHBCamZ3Y25pemxnTUNhcGFNZ284SUZITTVfZGx5MA?oc=5) |
 | 2026-10-08 | Miko Maker Inner Sky Labs Unveils Foundation Models For Physical AI - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkVTUGlPZ1BnQ0FLamxBeUZKNW45YzRRSVBWTlZSU2ZZVFZTcVNZRkY0dk80UzJBckZMSmljNUxWRmYwNzRqQVBRQnMxM0E2dVE4RnVXcjM1VHpSYXZpMnpuWWwwSlJBOG9tVTgxSTl1NnhvQjcwUGUtR3RvQUJGbzRyTkpXUTBwbVNIckhCeFZudzlkRXc?oc=5) |
 | 2026-10-08 | That Humanoid Fighting Robot Startup on Van Ness Just Got a Cease and Desist From the State - SFist | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXZnRjFkZlFGMVZHSVpjWTVHUG8zTGQ4eTZZS085UHVXTVktM2VwSnZuY29WWUlMOVkzbVg3U3FYOS1qdWlURk1OOUd6cGlBUWdPeTNWVjYwZ0RqanZVMWJQQ3NMMWxwcl9uZGxWRDl2bEJnLUV2alNVSG1UYnM1ZUREYUpTdk8yakp4UF8xVUVGQ0UtVmlYclVFaEZpeUo2akdKNzNZZTJrbk9kSFkxT0dhdDd3bUduSHh0ZUFR?oc=5) |
@@ -133,16 +133,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-09 | Accounts Payable Specialist | Figure AI | Brazil, CDMX | [link](https://job-boards.greenhouse.io/figureai/jobs/4720359006) |
 | 2026-10-09 | Inventory Accounting Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4720671006) |
+| 2026-10-09 | Middleware Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4605724006) |
 | 2026-10-09 | Security Engineer, Detection and Response | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4720675006) |
 | 2026-10-09 | Senior Enterprise Applications Developer | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA); Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6219956004) |
 | 2026-10-09 | Senior Robot Test Operations Manager | Agility Robotics | Onsite- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208317004) |
-| 2026-10-08 | Accounts Payable Specialist | Figure AI | Brazil, CDMX | [link](https://job-boards.greenhouse.io/figureai/jobs/4720359006) |
 | 2026-10-08 | AV Operations Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717486006) |
 | 2026-10-08 | Commercial Operations Associate | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719239006) |
 | 2026-10-08 | Commercial Operations Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719591006) |
 | 2026-10-08 | Commercial Technician (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4719958006) |
-| 2026-10-08 | Data Operations Coordinator (Night Shift) | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4717759006) |
 
 ## Automation
 
