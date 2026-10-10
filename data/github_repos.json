@@ -1,13 +1,23 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 28925,
+    "stars": 28927,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-10-10",
     "topic": "embodied-ai",
-    "score": 11570.1
+    "score": 11570.9
+  },
+  {
+    "repo": "copper-project/copper-rs",
+    "stars": 1523,
+    "language": "Rust",
+    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+    "url": "https://github.com/copper-project/copper-rs",
+    "date": "2026-10-10",
+    "topic": "physical-ai",
+    "score": 609.3
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -18,6 +28,16 @@
     "date": "2026-10-10",
     "topic": "physical-ai",
     "score": 193.7
+  },
+  {
+    "repo": "v-modal/vmodal_sdk_robotics",
+    "stars": 460,
+    "language": "Python",
+    "description": "Robotics vision SDK",
+    "url": "https://github.com/v-modal/vmodal_sdk_robotics",
+    "date": "2026-10-10",
+    "topic": "physical-ai",
+    "score": 184.1
   },
   {
     "repo": "autonomous-ai/Physical-AI-Operating-System",
@@ -31,23 +51,33 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63854,
+    "stars": 63855,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-10-10",
     "topic": "robotics",
-    "score": 25541.7
+    "score": 25542.1
+  },
+  {
+    "repo": "NaiboWang/EasySpider",
+    "stars": 44678,
+    "language": "JavaScript",
+    "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+    "url": "https://github.com/NaiboWang/EasySpider",
+    "date": "2026-10-10",
+    "topic": "robotics",
+    "score": 17871.3
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 18903,
+    "stars": 18946,
     "language": "Python",
     "description": "Give your agent CAD superpowers.",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-10-10",
     "topic": "robotics",
-    "score": 7561.3
+    "score": 7578.5
   },
   {
     "repo": "questdb/questdb",
@@ -71,13 +101,23 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 15579,
+    "stars": 15585,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-10-10",
     "topic": "robotics",
-    "score": 6231.7
+    "score": 6234.1
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "stars": 5476,
+    "language": "Python",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "date": "2026-10-10",
+    "topic": "embodied-ai",
+    "score": 2190.5
   },
   {
     "repo": "dora-rs/dora",
@@ -90,24 +130,34 @@
     "score": 1600.1
   },
   {
+    "repo": "knightnemo/Awesome-World-Models",
+    "stars": 3470,
+    "language": "",
+    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
+    "url": "https://github.com/knightnemo/Awesome-World-Models",
+    "date": "2026-10-10",
+    "topic": "embodied-ai",
+    "score": 1388.1
+  },
+  {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2822,
+    "stars": 2825,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-10-10",
     "topic": "embodied-ai",
-    "score": 1128.9
+    "score": 1130.1
   },
   {
     "repo": "baidu-baige/LoongForge",
-    "stars": 667,
+    "stars": 668,
     "language": "Python",
     "description": "A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.  Supports  Pi0.5, GR00T-N1.7, FastWAM, Cosmos3, DreamZero, DeepSeek-V4,  GLM-5.3, Kimi-K3 and more.",
     "url": "https://github.com/baidu-baige/LoongForge",
     "date": "2026-10-10",
     "topic": "vla",
-    "score": 266.9
+    "score": 267.3
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
@@ -121,33 +171,33 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8222,
+    "stars": 8228,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-10-10",
     "topic": "world-model",
-    "score": 3288.9
+    "score": 3291.3
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7114,
+    "stars": 7115,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-10-10",
     "topic": "world-model",
-    "score": 2845.7
+    "score": 2846.1
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
-    "stars": 2275,
+    "stars": 2277,
     "language": "",
     "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. ",
     "url": "https://github.com/LMD0311/Awesome-World-Model",
     "date": "2026-10-10",
     "topic": "world-model",
-    "score": 910.1
+    "score": 910.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -171,13 +221,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 644,
+    "stars": 645,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-10-10",
     "topic": "humanoid",
-    "score": 257.7
+    "score": 258.1
   },
   {
     "repo": "automatika-robotics/emos",
@@ -201,13 +251,23 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8313,
+    "stars": 8312,
     "language": "Python",
     "description": "Unified framework for robot learning with multi-physics/renderer support",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-10-10",
     "topic": "robot-learning",
-    "score": 3325.3
+    "score": 3324.9
+  },
+  {
+    "repo": "Hebbian-Robotics/hflow",
+    "stars": 292,
+    "language": "Python",
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "date": "2026-10-10",
+    "topic": "lerobot",
+    "score": 116.9
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -220,6 +280,16 @@
     "score": 91.3
   },
   {
+    "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
+    "stars": 186,
+    "language": "Python",
+    "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
+    "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
+    "date": "2026-10-10",
+    "topic": "lerobot",
+    "score": 74.5
+  },
+  {
     "repo": "NVIDIA/skills",
     "stars": 3556,
     "language": "Python",
@@ -228,16 +298,6 @@
     "date": "2026-10-09",
     "topic": "physical-ai",
     "score": 1422.5
-  },
-  {
-    "repo": "copper-project/copper-rs",
-    "stars": 1523,
-    "language": "Rust",
-    "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
-    "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-10-09",
-    "topic": "physical-ai",
-    "score": 609.3
   },
   {
     "repo": "mosaico-labs/mosaico",
@@ -250,34 +310,14 @@
     "score": 430.1
   },
   {
-    "repo": "v-modal/vmodal_sdk_robotics",
-    "stars": 461,
-    "language": "Python",
-    "description": "Robotics vision SDK",
-    "url": "https://github.com/v-modal/vmodal_sdk_robotics",
-    "date": "2026-10-09",
-    "topic": "physical-ai",
-    "score": 184.5
-  },
-  {
     "repo": "bulletphysics/bullet3",
-    "stars": 14769,
+    "stars": 14770,
     "language": "C++",
     "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
     "url": "https://github.com/bulletphysics/bullet3",
     "date": "2026-10-09",
     "topic": "robotics",
-    "score": 5907.7
-  },
-  {
-    "repo": "RLinf/RLinf",
-    "stars": 5475,
-    "language": "Python",
-    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-    "url": "https://github.com/RLinf/RLinf",
-    "date": "2026-10-09",
-    "topic": "embodied-ai",
-    "score": 2190.1
+    "score": 5908.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -320,16 +360,6 @@
     "score": 102.9
   },
   {
-    "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "stars": 185,
-    "language": "Python",
-    "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
-    "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "date": "2026-10-09",
-    "topic": "lerobot",
-    "score": 74.1
-  },
-  {
     "repo": "pnoker/iot-dc3",
     "stars": 1287,
     "language": "Java",
@@ -341,33 +371,33 @@
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 3988,
+    "stars": 3989,
     "language": "Python",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-10-08",
     "topic": "embodied-ai",
-    "score": 1595.3
+    "score": 1595.7
   },
   {
     "repo": "dexmal/opendm",
-    "stars": 2210,
+    "stars": 2214,
     "language": "Python",
     "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
     "url": "https://github.com/dexmal/opendm",
     "date": "2026-10-08",
     "topic": "vla",
-    "score": 884.1
+    "score": 885.7
   },
   {
     "repo": "leofan90/Awesome-World-Models",
-    "stars": 2035,
+    "stars": 2036,
     "language": "Python",
     "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
     "url": "https://github.com/leofan90/Awesome-World-Models",
     "date": "2026-10-08",
     "topic": "world-model",
-    "score": 814.1
+    "score": 814.5
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -381,13 +411,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 626,
+    "stars": 627,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-10-08",
     "topic": "vla",
-    "score": 250.5
+    "score": 250.9
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -398,16 +428,6 @@
     "date": "2026-10-08",
     "topic": "humanoid",
     "score": 78.9
-  },
-  {
-    "repo": "Hebbian-Robotics/hflow",
-    "stars": 292,
-    "language": "Python",
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "date": "2026-10-08",
-    "topic": "lerobot",
-    "score": 116.9
   },
   {
     "repo": "cerul-ai/cerul",
@@ -461,23 +481,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83642,
+    "stars": 83644,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-10-06",
     "topic": "robotics",
-    "score": 33456.9
+    "score": 33457.7
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30661,
+    "stars": 30663,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-10-06",
     "topic": "robotics",
-    "score": 12264.5
+    "score": 12265.3
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -501,13 +521,13 @@
   },
   {
     "repo": "robocurve/inspect-robots",
-    "stars": 659,
+    "stars": 660,
     "language": "Python",
     "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
     "url": "https://github.com/robocurve/inspect-robots",
     "date": "2026-10-03",
     "topic": "vla",
-    "score": 263.7
+    "score": 264.1
   },
   {
     "repo": "thu-ml/Causal-Forcing",
@@ -521,23 +541,23 @@
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 16369,
+    "stars": 16373,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-10-02",
     "topic": "embodied-ai",
-    "score": 6547.7
+    "score": 6549.3
   },
   {
     "repo": "galilai-group/stable-worldmodel",
-    "stars": 2247,
+    "stars": 2248,
     "language": "Python",
     "description": "A platform for reproducible world model research and evaluation",
     "url": "https://github.com/galilai-group/stable-worldmodel",
     "date": "2026-10-02",
     "topic": "world-model",
-    "score": 898.9
+    "score": 899.3
   },
   {
     "repo": "robot-descriptions/awesome-robot-descriptions",
@@ -561,13 +581,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3355,
+    "stars": 3356,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-10-02",
     "topic": "lerobot",
-    "score": 1342.1
+    "score": 1342.5
   },
   {
     "repo": "black-forest-labs/flux-action",
@@ -611,13 +631,13 @@
   },
   {
     "repo": "DAVIAN-Robotics/PHUMA",
-    "stars": 246,
+    "stars": 247,
     "language": "Python",
     "description": "Code for \"PHUMA: Physically Reliable Humanoid Locomotion Dataset\" (CoRL 2026)",
     "url": "https://github.com/DAVIAN-Robotics/PHUMA",
     "date": "2026-09-30",
     "topic": "humanoid",
-    "score": 98.5
+    "score": 98.9
   },
   {
     "repo": "OpenDriveLab/RoboNaldo",
@@ -638,16 +658,6 @@
     "date": "2026-09-30",
     "topic": "robot-learning",
     "score": 469.7
-  },
-  {
-    "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3469,
-    "language": "",
-    "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "date": "2026-09-29",
-    "topic": "embodied-ai",
-    "score": 1387.7
   },
   {
     "repo": "SkyworkAI/Matrix-Game",
@@ -671,13 +681,13 @@
   },
   {
     "repo": "llros007/lerobot_android",
-    "stars": 103,
+    "stars": 104,
     "language": "Python",
     "description": "Use a android phone as the controller for a LeRobot mobile robot instead of a Raspberry Pi. It costs less and already has a screen, a USB camera, GPS, Wi-Fi, 5G, and an NPU.",
     "url": "https://github.com/llros007/lerobot_android",
     "date": "2026-09-26",
     "topic": "lerobot",
-    "score": 41.3
+    "score": 41.7
   },
   {
     "repo": "robocasa/robocasa",
@@ -770,24 +780,14 @@
     "score": 503.7
   },
   {
-    "repo": "NaiboWang/EasySpider",
-    "stars": 44677,
-    "language": "JavaScript",
-    "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
-    "url": "https://github.com/NaiboWang/EasySpider",
-    "date": "2026-09-17",
-    "topic": "robotics",
-    "score": 17870.9
-  },
-  {
     "repo": "dexmal/dexbotic",
-    "stars": 2990,
+    "stars": 2999,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-09-16",
     "topic": "vla",
-    "score": 1196.1
+    "score": 1199.7
   },
   {
     "repo": "Open-X-Humanoid/x-humanoid-training-toolchain",
@@ -821,13 +821,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2791,
+    "stars": 2795,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-09-13",
     "topic": "robot-learning",
-    "score": 1116.5
+    "score": 1118.1
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",

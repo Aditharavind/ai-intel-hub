@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-10 13:07 UTC
+Generated: 2026-10-10 18:05 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-10 13:07 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83642 | 33456.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63854 | 25541.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44677 | 17870.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30661 | 12264.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28925 | 11570.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83644 | 33457.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63855 | 25542.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44678 | 17871.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30663 | 12265.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28927 | 11570.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF | 2709 | 814.8 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF) |
-| tsinghua-sigs-robot-lab/VeriLoop-E2 | 2666 | 806.3 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2) |
+| tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF | 2709 | 815.0 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF) |
 | tsinghua-sigs-robot-lab/VeriLoop-Coder-E1 | 684 | 210.5 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-Coder-E1) |
 | mradermacher/semantic-world-model-4B-GGUF | 364 | 109.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 335 | 100.8 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| mradermacher/RS4-VLA-2B-GGUF | 318 | 95.5 | [link](https://huggingface.co/mradermacher/RS4-VLA-2B-GGUF) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
