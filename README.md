@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-10 22:03 UTC
+Last Updated: 2026-10-11 01:21 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-11 | Adafruit New Products: NeoPixel Rings with Integrated Drivers | Adafruit | [link](https://blog.adafruit.com/2026/10/10/adafruit-new-products-neopixel-rings-with-integrated-drivers/) |
+| 2026-10-10 | Poking at the Radxa Dragon Q8B Raspberry Pi 5 Killer | Hackaday | [link](https://hackaday.com/2026/10/10/poking-at-the-radxa-dragon-q8b-raspberry-pi-5-killer/) |
 | 2026-10-10 | Valve Releases Hardware and CAD Reference For New VR Headset | Hackaday | [link](https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/) |
 | 2026-10-10 | Restoring an Altimeter Watch to Former Heights | Hackaday | [link](https://hackaday.com/2026/10/10/restoring-an-altimeter-watch-to-former-heights/) |
 | 2026-10-10 | The Weirdest Video Games were Hacks | Hackaday | [link](https://hackaday.com/2026/10/10/the-weirdest-video-games-were-hacks/) |
 | 2026-10-10 | Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It | Hackaday | [link](https://hackaday.com/2026/10/10/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it/) |
 | 2026-10-10 | Another IKEA Product Yields an LED Matrix | Hackaday | [link](https://hackaday.com/2026/10/10/another-ikea-product-yields-an-led-matrix/) |
 | 2026-10-10 | Super Mario 64 Comes to the Microsoft Zune | Hackaday | [link](https://hackaday.com/2026/10/09/super-mario-64-comes-to-the-microsoft-zune/) |
-| 2026-10-10 | 2026 Retrocomputing Challenge: NEC 286 Laptop Rides Again | Hackaday | [link](https://hackaday.com/2026/10/09/2026-retrocomputing-challenge-nec-286-laptop-rides-again/) |
 | 2026-10-10 | M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread | CNX Software | [link](https://www.cnx-software.com/2026/10/10/m5stack-toughc5-weatherproof-esp32-c5-iot-controller-offers-dual-band-wi-fi-6-ble-5-and-zigbee-thread/) |
 | 2026-10-10 | Jury still out in Qualcomm vs Arm case | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/) |
-| 2026-10-10 | A mountain of AI math, a few precious bytes | Adafruit | [link](https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,8 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-11 | greek616/poet_robot_1.0_bronce | 0 | 0 | [link](https://huggingface.co/greek616/poet_robot_1.0_bronce) |
 | 2026-10-10 | Myungkyu/rldx2_rldxmem_robotwin_b128_60k | 0 | 0 | [link](https://huggingface.co/Myungkyu/rldx2_rldxmem_robotwin_b128_60k) |
-| 2026-10-10 | louis392/pi05-robotwin-l1-lora | 0 | 0 | [link](https://huggingface.co/louis392/pi05-robotwin-l1-lora) |
 | 2026-10-10 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 17 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
 | 2026-10-10 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube | 17 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube) |
 | 2026-10-10 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0 | 18 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28929 | Python | 11571.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28930 | Python | 11572.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| autonomous-ai/Physical-AI-Operating-System | 414 | Python | 165.7 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
+| commaai/openpilot | 63855 | Python | 25542.1 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 18996 | Python | 7598.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17436 | Java | 6974.5 | [link](https://github.com/questdb/questdb) |
+| worldbench/awesome-vla-for-ad | 492 | HTML | 196.9 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
+| deeplethe/utopia | 8240 | Rust | 3296.1 | [link](https://github.com/deeplethe/utopia) |
+| DexForce/EmbodiChain | 228 | Python | 91.3 | [link](https://github.com/DexForce/EmbodiChain) |
 | copper-project/copper-rs | 1523 | Rust | 609.3 | [link](https://github.com/copper-project/copper-rs) |
 | awslabs/awsome-distributed-ai | 484 | Shell | 193.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| v-modal/vmodal_sdk_robotics | 460 | Python | 184.1 | [link](https://github.com/v-modal/vmodal_sdk_robotics) |
-| autonomous-ai/Physical-AI-Operating-System | 414 | Python | 165.7 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
-| commaai/openpilot | 63854 | Python | 25541.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44681 | JavaScript | 17872.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| earthtojake/text-to-cad | 18974 | Python | 7589.7 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17437 | Java | 6974.9 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16026 | C++ | 6410.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,6 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-09 | Inner Sky Labs Launches Physical AI Foundation Models Beyond Miko Robots - Konsulteer | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVo3UnNuSkpKU1EzcURnNFpuaU1WNXlIRzhTUkR5S2pIVWlZejZlSnhkYnVaVmpZenVoNlhhN2JsbkQtQmozOFB4Tk5PdnItZUtxczdoY2NqMDJ3bUJieVBzMFBjaEYzVHFzSTR6QVRobkRwUGQ0RlhYZ0tLMzBLM2hwa3pCbEpwM1o3VFoxQ3kycjlNbzljOUV0cm9OdDA1b2dUWFRMdkNhcjQ?oc=5) |
 | 2026-10-09 | Baidu, Galbot back robot-data startup Genrobot AI as "picks-and-shovels" bet heats up - Dealroom | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQa19XdUt1TWtWajBZUXJXSElqT3lZcDNWbFpQT3paSkFkeS1YT2gxUk9VLTZqNk9GdVlyaEhfaEMwVTd5eVF6b3o2ellvSTZnNi03R253V25Sa2prdS1yX1VQYVNfbUk2Zkh2dGc1cmVNOThxNGMwVDNnUUx3NjhXTHFBY09Pa2syRUxZc045a0pnUFcyV1R4cDI5RW55cjVmUVJJREx1akZQemtQZVBxWUVldFh3RWc?oc=5) |
 | 2026-10-09 | China's AI boom turns students at Asia's top university into multimillion-dollar startup founders - VnExpress International | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmlXUFlmWUFlWUpmellLUmdlNEotbWRNR2tnenpFQmxhSkJGUDdIY0FMV3VEMmNoZzFGN0owdlE4MGkwM0xYdG1QSUtRTnIzRlBLZGFWM1pNM3BvYkdDVGhRUjdtUVpOcE5ERDlPdDZ4aHltTEs3T01vX1JWWlhHQXlfdVd6R0RmNHhZTFlSclNFdUVCZEVzNVZUUVZsY09sYUZBTVlfZFFwZWdYazRqb0xsZE4wdWkzWG1ENTZPNlBJc1lJVnZrUlVKUHBQM1Awa1NpcTVWaGlSYUJQSGJSNjF2YzJFR2dLZDJHUGZaRQ?oc=5) |
 | 2026-10-09 | Startup Launches Humanoid Robot for Under $30,000 - Assembly Magazine | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDlUSmR5MTJDZVdwZVYyWVBLdmVJQlpFNXJyOTZmTkYxS2ZmTTFnX2sxQzdIRWhFTWtzenlLWmFhVndTOXZlVXFmUVpqQXM2Rk82NkpwekJRVUk2Z0NtLTFlQ2R6b2xrcnlEVTdUTmJ4Q2o5MGNLd0w0cllPMWp6a2ZLNkREaTdYT1FKZk1fVExuUElkcVpF?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-08 | That Humanoid Fighting Robot Startup on Van Ness Just Got a Cease and Desist From the State - SFist | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXZnRjFkZlFGMVZHSVpjWTVHUG8zTGQ4eTZZS085UHVXTVktM2VwSnZuY29WWUlMOVkzbVg3U3FYOS1qdWlURk1OOUd6cGlBUWdPeTNWVjYwZ0RqanZVMWJQQ3NMMWxwcl9uZGxWRDl2bEJnLUV2alNVSG1UYnM1ZUREYUpTdk8yakp4UF8xVUVGQ0UtVmlYclVFaEZpeUo2akdKNzNZZTJrbk9kSFkxT0dhdDd3bUduSHh0ZUFR?oc=5) |
 | 2026-10-07 | From Silicon to Steel: Taiwan Takes Its Physical AI Push to Silicon Valley - PR Newswire | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU1FyQi14dnRSOU0xSWlGU3VMLUI4ZklrNGhNSjZyazJ3QWV1UWh6X3gtM1pTS2ltUXNqN2c2VUhkS29KTzVVYXViU2czZkpWVVRVV0RDZmUzaW4xVzRfVG1Qd2lad0hSRTFLdjg0WmxHcC05OTg1ZC14N0lQNkhQQlZIckg1MUUtRFhYTmhNeWdwU2d0TTF4T3pMREttTzBQMjlCWHRKY1pQblVuc3FVREJWU3lseVlvVVhRbTgtd0ZqdzdOT0xfbkFheFBSLVE?oc=5) |
 | 2026-10-06 | Nearhuman raises £350,000 pre-seed to bring physical AI to e-scooters - Yahoo Finance UK | physical ai startup | [link](https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUlpM3hKeFZDSWNVREdSSTlSVks0VDNFYlBOVnBsZVR5aEJxdXdUZXIxdnMzZUFnUDF4cU0tSjc4aWpUTUZzbHpfQUhFX2tMdVpVQTZQcVZNYk4zWTdnT05mb3V4RXB5ekx0YlRsTXI0X3RJZ1M1U1RsYkhNaDNHN1hTNA?oc=5) |
-| 2026-10-05 | Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkYwT0pLV0YtR3VHZ2lYX0ROa3B2N2V4Y09JZVVORkt2Q3dyRDhHY0dfOUZia2ptZWZraXRkQmxmTTFCQ1VhVkxHWllvNGpUZzg1UThKd3FVZ0JjVWItcXM3aC1uVURkWmJDdGZFTFZjcTJjWUFqRXdBdWVINzRmbjU1a1BmdFZuTVE5NHI1QVJKZnJRcDNjd3d1NFIxR3FNR1JlajNR?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

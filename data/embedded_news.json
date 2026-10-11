@@ -1,5 +1,19 @@
 [
   {
+    "title": "Adafruit New Products: NeoPixel Rings with Integrated Drivers",
+    "source": "Adafruit",
+    "date": "2026-10-11",
+    "url": "https://blog.adafruit.com/2026/10/10/adafruit-new-products-neopixel-rings-with-integrated-drivers/",
+    "summary": "We&#8217;ve got the New nEw NEW for you right here This week we debuted 2 New Products. NeoPixel Ring &#8211; 16 x 5050 WWA LED with Integrated Drivers NeoPixel Ring &#8211; 12 x 5050 WWA with Integrated Drivers Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New [&#8230;]"
+  },
+  {
+    "title": "Poking at the Radxa Dragon Q8B Raspberry Pi 5 Killer",
+    "source": "Hackaday",
+    "date": "2026-10-10",
+    "url": "https://hackaday.com/2026/10/10/poking-at-the-radxa-dragon-q8b-raspberry-pi-5-killer/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"477\" src=\"https://hackaday.com/wp-content/uploads/2026/10/radxa_dragon_q8b_vs_raspberry_pi_5_jeff_geerling_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the asking price of $209 plus shipping seems high for the Radxa Dragon Q8B, featuring the Qualcomm SC8280XP and 8 GB of LPDDR4X, this is 2026, and amid the <a class=\"read-more\" href=\"https://hackaday.com/2026/10/10/poking-at-the-radxa-dragon-q8b-raspberry-pi-5-killer/\">&#8230;read more</a>"
+  },
+  {
     "title": "Valve Releases Hardware and CAD Reference For New VR Headset",
     "source": "Hackaday",
     "date": "2026-10-10",
@@ -42,13 +56,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/sm64-zune-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As a portable media player, Microsoft&#8217;s Zune simply couldn&#8217;t compete with Apple&#8217;s juggernaut iPod &#8212; the latter essentially becoming the de facto personal media player until smartphones took over. But <a class=\"read-more\" href=\"https://hackaday.com/2026/10/09/super-mario-64-comes-to-the-microsoft-zune/\">&#8230;read more</a>"
   },
   {
-    "title": "2026 Retrocomputing Challenge: NEC 286 Laptop Rides Again",
-    "source": "Hackaday",
-    "date": "2026-10-10",
-    "url": "https://hackaday.com/2026/10/09/2026-retrocomputing-challenge-nec-286-laptop-rides-again/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/10/retro-battlestation-internals-e1791573328992.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The sad reality is that all consumer electronics are going to be e-waste eventually. [Cory Whitesell] was determined his old NEC ProSpeed 286 Laptop wouldn&#8217;t meet that fate until absolutely <a class=\"read-more\" href=\"https://hackaday.com/2026/10/09/2026-retrocomputing-challenge-nec-286-laptop-rides-again/\">&#8230;read more</a>"
-  },
-  {
     "title": "M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread",
     "source": "CNX Software",
     "date": "2026-10-10",
@@ -67,7 +74,7 @@
     "source": "Adafruit",
     "date": "2026-10-10",
     "url": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
-    "summary": "Co-authored by Phillip Torrone and Mikey Sklar. We once had a Trinket M0 build fail because the firmware was eight bytes too big. A lot of our CircuitPython build optimization is handling all the error strings and their translations. That is the scale we work at now folks, and now we have a way to [&#8230;]"
+    "summary": "Co-authored by Phillip Torrone and Mikey Sklar. Making CircuitPython fit is a recurring job. Firmware grows, a board gets close to its flash limit or goes over, and maintainers find room through compression, code sharing and other tricks. One Trinket M0 build was eight bytes over. That’s one example of a cycle the team has [&#8230;]"
   },
   {
     "title": "TinkerNews Free Electronics Tools",
@@ -222,13 +229,6 @@
     "date": "2026-10-09",
     "url": "https://blog.adafruit.com/2026/10/09/halfspace-an-experimental-ide-for-solid-modeling/",
     "summary": "Matt Keeter has released Halfspace, an experimental IDE for solid modeling with distance fields, and written about it on his site. It is a GUI wrapped around his Fidget geometry kernel, which handles rasterization and meshing. Models can be built from pre-defined primitives and hand-written scripts, then exported as images or triangle meshes. There is [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-10-09",
-    "url": "https://blog.adafruit.com/2026/10/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-9-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Listening to the Future: Inside sensiBel’s Optical MEMS Revolution",
