@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-11 07:54 UTC
+Generated: 2026-10-11 14:25 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-11 07:54 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83652 | 33460.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63857 | 25542.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83653 | 33461.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63860 | 25544.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44682 | 17872.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30664 | 12265.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28934 | 11573.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28942 | 11576.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | mradermacher/semantic-world-model-4B-GGUF | 364 | 109.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
-| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 335 | 100.8 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
-| constructelligence/painting-vision-robotics-kit | 65 | 19.8 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
-| bestak/uav-navigation-sasp | 47 | 14.2 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
-| sukixp/vt-navigation-llama-3b | 36 | 11.1 | [link](https://huggingface.co/sukixp/vt-navigation-llama-3b) |
+| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 331 | 99.6 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| bestak/uav-navigation-sasp | 45 | 13.6 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
+| masterset-ai/PhysicalEye-Decide-35B | 44 | 13.5 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
+| ubr-physical-ai/rescue-target-yolo26n | 36 | 10.9 | [link](https://huggingface.co/ubr-physical-ai/rescue-target-yolo26n) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-10-11 07:54 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-11 | Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5) |
 | 2026-10-11 | Robot baristas and K-pop dancers lead South Korea's physical AI boom - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcjIzUTNRVklIVGFoVVpEemctZ3pSYWtILU5FS2N1Y2JQb3dBMXFEbGJyUHpHaU12U3owMW1KbEJ5OWczbzlBQU5MSDc4NlhIVjR2NVJzakRJRm5DcHZFc29uRXpaelduSENJaEF1ZGllVEpWMlNadWdwZzc0cGhBdjBlV1hWQmxPSGQzRG8tYWlfaUFGcjZpN2RTakNxVGNvbVlDZWVhTGRSdEhyQ09OYlQ2OTlWTFlKM3JEXzZYeXpWOWtLUWYtdWNaYlJhZDhoamc?oc=5) |
 | 2026-10-11 | KAIST Unveils 'Physical AI' Platform Strategy Beyond Humanoids - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE92b0dydkkyTHd3c1ZnUHBmVG5KSmZ3a092WENLaVU1Zl9PeFJUQkZoc2xsYlhlNU9tOWN2RDNhNmd0d2lONEdwZGZzTmRkV0pBWEZueEsyQ2Z4eUxwZk1Kb3hFTmZDMktVd0lDb0kwOF90MjFiMVE?oc=5) |
 | 2026-10-11 | [Korean Startup Weekly News #139] Physical AI Reaches Orbit as Global AI Infrastructure Hits $2B - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTOXhvUnNjd0Y4ZFAwUi0xeHNIVXlkSW5BNUpuejZacE15dkh3OUtZdi00UWV5N2RzaVdyVENMUm1zYks4V1dZS3RyNFVodzFZVjk0?oc=5) |
 | 2026-10-09 | Inner Sky Labs Launches Physical AI Foundation Models Beyond Miko Robots - Konsulteer | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVo3UnNuSkpKU1EzcURnNFpuaU1WNXlIRzhTUkR5S2pIVWlZejZlSnhkYnVaVmpZenVoNlhhN2JsbkQtQmozOFB4Tk5PdnItZUtxczdoY2NqMDJ3bUJieVBzMFBjaEYzVHFzSTR6QVRobkRwUGQ0RlhYZ0tLMzBLM2hwa3pCbEpwM1o3VFoxQ3kycjlNbzljOUV0cm9OdDA1b2dUWFRMdkNhcjQ?oc=5) |
-| 2026-10-09 | Baidu, Galbot back robot-data startup Genrobot AI as "picks-and-shovels" bet heats up - Dealroom | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQa19XdUt1TWtWajBZUXJXSElqT3lZcDNWbFpQT3paSkFkeS1YT2gxUk9VLTZqNk9GdVlyaEhfaEMwVTd5eVF6b3o2ellvSTZnNi03R253V25Sa2prdS1yX1VQYVNfbUk2Zkh2dGc1cmVNOThxNGMwVDNnUUx3NjhXTHFBY09Pa2syRUxZc045a0pnUFcyV1R4cDI5RW55cjVmUVJJREx1akZQemtQZVBxWUVldFh3RWc?oc=5) |
