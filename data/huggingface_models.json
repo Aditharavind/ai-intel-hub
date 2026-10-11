@@ -1,12 +1,21 @@
 [
   {
-    "model": "hcltech-robotics/rev-ct",
+    "model": "gehaozhang/gam-robotwin",
     "downloads": 0,
     "likes": 0,
+    "url": "https://huggingface.co/gehaozhang/gam-robotwin",
+    "date": "2026-10-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "hcltech-robotics/rev-ct",
+    "downloads": 0,
+    "likes": 1,
     "url": "https://huggingface.co/hcltech-robotics/rev-ct",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "roboto2026repo1/pi0.5-axqxF5STfBtG",
@@ -99,13 +108,49 @@
     "score": 6.7
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
-    "downloads": 20,
-    "likes": 1,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
+    "model": "vlad-grig/opus-mt-en-it",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlad-grig/opus-mt-en-it",
     "date": "2026-10-11",
-    "keyword": "robotics",
-    "score": 6.3
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlad-grig/opus-mt-en-es",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlad-grig/opus-mt-en-es",
+    "date": "2026-10-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlad-grig/opus-mt-en-fr",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlad-grig/opus-mt-en-fr",
+    "date": "2026-10-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlad-grig/opus-mt-en-de",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlad-grig/opus-mt-en-de",
+    "date": "2026-10-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlad-grig/birefnet-lite-512",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlad-grig/birefnet-lite-512",
+    "date": "2026-10-11",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "Najongs/vla-recipe-ckpts",
@@ -171,48 +216,12 @@
     "score": 0.1
   },
   {
-    "model": "vladlinv/PP-OCRv6_medium_rec_ru",
+    "model": "Luffuly/streaming-code-world-model",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru",
+    "url": "https://huggingface.co/Luffuly/streaming-code-world-model",
     "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "morealcholplz/kt-20261011-mme_vla_suite-8dfb8cee",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/morealcholplz/kt-20261011-mme_vla_suite-8dfb8cee",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "taalyelxor/vlap4p-fr3-azure-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/taalyelxor/vlap4p-fr3-azure-checkpoints",
-    "date": "2026-10-11",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -250,6 +259,15 @@
     "date": "2026-10-11",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
+    "downloads": 20,
+    "likes": 1,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
+    "date": "2026-10-11",
+    "keyword": "robotics",
+    "score": 6.3
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
@@ -664,15 +682,6 @@
     "date": "2026-10-01",
     "keyword": "world model",
     "score": 8.7
-  },
-  {
-    "model": "MasonJK99/temporal-flow-world-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MasonJK99/temporal-flow-world-model",
-    "date": "2026-10-01",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "mws-physical-ai/gr00t-cosmos-right13-rawvideo",
