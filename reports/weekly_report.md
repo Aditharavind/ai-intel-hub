@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-11 01:21 UTC
+Generated: 2026-10-11 07:54 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-11 01:21 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83647 | 33458.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63855 | 25542.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44683 | 17873.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30663 | 12265.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28930 | 11572.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83652 | 33460.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63857 | 25542.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44682 | 17872.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30664 | 12265.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28934 | 11573.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF | 2709 | 815.2 | [link](https://huggingface.co/tsinghua-sigs-robot-lab/VeriLoop-E2-GGUF) |
 | mradermacher/semantic-world-model-4B-GGUF | 364 | 109.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 335 | 100.8 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
-| UCSC-VLAA/ClinSeek-35B-A3B | 82 | 25.5 | [link](https://huggingface.co/UCSC-VLAA/ClinSeek-35B-A3B) |
 | constructelligence/painting-vision-robotics-kit | 65 | 19.8 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
+| bestak/uav-navigation-sasp | 47 | 14.2 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
+| sukixp/vt-navigation-llama-3b | 36 | 11.1 | [link](https://huggingface.co/sukixp/vt-navigation-llama-3b) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-10-11 01:21 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-11 | Robot baristas and K-pop dancers lead South Korea's physical AI boom - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcjIzUTNRVklIVGFoVVpEemctZ3pSYWtILU5FS2N1Y2JQb3dBMXFEbGJyUHpHaU12U3owMW1KbEJ5OWczbzlBQU5MSDc4NlhIVjR2NVJzakRJRm5DcHZFc29uRXpaelduSENJaEF1ZGllVEpWMlNadWdwZzc0cGhBdjBlV1hWQmxPSGQzRG8tYWlfaUFGcjZpN2RTakNxVGNvbVlDZWVhTGRSdEhyQ09OYlQ2OTlWTFlKM3JEXzZYeXpWOWtLUWYtdWNaYlJhZDhoamc?oc=5) |
+| 2026-10-11 | KAIST Unveils 'Physical AI' Platform Strategy Beyond Humanoids - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE92b0dydkkyTHd3c1ZnUHBmVG5KSmZ3a092WENLaVU1Zl9PeFJUQkZoc2xsYlhlNU9tOWN2RDNhNmd0d2lONEdwZGZzTmRkV0pBWEZueEsyQ2Z4eUxwZk1Kb3hFTmZDMktVd0lDb0kwOF90MjFiMVE?oc=5) |
+| 2026-10-11 | [Korean Startup Weekly News #139] Physical AI Reaches Orbit as Global AI Infrastructure Hits $2B - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTOXhvUnNjd0Y4ZFAwUi0xeHNIVXlkSW5BNUpuejZacE15dkh3OUtZdi00UWV5N2RzaVdyVENMUm1zYks4V1dZS3RyNFVodzFZVjk0?oc=5) |
 | 2026-10-09 | Inner Sky Labs Launches Physical AI Foundation Models Beyond Miko Robots - Konsulteer | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVo3UnNuSkpKU1EzcURnNFpuaU1WNXlIRzhTUkR5S2pIVWlZejZlSnhkYnVaVmpZenVoNlhhN2JsbkQtQmozOFB4Tk5PdnItZUtxczdoY2NqMDJ3bUJieVBzMFBjaEYzVHFzSTR6QVRobkRwUGQ0RlhYZ0tLMzBLM2hwa3pCbEpwM1o3VFoxQ3kycjlNbzljOUV0cm9OdDA1b2dUWFRMdkNhcjQ?oc=5) |
 | 2026-10-09 | Baidu, Galbot back robot-data startup Genrobot AI as "picks-and-shovels" bet heats up - Dealroom | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQa19XdUt1TWtWajBZUXJXSElqT3lZcDNWbFpQT3paSkFkeS1YT2gxUk9VLTZqNk9GdVlyaEhfaEMwVTd5eVF6b3o2ellvSTZnNi03R253V25Sa2prdS1yX1VQYVNfbUk2Zkh2dGc1cmVNOThxNGMwVDNnUUx3NjhXTHFBY09Pa2syRUxZc045a0pnUFcyV1R4cDI5RW55cjVmUVJJREx1akZQemtQZVBxWUVldFh3RWc?oc=5) |
-| 2026-10-09 | China's AI boom turns students at Asia's top university into multimillion-dollar startup founders - VnExpress International | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmlXUFlmWUFlWUpmellLUmdlNEotbWRNR2tnenpFQmxhSkJGUDdIY0FMV3VEMmNoZzFGN0owdlE4MGkwM0xYdG1QSUtRTnIzRlBLZGFWM1pNM3BvYkdDVGhRUjdtUVpOcE5ERDlPdDZ4aHltTEs3T01vX1JWWlhHQXlfdVd6R0RmNHhZTFlSclNFdUVCZEVzNVZUUVZsY09sYUZBTVlfZFFwZWdYazRqb0xsZE4wdWkzWG1ENTZPNlBJc1lJVnZrUlVKUHBQM1Awa1NpcTVWaGlSYUJQSGJSNjF2YzJFR2dLZDJHUGZaRQ?oc=5) |
-| 2026-10-09 | Startup Launches Humanoid Robot for Under $30,000 - Assembly Magazine | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDlUSmR5MTJDZVdwZVYyWVBLdmVJQlpFNXJyOTZmTkYxS2ZmTTFnX2sxQzdIRWhFTWtzenlLWmFhVndTOXZlVXFmUVpqQXM2Rk82NkpwekJRVUk2Z0NtLTFlQ2R6b2xrcnlEVTdUTmJ4Q2o5MGNLd0w0cllPMWp6a2ZLNkREaTdYT1FKZk1fVExuUElkcVpF?oc=5) |
-| 2026-10-09 | Chinese startup LinkerBot unveils LinkerHand O30 humanoid robot hand - Global Sources | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjYxM0JIcWl3dXk3WVlRc21hNVg5ZVZtSm85WlNLZjNEMXJ3REtqekw3aWpydk9ZWmU3UUN3VmN2UXdnaDNFOW93X3lvV1FoLTFQaFZIa1RmaHBiY3h5SnpWb1JpZFpIN1NYVHRBMVBoSGJyMnBoYkFKbFhXeEU3eWhWbnhVVURfcjBITkVsdmx3QmdYLTJVVjVaYXhyekc3TFhHV05SMFhpSmkxa1NVdTlFUktDdw?oc=5) |
