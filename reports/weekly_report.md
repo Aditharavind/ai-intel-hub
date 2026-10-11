@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-11 14:25 UTC
+Generated: 2026-10-11 19:13 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-10-11 14:25 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83653 | 33461.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63860 | 25544.1 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83656 | 33462.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63864 | 25545.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44682 | 17872.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30664 | 12265.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28942 | 11576.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30666 | 12266.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28946 | 11578.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -33,10 +33,10 @@ Generated: 2026-10-11 14:25 UTC
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-10-09 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5) |
+| 2026-10-09 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFl1VFhLaXN6aTFLT0ZSLWpQdEoxMHNVQ2RyMTFMNXlrdzg2N291YUNwTHNGZVpnY3J5Q0czN0dKQWhqMUJPTGczYy0yajV3LUE0M1FYVGw3QlV1NFk0Y0FzQ1hCdW9USWt6LVB0QWFidDJ5VXBlblkxekphNWlHR0hzOEZiU1hqUUJfUlljdXJ1d0tJaW1xakJsdVlyYkNhd25IMzI5czE?oc=5) |
 | 2026-10-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJnVDRXTF80VnJNWUtScWZtaHV4cGt2dTFiaWVETVcwX2VrSW8xeWhPdThCUFg2SlpLTnNRcFJGSlZQME9Tb2ItNkYyalpRUDVadjdDVG9YWXA4OFBpUFI3Qk4zYzVmTHVKYmJuOXlCWWZqbGxxY3lkWDV4N3NuVXRUOWJlaUswSFplR1FMc3NzZTg?oc=5) |
 | 2026-10-07 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
 | 2026-10-07 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUFzNkpkdGUtdjhiNVFsVGFwZmlHNnR0bEVrT1lGYy1zQ1dkM25keGFDR01jalRCampzaFBJU2owWnJRaHlRWEZSODVaV2FZRmtUc1lNamM4cXlBTnQteTJhZWpjVzVOZklyUlExUm1CbThNMEpxYVRUSUtaT0NHcEJLeExKQ2FSN2dTdEt5QWdnWTlIX0ZNWVRnSFVjTjg0dkRNdDFIUkkyUWt6NHRqWdIBrAFBVV95cUxNbGd2THB6QnFPU2dLMTdOaGdYM0wyR0ttd2stT0lOdnkxdGZIb0FmeHd4YktFb2lyM2phMS1oaHliUGp5MFp2Rk5oUFE1RFNuTUhsakE4ZFpENnNWbTlWZXBtY3F0VFVaSkNvUFVsQVRYTWltMVJnc204OVFzZ0gxdVYwU0NoYTVGMUV3bjZ5X2JVUThLMFRVZDlXck4zRmthRzBtQkV5aFpNb2FJ?oc=5) |
-| 2026-09-29 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
@@ -45,4 +45,4 @@ Generated: 2026-10-11 14:25 UTC
 | 2026-10-11 | Robot baristas and K-pop dancers lead South Korea's physical AI boom - Nikkei Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcjIzUTNRVklIVGFoVVpEemctZ3pSYWtILU5FS2N1Y2JQb3dBMXFEbGJyUHpHaU12U3owMW1KbEJ5OWczbzlBQU5MSDc4NlhIVjR2NVJzakRJRm5DcHZFc29uRXpaelduSENJaEF1ZGllVEpWMlNadWdwZzc0cGhBdjBlV1hWQmxPSGQzRG8tYWlfaUFGcjZpN2RTakNxVGNvbVlDZWVhTGRSdEhyQ09OYlQ2OTlWTFlKM3JEXzZYeXpWOWtLUWYtdWNaYlJhZDhoamc?oc=5) |
 | 2026-10-11 | KAIST Unveils 'Physical AI' Platform Strategy Beyond Humanoids - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE92b0dydkkyTHd3c1ZnUHBmVG5KSmZ3a092WENLaVU1Zl9PeFJUQkZoc2xsYlhlNU9tOWN2RDNhNmd0d2lONEdwZGZzTmRkV0pBWEZueEsyQ2Z4eUxwZk1Kb3hFTmZDMktVd0lDb0kwOF90MjFiMVE?oc=5) |
 | 2026-10-11 | [Korean Startup Weekly News #139] Physical AI Reaches Orbit as Global AI Infrastructure Hits $2B - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTOXhvUnNjd0Y4ZFAwUi0xeHNIVXlkSW5BNUpuejZacE15dkh3OUtZdi00UWV5N2RzaVdyVENMUm1zYks4V1dZS3RyNFVodzFZVjk0?oc=5) |
-| 2026-10-09 | Inner Sky Labs Launches Physical AI Foundation Models Beyond Miko Robots - Konsulteer | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVo3UnNuSkpKU1EzcURnNFpuaU1WNXlIRzhTUkR5S2pIVWlZejZlSnhkYnVaVmpZenVoNlhhN2JsbkQtQmozOFB4Tk5PdnItZUtxczdoY2NqMDJ3bUJieVBzMFBjaEYzVHFzSTR6QVRobkRwUGQ0RlhYZ0tLMzBLM2hwa3pCbEpwM1o3VFoxQ3kycjlNbzljOUV0cm9OdDA1b2dUWFRMdkNhcjQ?oc=5) |
+| 2026-10-09 | Baidu, Galbot back robot-data startup Genrobot AI as "picks-and-shovels" bet heats up - Dealroom | embodied ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQa19XdUt1TWtWajBZUXJXSElqT3lZcDNWbFpQT3paSkFkeS1YT2gxUk9VLTZqNk9GdVlyaEhfaEMwVTd5eVF6b3o2ellvSTZnNi03R253V25Sa2prdS1yX1VQYVNfbUk2Zkh2dGc1cmVNOThxNGMwVDNnUUx3NjhXTHFBY09Pa2syRUxZc045a0pnUFcyV1R4cDI5RW55cjVmUVJJREx1akZQemtQZVBxWUVldFh3RWc?oc=5) |

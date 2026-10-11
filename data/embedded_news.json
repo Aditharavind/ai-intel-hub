@@ -1,5 +1,12 @@
 [
   {
+    "title": "Thorium Clocks Start Ticking with Lasers",
+    "source": "Hackaday",
+    "date": "2026-10-11",
+    "url": "https://hackaday.com/2026/10/11/thorium-clocks-start-ticking-with-lasers/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/clock.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Atomic clocks are super accurate. But, unsurprisingly, some atomic clocks are better than others, depending on your definition of better. Researchers at Vienna University claim to have a superior thorium-based <a class=\"read-more\" href=\"https://hackaday.com/2026/10/11/thorium-clocks-start-ticking-with-lasers/\">&#8230;read more</a>"
+  },
+  {
     "title": "Inside a Mystery 1980s Filter IC Featuring Switched Capacitors",
     "source": "Hackaday",
     "date": "2026-10-11",
@@ -42,6 +49,13 @@
     "summary": "<div><img alt=\"4.3 inch dual chip ESP32 P4 and ESP32 C5 Wi Fi6 integrated touch display\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/4.3-inch-dual-chip-ESP32-P4-and-ESP32-C5-Wi-Fi6-integrated-touch-display-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3)  is a fully integrated 4.3-inch touch display development board that combines an ESP32-P4 MCU with an ESP32-C5 wireless module supporting dual-band WiFi 6 (2.4/5 GHz), Bluetooth LE, and 802.15.4 connectivity. Unlike previous ESP32-P4 + ESP32-C5 solutions, this one comes with a built-in touchscreen, so you don&#8217;t need to connect a separate display. Designed for industrial automation, smart control panels, and edge AI vision terminals, the board also integrates a 15-pin MIPI CSI camera interface, a microSD card slot, two USB Type-C ports (USB 2.0 High-Speed and Debug/JTAG), and a 14-pin GPIO expansion header. Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) specifications: Core module – Wireless Tag WT0132P4-A1-N16R32 SoC – Espressif Systems ESP32-P4 CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/11/wireless-tag-wt32p4c5-43s-a-fully-integrated-4-3-inch-esp32-p4-and-esp32-c5-touch-display-devkit/\">Wireless-Tag WT32P4C5-43S &#8211; A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "NASA’s PRIMA Spacecraft",
+    "source": "Adafruit",
+    "date": "2026-10-11",
+    "url": "https://blog.adafruit.com/2026/10/11/nasas-prima-spacecraft/",
+    "summary": "Artist’s Concept of NASA’s PRIMA Spacecraft, image credit: NASA/JPL-Caltech &#160; A couple of weeks ago, NASA announced the development of PRIMA (PRobe far-Infrared Mission for Astrophysics, the first space telescope in a new class of missions called Probe Explorers. Launch is set for 2033, which is actually a pretty quick turnaround for NASA.  Design work [&#8230;]"
+  },
+  {
     "title": "PyPortal Flyover Viewer",
     "source": "Adafruit",
     "date": "2026-10-11",
@@ -61,13 +75,6 @@
     "date": "2026-10-10",
     "url": "https://hackaday.com/2026/10/10/poking-at-the-radxa-dragon-q8b-raspberry-pi-5-killer/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"477\" src=\"https://hackaday.com/wp-content/uploads/2026/10/radxa_dragon_q8b_vs_raspberry_pi_5_jeff_geerling_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the asking price of $209 plus shipping seems high for the Radxa Dragon Q8B, featuring the Qualcomm SC8280XP and 8 GB of LPDDR4X, this is 2026, and amid the <a class=\"read-more\" href=\"https://hackaday.com/2026/10/10/poking-at-the-radxa-dragon-q8b-raspberry-pi-5-killer/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Valve Releases Hardware and CAD Reference For New VR Headset",
-    "source": "Hackaday",
-    "date": "2026-10-10",
-    "url": "https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Valve-Steam-Frame-CAD.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Valve recently began shipping its long-awaited VR headset, the Steam Frame. Now, there is a hardware reference repository that includes everything a budding modder might need, and then some. Want <a class=\"read-more\" href=\"https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/\">&#8230;read more</a>"
   },
   {
     "title": "M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread",
@@ -229,13 +236,6 @@
     "date": "2026-10-09",
     "url": "https://blog.adafruit.com/2026/10/09/build-a-time-lapse-camera-piday-raspberrypi/",
     "summary": "Atypical workshop built this time-lapse camera to document a garden renovation. He goes through the whole process from stabilizing the camera, building the housing, installing the hardware and a cost breakdown at the end. A step-by-step guide is in the works but for now you can checkout Github, YouTube, and Reddit for details: I built [&#8230;]"
-  },
-  {
-    "title": "John Park’s CircuitPython Parsec: I2C Target",
-    "source": "Adafruit",
-    "date": "2026-10-09",
-    "url": "https://blog.adafruit.com/2026/10/09/john-parks-circuitpython-parsec-i2c-target/",
-    "summary": "You can turn a microcontroller into an I2C target for a second microcontroller. What is this witchcraft? Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
   },
   {
     "title": "Listening to the Future: Inside sensiBel’s Optical MEMS Revolution",
