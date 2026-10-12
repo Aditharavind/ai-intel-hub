@@ -1,10 +1,28 @@
 [
   {
+    "model": "RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24",
+    "date": "2026-10-12",
+    "keyword": "robot",
+    "score": 2.8
+  },
+  {
     "model": "gehaozhang/gam-robotwin",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/gehaozhang/gam-robotwin",
-    "date": "2026-10-11",
+    "date": "2026-10-12",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tron-robot/ev-yam-handkerchief-hpt-wristl",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tron-robot/ev-yam-handkerchief-hpt-wristl",
+    "date": "2026-10-12",
     "keyword": "robot",
     "score": 0.1
   },
@@ -90,24 +108,6 @@
     "score": 9.1
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
-    "date": "2026-10-11",
-    "keyword": "robotics",
-    "score": 7.6
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0",
-    "date": "2026-10-11",
-    "keyword": "robotics",
-    "score": 6.7
-  },
-  {
     "model": "vlad-grig/opus-mt-en-it",
     "downloads": 0,
     "likes": 0,
@@ -191,11 +191,11 @@
   {
     "model": "MrBean2024/AE-VLA-full",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/MrBean2024/AE-VLA-full",
     "date": "2026-10-11",
     "keyword": "vla",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "Vladrebill/vladbot-lora",
@@ -259,6 +259,24 @@
     "date": "2026-10-11",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
+    "downloads": 25,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
+    "date": "2026-10-11",
+    "keyword": "robotics",
+    "score": 7.6
+  },
+  {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0",
+    "downloads": 22,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0",
+    "date": "2026-10-11",
+    "keyword": "robotics",
+    "score": 6.7
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
@@ -326,11 +344,11 @@
   {
     "model": "masterset-ai/PhysicalEye-Decide-35B",
     "downloads": 44,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B",
     "date": "2026-10-10",
     "keyword": "physical ai",
-    "score": 13.5
+    "score": 13.7
   },
   {
     "model": "sovrasov/flux3_policy_black_cubes_20k_v2-ema",

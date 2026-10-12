@@ -1,23 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-11 23:14 UTC
+Generated: 2026-10-12 02:44 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-08 | Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration | [link](https://arxiv.org/pdf/2610.12470v1) |
-| 2026-10-08 | DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training | [link](https://arxiv.org/pdf/2610.12468v1) |
-| 2026-10-08 | CSF: Contextual Safety Filtering for Motion Generators | [link](https://arxiv.org/pdf/2610.12467v1) |
-| 2026-10-08 | A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control | [link](https://arxiv.org/pdf/2610.12465v1) |
-| 2026-10-08 | What 30,000 Hours of Ego-centric Video Does Not Teach | [link](https://arxiv.org/pdf/2610.12464v1) |
+| 2026-10-09 | Splat2Act: From Captured Scenes to Personalized VLA Manipulation | [link](https://arxiv.org/pdf/2610.13945v1) |
+| 2026-10-09 | Noise Space Learning for VLA Adaptation | [link](https://arxiv.org/pdf/2610.13943v1) |
+| 2026-10-09 | Chronos Policy: Learning Robot Policies on Physical Time | [link](https://arxiv.org/pdf/2610.13929v1) |
+| 2026-10-09 | RSI-Anything: Unlocking Recursive Self-Improvement with World Models | [link](https://arxiv.org/pdf/2610.13912v1) |
+| 2026-10-09 | Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection | [link](https://arxiv.org/pdf/2610.13891v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83658 | 33463.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63866 | 25546.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44682 | 17872.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30666 | 12266.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 63870 | 25548.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44681 | 17872.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30667 | 12266.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 28948 | 11579.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
@@ -25,8 +25,8 @@ Generated: 2026-10-11 23:14 UTC
 | --- | --- | --- | --- |
 | mradermacher/semantic-world-model-4B-GGUF | 364 | 109.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 331 | 99.6 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| masterset-ai/PhysicalEye-Decide-35B | 44 | 13.7 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
 | bestak/uav-navigation-sasp | 45 | 13.6 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
-| masterset-ai/PhysicalEye-Decide-35B | 44 | 13.5 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
 | ubr-physical-ai/rescue-target-yolo26n | 36 | 10.9 | [link](https://huggingface.co/ubr-physical-ai/rescue-target-yolo26n) |
 
 ## Top Funding Rounds
