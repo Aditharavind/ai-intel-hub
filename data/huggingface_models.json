@@ -1,12 +1,21 @@
 [
   {
-    "model": "RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24",
-    "downloads": 9,
+    "model": "zmf2023/robotwin2",
+    "downloads": 19,
     "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24",
+    "url": "https://huggingface.co/zmf2023/robotwin2",
     "date": "2026-10-12",
     "keyword": "robot",
-    "score": 2.8
+    "score": 5.8
+  },
+  {
+    "model": "HarrisonPENG/4RC-Action-RoboTwin-Stage1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HarrisonPENG/4RC-Action-RoboTwin-Stage1",
+    "date": "2026-10-12",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "gehaozhang/gam-robotwin",
@@ -18,22 +27,85 @@
     "score": 0.1
   },
   {
-    "model": "tron-robot/ev-yam-handkerchief-hpt-wristl",
-    "downloads": 0,
+    "model": "RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24",
+    "downloads": 16,
     "likes": 0,
-    "url": "https://huggingface.co/tron-robot/ev-yam-handkerchief-hpt-wristl",
+    "url": "https://huggingface.co/RobotisSW/GR00T-N1.7-PaperTowelRoll-754-760-761-762-773-RightArmOnly-H24",
     "date": "2026-10-12",
     "keyword": "robot",
+    "score": 4.9
+  },
+  {
+    "model": "RocheL/vlatest",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RocheL/vlatest",
+    "date": "2026-10-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "taalyelxor/vlap4p-independent-validation-artifacts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/taalyelxor/vlap4p-independent-validation-artifacts",
+    "date": "2026-10-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_24.09.2026_200eps_policy_ACT_500k",
+    "downloads": 5,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_policy_ACT_500k",
+    "date": "2026-10-12",
+    "keyword": "policy",
+    "score": 1.6
+  },
+  {
+    "model": "MrBean2024/MA-VLA-pi05-shuffle06-mask04",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MrBean2024/MA-VLA-pi05-shuffle06-mask04",
+    "date": "2026-10-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "MIT-Media-Lab/vla-hand-baselines",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MIT-Media-Lab/vla-hand-baselines",
+    "date": "2026-10-12",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "marcinnowakwyn/my-embodied-ai",
+    "downloads": 13,
+    "likes": 0,
+    "url": "https://huggingface.co/marcinnowakwyn/my-embodied-ai",
+    "date": "2026-10-12",
+    "keyword": "embodied",
+    "score": 4.0
+  },
+  {
+    "model": "0x00ff00ff/robosyn-2026-compact-act-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/0x00ff00ff/robosyn-2026-compact-act-policy",
+    "date": "2026-10-12",
+    "keyword": "policy",
     "score": 0.1
   },
   {
     "model": "hcltech-robotics/rev-ct",
-    "downloads": 0,
+    "downloads": 963,
     "likes": 1,
     "url": "https://huggingface.co/hcltech-robotics/rev-ct",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 0.3
+    "score": 289.2
   },
   {
     "model": "roboto2026repo1/pi0.5-axqxF5STfBtG",
@@ -46,111 +118,102 @@
   },
   {
     "model": "vis22/norm_xvla-piper-robot",
-    "downloads": 0,
+    "downloads": 13,
     "likes": 0,
     "url": "https://huggingface.co/vis22/norm_xvla-piper-robot",
     "date": "2026-10-11",
     "keyword": "robot",
-    "score": 0.1
+    "score": 4.0
   },
   {
     "model": "chenpyyy/UniWAM-robotwin-clean",
-    "downloads": 9,
+    "downloads": 18,
     "likes": 0,
     "url": "https://huggingface.co/chenpyyy/UniWAM-robotwin-clean",
     "date": "2026-10-11",
     "keyword": "robot",
-    "score": 2.8
+    "score": 5.5
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
-    "downloads": 20,
+    "downloads": 27,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 6.1
+    "score": 8.2
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
-    "downloads": 18,
+    "downloads": 28,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 5.5
+    "score": 8.5
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
-    "downloads": 23,
+    "downloads": 31,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 7.0
+    "score": 9.4
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round",
-    "downloads": 23,
+    "downloads": 32,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 7.0
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0",
-    "date": "2026-10-11",
-    "keyword": "robotics",
-    "score": 9.1
+    "score": 9.7
   },
   {
     "model": "vlad-grig/opus-mt-en-it",
-    "downloads": 0,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/vlad-grig/opus-mt-en-it",
     "date": "2026-10-11",
     "keyword": "vla",
-    "score": 0.1
+    "score": 4.3
   },
   {
     "model": "vlad-grig/opus-mt-en-es",
-    "downloads": 0,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/vlad-grig/opus-mt-en-es",
     "date": "2026-10-11",
     "keyword": "vla",
-    "score": 0.1
+    "score": 4.3
   },
   {
     "model": "vlad-grig/opus-mt-en-fr",
-    "downloads": 0,
+    "downloads": 15,
     "likes": 0,
     "url": "https://huggingface.co/vlad-grig/opus-mt-en-fr",
     "date": "2026-10-11",
     "keyword": "vla",
-    "score": 0.1
+    "score": 4.6
   },
   {
     "model": "vlad-grig/opus-mt-en-de",
-    "downloads": 0,
+    "downloads": 17,
     "likes": 0,
     "url": "https://huggingface.co/vlad-grig/opus-mt-en-de",
     "date": "2026-10-11",
     "keyword": "vla",
-    "score": 0.1
+    "score": 5.2
   },
   {
     "model": "vlad-grig/birefnet-lite-512",
-    "downloads": 0,
+    "downloads": 19,
     "likes": 0,
     "url": "https://huggingface.co/vlad-grig/birefnet-lite-512",
     "date": "2026-10-11",
     "keyword": "vla",
-    "score": 0.1
+    "score": 5.8
   },
   {
     "model": "Najongs/vla-recipe-ckpts",
@@ -166,51 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/MrBean2024/AE-VLA-TG-Armattention",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "MrBean2024/AE-VLA-TG-Skilllora",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MrBean2024/AE-VLA-TG-Skilllora",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "MrBean2024/AE-VLA-TG",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MrBean2024/AE-VLA-TG",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "MrBean2024/AE-VLA-full",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/MrBean2024/AE-VLA-full",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
-    "model": "Vladrebill/vladbot-lora",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Vladrebill/vladbot-lora",
-    "date": "2026-10-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_medium_rec_ru_onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_medium_rec_ru_onnx",
     "date": "2026-10-11",
     "keyword": "vla",
     "score": 0.1
@@ -235,12 +253,12 @@
   },
   {
     "model": "thanhnguyen23/unbox_rdk_policy_5_noscale",
-    "downloads": 0,
+    "downloads": 19,
     "likes": 0,
     "url": "https://huggingface.co/thanhnguyen23/unbox_rdk_policy_5_noscale",
     "date": "2026-10-11",
     "keyword": "policy",
-    "score": 0.1
+    "score": 5.8
   },
   {
     "model": "aaajlw/robosyn-challenge-policy_v3-weights-20261011",
@@ -261,58 +279,67 @@
     "score": 0.1
   },
   {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0",
+    "downloads": 42,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0",
+    "date": "2026-10-11",
+    "keyword": "robotics",
+    "score": 12.7
+  },
+  {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
-    "downloads": 25,
+    "downloads": 38,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 7.6
+    "score": 11.5
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0",
-    "downloads": 22,
+    "downloads": 34,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana-alpha0",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 6.7
+    "score": 10.3
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
-    "downloads": 20,
+    "downloads": 31,
     "likes": 1,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 6.3
+    "score": 9.6
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
-    "downloads": 18,
+    "downloads": 21,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 5.5
+    "score": 6.4
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle",
-    "downloads": 17,
+    "downloads": 21,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 5.2
+    "score": 6.4
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_Round-alpha0",
-    "downloads": 17,
+    "downloads": 22,
     "likes": 0,
     "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_Round-alpha0",
     "date": "2026-10-11",
     "keyword": "robotics",
-    "score": 5.2
+    "score": 6.7
   },
   {
     "model": "JIANGJINGZHE/heat-treatment-world-model",
@@ -325,57 +352,57 @@
   },
   {
     "model": "tonynguyen1985/embodied-ai-reading",
-    "downloads": 14,
+    "downloads": 16,
     "likes": 0,
     "url": "https://huggingface.co/tonynguyen1985/embodied-ai-reading",
     "date": "2026-10-10",
     "keyword": "embodied",
-    "score": 4.3
+    "score": 4.9
   },
   {
     "model": "Dqmoreno/undergrad-embodied-ai-2024",
-    "downloads": 12,
+    "downloads": 13,
     "likes": 0,
     "url": "https://huggingface.co/Dqmoreno/undergrad-embodied-ai-2024",
     "date": "2026-10-10",
     "keyword": "embodied",
-    "score": 3.7
+    "score": 4.0
   },
   {
     "model": "masterset-ai/PhysicalEye-Decide-35B",
-    "downloads": 44,
+    "downloads": 45,
     "likes": 2,
     "url": "https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B",
     "date": "2026-10-10",
     "keyword": "physical ai",
-    "score": 13.7
+    "score": 14.0
   },
   {
     "model": "sovrasov/flux3_policy_black_cubes_20k_v2-ema",
-    "downloads": 12,
+    "downloads": 17,
     "likes": 0,
     "url": "https://huggingface.co/sovrasov/flux3_policy_black_cubes_20k_v2-ema",
     "date": "2026-10-10",
     "keyword": "policy",
-    "score": 3.7
+    "score": 5.2
   },
   {
     "model": "sovrasov/flux3_policy_black_cubes_20k_v2",
-    "downloads": 12,
+    "downloads": 15,
     "likes": 0,
     "url": "https://huggingface.co/sovrasov/flux3_policy_black_cubes_20k_v2",
     "date": "2026-10-10",
     "keyword": "policy",
-    "score": 3.7
+    "score": 4.6
   },
   {
     "model": "JayeshJ/ACT_DryRun5EPS_Policy",
-    "downloads": 14,
+    "downloads": 18,
     "likes": 0,
     "url": "https://huggingface.co/JayeshJ/ACT_DryRun5EPS_Policy",
     "date": "2026-10-10",
     "keyword": "policy",
-    "score": 4.3
+    "score": 5.5
   },
   {
     "model": "tttonyalpha/LegoCount-Diffusion-Policy-Original-and-Big-Blocks",
@@ -388,21 +415,21 @@
   },
   {
     "model": "vishwavijayath/vishwavijayath_policy",
-    "downloads": 13,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/vishwavijayath/vishwavijayath_policy",
     "date": "2026-10-10",
     "keyword": "policy",
-    "score": 4.0
+    "score": 4.3
   },
   {
     "model": "MichaelHui/vishwavijayath_policy",
-    "downloads": 7,
+    "downloads": 8,
     "likes": 0,
     "url": "https://huggingface.co/MichaelHui/vishwavijayath_policy",
     "date": "2026-10-10",
     "keyword": "policy",
-    "score": 2.2
+    "score": 2.5
   },
   {
     "model": "policyengine/policyengine-uk-data-private",
@@ -412,24 +439,6 @@
     "date": "2026-10-10",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "Coding-fish-101/my_policy",
-    "downloads": 12,
-    "likes": 1,
-    "url": "https://huggingface.co/Coding-fish-101/my_policy",
-    "date": "2026-10-10",
-    "keyword": "policy",
-    "score": 3.9
-  },
-  {
-    "model": "changhaowang/chronos-policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/changhaowang/chronos-policy",
-    "date": "2026-10-10",
-    "keyword": "policy",
-    "score": 0.3
   },
   {
     "model": "Ethgar/stringman-world-model",
@@ -442,39 +451,39 @@
   },
   {
     "model": "robert-scott/assignment-embodied-ai",
-    "downloads": 13,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/robert-scott/assignment-embodied-ai",
     "date": "2026-10-09",
     "keyword": "embodied",
-    "score": 4.0
+    "score": 4.3
   },
   {
     "model": "Davi-gomes/research-embodied-ai4",
-    "downloads": 8,
+    "downloads": 10,
     "likes": 0,
     "url": "https://huggingface.co/Davi-gomes/research-embodied-ai4",
     "date": "2026-10-09",
     "keyword": "embodied",
-    "score": 2.5
+    "score": 3.1
   },
   {
     "model": "Justinkfyg2003/embodied-ai",
-    "downloads": 14,
+    "downloads": 16,
     "likes": 0,
     "url": "https://huggingface.co/Justinkfyg2003/embodied-ai",
     "date": "2026-10-09",
     "keyword": "embodied",
-    "score": 4.3
+    "score": 4.9
   },
   {
     "model": "adityapatelbury/reading-embodied-ai",
-    "downloads": 14,
+    "downloads": 16,
     "likes": 0,
     "url": "https://huggingface.co/adityapatelbury/reading-embodied-ai",
     "date": "2026-10-09",
     "keyword": "embodied",
-    "score": 4.3
+    "score": 4.9
   },
   {
     "model": "ubr-physical-ai/g1-hug-edge-concat-v5-n64-2k",
@@ -541,39 +550,39 @@
   },
   {
     "model": "dosharma87/embodied-ai",
-    "downloads": 3,
+    "downloads": 4,
     "likes": 0,
     "url": "https://huggingface.co/dosharma87/embodied-ai",
     "date": "2026-10-08",
     "keyword": "embodied",
-    "score": 1.0
+    "score": 1.3
   },
   {
     "model": "jasonsje/embodied-ai-sandbox",
-    "downloads": 11,
+    "downloads": 12,
     "likes": 0,
     "url": "https://huggingface.co/jasonsje/embodied-ai-sandbox",
     "date": "2026-10-08",
     "keyword": "embodied",
-    "score": 3.4
+    "score": 3.7
   },
   {
     "model": "felix-pham/embodied-ai",
-    "downloads": 13,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/felix-pham/embodied-ai",
     "date": "2026-10-08",
     "keyword": "embodied",
-    "score": 4.0
+    "score": 4.3
   },
   {
     "model": "AngelSato/embodied-ai-colab",
-    "downloads": 11,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/AngelSato/embodied-ai-colab",
     "date": "2026-10-08",
     "keyword": "embodied",
-    "score": 3.4
+    "score": 4.3
   },
   {
     "model": "ubr-physical-ai/cosmos3-edge-libero10",
@@ -603,22 +612,13 @@
     "score": 0.1
   },
   {
-    "model": "Maksymsv3/embodied-ai",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/Maksymsv3/embodied-ai",
-    "date": "2026-10-07",
-    "keyword": "embodied",
-    "score": 4.9
-  },
-  {
     "model": "mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
-    "downloads": 331,
+    "downloads": 330,
     "likes": 1,
     "url": "https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
     "date": "2026-10-07",
     "keyword": "physical ai",
-    "score": 99.6
+    "score": 99.3
   },
   {
     "model": "mradermacher/semantic-world-model-4B-GGUF",
@@ -658,39 +658,39 @@
   },
   {
     "model": "jgalego/ms-pacman-world-model",
-    "downloads": 24,
+    "downloads": 26,
     "likes": 0,
     "url": "https://huggingface.co/jgalego/ms-pacman-world-model",
     "date": "2026-10-02",
     "keyword": "world model",
-    "score": 7.3
+    "score": 7.9
   },
   {
     "model": "jgalego/space-invaders-world-model",
-    "downloads": 27,
+    "downloads": 30,
     "likes": 0,
     "url": "https://huggingface.co/jgalego/space-invaders-world-model",
     "date": "2026-10-02",
     "keyword": "world model",
-    "score": 8.2
+    "score": 9.1
   },
   {
     "model": "jgalego/doom-world-model",
-    "downloads": 12,
+    "downloads": 13,
     "likes": 0,
     "url": "https://huggingface.co/jgalego/doom-world-model",
     "date": "2026-10-02",
     "keyword": "world model",
-    "score": 3.7
+    "score": 4.0
   },
   {
     "model": "jgalego/breakout-world-model",
-    "downloads": 12,
+    "downloads": 13,
     "likes": 0,
     "url": "https://huggingface.co/jgalego/breakout-world-model",
     "date": "2026-10-01",
     "keyword": "world model",
-    "score": 3.7
+    "score": 4.0
   },
   {
     "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
@@ -703,12 +703,12 @@
   },
   {
     "model": "mws-physical-ai/gr00t-cosmos-right13-rawvideo",
-    "downloads": 9,
+    "downloads": 10,
     "likes": 0,
     "url": "https://huggingface.co/mws-physical-ai/gr00t-cosmos-right13-rawvideo",
     "date": "2026-09-30",
     "keyword": "physical ai",
-    "score": 2.8
+    "score": 3.1
   },
   {
     "model": "Gigglingface/BAGEL-7B-MoT-navigation-points",
@@ -730,21 +730,21 @@
   },
   {
     "model": "runtime-contracts/qwen3-8b-navigation-lora-stateless",
-    "downloads": 21,
+    "downloads": 22,
     "likes": 0,
     "url": "https://huggingface.co/runtime-contracts/qwen3-8b-navigation-lora-stateless",
     "date": "2026-09-21",
     "keyword": "navigation",
-    "score": 6.4
+    "score": 6.7
   },
   {
     "model": "runtime-contracts/qwen3-8b-navigation-lora-persistent",
-    "downloads": 29,
+    "downloads": 30,
     "likes": 0,
     "url": "https://huggingface.co/runtime-contracts/qwen3-8b-navigation-lora-persistent",
     "date": "2026-09-21",
     "keyword": "navigation",
-    "score": 8.8
+    "score": 9.1
   },
   {
     "model": "bestak/uav-navigation-sasp",
@@ -784,29 +784,29 @@
   },
   {
     "model": "hfunknown/qwen3-8b-navigation-lora-stateless",
-    "downloads": 13,
+    "downloads": 14,
     "likes": 0,
     "url": "https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-stateless",
     "date": "2026-08-24",
     "keyword": "navigation",
-    "score": 4.0
+    "score": 4.3
   },
   {
     "model": "hfunknown/qwen3-8b-navigation-lora-persistent",
-    "downloads": 16,
+    "downloads": 17,
     "likes": 0,
     "url": "https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent",
     "date": "2026-08-24",
     "keyword": "navigation",
-    "score": 4.9
+    "score": 5.2
   },
   {
     "model": "Idan/fga-navigation",
-    "downloads": 5,
+    "downloads": 6,
     "likes": 0,
     "url": "https://huggingface.co/Idan/fga-navigation",
     "date": "2026-07-28",
     "keyword": "navigation",
-    "score": 1.6
+    "score": 1.9
   }
 ]
