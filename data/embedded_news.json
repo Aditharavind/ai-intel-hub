@@ -1,5 +1,19 @@
 [
   {
+    "title": "WiFi Router Does Software-Defined Radio",
+    "source": "Hackaday",
+    "date": "2026-10-12",
+    "url": "https://hackaday.com/2026/10/12/wifi-router-does-software-defined-radio/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/wifi-sdr-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Perhaps the most famous of software-defined radios is the RTL-SDR, which is very cheap because it&#8217;s a digital TV receiver that&#8217;s been pressed into service delivering raw I and Q <a class=\"read-more\" href=\"https://hackaday.com/2026/10/12/wifi-router-does-software-defined-radio/\">&#8230;read more</a>"
+  },
+  {
+    "title": "The Prusa Core One+ INDX, a Troubled Multi-Extruder Upgrade?",
+    "source": "Hackaday",
+    "date": "2026-10-12",
+    "url": "https://hackaday.com/2026/10/12/the-prusa-core-one-indx-a-troubled-multi-extruder-upgrade/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"488\" src=\"https://hackaday.com/wp-content/uploads/2026/10/prusa_core_one_plus_indx_problems_thomas_sanladerer_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Prusa Core One+ INDX is an interesting upgrade to the base FDM printer by Prusa, featuring eight independent extruders &#8211; hence the INDX &#8211; that in theory should allow <a class=\"read-more\" href=\"https://hackaday.com/2026/10/12/the-prusa-core-one-indx-a-troubled-multi-extruder-upgrade/\">&#8230;read more</a>"
+  },
+  {
     "title": "The Hexa-Bouncer May Be The Most Overengineered Thing You See This Week",
     "source": "Hackaday",
     "date": "2026-10-12",
@@ -35,20 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/ai.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you would like an AI &#8220;personal agent&#8221; but don&#8217;t want your data on some opaque cloud computer, there&#8217;s a new option that appears to be somewhat nicer: [rociiu] has <a class=\"read-more\" href=\"https://hackaday.com/2026/10/12/a-free-cloud-ai/\">&#8230;read more</a>"
   },
   {
-    "title": "DECing Out the Homelab with an AlphaServer 2100",
-    "source": "Hackaday",
-    "date": "2026-10-12",
-    "url": "https://hackaday.com/2026/10/11/decing-out-the-homelab-with-an-alphaserver-2100/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/DEC-Alphaserver-2100.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Retrocomputer enthusiasts have a bad rap as nerds who just want to play old video games. There&#8217;s some truth in this, but the reality is that we&#8217;re nerds who want <a class=\"read-more\" href=\"https://hackaday.com/2026/10/11/decing-out-the-homelab-with-an-alphaserver-2100/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Taking A Nokia 3310 Game Jam To The N’th Degree",
-    "source": "Hackaday",
-    "date": "2026-10-12",
-    "url": "https://hackaday.com/2026/10/11/taking-a-nokia-3310-game-jam-to-the-nth-degree/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/nokia3310-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Game jams are a fun competition in which the aim is to write a game under a particular theme while under a time constraint, usually a weekend.  [Hoani] entered one <a class=\"read-more\" href=\"https://hackaday.com/2026/10/11/taking-a-nokia-3310-game-jam-to-the-nth-degree/\">&#8230;read more</a>"
-  },
-  {
     "title": "PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support",
     "source": "CNX Software",
     "date": "2026-10-12",
@@ -63,6 +63,13 @@
     "summary": "<div><img alt=\"Muse Gadgets\" class=\"attachment-medium size-medium wp-post-image\" height=\"421\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Muse-Gadgets-720x421.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Meta, Facebook&#8217;s parent company, has released the open-source Muse Gadgets SDK, designed to work with ESP32 boards or Linux-based SBCs like a Raspberry Pi. This requires some explanation&#8230; I&#8217;ve been on holiday for a while, so I&#8217;m not up to date on everything, but apparently Meta released Muse on September 6, yet another personal AI agent&#8230; Earlier this month, Nat Friedman, head of product at Meta Superintelligence Labs, shared an X post about the Muse Gadgets &#8220;side project&#8221; that aims to make ESP32 and Linux devices work with Muse, basically enabling hardware AI monitors and Physical AI with Muse. The Muse Gadgets SDK has been released on GitHub under an Apache 2.0 license (for most of the code) with two main directories: ESP32 Device SDK &#8211; It can show images, supports audio input and output, and can interface with sensors, actuators, buttons, etc&#8230; Linux Device SDK &#8211; Works with Raspberry [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/12/facebook-releases-muse-gadgets-sdk-for-esp32-and-raspberry-pi-linux-based-devices/\">Facebook releases Muse Gadgets SDK for ESP32 and Raspberry Pi/Linux-based devices</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Marvell Introduces Six-Channel CXL 3.2 Memory Expanders",
+    "source": "Embedded.com",
+    "date": "2026-10-12",
+    "url": "https://www.embedded.com/marvell-introduces-six-channel-cxl-3-2-memory-expanders/",
+    "summary": "<p>Marvell Technology Inc. has introduced the Structera X 3406 and 3506, second-generation CXL 3.2 memory expansion controllers designed to increase memory capacity, bandwidth, and utilization in AI servers and data center infrastructure. The new devices target memory-intensive workloads, including large language model (LLM) inference and deep learning recommendation models (DLRM), where memory availability can limit [...]</p>\n<p>The post <a href=\"https://www.embedded.com/marvell-introduces-six-channel-cxl-3-2-memory-expanders/\">Marvell Introduces Six-Channel CXL 3.2 Memory Expanders</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Designing AI Data Center Fabrics with PCIe 6.0 High-Radix Switches",
     "source": "Embedded.com",
     "date": "2026-10-12",
@@ -70,158 +77,88 @@
     "summary": "<p>Artificial intelligence is reshaping data center architecture by changing where system bottlenecks occur. For years, networking discussions focused primarily on scale-out communication between servers and racks using Ethernet and InfiniBand. Traditional enterprise and cloud applications generated predictable north-south traffic patterns that scaled effectively as long as the external network infrastructure improved. AI workloads have fundamentally [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-ai-data-center-fabrics-with-pcie-6-0-high-radix-switches/\">Designing AI Data Center Fabrics with PCIe 6.0 High-Radix Switches</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/gadget-watch-sixfab-ai-hat-for-raspberry-pi-5-2026-10/",
-    "summary": "<p>Thanks to the Raspberry Pi team highlighting this one: the Sixfab AI HAT+ for Raspberry Pi 5, a third-party AI accelerator board built around the DEEPX DX-M1M NPU.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/gadget-watch-sixfab-ai-hat-for-raspberry-pi-5-2026-10/\">Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Ofcom and JOINER to study satellite spectrum coexistence",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/ofcom-and-joiner-to-study-satellite-spectrum-coexistence-2026-10/",
-    "summary": "<p>Ofcom and the JOINER Platform &#8211; a research network initiative &#8211; have agreed to collaborate to provide technical evidence for Ofcom’s consideration of future spectrum policies The goal is to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ofcom-and-joiner-to-study-satellite-spectrum-coexistence-2026-10/\">Ofcom and JOINER to study satellite spectrum coexistence</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Apple Fold A Long Time Coming",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/apple-fold-a-long-time-coming-2026-10/",
-    "summary": "<p>Back in 1985 Apple patented this design for a folding phone: The hinge was located at the &#8220;bite&#8221; mark that opened sideways to reveal an earpiece and physical keypad. It [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/delusions/apple-fold-a-long-time-coming-2026-10/\">Apple Fold A Long Time Coming</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "MEMSensing bone-vibration sensor offers noise cancellation alternative",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/products/sensors-products/memsensing-bone-vibration-sensor-offers-noise-cancellation-alternative-2026-10/",
-    "summary": "<p>MEMSensing is launching its bone-vibration sensor into Europe. The compact MEMS device provides a voice reference for environmental noise cancellation in TWS earbuds (true wireless stereo) and other smart wearables. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/memsensing-bone-vibration-sensor-offers-noise-cancellation-alternative-2026-10/\">MEMSensing bone-vibration sensor offers noise cancellation alternative</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK’s Drone Test Centre gets new NADIC facility",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/design/test-and-measurement-2/uks-drone-test-centre-gets-new-nadic-facility-2026-10/",
-    "summary": "<p>The UK&#8217;s Drone Test and Development Centre (DTDC) &#8211; at Westcott Venture Park near Aylesbury &#8211; is getting a new facility dubbed the National Autonomy and Drone Innovation Centre (NADIC). [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/test-and-measurement-2/uks-drone-test-centre-gets-new-nadic-facility-2026-10/\">UK&#8217;s Drone Test Centre gets new NADIC facility</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SpectaCell spun out of Imec",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/business/spectacell-spun-out-of-imec-2026-10/",
-    "summary": "<p>SpectaCell &#8211; a startup company spun out of Imec, VIB and Ghent University &#8211; has raised €6m in seed financing. The round was led by imec.xpand, with participation from PMV’s [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/spectacell-spun-out-of-imec-2026-10/\">SpectaCell spun out of Imec</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "20% collapse in Q3 PC units",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/business/20-collapse-in-q3-pc-units-2026-10/",
-    "summary": "<p>Q3 PC shipments fell 20.1% y-o-y in Q3 2026 to 62.7 million units, according to IDC, the second consecutive decline and a deeper one than the 3.8% drop in Q2. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/20-collapse-in-q3-pc-units-2026-10/\">20% collapse in Q3 PC units</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Kyocera and Tohoku Uni integrate optical isolators onto SiPho ICs",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/business/kyocera-and-tohoku-uni-integrate-optical-isolators-onto-sipho-ics-2026-10/",
-    "summary": "<p>Kyocera and the Research Institute of Electrical Communication (RIEC), Tohoku University, have developed a technology for integrating optical isolators onto silicon photonics chips using &#8220;laser annealing&#8221;, a localised, laser-based heat-treatment [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kyocera-and-tohoku-uni-integrate-optical-isolators-onto-sipho-ics-2026-10/\">Kyocera and Tohoku Uni integrate optical isolators onto SiPho ICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "New approach to broadband characterisation of sub-THz ICs",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/business/new-approach-broadband-characterisation-of-sub-thz-ics-2026-10/",
-    "summary": "<p>Keysight Technologies, the University of Glasgow, the National Physical Laboratory (NPL) and MPI Corporation have developed a new approach to broadband characterisation of next-generation sub-terahertz (sub-THz) semiconductor devices. Together, the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/new-approach-broadband-characterisation-of-sub-thz-ics-2026-10/\">New approach to broadband characterisation of sub-THz ICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Toray tests 150°C inverters",
-    "source": "Electronics Weekly",
-    "date": "2026-10-12",
-    "url": "https://www.electronicsweekly.com/news/business/today-tests-150c-inverters-2026-10/",
-    "summary": "<p>Toray Industries has successfully tested an inverter at 150°C using a prototype film capacitor incorporating a proprietary heat-resistant film as the dielectric. The downside of higher-output drive systems is that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/today-tests-150c-inverters-2026-10/\">Toray tests 150°C inverters</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Statistics on the Python on Microcontrollers Newsletter for 2026 Q3",
+    "title": "Turn every escape room puzzle into a Home Assistant device",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/statistics-on-the-python-on-microcontrollers-newsletter-for-2026-q3/",
-    "summary": "Adafruit presents the subscriber statistics for the Python on Microcontrollers Newsletter, delivered every Monday via email, for the third quarter of 2026. This quarter we remained somewhat flat, losing just a few folks. If you’d like to get a weekly report of the happenings in using Python on microcontrollers and single board computers, please subscribe [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/turn-every-escape-room-puzzle-into-a-home-assistant-device/",
+    "summary": "Djair Guilherme has released two open source Arduino libraries on Hackster that make an escape room puzzle show up in Home Assistant as a device. esp32_escaperoom runs on ESP32 boards and handles WiFi and MQTT. propmaker_escaperoom runs on the RP2040 using the Adafruit PropMaker Feather, has no network and talks to other puzzles over RS485. [&#8230;]"
   },
   {
-    "title": "Open-Source Voice AI runs entirely on ESP32-S3",
+    "title": "Wireless-Tag WT32P4C5-43S is an integrated 4.3-inch ESP32-P4 + ESP32-C5 touch display devkit",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/open-source-voice-ai-runs-entirely-on-esp32-s3/",
-    "summary": "Ananthu Ashok, writing for Open Source For You, covers Ivy AI, a voice assistant from Anankush Pandit that runs speech recognition, language model inference and speech synthesis on an ESP32-S3. Firmware, model conversion tools, host-side tests and documentation are published under GPL-3.0-or-later. WiFi is used only for time sync, so the voice pipeline works without [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/wireless-tag-wt32p4c5-43s-is-an-integrated-4-3-inch-esp32-p4-esp32-c5-touch-display-devkit/",
+    "summary": "Debashis Das writes at CNX Software about the Wireless-Tag WT32P4C5-43S, a 4.3-inch touch display development board that pairs an ESP32-P4 MCU with an ESP32-C5 wireless module for dual-band WiFi 6 on 2.4 and 5 GHz, Bluetooth LE, and 802.15.4. Earlier ESP32-P4 and ESP32-C5 boards needed a separate display. This one has the screen on board. [&#8230;]"
   },
   {
-    "title": "How to knit a breadboard #Threadboard",
+    "title": "Ledger finds unauthorized hardware implant in CryptoBilis-sold wallet amid fund theft reports",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/how-to-knit-a-breadboard-threadboard/",
-    "summary": "On the right, the original threadboard, clocking in around 12in x 9in / 30cm x 22cm; on the left, the tutorial threadboard, about 7in x 5in / 18cm x 12cm, image via Alanna Okun/button mash &#160; Dubbed the threadboard, this hand-knit breadboard is fully functional! Created last year by Alanna Okun out of the NYU&#8217;s [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/ledger-finds-unauthorized-hardware-implant-in-cryptobilis-sold-wallet-amid-fund-theft-reports/",
+    "summary": "The Hacker News reports that Ledger has paused sales of its hardware wallets through the reseller CryptoBilis after users in Southeast Asia reported stolen funds. Pseudonymous blockchain investigator Specter puts the losses at more than $86 million. Ledger says one of the affected users&#8217; devices contained an unauthorized hardware implant. The company told anyone who [&#8230;]"
   },
   {
-    "title": "A 16-bit relay computer runs Pi and Dijkstra",
+    "title": "8-channel analog monitor with NXP HEF4052BP and Arduino",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/a-16-bit-relay-computer-runs-pi-and-dijkstra/",
-    "summary": "Open Electronics covered a 16-bit relay computer built by Peter, running on self-holding relays at 24 V. The CPU is an accumulator design, so all math and load/store work passes through an ACCUmulator. The instruction set has 19 commands and three addressing modes, including indirect, which gives the programmer pointers and tables. Computing Pi to [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/8-channel-analog-monitor-with-nxp-hef4052bp-and-arduino/",
+    "summary": "Robert Fletcher posted a project on Hackster that reads eight analog inputs using only two Arduino ADC pins. The part doing the work is the NXP HEF4052BP, a dual 4-channel analog multiplexer. Each switch section routes one of four analog signals to a common pin, and both sections share the same two address lines and [&#8230;]"
   },
   {
-    "title": "Amazon’s new Alexa tablets ditch Fire OS for regular Android",
+    "title": "Stylophone Mini turns the classic pocket synth into a keychain",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/amazons-new-alexa-tablets-ditch-fire-os-for-regular-android/",
-    "summary": "Skye Jacobs at TechSpot reports that Amazon is retiring the Fire tablet brand after 15 years. The replacement lineup, called Alexa tablets, runs standard Android with the Google Play Store. That means native Gmail, YouTube and Google Docs alongside Kindle, Prime Video, Audible and Music. Fire OS and the Amazon Appstore limited app selection for [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/stylophone-mini-turns-the-classic-pocket-synth-into-a-keychain/",
+    "summary": "Synthhead at Synthtopia reports that Stylophone has released the Mini Original, a keychain-sized version of its stylus-played electronic instrument. The original Stylophone dates to 1968. The Mini keeps the metal keyboard, the attached stylus and a built-in speaker, shrunk down to something that hangs off a set of keys. It adds a vibrato effect, a [&#8230;]"
   },
   {
-    "title": "ESP32-Bus-Expander v0.3: expand the radio capabilities of the ESP32 Bit Pirate with 5GHz Wi-Fi and 802.15.4…",
+    "title": "Taking a Nokia 3310 game jam to new heights",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/esp32-bus-expander-v0-3-expand-the-radio-capabilities-of-the-esp32-bit-pirate-with-5ghz-wi-fi-and-802-15-4/",
-    "summary": "Geo (@geo-tp) has released version 0.3 of ESP32-Bus-Expander on GitHub. The project adds radio capability to the ESP32 Bit Pirate, bringing 5GHz WiFi and 802.15.4 to the hardware hacking tool. The release includes prebuilt firmware binaries. They can be flashed with the ESP Tool web page, or automatically through the project&#8217;s own web flasher, both [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/taking-a-nokia-3310-game-jam-to-new-heights/",
+    "summary": "Hoani Bryson entered the 8th Nokia 3310 Jam in September 2026 and placed 1st out of 51 entries with Trick Shot II. Writing on hoani.net, Bryson describes building not only the game but the engine and the hardware to run it on. The engine is written in Go. It uses ebitengine for desktop and web [&#8230;]"
   },
   {
-    "title": "An actor who understands AI as a filmmaking tool",
+    "title": "Debloat Windows 10 and Windows 11 in just two steps",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/an-actor-who-understands-ai-as-a-filmmaking-tool/",
-    "summary": "Christopher posted a short note on the Seeed Studio forum about an actor, not a scientist, talking about artificial intelligence. The point of the post is that this actor understands AI as a tool and how it fits into making films. He also holds a patent for a security device used in the motion picture [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/debloat-windows-10-and-windows-11-in-just-two-steps/",
+    "summary": "Julian Horsey at Geeky Gadgets covers WinSux, a one-click PowerShell script from FR33THY that strips unwanted software out of Windows 10 and Windows 11. It removes preinstalled apps, including Microsoft Edge, and installs components like DirectX and the Visual C++ redistributables. It works on desktops, laptops and handhelds, and supports both local and Microsoft accounts. [&#8230;]"
   },
   {
-    "title": "PS2 games in browser: static recompilation to WebAssembly with a native runtime",
+    "title": "Doory is an open-source Canva",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/ps2-games-in-browser-static-recompilation-to-webassembly-with-a-native-runtime/",
-    "summary": "Samir (@snuri00) has published ps2-web-recomp on GitHub, a project that runs PlayStation 2 games in a browser without an emulator. The game&#8217;s Emotion Engine machine code is translated ahead of time into C++, compiled to WebAssembly, and linked against a reimplementation of the PS2 operating system and hardware that draws with WebGPU. The first game [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/doory-is-an-open-source-canva/",
+    "summary": "Siam has published Doory on GitHub, a design editor that runs in the browser and can be self-hosted. It handles posters, social posts, stories, slides, invitations, resumes, thumbnails and business cards. Start from a template or a blank page, then export to PNG, JPG, SVG, PDF, MP4 or GIF. No account is required to start. [&#8230;]"
   },
   {
-    "title": "Droidputer: your Android phone becomes a Cardputer",
+    "title": "Shall we play a game? Agent vs. Agent",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/droidputer-your-android-phone-becomes-a-cardputer/",
-    "summary": "Felipe Cavalcanti has posted Droidputer on Hackster.io, a project that turns an Android phone into the screen and keyboard for a bare ESP32-S3. The board plugs into the phone over USB-OTG. The firmware runs on the ESP32-S3 itself. The phone handles display, input, GPS and flashing the board. The idea started with wanting a bigger [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/shall-we-play-a-game-agent-vs-agent/",
+    "summary": "Pierre, writing at ICT en Onderwijs BLOG, rebuilt an agent-to-agent demo he saw in a Better Stack video. The original pitted GPT-6 Luna against Claude Haiku 5.5 in a game of Battleship. Pierre wanted the same three-part setup, a referee agent plus two player agents, but running on open source models, so he wouldn&#8217;t be [&#8230;]"
   },
   {
-    "title": "Strange parodies of Atari 2600 video game box cover art (mightygodking.com)",
+    "title": "Slim type for small screens, with PixelFonts",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/strange-parodies-of-atari-2600-video-game-box-cover-art-mightygodking-com/",
-    "summary": "Wired Studios, posting at MightyGodKing, picked up a working Atari 2600 at a weekend garage sale. The console came with a large stack of games, most of them near mint and still in their boxes, and the whole lot went for very little money. The post is a scan gallery of those box covers. As [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/slim-type-for-small-screens-with-pixelfonts/",
+    "summary": "Developer mcer12 has published PixelFonts, a family of fonts for small, low resolution displays. The fonts are compatible with Adafruit GFX and u8g2, and they are drawn narrow and condensed so more text fits on a line. Each font comes in two versions. The English version works with the standard Adafruit GFX library. The extended [&#8230;]"
   },
   {
-    "title": "Go online like it’s 1996",
+    "title": "A Quake platform that for 30 years was considered unreachable",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/go-online-like-its-1996/",
-    "summary": "56k.rip is a browser simulation of the 1997 dial-up experience. It starts at a desktop. Open Dial-Up Networking and you get the off-hook click, the touch tones, about twenty seconds of handshake, and then a home page that loads one block of text at a time. The speed limit is real, not a canned animation. [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/a-quake-platform-that-for-30-years-was-considered-unreachable/",
+    "summary": "Marcin Wichary, writing on his blog Unsung, points to a Karl Jobst speedrunning video about a new discovery in Quake. The level in question shows the player a bridge up and to the left. Reaching it would skip a large chunk of the normal progression. For about 30 years it was taken as unreachable. A [&#8230;]"
   },
   {
-    "title": "Explaining Hall-effect, TMR, and other new types of “mechanical” switches",
+    "title": "Paperboy reaches 60 FPS pixel draws without a full refresh",
     "source": "Adafruit",
     "date": "2026-10-12",
-    "url": "https://blog.adafruit.com/2026/10/12/explaining-hall-effect-tmr-and-other-new-types-of-mechanical-switches/",
-    "summary": "Scharon Harding has written a guide at Ars Technica covering the contactless switches that now show up in keyboards sold as mechanical. Traditional switches close a circuit when two metal leaves touch. The newer designs do not, so they need no debouncing and are not subject to oxidation or corrosion. The guide walks through optical [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/12/paperboy-reaches-60-fps-pixel-draws-without-a-full-refresh/",
+    "summary": "Developer hpsaturn posted on X about porting Paperboy, Wenting Zhang&#8217;s eInk driver work, to older hardware. Paperboy drives eInk panels directly at the row and column level, which gets about 60 FPS without a full refresh. Paperboy is an ESP-IDF firmware that runs original Game Boy games on M5Stack e-ink devices. It emulates the DMG, [&#8230;]"
   },
   {
     "title": "Infineon introduces 27 kW three-phase PSU solution for next-generation AI server power architectures",
@@ -418,12 +355,5 @@
     "date": "2026-10-06",
     "url": "https://www.embedded.com/why-physical-edge-computing-could-be-ais-next-frontier/",
     "summary": "<p>Artificial intelligence is rapidly moving from the data center to the edge. Personal electronic devices, industrial controllers, cameras, vehicles, and a multitude of connected devices more frequently perform AI inference locally rather than delegating the relevant tasks to the cloud. The next step of the journey is even more impactful: bringing intelligence to the physical [...]</p>\n<p>The post <a href=\"https://www.embedded.com/why-physical-edge-computing-could-be-ais-next-frontier/\">Why Physical Edge Computing Could Be AI’s Next Frontier</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TI Integrates Zephyr Across Its Embedded and Wireless Portfolio",
-    "source": "Embedded.com",
-    "date": "2026-10-05",
-    "url": "https://www.embedded.com/ti-integrates-zephyr-across-its-embedded-and-wireless-portfolio/",
-    "summary": "<p>Texas Instruments Inc. (TI) has expanded support for the Zephyr Project across its embedded semiconductor portfolio, covering microcontrollers (MCUs), microprocessors (MPUs), and wireless connectivity devices. The integration provides developers with a common real-time operating system (RTOS) environment across different TI platforms, allowing existing Zephyr-based software workflows to be reused when moving between devices. Zephyr is [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ti-integrates-zephyr-across-its-embedded-and-wireless-portfolio/\">TI Integrates Zephyr Across Its Embedded and Wireless Portfolio</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-12 19:25 UTC
+Generated: 2026-10-13 01:39 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,19 +15,19 @@ Generated: 2026-10-12 19:25 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83660 | 33464.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63879 | 25551.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44682 | 17872.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30674 | 12269.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28957 | 11582.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63882 | 25552.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44683 | 17873.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30676 | 12270.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28960 | 11584.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| pollen-robotics/microduck-policies | 21663 | 6502.2 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
 | lerobot/smolvla_vlabench | 2386 | 716.3 | [link](https://huggingface.co/lerobot/smolvla_vlabench) |
-| lerobot/smolvla_robotwin | 1215 | 365.4 | [link](https://huggingface.co/lerobot/smolvla_robotwin) |
-| hcltech-robotics/rev-ct | 963 | 289.2 | [link](https://huggingface.co/hcltech-robotics/rev-ct) |
 | mradermacher/semantic-world-model-4B-GGUF | 364 | 109.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
+| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 330 | 99.3 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| constructelligence/painting-vision-robotics-kit | 68 | 20.7 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
+| masterset-ai/PhysicalEye-Decide-35B | 45 | 14.0 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-10-12 19:25 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-12 | Is Physical AI a Rebranded Internet of Things? - WSJ | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDRTcDdpX3dLYzU4VS1QUmRsaWhaRmpESUVEWlYyMDJnT0xiekd5MlFoMmxzWjhLM2VYN01CeXRta1JZdnB6MTRURjByMFZCRXlDYXJyT295bGEtTFlCdU1CWVRacXVrU0N6LWRKZnZNMWxYMThlQjF1aWVvS1pCLWlOeHJScXJKQ1RiOFdfb25UUV9wdUtHOWpR?oc=5) |
 | 2026-10-12 | Amazon Drops Data Center NDAs as Personal AI Agent Startups Bet on Privacy and Trust - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxONDZBMFFZa1pEaGh2V0xKck5nam5rdTIxME1LN2JLbjlYZXFNc18yOTlsSDVyRC1iM1NXUDRtWmZHRUdxQWdvUVJ1OUlKOGVsYUxTUm8tTFVuekNsaEQ5YjFCZnFVS2pzNTlpNDVjU09QLWs2ZW9UQ1dXcEV3LXdJZk9iX080X0FmVjgzVjVydFhCdE1lck5LT3hhclpwM1JQb2k1b0lack1TLUdLWl9oWVJaZkxremlwNkgyTno1bw?oc=5) |
 | 2026-10-12 | Amazon Pursues $7 Billion Acquisition of AI Startup Decart to Counter Nvidia - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZUJ1X0JhVENZdG45NExoVjFMWmxsd1F2SF9fWXp4alBCYS1XRWxYRUhXT0pqczNBQWEwSDhTV2NhUWk2cDBTUVM2Y0V0aDdIOGR2WWRybXNGYWU5NVJHS3VIeGZNLXUwYmJYWWk1TXZqem1zLUE?oc=5) |
+| 2026-10-12 | Amazon in Talks to Acquire AI Startup Decart for $7 Billion, Report Says - Tekedia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGt1QUFDY2hDa2k0WEVFYVF5SnE4SktMb20wR0FScVhRdENJSzdXX0l0RVVfd3k2MlZadS1MdXdwdWl6SFlpcHVEM095d0p6eDlfbUZDZE8zTWZfbGVVaVNwZllDUEtUMDgwSlBzOG94VkwzQ25hVmNZWVdDVzlqcHE3N0ZmY0FBVGR1S056ZGNiZl9qT3l0ZGdiOA?oc=5) |
 | 2026-10-12 | Children's Robotics Company Launches Physics AI Model Platform, Set to Secure Over $30 Million Financing Round - 36 Kr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fVWFwTXhhVEs4TUhQTFhJZjMtZGdmTGtwMWtxNEpNT1pxdzlGeks1RkJ3TkpFaGRHWkplY0VZTkZUallMLTMyaE9HbVpPd3VoVV9V?oc=5) |
-| 2026-10-12 | China's DeepSeek accelerates push into embodied AI as Liang Wenfeng courts robotics startups - BigGo Finance | embodied ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JU3k0a29XWE9KcFVJWmk2RUlINURxYTdrVmNkVnotTVNOdUFGdU9aLUhIMEtCQy1CNUNtc1p1bWp3NkxBb0cyd1duQ2UyRk4tbkVoVVZEMjQ4ZTNSenRDbjNHUHNsVjZkRnBqVzU4MVhTZXNIOGc?oc=5) |
-| 2026-10-12 | DeepSeek leads $400 million funding round for ex-Tencent scientist's robot AI startup - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ozanV4bE5iRXh3TFR6eE5KOFFqd1RZSmlGSWZWZXlyeE12WTdvRUZjMXZIUUJFOVhyM0lUUVI4aFNSX1NNUmlKTXFvLVNWR1NFUjRvVGtlX2wxMzUtYlBGWGpjOVZKNEFFOGVETDRVTUZxU0tMNWtWVHMxLWJMbFc0MGZFR2RmU3pjaDBMTmFpSUtLSlg4djM1cEFTVVN1VUhQNTZWTFFLR0VsRUNoUQ?oc=5) |
