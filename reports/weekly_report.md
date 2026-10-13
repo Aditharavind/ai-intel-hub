@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-13 16:30 UTC
+Generated: 2026-10-13 21:35 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-10-13 16:30 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83666 | 33466.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63894 | 25557.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44684 | 17873.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30682 | 12272.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28978 | 11591.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83673 | 33469.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63895 | 25558.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44685 | 17874.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30686 | 12274.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28982 | 11592.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -27,7 +27,7 @@ Generated: 2026-10-13 16:30 UTC
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 330 | 99.3 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
 | mradermacher/semantic-world-model-4B-GGUF | 293 | 88.2 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | masterset-ai/PhysicalEye-Decide-35B | 49 | 15.2 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
-| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 45 | 13.6 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
+| bestak/uav-navigation-sasp | 45 | 13.6 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -42,7 +42,7 @@ Generated: 2026-10-13 16:30 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-13 | Startup Releases 50-Billion-Parameter Physical General Foundation Model For Instant Robot Intelligence - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTjBrd3Y2N0hPeVU2OHBybExrN3k0TUpicnhpZWFpR2RKME8tMENXbXVYSzNabEM1eFM1aC16eE41SlpzTUV3akxiZmxFZGtsTzFnMGRHNEtyR2VOYnQzUzhYN0p2X1FIdDhGc1pPelYyVmZGUXdpQWNZYW1yOGtBLUs3Y1JYMG5vZ1hWa0NCeVF5eXNLMFQ3dFZJay1HTEhnRkdVNEZGX1FKUmZ0c2F1QzVtUE8wZXdEcU9fczVrU0h6dUVfLTA1eXd2LTh5NHdYbnZaSTdFN25va3ZTV2ptUkVOcm1HZ1FlRzctWA?oc=5) |
-| 2026-10-13 | DeepSeek Eyes $400M Robotics AI Startup in New Funding Push - TechRepublic | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1kzRk81NkFOZUU2MTB4NlBZaGNuSmQtNjByN1UtWmxCaDZvZ2NOQU5ZUGl0UGFRSUc1Uk1mRzVBN3FTZUh5U1pIMkpXb1FkelBDX1FFbzhIR0VJMUlGb0FhQkJnZlVJR3dWQk1yb1JLY1cwWXVXYjJacDdlTFUtTXF3cGVYSXdra3NzU1RkYXhGQUVTRmc?oc=5) |
+| 2026-10-13 | Ubitium Raises $14M in New Funding to Build Universal Processor for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3plMHhCc0l6WG84TjltQU1QZ3RaY01QU19JRlpudTNUOHFiT1hhclJRVkpqYm0zUllzTlNqLWcxcjdSQVJ4UkFCLXdrRnNYWE1lRXV0Vm94LV9FLWdqTWg2V3NoRDE0MDRmajdBVzVvMmJYaTFGOThJMk80Ny1lM2pwck1xVDhlVWNUNUZYVkUxOHdBQjgwUW83QXFRRXFEU1lWRTRsalJfRkNDUVkwamVuNl93VTA?oc=5) |
 | 2026-10-13 | CraftifAI is using agentic AI to speed up software development for physical devices - YourStory.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ01kNWdFSktKbTdtZEc1VENFRFlCWjU1dWNsSHNqMlNoVGFUZE1rOUpjS3pPNE1aeHBzNXlSSXg1ZGk0M1BIanpKV3l6cG9USm02aXdEeEVCcmNyV0FKVjdSSmdBNm5MYWd6SzQxb0dYZUd2YWJpSE9TUHRJTS1vbnpUa3gzb0dLdllSOHB3elZfSjkwQkNQTmV4bw?oc=5) |
 | 2026-10-13 | DeepSeek expands into embodied AI with early bet on robotics startup Winverse - digitimes | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFIzY1RwTGRPX2pnOWxHY0diaGU1R0NwZnlRZEY3bjF3Ump3ZVprTXlTbWNHTTRGekdjeU5YZjlHTmVHWnRtc3ZqX1NYMEJEa2tlRzZubkpPQi1GQjNBNEtnSnhSUXEwTlpwLXJ1Z0F5eUZkUktjX3U3SndkWnA4RjlHOURicU13Ti1Bem4zVnNJN0N2b0FxUi1FNA?oc=5) |
 | 2026-10-12 | Is Physical AI a Rebranded Internet of Things? - WSJ | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDRTcDdpX3dLYzU4VS1QUmRsaWhaRmpESUVEWlYyMDJnT0xiekd5MlFoMmxzWjhLM2VYN01CeXRta1JZdnB6MTRURjByMFZCRXlDYXJyT295bGEtTFlCdU1CWVRacXVrU0N6LWRKZnZNMWxYMThlQjF1aWVvS1pCLWlOeHJScXJKQ1RiOFdfb25UUV9wdUtHOWpR?oc=5) |
