@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-14 05:32 UTC
+Generated: 2026-10-14 10:40 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-14 05:32 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83673 | 33469.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63897 | 25558.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44688 | 17875.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30690 | 12276.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28985 | 11594.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83675 | 33470.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63899 | 25559.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44682 | 17872.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30691 | 12276.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 28987 | 11594.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| mradermacher/MiMo-Embodied-7B-GGUF | 360 | 108.5 | [link](https://huggingface.co/mradermacher/MiMo-Embodied-7B-GGUF) |
-| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 330 | 99.3 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
-| mradermacher/semantic-world-model-4B-GGUF | 293 | 88.2 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
-| Myungkyu/pi05_robotwin_vanilla_b128_60k | 102 | 30.7 | [link](https://huggingface.co/Myungkyu/pi05_robotwin_vanilla_b128_60k) |
-| Myungkyu/rldx_robotwin_vanilla_b128_60k | 97 | 29.2 | [link](https://huggingface.co/Myungkyu/rldx_robotwin_vanilla_b128_60k) |
+| mradermacher/MiMo-Embodied-7B-GGUF | 342 | 103.1 | [link](https://huggingface.co/mradermacher/MiMo-Embodied-7B-GGUF) |
+| mradermacher/semantic-world-model-4B-GGUF | 294 | 88.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
+| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 257 | 77.4 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| mradermacher/Mistral-secure-policy-rewriter-GGUF | 119 | 36.0 | [link](https://huggingface.co/mradermacher/Mistral-secure-policy-rewriter-GGUF) |
+| Myungkyu/rldx_robotwin_vanilla_b128_60k | 103 | 31.0 | [link](https://huggingface.co/Myungkyu/rldx_robotwin_vanilla_b128_60k) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-10-14 05:32 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-14 | German robotics unicorn NEURA launches Neuron AI to advance Physical AI and humanoid robotics - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUlub2lCTVM5UENWMkEtY0ZXVlFCTHZ0a3RRQzZ3ZEUwaFNMSmFCSGhpSjB5WTRWUFBnQ1BXTU81c3VoM2xKbE1rSmhZSGlxX2s2MDYxOHFpNEkzdnVtNUtvdE8zeU5zWVN1VmoxdUhwQmphQ2pYc2lrSjlFRnl3QlN4R3puUF83a0hWcWhoTDlKNjI1UXQ1VU9PUGVsd3R6UVVHVmlwZFI0X1A1eUwtNGIzMUdPSlllODhfa1hWSFhUaC1SZVhNY3ln?oc=5) |
+| 2026-10-14 | Exclusive: Antler invests £2.2M in 10 UK startups as physical AI gains ground - Tech Funding News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYUFaZllsMVN0Z3hOT1hlUVVjWnFmaEZPYmFoam9VSkNwTGs3aWc4Z2V0QXhNZ0Jab3phZDA3eWlRcFpvcjZGcUJhVzB0dnl3NEYxb3A5Yk9WVW1RUU5ieG1UcjBncWRxX3g4cE1UZE1QYWNUcGhBOHlPdEVNcTNiM3ZLTzdtWDg1bEFqRjBCYTBwNEdzQUdV?oc=5) |
+| 2026-10-14 | China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market - Bloomberg.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5) |
+| 2026-10-14 | A humanoid robot resembling a human was standing in the middle of the exhibition hall. The blue-colo.. - 매일경제 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYTdWajV2Y0VNb1hwV0x0eThjYWIwNlZNUkUtYk1CYXpZMHJXaXAzSUdXMDdqT0hoQlFTNkJlNmJxSlBoVGV3M3k3aWEtbDBZdGc?oc=5) |
 | 2026-10-13 | Startup Releases 50-Billion-Parameter Physical General Foundation Model For Instant Robot Intelligence - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTjBrd3Y2N0hPeVU2OHBybExrN3k0TUpicnhpZWFpR2RKME8tMENXbXVYSzNabEM1eFM1aC16eE41SlpzTUV3akxiZmxFZGtsTzFnMGRHNEtyR2VOYnQzUzhYN0p2X1FIdDhGc1pPelYyVmZGUXdpQWNZYW1yOGtBLUs3Y1JYMG5vZ1hWa0NCeVF5eXNLMFQ3dFZJay1HTEhnRkdVNEZGX1FKUmZ0c2F1QzVtUE8wZXdEcU9fczVrU0h6dUVfLTA1eXd2LTh5NHdYbnZaSTdFN25va3ZTV2ptUkVOcm1HZ1FlRzctWA?oc=5) |
-| 2026-10-13 | Ubitium Raises $14M in New Funding to Build Universal Processor for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3plMHhCc0l6WG84TjltQU1QZ3RaY01QU19JRlpudTNUOHFiT1hhclJRVkpqYm0zUllzTlNqLWcxcjdSQVJ4UkFCLXdrRnNYWE1lRXV0Vm94LV9FLWdqTWg2V3NoRDE0MDRmajdBVzVvMmJYaTFGOThJMk80Ny1lM2pwck1xVDhlVWNUNUZYVkUxOHdBQjgwUW83QXFRRXFEU1lWRTRsalJfRkNDUVkwamVuNl93VTA?oc=5) |
-| 2026-10-13 | DeepSeek expands into embodied AI with early bet on robotics startup Winverse - digitimes | embodied ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFIzY1RwTGRPX2pnOWxHY0diaGU1R0NwZnlRZEY3bjF3Ump3ZVprTXlTbWNHTTRGekdjeU5YZjlHTmVHWnRtc3ZqX1NYMEJEa2tlRzZubkpPQi1GQjNBNEtnSnhSUXEwTlpwLXJ1Z0F5eUZkUktjX3U3SndkWnA4RjlHOURicU13Ti1Bem4zVnNJN0N2b0FxUi1FNA?oc=5) |
-| 2026-10-13 | Liang Wenfeng Backed Swin Transformer Author: DeepSeek Launches Strategic Layout for Its Embodied AI Brain - 36Kr | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MVFFFYmFTX21uTDlabHl1WVlFU3lFc1VuSVNPZVBuNEREb28yVUx5bXlKd281SjEtYmE2OW1SVHRJZFBCSTMyd3lpQjduMURGRXEw?oc=5) |
-| 2026-10-12 | Is Physical AI a Rebranded Internet of Things? - WSJ | physical ai startup | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDRTcDdpX3dLYzU4VS1QUmRsaWhaRmpESUVEWlYyMDJnT0xiekd5MlFoMmxzWjhLM2VYN01CeXRta1JZdnB6MTRURjByMFZCRXlDYXJyT295bGEtTFlCdU1CWVRacXVrU0N6LWRKZnZNMWxYMThlQjF1aWVvS1pCLWlOeHJScXJKQ1RiOFdfb25UUV9wdUtHOWpR?oc=5) |

@@ -1,5 +1,12 @@
 [
   {
+    "title": "Rendering 3D Prints From G-Code",
+    "source": "Hackaday",
+    "date": "2026-10-14",
+    "url": "https://hackaday.com/2026/10/14/rendering-3d-prints-from-g-code/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-140032.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Your CAD software generally has some rudimentary tools for rending images of your parts, from simply-textured models to more photo-realistic options. However, those renders are of the geometry you created—not <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/rendering-3d-prints-from-g-code/\">&#8230;read more</a>"
+  },
+  {
     "title": "Does It Run… Duke Nukem 3D?",
     "source": "Hackaday",
     "date": "2026-10-14",
@@ -14,11 +21,67 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"379\" src=\"https://hackaday.com/wp-content/uploads/2026/10/USBSID-pico.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;ll give you three guesses what the most important bits of silicon in [LouD]&#8217;s USBSID-Pico are, and two don&#8217;t count. Yes, there&#8217;s a Raspberry Pi Pico, and a pair of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/13/2026-retrocomputing-challenge-usbsid-pico-has-two-sids-many-inputs/\">&#8230;read more</a>"
   },
   {
+    "title": "Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-10-14",
+    "url": "https://www.cnx-software.com/2026/10/14/romu-tiny-raspberry-pi-rp2354a-usb-board/",
+    "summary": "<div><img alt=\"Romu board vs dollar coin\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Romu-board-vs-dollar-coin-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Bitmerse Romu is a tiny (15.5 x 12 mm), almost minimal Raspberry Pi RP2354A USB board with a USB 2.0 interface on one side of the PCB, and the dual Cortex-M33/RISC-V MCU on the other side, connected to a few debugging/programming pads, buttons, and an RGB LED. It doesn&#8217;t come with any GPIO, and it&#8217;s mostly designed for USB applications such as a security key for passwordless login, a USB MIDI controller, a macro pad, or a custom HID device. You can plug it directly into a spare USB Type-A port of your computer/host without any cables, breadboard, or adapters required. Romu specifications: SoC – Raspberry Pi RP2354A CPU Dual-core Arm Cortex-M33 @ 150 MHz with Arm Trustzone, Secure boot Dual-core 32-bit RISC-V Hazard3 @ 150 MHz (3-stage in-order pipeline; RV32IMAC with Zba, Zbb, Zbs, Zbkb, Zcb, Zcmp, and Zicsr extensions) Up to two cores can be used at a time, either 2x [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/14/romu-tiny-raspberry-pi-rp2354a-usb-board/\">Romu &#8211; A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "VIEWE launches 4.3-inch ESP32-S31 display development board",
     "source": "CNX Software",
     "date": "2026-10-14",
     "url": "https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/",
     "summary": "<div><img alt=\"VIEWE 4.3 inch ESP32 S31 smart display with a music player interface\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/VIEWE-4.3-inch-ESP32-S31-smart-display-with-a-music-player-interface-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>VIEWE has introduced the PLCM-UES31S043H800V480C-U, a 4.3-inch smart display module that appears to be the first third-party development board powered by the new ESP32-S31 MCU. The board includes a 4.3-inch display with 2.4 GHz Wi-Fi 6, Bluetooth 5.4 LE and Classic, and IEEE 802.15.4 for Zigbee and Thread. It also features USB-C and USB-A ports, a microSD card slot, RS485 and CAN interfaces, and a 20-pin GPIO expansion header with UART and I2C. The board also includes an ES8389 audio codec, two NS4150B amplifiers, two onboard microphones, four ADC buttons, a WS2812B RGB LED, and BOOT/RESET buttons. It operates on a 5V power supply and supports an operating temperature range of -20°C to +70°C. VIEWE PLCM-UES31S043H800V480C-U Specifications: Wireless module – ESP32-S31-WROOM-3-N16R16V SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/\">VIEWE launches 4.3-inch ESP32-S31 display development board</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "TechPoint buys Esprit Electronics for EMS growth",
+    "source": "Electronics Weekly",
+    "date": "2026-10-14",
+    "url": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
+    "summary": "<p>TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. &#8220;We’re delighted to welcome the Esprit Electronics team [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/\">TechPoint buys Esprit Electronics for EMS growth</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Qualcomm wins Arm case – awarded $2 in damages",
+    "source": "Electronics Weekly",
+    "date": "2026-10-14",
+    "url": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
+    "summary": "<p>The  jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/\">Qualcomm wins Arm case &#8211; awarded $2 in damages</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "UK tech companies raise $25.7bn this year",
+    "source": "Electronics Weekly",
+    "date": "2026-10-14",
+    "url": "https://www.electronicsweekly.com/news/business/uk-tech-has-raised-25-7bn-this-year-2026-10/",
+    "summary": "<p>UK Tech companies raised $25.7 billion in the first nine months of 2026, up 88% from $13.7 billion in 9M 2025, across 816 rounds, down 17% from 984, according to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-tech-has-raised-25-7bn-this-year-2026-10/\">UK tech companies raise $25.7bn this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "This time it’s different",
+    "source": "Electronics Weekly",
+    "date": "2026-10-14",
+    "url": "https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/",
+    "summary": "<p>The overall chip market continues to show treble-digit monthly annualised growth rates, more than twice as large as the industry’s two previous record highs in June 2000 (59.3 percent) and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/\">This time it’s different</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Apple bids for home electronics market",
+    "source": "Electronics Weekly",
+    "date": "2026-10-14",
+    "url": "https://www.electronicsweekly.com/news/business/apple-2026-10/",
+    "summary": "<p>Apple made a statement yesterday that it is still in the home electronics market. It launched a new $200 HomePod smart speaker  (pictured above)  and a $299 HomeView hub (pictured [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/apple-2026-10/\">Apple bids for home electronics market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Software translates test patterns and applies them to interfaces and protocols",
+    "source": "Electronics Weekly",
+    "date": "2026-10-14",
+    "url": "https://www.electronicsweekly.com/news/business/software-translates-test-patterns-and-applies-them-to-interfaces-and-protocols-2026-10/",
+    "summary": "<p>Siemens’ Tessent Silicon Executable software is designed to translate test patterns and apply them directly onto high-speed interfaces and protocols. Test provider partners will embed the Tessent software within automated [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/software-translates-test-patterns-and-applies-them-to-interfaces-and-protocols-2026-10/\">Software translates test patterns and applies them to interfaces and protocols</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Top Ten IP Semiconductor Suppliers",
+    "source": "Electronics Weekly",
+    "date": "2026-10-14",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/",
+    "summary": "<p>Thanks to IPNest for this one &#8211; the top ten semiconductor IP vendors: Arm. Synopsys Cadence . Alphawave Semi Imagination Technologies Rambus VeriSilicon CEva Arteris Silicon Creations</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/\">Top Ten IP Semiconductor Suppliers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Carlia S. Westcott #ALD26 @findingada",
@@ -56,13 +119,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2026/10/recycled_pet_bottles_filament_petcraft_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In countries where PET bottles do not get slapped with an additional fee that induces you to return it for recycling and said fee back, the resulting piles of discarded <a class=\"read-more\" href=\"https://hackaday.com/2026/10/13/counting-the-pet-bottles-needed-to-make-1-kg-of-printer-filament/\">&#8230;read more</a>"
   },
   {
-    "title": "The FPGA Chronicles: Ready to Probe",
-    "source": "Hackaday",
-    "date": "2026-10-13",
-    "url": "https://hackaday.com/2026/10/13/the-fpga-chronicles-ready-to-probe/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/09/FPGAchronicles.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>In the last few installments, we looked at using the Tang Nano 20K with both the GOWIN tools and some open-source tools. The open-source tools certainly had the advantage of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/13/the-fpga-chronicles-ready-to-probe/\">&#8230;read more</a>"
-  },
-  {
     "title": "Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing",
     "source": "CNX Software",
     "date": "2026-10-13",
@@ -89,6 +145,27 @@
     "date": "2026-10-13",
     "url": "https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/",
     "summary": "<p>Texas Instruments Inc. (TI) has claimed the industry's first analog-to-digital converter (ADC) to enable 24/7 event-based remote monitoring at nanosecond resolution for AI data centers. Introduced at the Open Compute Project (OCP) Global Summit, TI will demo the ADC34DSO75 ADC, along with the new LMI800PS hot-swap controller and LMK6B bulk acoustic wave (BAW)-based oscillator, addressing the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/\">TI unveils 3-GSPS ADC for AI Data Centers at OCP</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "10 years of TME Education – a decade of supporting technical education",
+    "source": "Electronics Weekly",
+    "date": "2026-10-13",
+    "url": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2026-10/",
+    "summary": "<p>Learn more about TME Education &#8211; an educational project based on practical learning and collaboration with local communities.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2026-10/\">10 years of TME Education – a decade of supporting technical education</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Pathways into Electronics reports on women’s route to study electronics",
+    "source": "Electronics Weekly",
+    "date": "2026-10-13",
+    "url": "https://www.electronicsweekly.com/news/design/stem/pathways-into-electronics-reports-on-womens-route-to-study-electronics-2026-10/",
+    "summary": "<p>The UK Electronics Skills Foundation&#8217;s (UKESF) new report examines the routes women take to study electronics in further education: Pathways into Electronics: Women EEE Students. It shares findings into the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/stem/pathways-into-electronics-reports-on-womens-route-to-study-electronics-2026-10/\">Pathways into Electronics reports on women&#8217;s route to study electronics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "How Can Users Who Seek Mental Health Support From AI Be Protected?",
+    "source": "Electronics Weekly",
+    "date": "2026-10-13",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/dangers-of-relying-on-chatbots-2026-10/",
+    "summary": "<p>As more and more people lean on chatbots for comfort and guidance, experts have raised alarms over the potential pitfalls: erosion of social skills, unhealthy attachment to digital companions offering [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/dangers-of-relying-on-chatbots-2026-10/\">How Can Users Who Seek Mental Health Support From AI Be Protected?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Bonnie J. Dunbar #ALD26 @findingada",
@@ -334,13 +411,6 @@
     "date": "2026-10-08",
     "url": "https://www.embedded.com/chiplets-at-the-edge-how-modular-socs-redefine-performance-per-watt/",
     "summary": "<p>The evolution of edge systems is shifting the focus from computing power alone to how efficiently each watt is transformed into useful performance. Chiplets and modular system-on-chips (SoCs) enable the combination of CPUs, accelerators, memory, and I/O based on specific needs, creating new possibilities for designing more compact, flexible, and efficient platforms. From silicon scalability [...]</p>\n<p>The post <a href=\"https://www.embedded.com/chiplets-at-the-edge-how-modular-socs-redefine-performance-per-watt/\">Chiplets at the Edge: How Modular SoCs Redefine Performance Per Watt</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine",
-    "source": "CNX Software",
-    "date": "2026-10-07",
-    "url": "https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/",
-    "summary": "<div><img alt=\"Raspberry Pi Pico configuration in DSPi Console\" class=\"attachment-medium size-medium wp-post-image\" height=\"539\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Raspberry-Pi-Pico-configuration-in-DSPi-Console-720x539.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>DSPi is a full-featured audio DSP firmware for the Raspberry Pi Pico, Pico 2, and other Raspberry Pi RP2040/RP2350 boards, which turns them into a USB sound card with an integrated DSP. It allows users to make use of essential tools like room correction, active crossovers, parametric EQ, time alignment, and more, and essentially works as a regular sound card on your computer. DSPi firmware’s capabilities: Dual-Core DSP &#8211; EQ processing is split across both cores on both RP2040 and RP2350. USB Audio Interface &#8211; Supports 16-bit and 24-bit PCM input at 44.1, 48, and 96 kHz, working on macOS, Windows, Linux, and iOS. S/PDIF Input &#8211; 24-bit PCM stereo audio at 44.1 or 48kHz. 24-bit S/PDIF or I2S Outputs &#8211; Up to 4x independent stereo output slots (8x channels on RP2350, 4x channels on RP2040). Subwoofer Output &#8211; Dedicated mono PDM output channel with a high-performance 2nd-order delta-sigma modulator, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/\">DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Silicon Labs Expands AI Tools for Embedded IoT Development",
