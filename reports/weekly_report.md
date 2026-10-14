@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-13 21:35 UTC
+Generated: 2026-10-14 00:40 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,10 +15,10 @@ Generated: 2026-10-13 21:35 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83673 | 33469.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63895 | 25558.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63896 | 25558.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44685 | 17874.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30686 | 12274.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 28982 | 11592.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 28984 | 11593.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,8 +26,8 @@ Generated: 2026-10-13 21:35 UTC
 | mradermacher/MiMo-Embodied-7B-GGUF | 360 | 108.5 | [link](https://huggingface.co/mradermacher/MiMo-Embodied-7B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 330 | 99.3 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
 | mradermacher/semantic-world-model-4B-GGUF | 293 | 88.2 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
+| mradermacher/Mistral-secure-policy-rewriter-GGUF | 79 | 24.0 | [link](https://huggingface.co/mradermacher/Mistral-secure-policy-rewriter-GGUF) |
 | masterset-ai/PhysicalEye-Decide-35B | 49 | 15.2 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
-| bestak/uav-navigation-sasp | 45 | 13.6 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

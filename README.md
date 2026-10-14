@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-13 21:35 UTC
+Last Updated: 2026-10-14 00:40 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -38,27 +38,27 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-13 | Q&A: Mars Perseverance Rover Distance Record | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/mars-rover-distance-record) |
 | 2026-10-13 | Promise Robotics partners with D.R. Horton on physical AI for homebuilding | Robotics Business Review | [link](https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/) |
 | 2026-10-13 | Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness | Robotics Business Review | [link](https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/) |
+| 2026-10-13 | NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors | Robotics Business Review | [link](https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/) |
 | 2026-10-12 | Closing the reality gap: Why real-time execution has become the new competitive advantage | Robotics Business Review | [link](https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/) |
 | 2026-10-11 | Will ‘boring’ robots win in the real world? Why robotic form should follow workflow | Robotics Business Review | [link](https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/) |
 | 2026-10-10 | Why dexterity is physical AI’s real bottleneck | Robotics Business Review | [link](https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/) |
 | 2026-10-09 | Video Friday: Robot Decommissioning Takes a Fun Turn | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-reachy-mini-raps) |
 | 2026-10-09 | Why humanoid robot demos still fail the generalization test | Robotics Business Review | [link](https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/) |
 | 2026-10-09 | Boston Dynamics gives more insight into its redesigned humanoid hand | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/) |
-| 2026-10-09 | Groceryshop 2026 shows that retail robots are ready to scale, use AI | Robotics Business Review | [link](https://www.therobotreport.com/groceryshop-2026-shows-retail-robots-ready-scale-use-ai/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-14 | VIEWE launches 4.3-inch ESP32-S31 display development board | CNX Software | [link](https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/) |
+| 2026-10-14 | Carlia S. Westcott #ALD26 @findingada | Adafruit | [link](https://blog.adafruit.com/2026/10/13/carlia-s-westcott-ald26-findingada/) |
+| 2026-10-13 | JawnCon 0x3 Kicks off in Philadelphia this Friday | Hackaday | [link](https://hackaday.com/2026/10/13/jawncon-0x3-kicks-off-in-philadelphia-this-friday/) |
 | 2026-10-13 | ESP-SDR Can Now Transmit | Hackaday | [link](https://hackaday.com/2026/10/13/esp-sdr-can-now-transmit/) |
 | 2026-10-13 | Using a Waffle to Check the Health of your Wii U’s NAND Flash | Hackaday | [link](https://hackaday.com/2026/10/13/using-a-waffle-to-check-the-health-of-your-wii-us-nand-flash/) |
 | 2026-10-13 | Counting the PET Bottles Needed to Make 1 Kg of Printer Filament | Hackaday | [link](https://hackaday.com/2026/10/13/counting-the-pet-bottles-needed-to-make-1-kg-of-printer-filament/) |
 | 2026-10-13 | The FPGA Chronicles: Ready to Probe | Hackaday | [link](https://hackaday.com/2026/10/13/the-fpga-chronicles-ready-to-probe/) |
 | 2026-10-13 | A Modern Browser for the PlayStation Portable | Hackaday | [link](https://hackaday.com/2026/10/13/a-modern-browser-for-the-playstation-portable/) |
 | 2026-10-13 | Open Firmware Fixes Dead Onkyo AV Receivers | Hackaday | [link](https://hackaday.com/2026/10/13/open-firmware-fixes-dead-onkyo-av-receivers/) |
-| 2026-10-13 | Emulating a Floppy Drive By Emulating The Drive Itself | Hackaday | [link](https://hackaday.com/2026/10/12/emulating-a-floppy-drive-by-emulating-the-drive-itself/) |
 | 2026-10-13 | Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing | CNX Software | [link](https://www.cnx-software.com/2026/10/13/microchip-mtch3380p-and-mtch3240p-capacitive-touch-controllers-support-up-to-64-buttons-with-parallel-sensing/) |
-| 2026-10-13 | Dragonwing FWA Gen 6 Elite Platform combines 5G Advanced, NR-NTN, and tri-band Wi-Fi 8 | CNX Software | [link](https://www.cnx-software.com/2026/10/13/dragonwing-fwa-gen-6-elite-platform-combines-5g-advanced-nr-ntn-and-tri-band-wi-fi-8/) |
-| 2026-10-13 | Designing Edge AI for Real-Time Systems | Embedded.com | [link](https://www.embedded.com/designing-edge-ai-for-real-time-systems/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-13 | jerrytran/robotics-vision-language-review | 0 | 0 | [link](https://huggingface.co/jerrytran/robotics-vision-language-review) |
 | 2026-10-13 | lily2222/my-robotwin-checkpoint | 0 | 0 | [link](https://huggingface.co/lily2222/my-robotwin-checkpoint) |
 | 2026-10-13 | ehhendriks/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/ehhendriks/robotics-vision-language) |
 | 2026-10-13 | Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k | 2 | 0 | [link](https://huggingface.co/Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-13 | beasaltfish/robot-simple-commands-qwen3.5-0.8b | 0 | 0 | [link](https://huggingface.co/beasaltfish/robot-simple-commands-qwen3.5-0.8b) |
 | 2026-10-13 | beasaltfish/robot-simple-commands-qwen3.5-0.8b-GGUF | 0 | 0 | [link](https://huggingface.co/beasaltfish/robot-simple-commands-qwen3.5-0.8b-GGUF) |
 | 2026-10-13 | Knugroho/robotics-vision-language-2023 | 0 | 0 | [link](https://huggingface.co/Knugroho/robotics-vision-language-2023) |
-| 2026-10-13 | RobotisSW/GR00T-N1.7-PaperTowelRoll-741-742-748-750-752-753-RightArmOnly-FPS30-H24 | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-PaperTowelRoll-741-742-748-750-752-753-RightArmOnly-FPS30-H24) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 28982 | Python | 11592.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3585 | Python | 1434.1 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1522 | Rust | 608.9 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
-| mosaico-labs/mosaico | 1077 | Python | 430.9 | [link](https://github.com/mosaico-labs/mosaico) |
-| robocurve/inspect-robots | 672 | Python | 268.9 | [link](https://github.com/robocurve/inspect-robots) |
-| awslabs/awsome-distributed-ai | 485 | Shell | 194.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| v-modal/vmodal_sdk_robotics | 459 | Python | 183.7 | [link](https://github.com/v-modal/vmodal_sdk_robotics) |
-| autonomous-ai/Physical-AI-Operating-System | 434 | Python | 173.7 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
-| commaai/openpilot | 63895 | Python | 25558.1 | [link](https://github.com/commaai/openpilot) |
+| autonomous-ai/Physical-AI-Operating-System | 435 | Python | 174.1 | [link](https://github.com/autonomous-ai/Physical-AI-Operating-System) |
+| commaai/openpilot | 63896 | Python | 25558.5 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 19977 | Python | 7990.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17441 | Java | 6976.5 | [link](https://github.com/questdb/questdb) |
+| dora-rs/dora | 4002 | Rust | 1600.9 | [link](https://github.com/dora-rs/dora) |
+| deeplethe/utopia | 8328 | Rust | 3331.3 | [link](https://github.com/deeplethe/utopia) |
+| isaac-sim/IsaacLab | 8337 | Python | 3334.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| harvard-edge/cs249r_book | 28984 | Python | 11593.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3587 | Python | 1434.9 | [link](https://github.com/NVIDIA/skills) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |

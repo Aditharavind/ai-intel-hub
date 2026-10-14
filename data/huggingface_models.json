@@ -1,5 +1,14 @@
 [
   {
+    "model": "jerrytran/robotics-vision-language-review",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jerrytran/robotics-vision-language-review",
+    "date": "2026-10-13",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "lily2222/my-robotwin-checkpoint",
     "downloads": 0,
     "likes": 0,
@@ -99,15 +108,6 @@
     "score": 0.3
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
-    "date": "2026-10-13",
-    "keyword": "robotics",
-    "score": 8.5
-  },
-  {
     "model": "vladlen-beilik/qwen-image-2.1-runpod",
     "downloads": 0,
     "likes": 0,
@@ -204,6 +204,24 @@
     "url": "https://huggingface.co/rayaanoidpr/grandtour-world-models",
     "date": "2026-10-13",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "Nehaguptaski/embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Nehaguptaski/embodied-ai",
+    "date": "2026-10-13",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "zielinski9113/embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zielinski9113/embodied-ai",
+    "date": "2026-10-13",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -306,6 +324,24 @@
     "score": 0.1
   },
   {
+    "model": "MrinalCom/firstmind-geo-policy-qwen2.5-1.5b",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/MrinalCom/firstmind-geo-policy-qwen2.5-1.5b",
+    "date": "2026-10-13",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "mradermacher/Mistral-secure-policy-rewriter-GGUF",
+    "downloads": 79,
+    "likes": 1,
+    "url": "https://huggingface.co/mradermacher/Mistral-secure-policy-rewriter-GGUF",
+    "date": "2026-10-13",
+    "keyword": "policy",
+    "score": 24.0
+  },
+  {
     "model": "vicshi97/pi05_policy_sock-garbage-merged_2.0_yolo_20k",
     "downloads": 15,
     "likes": 1,
@@ -396,22 +432,13 @@
     "score": 0.3
   },
   {
-    "model": "NOWDAD/omx_act_policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/NOWDAD/omx_act_policy",
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
+    "downloads": 28,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
     "date": "2026-10-13",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
-    "model": "dolphins517/omx_act_policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/dolphins517/omx_act_policy",
-    "date": "2026-10-13",
-    "keyword": "policy",
-    "score": 0.3
+    "keyword": "robotics",
+    "score": 8.5
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle",
@@ -468,15 +495,6 @@
     "score": 10.3
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round",
-    "downloads": 37,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round",
-    "date": "2026-10-13",
-    "keyword": "robotics",
-    "score": 11.2
-  },
-  {
     "model": "tsangb34/lingbot-vla-v2-6b-droid-open-drawer-5ep",
     "downloads": 0,
     "likes": 0,
@@ -493,24 +511,6 @@
     "date": "2026-10-12",
     "keyword": "embodied",
     "score": 3.6
-  },
-  {
-    "model": "nigutierrez/embodied-ai",
-    "downloads": 11,
-    "likes": 1,
-    "url": "https://huggingface.co/nigutierrez/embodied-ai",
-    "date": "2026-10-12",
-    "keyword": "embodied",
-    "score": 3.6
-  },
-  {
-    "model": "marcinnowakwyn/my-embodied-ai",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/marcinnowakwyn/my-embodied-ai",
-    "date": "2026-10-12",
-    "keyword": "embodied",
-    "score": 4.0
   },
   {
     "model": "UCLA-VAIL/Navigation-Model-Zoo-Public",

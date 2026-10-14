@@ -1,5 +1,26 @@
 [
   {
+    "title": "VIEWE launches 4.3-inch ESP32-S31 display development board",
+    "source": "CNX Software",
+    "date": "2026-10-14",
+    "url": "https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/",
+    "summary": "<div><img alt=\"VIEWE 4.3 inch ESP32 S31 smart display with a music player interface\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/VIEWE-4.3-inch-ESP32-S31-smart-display-with-a-music-player-interface-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>VIEWE has introduced the PLCM-UES31S043H800V480C-U, a 4.3-inch smart display module that appears to be the first third-party development board powered by the new ESP32-S31 MCU. The board includes a 4.3-inch display with 2.4 GHz Wi-Fi 6, Bluetooth 5.4 LE and Classic, and IEEE 802.15.4 for Zigbee and Thread. It also features USB-C and USB-A ports, a microSD card slot, RS485 and CAN interfaces, and a 20-pin GPIO expansion header with UART and I2C. The board also includes an ES8389 audio codec, two NS4150B amplifiers, two onboard microphones, four ADC buttons, a WS2812B RGB LED, and BOOT/RESET buttons. It operates on a 5V power supply and supports an operating temperature range of -20°C to +70°C. VIEWE PLCM-UES31S043H800V480C-U Specifications: Wireless module – ESP32-S31-WROOM-3-N16R16V SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/\">VIEWE launches 4.3-inch ESP32-S31 display development board</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Carlia S. Westcott #ALD26 @findingada",
+    "source": "Adafruit",
+    "date": "2026-10-14",
+    "url": "https://blog.adafruit.com/2026/10/13/carlia-s-westcott-ald26-findingada/",
+    "summary": "Carlia S. Westcott was an American engineer and the first woman to receive a first-of-a-kind license in Marine Engineering in the United States in December 1921. Check out her life and story in Transportation History. A pivotal episode in Westcott’s decision to become a marine engineer had taken place a year earlier, when she joined [&#8230;]"
+  },
+  {
+    "title": "JawnCon 0x3 Kicks off in Philadelphia this Friday",
+    "source": "Hackaday",
+    "date": "2026-10-13",
+    "url": "https://hackaday.com/2026/10/13/jawncon-0x3-kicks-off-in-philadelphia-this-friday/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"346\" src=\"https://hackaday.com/wp-content/uploads/2026/10/jawn03_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Philadelphia&#8217;s homegrown hacker con returns this weekend, and this time it&#8217;s starting a day early to pack in even more talks, demos, and activities. Tickets are still available for anyone <a class=\"read-more\" href=\"https://hackaday.com/2026/10/13/jawncon-0x3-kicks-off-in-philadelphia-this-friday/\">&#8230;read more</a>"
+  },
+  {
     "title": "ESP-SDR Can Now Transmit",
     "source": "Hackaday",
     "date": "2026-10-13",
@@ -40,13 +61,6 @@
     "date": "2026-10-13",
     "url": "https://hackaday.com/2026/10/13/open-firmware-fixes-dead-onkyo-av-receivers/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/osirisav_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;ve been reading Hackaday for any length of time, you&#8217;ll know we love seeing hackers replacing the stock firmware on their devices with open source alternatives. Usually this is <a class=\"read-more\" href=\"https://hackaday.com/2026/10/13/open-firmware-fixes-dead-onkyo-av-receivers/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Emulating a Floppy Drive By Emulating The Drive Itself",
-    "source": "Hackaday",
-    "date": "2026-10-13",
-    "url": "https://hackaday.com/2026/10/12/emulating-a-floppy-drive-by-emulating-the-drive-itself/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/pico1551-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Commodore 1541 is famously the floppy drive for the Commodore 64 series of 8-bit computers, and can be found with relative ease. Not so well known is its 1551 <a class=\"read-more\" href=\"https://hackaday.com/2026/10/12/emulating-a-floppy-drive-by-emulating-the-drive-itself/\">&#8230;read more</a>"
   },
   {
     "title": "Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing",
@@ -224,11 +238,46 @@
     "summary": "Mark Dastmalchi-Round wrote up a demoscene intro he built for a stock 128K ZX Spectrum, posted on his blog at markround.com. It has a smooth scrolltext with custom fonts, a three channel AY soundtrack, bouncing VU meters and a parallax starfield. The finished production is 10287 bytes of code, or 19552 bytes as a complete [&#8230;]"
   },
   {
-    "title": "beebgame: a BBC Micro game engine",
-    "source": "Adafruit",
+    "title": "TI unveils new ADC to enable nanosecond-level telemetry and minimize downtime in AI data centers",
+    "source": "EE Journal",
     "date": "2026-10-13",
-    "url": "https://blog.adafruit.com/2026/10/13/beebgame-a-bbc-micro-game-engine/",
-    "summary": "ebenupton has published beebgame on GitHub, a scrolling-platformer display engine for the BBC Model B with 64K of sideways RAM and the BBC Master 128, written in ca65 assembly. One set of sources is assembled twice, BHW=1 for the Model B&#8217;s hardware and BHW=0 for the Master&#8217;s. A game built on it ships as a [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/ti-unveils-new-adc-to-enable-nanosecond-level-telemetry-and-minimize-downtime-in-ai-data-centers/",
+    "summary": "At the Open Compute Project (OCP) Global Summit, Texas Instruments (TI) (Nasdaq: TXN) debuted the first analog-to-digital converter (ADC) to enable 24/7, low-power, event-based remote monitoring at nanosecond resolution. As AI workloads rapidly increase, data center operators face significant challenges around power instability, inadequate real-time monitoring and signal degradation, all of which can lead to [&#8230;]"
+  },
+  {
+    "title": "FLIR Introduces A8481 Compact HD MWIR Science Camera",
+    "source": "EE Journal",
+    "date": "2026-10-13",
+    "url": "https://www.eejournal.com/industry_news/flir-introduces-a8481-compact-hd-mwir-science-camera/",
+    "summary": "Teledyne FLIR today announced the launch of the A8481, a new compact HD MWIR science camera designed for researchers and engineers who need significantly more thermal detail without changing the workflows, optics, software, and infrastructure they already use. Built around a 1280 × 1024 HOT MWIR SLS detector, the A8481 delivers four times the pixels [&#8230;]"
+  },
+  {
+    "title": "Navitas Collaborates with NVIDIA on 800 V-to-12 V Power Delivery Board for Next-Generation AI Infrastructure",
+    "source": "EE Journal",
+    "date": "2026-10-13",
+    "url": "https://www.eejournal.com/industry_news/navitas-collaborates-with-nvidia-on-800-v-to-12-v-power-delivery-board-for-next-generation-ai-infrastructure/",
+    "summary": "Navitas Semiconductor (Nasdaq: NVTS), a leader in next-generation power semiconductors and power delivery solutions, pioneering GaN, high-voltage and ultra-high-voltage SiC, and IVR technologies, today announced its latest 24 kW, 800 V-to-12 V DC-DC power delivery board (PDB), powered by GaNFast™ technology and developed in collaboration with NVIDIA, to support the NVIDIA MGX ecosystem and advance [&#8230;]"
+  },
+  {
+    "title": "TDK PositionSenseTM offers ‘Smart Perception’ for wearables, mobile, robots, and other Physical AI devices",
+    "source": "EE Journal",
+    "date": "2026-10-13",
+    "url": "https://www.eejournal.com/industry_news/tdk-positionsensetm-offers-smart-perception-for-wearables-mobile-robots-and-other-physical-ai-devices/",
+    "summary": "&#8211;  Now available for worldwide distribution, PositionSense is a 2-chip 9-axis sensor solution for absolute orientation detection and fast sensor calibration &#8211;  Enables the ultimate positioning accuracy for smart glasses, smartphones, AI wearables, humanoid robots, drones, and any device requiring precise location &#8211;  Integrates TDK’s ultra-low power 6-axis IMU and 3-axis TMR-based magnetometer with on-chip [&#8230;]"
+  },
+  {
+    "title": "Now ANY Bluetooth Device Can Enjoy Satellite Connectivity",
+    "source": "EE Journal",
+    "date": "2026-10-13",
+    "url": "https://www.eejournal.com/article/now-any-bluetooth-device-can-enjoy-satellite-connectivity/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"169\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0526-image-for-home-page-hubble-300x169.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I find it hard to wrap my brain around how something as innocuous as Bluetooth can suddenly start impinging on my consciousness (and my Bluetooth-equipped devices) from all directions, including—it now turns out—from satellites whizzing around above our heads in low Earth Orbit (LEO). Just to ensure we’re all tap-dancing to the same skirl of [&#8230;]"
+  },
+  {
+    "title": "Quantum Source Unveils QS-LINK to Connect and Scale Quantum Computers Across Modalities",
+    "source": "EE Journal",
+    "date": "2026-10-13",
+    "url": "https://www.eejournal.com/industry_news/quantum-source-unveils-qs-link-to-connect-and-scale-quantum-computers-across-modalities-2/",
+    "summary": "Quantum Source, developer of compound photon-atom technology that makes photonic quantum computers practical, published the first technical details of its proprietary QS-LINK, an interconnect built to break the bottleneck that keeps quantum computers from scaling beyond a single processor. Using a single rubidium atom as quantum memory, QS-LINK holds the entanglement with a first processor [&#8230;]"
   },
   {
     "title": "PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support",
@@ -287,20 +336,6 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"214\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/Stackpole-RMAN-image-300x214.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Stackpole Electronics’ RMAN series combines thick film resistor technology with the superior heat-dissipating capability of an aluminum nitride (AlN) substrate for industrial and automotive electronics operating at high power or under sustained load. The construction helps reduce localized heating for higher power density, lower operating temperatures, and improved stability. Aluminum nitride provides thermal conductivity several [&#8230;]"
   },
   {
-    "title": "Viscom to Premiere new iX7059 SMT Edition 3D Inline  AXI at electronica 2026",
-    "source": "EE Journal",
-    "date": "2026-10-12",
-    "url": "https://www.eejournal.com/industry_news/viscom-to-premiere-new-ix7059-smt-edition-3d-inline-axi-at-electronica-2026/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"125\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/iX7059_SMT_Edition-300x125.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Viscom will present its latest solutions for  intelligent, automated and connected electronics manufacturing at  electronica 2026, taking place in Munich from November 10 to 13.  The highlight of Viscom’s presence in Hall A4, Booth 443 will be the iX7059  SMT Edition, the company’s brand-new inline 3D X-ray inspection system.  Viscom will also present its premium [&#8230;]"
-  },
-  {
-    "title": "COSMAC: The Long, True, and Never-ending Story of the World’s First CMOS Microprocessors, Part 2",
-    "source": "EE Journal",
-    "date": "2026-10-12",
-    "url": "https://www.eejournal.com/article/cosmac-the-long-true-and-never-ending-story-of-the-worlds-first-cmos-microprocessors-part-2/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"270\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/RCA-Palm-Beach-Thumbnail-300x270.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />After reading Edmund Callis Berkeley’s “Giant Brains or Machines that Think” shortly after it appeared in 1949, Joe Weisbecker decided he wanted to design computers but he was forced to wait for the better part of two decades to design one, despite getting a job with RCA’s mainframe computer division in 1956. Weisbecker was so [&#8230;]"
-  },
-  {
     "title": "Wireless-Tag WT32P4C5-43S – A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit",
     "source": "CNX Software",
     "date": "2026-10-11",
@@ -334,13 +369,6 @@
     "date": "2026-10-09",
     "url": "https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/",
     "summary": "<p>Microchip Technology Inc. has launched its first turnkey touch controllers with parallel sensing for buttons, sliders, and wheels in appliances and outdoor and industrial applications. The two new additions to the capacitive-touch family offer enhanced touch sensitivity and noise immunity, enabling touch detection through thick cover materials and gloves. The MTCH3380P and MTCH3240P controllers target [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/\">Microchip Adds Parallel Sensing to Touch Controllers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Listening to the Future: Inside sensiBel’s Optical MEMS Revolution",
-    "source": "EE Journal",
-    "date": "2026-10-09",
-    "url": "https://www.eejournal.com/fish_fry/listening-to-the-future-inside-sensibells-optical-mems-revolution/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/Bold-Megaphone-Broadcast-Collage-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />This week on Amelia’s Weekly Fish Fry, I’m chat with Tom Hazlett from sensiBel about giving machines something we humans take completely for granted: the ability to hear the world around us. Tom and I explore how sensiBel’s optical MEMS technology is pushing acoustic sensing beyond the limits of traditional capacitive microphones, from capturing incredibly [&#8230;]"
   },
   {
     "title": "Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)",
@@ -378,39 +406,11 @@
     "summary": "<p>The evolution of edge systems is shifting the focus from computing power alone to how efficiently each watt is transformed into useful performance. Chiplets and modular system-on-chips (SoCs) enable the combination of CPUs, accelerators, memory, and I/O based on specific needs, creating new possibilities for designing more compact, flexible, and efficient platforms. From silicon scalability [...]</p>\n<p>The post <a href=\"https://www.embedded.com/chiplets-at-the-edge-how-modular-socs-redefine-performance-per-watt/\">Chiplets at the Edge: How Modular SoCs Redefine Performance Per Watt</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "50+ km Bluetooth? You Want to Do What?",
-    "source": "EE Journal",
-    "date": "2026-10-08",
-    "url": "https://www.eejournal.com/article/50-km-bluetooth-you-want-to-do-what/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0525-image-for-home-page-rfoxia-300x300.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />About 4,500 years ago (give or take), the ancient Egyptians took it upon themselves to stack approximately 2.3 million enormous blocks of stone to create what we now know as the Great Pyramid of Giza. I’m trying to imagine the scene when Hemiunu, who is generally credited as its chief architect, first explained his plans [&#8230;]"
-  },
-  {
-    "title": "Infineon and ZuriQ deepen partnership to advance scalable quantum chips",
-    "source": "EE Journal",
-    "date": "2026-10-08",
-    "url": "https://www.eejournal.com/industry_news/infineon-and-zuriq-deepen-partnership-to-advance-scalable-quantum-chips/",
-    "summary": "Expanding partnership targets the next generation of trapped-ion quantum computing Infineon and ZuriQ build on recent technology progress to scale quantum processing units toward commercial systems Partners combine Infineon&#8217;s semiconductor manufacturing expertise with ZuriQ&#8217;s innovative and highly scalable Penning micro-trap architecture  Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) and ZuriQ AG, a Swiss quantum [&#8230;]"
-  },
-  {
-    "title": "Keysight Introduces Velocity 4900 Series to Accelerate Test Lab Modernization for AI and 6G",
-    "source": "EE Journal",
-    "date": "2026-10-08",
-    "url": "https://www.eejournal.com/industry_news/keysight-introduces-velocity-4900-series-to-accelerate-test-lab-modernization-for-ai-and-6g/",
-    "summary": "Keysight Technologies, Inc. (NYSE: KEYS) today announced the Keysight Velocity 4900 Series, a new line of cost-effective Layer 1 automation switches designed to transform and automate physical connectivity in network test labs. Through software-controlled testbed configuration and management, the Velocity 4900 Series enables engineering teams to dynamically connect and automate the management of test equipment [&#8230;]"
-  },
-  {
     "title": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine",
     "source": "CNX Software",
     "date": "2026-10-07",
     "url": "https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/",
     "summary": "<div><img alt=\"Raspberry Pi Pico configuration in DSPi Console\" class=\"attachment-medium size-medium wp-post-image\" height=\"539\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Raspberry-Pi-Pico-configuration-in-DSPi-Console-720x539.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>DSPi is a full-featured audio DSP firmware for the Raspberry Pi Pico, Pico 2, and other Raspberry Pi RP2040/RP2350 boards, which turns them into a USB sound card with an integrated DSP. It allows users to make use of essential tools like room correction, active crossovers, parametric EQ, time alignment, and more, and essentially works as a regular sound card on your computer. DSPi firmware’s capabilities: Dual-Core DSP &#8211; EQ processing is split across both cores on both RP2040 and RP2350. USB Audio Interface &#8211; Supports 16-bit and 24-bit PCM input at 44.1, 48, and 96 kHz, working on macOS, Windows, Linux, and iOS. S/PDIF Input &#8211; 24-bit PCM stereo audio at 44.1 or 48kHz. 24-bit S/PDIF or I2S Outputs &#8211; Up to 4x independent stereo output slots (8x channels on RP2350, 4x channels on RP2040). Subwoofer Output &#8211; Dedicated mono PDM output channel with a high-performance 2nd-order delta-sigma modulator, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/\">DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU",
-    "source": "CNX Software",
-    "date": "2026-10-07",
-    "url": "https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/",
-    "summary": "<div><img alt=\"NuMaker IoT MA35H0 A2 evaluation board\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/NuMaker-IoT-MA35H0-A2-evaluation-board-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Nuvoton has added MA35D05KH67C, MA35D05KI67C, and MA35D05KJ67C, three new LQFP128 MPUs, to the NuMicro MA35D0 series, along with the NuMaker-IoT-MA35D0-A2 (Chili Pro) evaluation board. Designed for industrial AI, smart gateways, and renewable energy systems, this heterogeneous MPU has two 64-bit Arm Cortex-A35 cores at up to 650 MHz, plus a dedicated 180 MHz Arm Cortex-M4 for real-time work. Nuvoton’s press release calls Chili Pro the “industry’s smallest Linux platform,” but the board is 45 × 45 mm, which is bigger than other boards we wrote about previously, like the VoCore2 (25.4 × 25.4 × 2.8 mm), the Milk-V Duo 256M (51 × 21 mm), NanoPi NEO (40 × 40 mm), and even the Raspberry Pi Zero 2 W (65 × 30 mm). Still, considering that it fits full-sized RJ45 and USB ports along with the other interfaces, it is a pretty compact and capable board. Nuvoton NuMaker-IoT-MA35D0-A2 evaluation board specifications: [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/\">NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Silicon Labs Expands AI Tools for Embedded IoT Development",
