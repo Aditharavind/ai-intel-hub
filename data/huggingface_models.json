@@ -1,5 +1,14 @@
 [
   {
+    "model": "junbrro/rldx1-ft-rby1-robotmt180k-raw-f1-b64-s30k-20261015",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/junbrro/rldx1-ft-rby1-robotmt180k-raw-f1-b64-s30k-20261015",
+    "date": "2026-10-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "junbrro/rldx1-ft-rby1-robotmt169k-raw-f1-b64-s30k-20261015",
     "downloads": 0,
     "likes": 0,
@@ -96,15 +105,6 @@
     "url": "https://huggingface.co/milab-robot/alm1-0731-milab.60.T.M",
     "date": "2026-10-14",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sinew-robotics/ringbox-postlift-e2e",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sinew-robotics/ringbox-postlift-e2e",
-    "date": "2026-10-14",
-    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -216,6 +216,33 @@
     "score": 1.7
   },
   {
+    "model": "sovrasov/pi05_policy_black_cubes_20k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sovrasov/pi05_policy_black_cubes_20k",
+    "date": "2026-10-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Donghyun1228/pi05-libero-view-large-idm-policy-hybrids-20261015-aligned-expert",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Donghyun1228/pi05-libero-view-large-idm-policy-hybrids-20261015-aligned-expert",
+    "date": "2026-10-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Donghyun1228/pi05-libero-view-large-idm-policy-hybrids-20261015-aligned-vision",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Donghyun1228/pi05-libero-view-large-idm-policy-hybrids-20261015-aligned-vision",
+    "date": "2026-10-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "weepiess2383/ballcan-arm-policy",
     "downloads": 0,
     "likes": 0,
@@ -288,13 +315,13 @@
     "score": 0.7
   },
   {
-    "model": "ddaokki/omx_act_policy",
-    "downloads": 8,
+    "model": "sinew-robotics/ringbox-postlift-e2e",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ddaokki/omx_act_policy",
+    "url": "https://huggingface.co/sinew-robotics/ringbox-postlift-e2e",
     "date": "2026-10-14",
-    "keyword": "policy",
-    "score": 2.5
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "jerryzhengmaz/robotics-vision-language-proto",
@@ -430,24 +457,6 @@
     "date": "2026-10-13",
     "keyword": "physical ai",
     "score": 0.4
-  },
-  {
-    "model": "MrinalCom/firstmind-geo-policy-qwen2.5-1.5b",
-    "downloads": 10,
-    "likes": 1,
-    "url": "https://huggingface.co/MrinalCom/firstmind-geo-policy-qwen2.5-1.5b",
-    "date": "2026-10-13",
-    "keyword": "policy",
-    "score": 3.3
-  },
-  {
-    "model": "mradermacher/Mistral-secure-policy-rewriter-GGUF",
-    "downloads": 119,
-    "likes": 1,
-    "url": "https://huggingface.co/mradermacher/Mistral-secure-policy-rewriter-GGUF",
-    "date": "2026-10-13",
-    "keyword": "policy",
-    "score": 36.0
   },
   {
     "model": "jerrytran/robotics-vision-language-review",
@@ -677,11 +686,11 @@
   {
     "model": "jepa-world-models/h-jepa",
     "downloads": 0,
-    "likes": 7,
+    "likes": 8,
     "url": "https://huggingface.co/jepa-world-models/h-jepa",
     "date": "2026-10-06",
     "keyword": "world model",
-    "score": 1.5
+    "score": 1.7
   },
   {
     "model": "jgalego/ms-pacman-world-model",

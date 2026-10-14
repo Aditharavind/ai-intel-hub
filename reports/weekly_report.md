@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-14 19:45 UTC
+Generated: 2026-10-14 22:44 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,8 +14,8 @@ Generated: 2026-10-14 19:45 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83677 | 33470.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63901 | 25560.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83680 | 33472.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63903 | 25561.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44682 | 17872.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30693 | 12277.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 28988 | 11595.3 | [link](https://github.com/harvard-edge/cs249r_book) |
@@ -26,17 +26,17 @@ Generated: 2026-10-14 19:45 UTC
 | mradermacher/MiMo-Embodied-7B-GGUF | 342 | 103.1 | [link](https://huggingface.co/mradermacher/MiMo-Embodied-7B-GGUF) |
 | mradermacher/semantic-world-model-4B-GGUF | 294 | 88.5 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 257 | 77.4 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
-| mradermacher/Mistral-secure-policy-rewriter-GGUF | 119 | 36.0 | [link](https://huggingface.co/mradermacher/Mistral-secure-policy-rewriter-GGUF) |
 | masterset-ai/PhysicalEye-Decide-35B | 59 | 18.2 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
+| bestak/uav-navigation-sasp | 45 | 13.6 | [link](https://huggingface.co/bestak/uav-navigation-sasp) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-10-14 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjUzdjREbUEtT3lUWWJRMzR5STJEWUNIZmNyczJLUDVXa2NGRy1JdEViOTRwd3dNRE1UQTVubE1PSnNDOEpEOWYyVWRRUXJyWVp3X3B4cjJTUUczNDhoYTU5bW9NbzVRdUFFSFBYaS1sajFQdG5iLXlDOE1hdWdNMjUtQmwxSjFIUUpMWERjYUpUUEJrbWMyaW5HamNvZk9maEVtcUIwdEFQSVBDMWx1Wld5QUVCUURLZjlWY2JrYw?oc=5) |
 | 2026-10-09 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5) |
+| 2026-10-09 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3hjNTlHRzVQX3RIOENFLUx0QWVad3g2SGZ3WFB3V0JfVXFBRmFwZjIxTU1WVGVhdEJ0V09GbFhYQ1o4bU1lLWhxbVNRLU9wVExweWFkZndzVGFHeW40V2xoMmt5TmhOdHJKTi1OVUVwOGc1NXkwSXhjMjRLWHhvRTRqY2JNbkM5aXJLUG56VC0wRHc?oc=5) |
 | 2026-10-08 | Boston Dynamics |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJnVDRXTF80VnJNWUtScWZtaHV4cGt2dTFiaWVETVcwX2VrSW8xeWhPdThCUFg2SlpLTnNRcFJGSlZQME9Tb2ItNkYyalpRUDVadjdDVG9YWXA4OFBpUFI3Qk4zYzVmTHVKYmJuOXlCWWZqbGxxY3lkWDV4N3NuVXRUOWJlaUswSFplR1FMc3NzZTg?oc=5) |
 | 2026-10-07 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
-| 2026-10-07 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUFzNkpkdGUtdjhiNVFsVGFwZmlHNnR0bEVrT1lGYy1zQ1dkM25keGFDR01jalRCampzaFBJU2owWnJRaHlRWEZSODVaV2FZRmtUc1lNamM4cXlBTnQteTJhZWpjVzVOZklyUlExUm1CbThNMEpxYVRUSUtaT0NHcEJLeExKQ2FSN2dTdEt5QWdnWTlIX0ZNWVRnSFVjTjg0dkRNdDFIUkkyUWt6NHRqWdIBrAFBVV95cUxNbGd2THB6QnFPU2dLMTdOaGdYM0wyR0ttd2stT0lOdnkxdGZIb0FmeHd4YktFb2lyM2phMS1oaHliUGp5MFp2Rk5oUFE1RFNuTUhsakE4ZFpENnNWbTlWZXBtY3F0VFVaSkNvUFVsQVRYTWltMVJnc204OVFzZ0gxdVYwU0NoYTVGMUV3bjZ5X2JVUThLMFRVZDlXck4zRmthRzBtQkV5aFpNb2FJ?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

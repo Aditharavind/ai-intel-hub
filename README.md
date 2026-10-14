@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-14 19:45 UTC
+Last Updated: 2026-10-14 22:44 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-14 | Using an ESP32-C3’s RF Hardware for DVB-S2 Video Transmission | Hackaday | [link](https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/) |
 | 2026-10-14 | Tiny e-Paper Display Delivers 30 FPS of Game Boy Fun | Hackaday | [link](https://hackaday.com/2026/10/14/tiny-e-paper-display-delivers-30-fps-of-game-boy-fun/) |
 | 2026-10-14 | 2026 Hackaday Supercon: Workshops are Open! | Hackaday | [link](https://hackaday.com/2026/10/14/2026-hackaday-supercon-workshops-are-open/) |
 | 2026-10-14 | DIY Force Sensing Joysticks are a Cheap Way To Go | Hackaday | [link](https://hackaday.com/2026/10/14/diy-force-sensing-joysticks-are-a-cheap-way-to-go/) |
 | 2026-10-14 | What’s a Nonius? | Hackaday | [link](https://hackaday.com/2026/10/14/whats-a-nonius/) |
 | 2026-10-14 | Testing Oneself for AI Slop | Hackaday | [link](https://hackaday.com/2026/10/14/testing-oneself-for-ai-slop/) |
 | 2026-10-14 | Rendering 3D Prints From G-Code | Hackaday | [link](https://hackaday.com/2026/10/14/rendering-3d-prints-from-g-code/) |
-| 2026-10-14 | Does It Run… Duke Nukem 3D? | Hackaday | [link](https://hackaday.com/2026/10/13/does-it-run-duke-nukem-3d/) |
 | 2026-10-14 | Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/14/romu-tiny-raspberry-pi-rp2354a-usb-board/) |
 | 2026-10-14 | VIEWE launches 4.3-inch ESP32-S31 display development board | CNX Software | [link](https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/) |
 | 2026-10-14 | Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers | Embedded.com | [link](https://www.embedded.com/microchip-unveils-pcie-gen-6-and-nvme-devices-for-data-centers/) |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-14 | junbrro/rldx1-ft-rby1-robotmt180k-raw-f1-b64-s30k-20261015 | 0 | 0 | [link](https://huggingface.co/junbrro/rldx1-ft-rby1-robotmt180k-raw-f1-b64-s30k-20261015) |
 | 2026-10-14 | junbrro/rldx1-ft-rby1-robotmt169k-raw-f1-b64-s30k-20261015 | 0 | 0 | [link](https://huggingface.co/junbrro/rldx1-ft-rby1-robotmt169k-raw-f1-b64-s30k-20261015) |
 | 2026-10-14 | AtharvKum/robotics-vision-language-review | 0 | 0 | [link](https://huggingface.co/AtharvKum/robotics-vision-language-review) |
 | 2026-10-14 | junbrro/rldx1-ft-rby1-robotmt169k-raw-f1-b64-s28k-20261015 | 0 | 0 | [link](https://huggingface.co/junbrro/rldx1-ft-rby1-robotmt169k-raw-f1-b64-s28k-20261015) |
@@ -86,33 +87,32 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-14 | LIQIIIII/badwam-robotwin-joint-wam | 0 | 0 | [link](https://huggingface.co/LIQIIIII/badwam-robotwin-joint-wam) |
 | 2026-10-14 | Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k | 4 | 0 | [link](https://huggingface.co/Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k) |
 | 2026-10-14 | unileon-robotics/YOLO26-ONNX | 0 | 0 | [link](https://huggingface.co/unileon-robotics/YOLO26-ONNX) |
-| 2026-10-14 | lidavidsh/robotwin-adjust-bottle-t5-success-classifier | 0 | 0 | [link](https://huggingface.co/lidavidsh/robotwin-adjust-bottle-t5-success-classifier) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | harvard-edge/cs249r_book | 28988 | Python | 11595.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3597 | Python | 1438.9 | [link](https://github.com/NVIDIA/skills) |
+| NVIDIA/skills | 3598 | Python | 1439.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1522 | Rust | 608.9 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1437 | Go | 574.9 | [link](https://github.com/Edgenesis/shifu) |
 | pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1077 | Python | 430.9 | [link](https://github.com/mosaico-labs/mosaico) |
 | robocurve/inspect-robots | 676 | Python | 270.5 | [link](https://github.com/robocurve/inspect-robots) |
 | awslabs/awsome-distributed-ai | 485 | Shell | 194.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| autonomous-ai/lampOS | 445 | Python | 178.1 | [link](https://github.com/autonomous-ai/lampOS) |
-| Developer-Y/cs-video-courses | 83677 |  | 33470.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| autonomous-ai/lampOS | 446 | Python | 178.5 | [link](https://github.com/autonomous-ai/lampOS) |
+| Developer-Y/cs-video-courses | 83680 |  | 33472.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-10-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjUzdjREbUEtT3lUWWJRMzR5STJEWUNIZmNyczJLUDVXa2NGRy1JdEViOTRwd3dNRE1UQTVubE1PSnNDOEpEOWYyVWRRUXJyWVp3X3B4cjJTUUczNDhoYTU5bW9NbzVRdUFFSFBYaS1sajFQdG5iLXlDOE1hdWdNMjUtQmwxSjFIUUpMWERjYUpUUEJrbWMyaW5HamNvZk9maEVtcUIwdEFQSVBDMWx1Wld5QUVCUURLZjlWY2JrYw?oc=5) |
 | 2026-10-09 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5) |
+| 2026-10-09 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3hjNTlHRzVQX3RIOENFLUx0QWVad3g2SGZ3WFB3V0JfVXFBRmFwZjIxTU1WVGVhdEJ0V09GbFhYQ1o4bU1lLWhxbVNRLU9wVExweWFkZndzVGFHeW40V2xoMmt5TmhOdHJKTi1OVUVwOGc1NXkwSXhjMjRLWHhvRTRqY2JNbkM5aXJLUG56VC0wRHc?oc=5) |
 | 2026-10-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJnVDRXTF80VnJNWUtScWZtaHV4cGt2dTFiaWVETVcwX2VrSW8xeWhPdThCUFg2SlpLTnNRcFJGSlZQME9Tb2ItNkYyalpRUDVadjdDVG9YWXA4OFBpUFI3Qk4zYzVmTHVKYmJuOXlCWWZqbGxxY3lkWDV4N3NuVXRUOWJlaUswSFplR1FMc3NzZTg?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUFzNkpkdGUtdjhiNVFsVGFwZmlHNnR0bEVrT1lGYy1zQ1dkM25keGFDR01jalRCampzaFBJU2owWnJRaHlRWEZSODVaV2FZRmtUc1lNamM4cXlBTnQteTJhZWpjVzVOZklyUlExUm1CbThNMEpxYVRUSUtaT0NHcEJLeExKQ2FSN2dTdEt5QWdnWTlIX0ZNWVRnSFVjTjg0dkRNdDFIUkkyUWt6NHRqWdIBrAFBVV95cUxNbGd2THB6QnFPU2dLMTdOaGdYM0wyR0ttd2stT0lOdnkxdGZIb0FmeHd4YktFb2lyM2phMS1oaHliUGp5MFp2Rk5oUFE1RFNuTUhsakE4ZFpENnNWbTlWZXBtY3F0VFVaSkNvUFVsQVRYTWltMVJnc204OVFzZ0gxdVYwU0NoYTVGMUV3bjZ5X2JVUThLMFRVZDlXck4zRmthRzBtQkV5aFpNb2FJ?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-26 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnNveThPbDVwUWdxWi1YM2NXWW1yaFpMZ05US0NnQlRUSU54MFFZd2xfY0sxdkhOQklnakp0UklGUGFKeU1TSkt5dE14OUd1Yy1NNUhUeWx3VjlHNU5yZ1h6YjdDdmNrQkFhYkdUWTNfbjR2UXFHc2dJLUxLOTVjYllfd09SQXl4V240RVhJZlFOQTVuUEtyUUp5cVg0VEdRVUNHSXdUUVlVeDZsdTB6aEZZXzZTNWp3RnhETmo1YndiT3M?oc=5) |
-| 2026-09-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 | 2026-09-14 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5) |
 
@@ -133,16 +133,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-14 | Embedded Software Engineering Intern, Platform | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4722086006) |
 | 2026-10-14 | Senior Deployment Specialist | Agility Robotics | Onsite- Pittsburgh, PA; Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222418004) |
 | 2026-10-14 | Senior Technical Support Specialist | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222414004) |
+| 2026-10-14 | Staff Robotics Architect - Dynamic Simulation Specialist | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208299004) |
+| 2026-10-14 | Staff Robotics Architect - Platform Software Specialist | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208306004) |
 | 2026-10-13 | Data Quality Analyst | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 2026-10-13 | Power Electronics Engineer, Charging | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4333397006) |
 | 2026-10-12 | Deployment Engineering Intern | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4721113006) |
 | 2026-10-12 | Test Automation Engineer | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4613433006) |
 | 2026-10-12 | Senior Technical Recruiter | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6139069004) |
-| 2026-10-09 | Accounts Payable Specialist | Figure AI | Brazil, CDMX | [link](https://job-boards.greenhouse.io/figureai/jobs/4720359006) |
-| 2026-10-09 | Inventory Accounting Manager | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4720671006) |
-| 2026-10-09 | Middleware Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4605724006) |
 
 ## Automation
 

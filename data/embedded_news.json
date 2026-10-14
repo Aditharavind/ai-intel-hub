@@ -1,5 +1,12 @@
 [
   {
+    "title": "Using an ESP32-C3’s RF Hardware for DVB-S2 Video Transmission",
+    "source": "Hackaday",
+    "date": "2026-10-14",
+    "url": "https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/11/esp32-c3-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally the DVB-S and -S2 standards require a satellite somewhere in Earth orbit to provide a signal to receive, but you can also transmit your own DVB-S2 stream with any <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/\">&#8230;read more</a>"
+  },
+  {
     "title": "Tiny e-Paper Display Delivers 30 FPS of Game Boy Fun",
     "source": "Hackaday",
     "date": "2026-10-14",
@@ -40,13 +47,6 @@
     "date": "2026-10-14",
     "url": "https://hackaday.com/2026/10/14/rendering-3d-prints-from-g-code/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-140032.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Your CAD software generally has some rudimentary tools for rending images of your parts, from simply-textured models to more photo-realistic options. However, those renders are of the geometry you created—not <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/rendering-3d-prints-from-g-code/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Does It Run… Duke Nukem 3D?",
-    "source": "Hackaday",
-    "date": "2026-10-14",
-    "url": "https://hackaday.com/2026/10/13/does-it-run-duke-nukem-3d/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/duke3d-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When id Software released DOOM back in 1993 it helped define the genre, but it was hardly the only hit first-person shooter of that decade. There was also 3D Realms&#8217; 1996 Duke <a class=\"read-more\" href=\"https://hackaday.com/2026/10/13/does-it-run-duke-nukem-3d/\">&#8230;read more</a>"
   },
   {
     "title": "Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)",
@@ -147,6 +147,48 @@
     "summary": "<p>Siemens’ Tessent Silicon Executable software is designed to translate test patterns and apply them directly onto high-speed interfaces and protocols. Test provider partners will embed the Tessent software within automated [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/software-translates-test-patterns-and-applies-them-to-interfaces-and-protocols-2026-10/\">Software translates test patterns and applies them to interfaces and protocols</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "How to migrate Windows 11 from an old SSD to a new NVMe SSD without reinstalling",
+    "source": "Adafruit",
+    "date": "2026-10-14",
+    "url": "https://blog.adafruit.com/2026/10/14/how-to-migrate-windows-11-from-an-old-ssd-to-a-new-nvme-ssd-without-reinstalling/",
+    "summary": "Julian Horsey at Geeky Gadgets walks through moving a working Windows 11 install from an older SATA SSD to an NVMe drive by cloning the disk instead of reinstalling. The point he keeps returning to is that Windows does not live in one partition. The EFI System Partition and the Windows Recovery Environment have to [&#8230;]"
+  },
+  {
+    "title": "Today’s Guide Update adds DVI audio to DVI video in CircuitPython",
+    "source": "Adafruit",
+    "date": "2026-10-14",
+    "url": "https://blog.adafruit.com/2026/10/14/todays-guide-update-adds-dvi-audio-to-dvi-video-in-circuitpython/",
+    "summary": "Have you wanted to add audio to your DVI video in CircuitPython? In games, programs, etc.? Now you can! In the latest bleeding edge version of CircuitPython, DVI audio has been added. Several examples show you how to implement things currently. Later updates to CircuitPython may add additional capabilities into the mix. This is to [&#8230;]"
+  },
+  {
+    "title": "Build a 10.1-inch Home Assistant panel with an ESP32-P4",
+    "source": "Adafruit",
+    "date": "2026-10-14",
+    "url": "https://blog.adafruit.com/2026/10/14/build-a-10-1-inch-home-assistant-panel-with-an-esp32-p4/",
+    "summary": "Julian Horsey at Geeky Gadgets writes up a build from Techiesms that turns an ESP32-P4 module into a wall-mounted Home Assistant control panel. The hardware is a 10.1-inch TFT LCD with a 1200&#215;800 capacitive touchscreen that handles up to five touch points. The ESP32-P4 behind it has a dual-core 400 MHz processor, 16 MB of [&#8230;]"
+  },
+  {
+    "title": "Epic Games reportedly pivoting to “AI first” game development model",
+    "source": "Adafruit",
+    "date": "2026-10-14",
+    "url": "https://blog.adafruit.com/2026/10/14/epic-games-reportedly-pivoting-to-ai-first-game-development-model/",
+    "summary": "Kyle Orland reports at Ars Technica that Epic Games is moving to an &#8220;AI first&#8221; development strategy for its collaboration with the Walt Disney Company. Citing a Bloomberg report based on internal employee messages, the story says AI models will write all the code and guide all the artwork for an upcoming shooter. Human developers [&#8230;]"
+  },
+  {
+    "title": "Improving Epinephrine Injections with a Wearable",
+    "source": "Adafruit",
+    "date": "2026-10-14",
+    "url": "https://blog.adafruit.com/2026/10/14/improving-epinephrine-injections-with-a-wearable/",
+    "summary": "Components of the wearable AI device that monitors physiological indicators for anaphylaxis and intervenes by administering an epinephrine injection. (Purdue University photo/Johana Elisa Vargas Gómez) via PPurdue University Professor Muhammad Hussain from Purdue University is leading a team of electrical and computer engineers working on developing a wearable device capable of rapid epinephrine administration. The [&#8230;]"
+  },
+  {
+    "title": "Last Minute Projects from our Halloween Gift Guide! #ElectronicHalloween",
+    "source": "Adafruit",
+    "date": "2026-10-14",
+    "url": "https://blog.adafruit.com/2026/10/14/last-minute-projects-from-our-halloween-gift-guide-electronichalloween/",
+    "summary": "Halloween is a little over two weeks away &#8211; that means you still have time to put something together! Here are a few last minute projects we pulled from the Adafruit Halloween Gift Guide! Not seeing anything you like? Browse through all the Halloween things in our Learn System! Make a simple LED Unicorn Horn [&#8230;]"
+  },
+  {
     "title": "Open Source ESP32 Retro Smart Speaker",
     "source": "Adafruit",
     "date": "2026-10-14",
@@ -187,34 +229,6 @@
     "date": "2026-10-14",
     "url": "https://blog.adafruit.com/2026/10/14/live-3d-hangouts-with-noe-and-pedro-88/",
     "summary": "3D Hangouts – USB Desk Hub, Marquee and Knight Cat https://youtube.com/live/aq4mvEwK7MM?feature=share This week @adafruit special guest Brent Rubell joins to chat about the Adafruit Marquee interface builder for e-ink displays and supported hardware.  Noe is showcasing his built-in USB hub for the Ikea MITTZON desk. Pedro releases a video on Adafruit Marquee. Checking out this [&#8230;]"
-  },
-  {
-    "title": "Can an AI copy itself? Inside Anthropic’s 15-TV-box experiment",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/can-an-ai-copy-itself-inside-anthropics-15-tv-box-experiment/",
-    "summary": "Ashu Kumar, writing at The Agentic Stack, covers Anthropic Frontier Red Team research published October 12 on whether an AI system can replicate itself onto cheap hardware. The team split Gemma4-26B-A4B across 15 off-brand Android TV boxes, each about $55 with 4 GB of memory, and got 0.39 generated tokens per second. Slow for a [&#8230;]"
-  },
-  {
-    "title": "Using a waffle to check the health of your Wii U’s NAND flash",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/using-a-waffle-to-check-the-health-of-your-wii-us-nand-flash/",
-    "summary": "zer00p has published Wafel Installer on GitHub, an all-in-one homebrew installer for the Nintendo Wii U. It formats and partitions an SD card or USB drive so the console can hold both homebrew and games, then automates the setup of Aroma, the Stroopwafel custom firmware, and the ISFShax exploit. There are three ways to run [&#8230;]"
-  },
-  {
-    "title": "Reverse engineering a Ledger Nano X hardware implant",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/reverse-engineering-a-ledger-nano-x-hardware-implant/",
-    "summary": "Writing on core-jmp.org, oxfemale walks through Joe Grand&#8217;s HARDWEAR.IO 2026 talk in Santa Clara, where Grand tore down a real hardware implant found inside a counterfeit Ledger Nano X. The unit came from a Lazada seller in Thailand and surfaced in an August 2025 Reddit post. The implant doesn&#8217;t touch the Secure Element. It sits [&#8230;]"
-  },
-  {
-    "title": "Carlia S. Westcott #ALD26 @findingada",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/13/carlia-s-westcott-ald26-findingada/",
-    "summary": "Carlia S. Westcott was an American engineer and the first woman to receive a first-of-a-kind license in Marine Engineering in the United States in December 1921. Check out her life and story in Transportation History. A pivotal episode in Westcott’s decision to become a marine engineer had taken place a year earlier, when she joined [&#8230;]"
   },
   {
     "title": "RECOM and CELUS Partner to Bring RECOM Power Designs to the CELUS Design Platform",
@@ -278,20 +292,6 @@
     "date": "2026-10-13",
     "url": "https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/",
     "summary": "<p>Texas Instruments Inc. (TI) has claimed the industry's first analog-to-digital converter (ADC) to enable 24/7 event-based remote monitoring at nanosecond resolution for AI data centers. Introduced at the Open Compute Project (OCP) Global Summit, TI will demo the ADC34DSO75 ADC, along with the new LMI800PS hot-swap controller and LMK6B bulk acoustic wave (BAW)-based oscillator, addressing the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/\">TI unveils 3-GSPS ADC for AI Data Centers at OCP</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Bonnie J. Dunbar #ALD26 @findingada",
-    "source": "Adafruit",
-    "date": "2026-10-13",
-    "url": "https://blog.adafruit.com/2026/10/13/bonnie-j-dunbar-ald26-findingada/",
-    "summary": "Bonnie Jeanne Dunbar is an American engineer and retired NASA astronaut who flew on five Space Shuttle missions between 1985 and 1998. University of Washington Magazine shared her story. It was only fitting that Dunbar flew on the space shuttle. As an undergraduate at the UW, she helped Ceramic Engineering Professor James I. Mueller develop [&#8230;]"
-  },
-  {
-    "title": "Yamin Zhang  #ALD26 @findingada",
-    "source": "Adafruit",
-    "date": "2026-10-13",
-    "url": "https://blog.adafruit.com/2026/10/13/yamin-zhang-ald26-findingada/",
-    "summary": "&#160; image via yaminzhang.group &#160; Dr. Yamin Zhang has invented a sesame seed sized wireless pacemaker that is both an electrical stimulator and a battery: Its electrodes, made from bioabsorbable metals like molybdenum, magnesium, and/or zinc, pass current through the heart’s own fluids, which serve as the battery’s electrolyte. The pacemaker, roughly the size of [&#8230;]"
   },
   {
     "title": "TI unveils new ADC to enable nanosecond-level telemetry and minimize downtime in AI data centers",
