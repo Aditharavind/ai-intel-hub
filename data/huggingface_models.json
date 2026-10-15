@@ -1,5 +1,23 @@
 [
   {
+    "model": "RobotisSW/GR00T-N1.7-PaperTowelRoll-784-789-809-RightArmOnly-FPS30-H24",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/RobotisSW/GR00T-N1.7-PaperTowelRoll-784-789-809-RightArmOnly-FPS30-H24",
+    "date": "2026-10-15",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "Donghyun1228/ttt-vla-libero-sglp-mlp-decoder-20261015",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Donghyun1228/ttt-vla-libero-sglp-mlp-decoder-20261015",
+    "date": "2026-10-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "junbrro/rldx1-ft-rby1-robotmt180k-raw-f1-b64-s30k-20261015",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +117,21 @@
     "score": 0.1
   },
   {
-    "model": "milab-robot/alm1-0731-milab.60.T.M",
+    "model": "Danielxsy/safedrive-vla",
+    "downloads": 0,
+    "likes": 2,
+    "url": "https://huggingface.co/Danielxsy/safedrive-vla",
+    "date": "2026-10-14",
+    "keyword": "vla",
+    "score": 0.5
+  },
+  {
+    "model": "tsangb34/lingbot-vla-v2-6b-droid-pour-water-5ep",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/milab-robot/alm1-0731-milab.60.T.M",
+    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-droid-pour-water-5ep",
     "date": "2026-10-14",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -180,33 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "VladShash/qwen3-8b-classic-with-SFT-replay-grpo-250",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/VladShash/qwen3-8b-classic-with-SFT-replay-grpo-250",
-    "date": "2026-10-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-10-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SeanLiu0272/p2n_vla_libero10_s42",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SeanLiu0272/p2n_vla_libero10_s42",
-    "date": "2026-10-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "nvidia/PhysicalAI-Simulation-VoMP-Model",
     "downloads": 0,
     "likes": 8,
@@ -214,6 +214,15 @@
     "date": "2026-10-14",
     "keyword": "physical ai",
     "score": 1.7
+  },
+  {
+    "model": "vicshi97/pi05_policy_sock-garbage-merged_2.0_lora_10k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vicshi97/pi05_policy_sock-garbage-merged_2.0_lora_10k",
+    "date": "2026-10-14",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "sovrasov/pi05_policy_black_cubes_20k",
@@ -304,15 +313,6 @@
     "date": "2026-10-14",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "thanhnguyen23/unbox_rdk_policy_6",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/thanhnguyen23/unbox_rdk_policy_6",
-    "date": "2026-10-14",
-    "keyword": "policy",
-    "score": 0.7
   },
   {
     "model": "sinew-robotics/ringbox-postlift-e2e",
