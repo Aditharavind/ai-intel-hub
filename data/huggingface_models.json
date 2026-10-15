@@ -1,5 +1,14 @@
 [
   {
+    "model": "tron-robot/ev-yam-handkerchief-hpt-wrist-102",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tron-robot/ev-yam-handkerchief-hpt-wrist-102",
+    "date": "2026-10-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "latheamit/review-robotics-vision-language",
     "downloads": 0,
     "likes": 0,
@@ -99,22 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "unileon-robotics/YOLO26-ONNX",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/unileon-robotics/YOLO26-ONNX",
-    "date": "2026-10-15",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "vlad-grig/piper-voices",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/vlad-grig/piper-voices",
     "date": "2026-10-15",
     "keyword": "vla",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "vlad-grig/Kokoro-82M-v1.0-ONNX",
@@ -205,6 +205,15 @@
     "date": "2026-10-15",
     "keyword": "vla",
     "score": 3.1
+  },
+  {
+    "model": "whi-tert/embodied-ai",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/whi-tert/embodied-ai",
+    "date": "2026-10-15",
+    "keyword": "embodied",
+    "score": 0.1
   },
   {
     "model": "awjacksonina/embodied-ai-distilled-2024",
@@ -378,6 +387,15 @@
     "score": 0.1
   },
   {
+    "model": "unileon-robotics/YOLO26-ONNX",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/unileon-robotics/YOLO26-ONNX",
+    "date": "2026-10-15",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "UBTECH-Robotics/Thinker-WM",
     "downloads": 0,
     "likes": 2,
@@ -475,15 +493,6 @@
     "date": "2026-10-13",
     "keyword": "embodied",
     "score": 5.1
-  },
-  {
-    "model": "ttakahashijason/embodied-ai60",
-    "downloads": 17,
-    "likes": 1,
-    "url": "https://huggingface.co/ttakahashijason/embodied-ai60",
-    "date": "2026-10-13",
-    "keyword": "embodied",
-    "score": 5.4
   },
   {
     "model": "arendjan/physicalai",
