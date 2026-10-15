@@ -1,5 +1,23 @@
 [
   {
+    "model": "latheamit/review-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/latheamit/review-robotics-vision-language",
+    "date": "2026-10-15",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "SadullahKE/Robotscientist",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/SadullahKE/Robotscientist",
+    "date": "2026-10-15",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "mangocloud/gr00t-n1.7-robotwin-sft",
     "downloads": 0,
     "likes": 0,
@@ -90,22 +108,22 @@
     "score": 0.1
   },
   {
-    "model": "Nico-robot/microduck-wake-up-call",
+    "model": "vlad-grig/piper-voices",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Nico-robot/microduck-wake-up-call",
+    "url": "https://huggingface.co/vlad-grig/piper-voices",
     "date": "2026-10-15",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "UBTECH-Robotics/Thinker-WM",
+    "model": "vlad-grig/Kokoro-82M-v1.0-ONNX",
     "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/UBTECH-Robotics/Thinker-WM",
+    "likes": 0,
+    "url": "https://huggingface.co/vlad-grig/Kokoro-82M-v1.0-ONNX",
     "date": "2026-10-15",
-    "keyword": "robotics",
-    "score": 0.3
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "mliv/lingbot-vla-v2-arx5-block-fullframe-fixed",
@@ -115,6 +133,15 @@
     "date": "2026-10-15",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "Danielxsy/safedrive-vla",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/Danielxsy/safedrive-vla",
+    "date": "2026-10-15",
+    "keyword": "vla",
+    "score": 0.7
   },
   {
     "model": "twanghcmut/X-VLA-SO101-LeftArm-Multitask",
@@ -180,6 +207,15 @@
     "score": 3.1
   },
   {
+    "model": "awjacksonina/embodied-ai-distilled-2024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/awjacksonina/embodied-ai-distilled-2024",
+    "date": "2026-10-15",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
     "model": "sandrahhstone/embodied-ai-notes-2024",
     "downloads": 0,
     "likes": 0,
@@ -223,6 +259,24 @@
     "date": "2026-10-15",
     "keyword": "embodied",
     "score": 3.7
+  },
+  {
+    "model": "ml-resources/AIGlasses_for_navigation",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ml-resources/AIGlasses_for_navigation",
+    "date": "2026-10-15",
+    "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "HoonheeCho/policy-ckpt-1011",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HoonheeCho/policy-ckpt-1011",
+    "date": "2026-10-15",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "policyengine/policyengine-uk-data-private",
@@ -324,40 +378,13 @@
     "score": 0.1
   },
   {
-    "model": "JrLi403/my_policy",
+    "model": "UBTECH-Robotics/Thinker-WM",
     "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JrLi403/my_policy",
+    "likes": 2,
+    "url": "https://huggingface.co/UBTECH-Robotics/Thinker-WM",
     "date": "2026-10-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Danielxsy/safedrive-vla",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/Danielxsy/safedrive-vla",
-    "date": "2026-10-14",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
-    "model": "tsangb34/lingbot-vla-v2-6b-droid-pour-water-5ep",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-droid-pour-water-5ep",
-    "date": "2026-10-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlinv/PP-OCRv6_tiny_rec_ru_onnx",
-    "date": "2026-10-14",
-    "keyword": "vla",
-    "score": 0.1
+    "keyword": "robotics",
+    "score": 0.5
   },
   {
     "model": "nvidia/PhysicalAI-Simulation-VoMP-Model",
@@ -459,15 +486,6 @@
     "score": 5.4
   },
   {
-    "model": "immarcussantos/study-embodied-ai",
-    "downloads": 11,
-    "likes": 1,
-    "url": "https://huggingface.co/immarcussantos/study-embodied-ai",
-    "date": "2026-10-13",
-    "keyword": "embodied",
-    "score": 3.6
-  },
-  {
     "model": "arendjan/physicalai",
     "downloads": 4,
     "likes": 0,
@@ -522,13 +540,13 @@
     "score": 4.5
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
-    "downloads": 31,
+    "model": "Ethgar/fixed-wing-world-model",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
-    "date": "2026-10-13",
-    "keyword": "robotics",
-    "score": 9.4
+    "url": "https://huggingface.co/Ethgar/fixed-wing-world-model",
+    "date": "2026-10-12",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "UCLA-VAIL/Navigation-Model-Zoo-Public",
@@ -720,15 +738,6 @@
     "score": 4.3
   },
   {
-    "model": "jgalego/breakout-world-model",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/jgalego/breakout-world-model",
-    "date": "2026-10-01",
-    "keyword": "world model",
-    "score": 4.9
-  },
-  {
     "model": "Gigglingface/BAGEL-7B-MoT-navigation-points",
     "downloads": 0,
     "likes": 0,
@@ -817,14 +826,5 @@
     "date": "2026-08-24",
     "keyword": "navigation",
     "score": 4.0
-  },
-  {
-    "model": "Idan/fga-navigation",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/Idan/fga-navigation",
-    "date": "2026-07-28",
-    "keyword": "navigation",
-    "score": 1.6
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "title": "C64 Hardware Simulator Isn’t (Just) For Playing Around",
+    "source": "Hackaday",
+    "date": "2026-10-15",
+    "url": "https://hackaday.com/2026/10/15/c64-hardware-simulator-isnt-just-for-playing-around/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"350\" src=\"https://hackaday.com/wp-content/uploads/2026/10/char-rom.gif?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you want to play old Commodore games, there are C-64 emulators available for just about any platform&#8211; but most of them are so high level, they&#8217;re really meant for <a class=\"read-more\" href=\"https://hackaday.com/2026/10/15/c64-hardware-simulator-isnt-just-for-playing-around/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Hand-Machined Stake Sharpener Just in Time for Dracula Season",
+    "source": "Hackaday",
+    "date": "2026-10-15",
+    "url": "https://hackaday.com/2026/10/15/hand-machined-stake-sharpener-just-in-time-for-dracula-season/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/OldTonyStakePointerFeat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Vampires aren&#8217;t as common as they once were, but in most places they aren&#8217;t fully protected and it&#8217;s still possible to get a tag for legal hunting come October &#8212; <a class=\"read-more\" href=\"https://hackaday.com/2026/10/15/hand-machined-stake-sharpener-just-in-time-for-dracula-season/\">&#8230;read more</a>"
+  },
+  {
     "title": "So You Want To Make Your SDR Work On Other Frequencies",
     "source": "Hackaday",
     "date": "2026-10-15",
@@ -35,6 +49,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"329\" src=\"https://hackaday.com/wp-content/uploads/2026/10/A-7-ESP32-lets-an-AI-set-an-alarm-on-a-stock-iPhone-no-Mac-no-jailbreak-0-20-screenshot-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Do you want to get an AI agent to do something to an iPhone? You could try and jailbreak the device and do some heavy software hacking, or&#8230; you could <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/\">&#8230;read more</a>"
   },
   {
+    "title": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver",
+    "source": "CNX Software",
+    "date": "2026-10-15",
+    "url": "https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/",
+    "summary": "<div><img alt=\"Full 2.4 GHz spectrum view with flattened passband correction applied\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Full-2.4-GHz-spectrum-view-with-flattened-passband-correction-applied-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Just a few days ago, we wrote about the ESP-SDR project, which turned an ESP32 into an SDR receiver (and now SDR transmitter), but the data was streamed over UART, which couldn&#8217;t keep up with the sample rate. Now, developer h0m3us3r has released w1700k-sdr, also an open-source project that turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The project uses the router&#8217;s built-in MediaTek MT7996 radio to capture raw 14-bit I/Q samples at up to 320 MSps across the 2.4 GHz, 5 GHz, and 6 GHz bands. The captured data is then streamed over a 10 GbE connection using the router&#8217;s Airoha AN7581 SoC to a Linux computer, where you can view the live spectrum and waterfall in a browser. To make this work, the project replaces the router&#8217;s stock firmware with a custom Linux system and radio firmware, allowing it to capture raw I/Q data [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/\">W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control",
     "source": "CNX Software",
     "date": "2026-10-15",
@@ -42,11 +63,123 @@
     "summary": "<div><img alt=\"HPM5100 series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/HPM5100-series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog comparators. It also includes a high-speed USB 2.0 OTG interface with an integrated PHY, CAN FD, multiple UART/SPI/I2C interfaces, and 32 PWM channels for motor control. The chip supports hardware floating-point operations and DSP instructions, while the integrated analog peripherals reduce the need for external ADCs and signal-conditioning circuits. HPMicro HPM5100 specifications: MCU core – Single-core 32-bit RISC-V processor @ 400 MHz (up to 480 MHz in high-performance mode with external power supply) Hardware FPU, SIMD, and DSP instruction support 16 KB L1 instruction cache and 16 KB L1 data cache Up to 3.57 CoreMark/MHz Memory 416 KB SRAM 256 KB instruction local memory (ILM) 128 KB data local memory [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/\">HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "From Spooky Action to Quantum Internet: Communication Takes to the Air",
+    "source": "Embedded.com",
+    "date": "2026-10-15",
+    "url": "https://www.embedded.com/from-spooky-action-to-quantum-internet-communication-takes-to-the-air/",
+    "summary": "<p>Researchers demonstrate a 13-mile free-space quantum link across Long Island Sound.</p>\n<p>The post <a href=\"https://www.embedded.com/from-spooky-action-to-quantum-internet-communication-takes-to-the-air/\">From Spooky Action to Quantum Internet: Communication Takes to the Air</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Solving the Edge Computing Energy Problem",
     "source": "Embedded.com",
     "date": "2026-10-15",
     "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem/",
     "summary": "<p>With edge AI, the inference has moved from the cloud to the embedded device. Cameras, wearables, industrial sensors, robots, and vehicles can run trained models, making predictions or decisions on new and uncertain data. Because these devices are often powered by small batteries, an energy issue arises. Engineers developing embedded systems at the edge face [...]</p>\n<p>The post <a href=\"https://www.embedded.com/solving-the-edge-computing-energy-problem/\">Solving the Edge Computing Energy Problem</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Fable: The Commonsense CEO",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-commonsense-ceo-2026-10/",
+    "summary": "<p>There was once a mega-company which was in trouble &#8211; its market cap of $96 billion was down 80% from its value 18 years earlier. It had made an annual [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-commonsense-ceo-2026-10/\">Fable: The Commonsense CEO</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "HEADS UP – Dstl trialling safe usage of head-mounted military technology",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/",
+    "summary": "<p>The UK&#8217;s Defence Science and Technology Laboratory (Dstl) has been trialling &#8211; in a HEADS UP project &#8211; a human-centred design approach to novel technologies that are worn or carried. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/\">HEADS UP &#8211; Dstl trialling safe usage of head-mounted military technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/",
+    "summary": "<p>Critical National Infrastructure (CNI) products may remain in service for 10 or even 20 years. During that time software changes, attack techniques evolve and regulation becomes more demanding, writes Jim [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/\">Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "TSMC has $47bn revenue Q3",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/tsmc-has-47bn-revenue-q3-2026-10/",
+    "summary": "<p>TSMC reported  Q3 revenues up 41.2% YoY and 17.2% QoQ at $46.72 billion Gross margin for the quarter was 66.4%, operating margin was 58.7%, and net profit margin was 51.1%. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-has-47bn-revenue-q3-2026-10/\">TSMC has $47bn revenue Q3</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "UK Space Agency backs UK ADR mission for space debris removal",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/uk-space-agency-backs-uk-adr-mission-for-space-debris-removal-2026-10/",
+    "summary": "<p>The UK Space Agency (UKSA) is backing an Active Debris Removal (ADR) mission to remove two defunct satellites and release them lower into the atmosphere where they will naturally burn [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/uk-space-agency-backs-uk-adr-mission-for-space-debris-removal-2026-10/\">UK Space Agency backs UK ADR mission for space debris removal</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
+    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Nvidia invests in five UK startups",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
+    "summary": "<p>Today, Nvidia announced new planned investments in UK startups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/\">Nvidia invests in five UK startups</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Salience Labs raises $125m for photonics ICs",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
+    "summary": "<p>Salience Labs of Thame, a five-year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125m Series B. The company’s Seed round in 2022 raised [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/\">Salience Labs raises $125m for photonics ICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Japan to invest $21bn in two GlobalFoundries fabs in New York",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
+    "summary": "<p>GlobalFoundries is to build two fabs at its Malta, New York site, with Japan providing up to $21bn in funding. Japan provides the investment, while GF contributes its technologies, manufacturing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/\">Japan to invest $21bn in two GlobalFoundries fabs in New York</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "ASML has €11.7bn Q3",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
+    "summary": "<p>ASML reported €11.7bn sales and €5bn profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44bn and €45bn with a gross [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/\">ASML has €11.7bn Q3</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Nosferatu Vampire Coffin Box – 3D-Scanned Prop with Hidden Compartment #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/nosferatu-vampire-coffin-box-3d-scanned-prop-with-hidden-compartment-3dthursday-3dprinting/",
+    "summary": "A spooky Halloween/horror-fan item based on a 3D scan of a promotional Nosferatu prop from AMC. Opening the lid reveals a hidden compartment for small items (storage capacity up to 14.5×4.5×5.5cm). Print details: 0.6mm nozzle, 0.16mm layer, 2 walls, 15% infill, ~7.6 hours, 217g PLA, single plate. NOTE: as a 3D-scanned derivative of a studio [&#8230;]"
+  },
+  {
+    "title": "100% 3D-Printed Bench Vise – No Hardware Required, 100mm Clamping Range #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/100-3d-printed-bench-vise-no-hardware-required-100mm-clamping-range-3dthursday-3dprinting/",
+    "summary": "STLsupplier shares: A compact, fully 3D-printed bench vise — 160×160×80mm with a 100mm clamping range. For light-to-medium clamping: hobby work, gluing, soldering, assembly, holding small prints during cleanup. No screws, bolts, or rods needed. The spindle hole needs supports; after printing, file the rough area smooth for proper operation. Rotates maker tools back into the [&#8230;]"
+  },
+  {
+    "title": "NEW GUIDE: Fruit Jam Face Detection #AdafruitLearningSystem @Adafruit",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/new-guide-fruit-jam-face-detection-adafruitlearningsystem-adafruit/",
+    "summary": "Is someone here? This project can let you know! You can use a Fruit Jam running CircuitPython with a USB webcam to run a local front face detection model from OpenCV and output the camera feed over DVI, When a face is detected, a green box is drawn around the face. This is a great [&#8230;]"
+  },
+  {
+    "title": "Halloween Mummy Decoration – Mummy Ghost, Pumpkin, Pig Minis #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/halloween-mummy-decoration-mummy-ghost-pumpkin-pig-minis-3dthursday-3dprinting/",
+    "summary": "A series of simple, quick-to-print mummy-themed animal figures. Three variants on one plate each: Mummy Ghost (21 min), Mummy Pumpkin (28 min), Mummy Pig (22 min). Designer plans more animal mummies in the series. Fast prints make these great mass-production items for party favors, classroom rewards, or trick-or-treat handouts. New Halloween subcategory (mummy) not previously [&#8230;]"
+  },
+  {
+    "title": "Desk Drawers / Workshop Bins / Organizer #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/desk-drawers-workshop-bins-organizer-3dthursday-3dprinting/",
+    "summary": "donovandyl shares: A modular desk drawer + workshop bin organizer. Frame mounts to a wall with screws or attaches to a standard 1-inch pegboard. Three drawer combinations work in the same frame: 9 small, 3 medium + 3 small, or 3 large (medium = 2 small, large = 3 small). Each drawer comes in plain [&#8230;]"
   },
   {
     "title": "3D Hangouts –  Special Guest Brent, Marquee, USB Hub and Knight Cat",
@@ -98,41 +231,6 @@
     "summary": "didldiprint shares: A 3D-printable grid for a word clock supporting English, Italian, and German text. Based on techniccontroller.com&#8217;s tutorial project — ESP8266 + WS2812B NeoPixels. Designer uses a TTP223 touch sensor in place of a button, mounted above the last character of the first row so it&#8217;s hidden. Frame: IKEA RÖDALM for its white support [&#8230;]"
   },
   {
-    "title": "Flexi Zombie – Articulated with Detachable Brain #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/flexi-zombie-articulated-with-detachable-brain-3dthursday-3dprinting/",
-    "summary": "3dPrintInPlace shares: A fully-articulated zombie flexi with a detachable brain — designed to bend, wiggle, and fidget, creepy and cute at once. Available in regular, keychain, and magnet versions. Flexi-style print with no supports needed; brain prints as a separate piece. 3.8h total print, PLA (57g primary + 10g + 1g accents). Compatible across Bambu [&#8230;]"
-  },
-  {
-    "title": "Candy Corn Monsters – Halloween Triad: Cornhallow, Huskbinder, Cobwraith #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/candy-corn-monsters-halloween-triad-cornhallow-huskbinder-cobwraith-3dthursday-3dprinting/",
-    "summary": "cryostatic shares: Three candy corn monsters — Cornhallow, Huskbinder, and Cobwraith — collectively called the Triadum Inmanducati. Designer&#8217;s fiction says they rise from leftover candy corn at Halloween midnight. Large Triad 6&#8243; (127mm): 0.2mm layer, 2 walls, 10% infill, ~27.8h, 1 plate. Tiny Triad 2.5&#8243; (63mm): same settings, ~11.7h, 1 plate. Cornhallow&#8217;s teeth made more [&#8230;]"
-  },
-  {
-    "title": "Cranio Skull Lamp – 40 Interlocked Skulls for Bambu MH001 LED Kit #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/cranio-skull-lamp-40-interlocked-skulls-for-bambu-mh001-led-kit-3dthursday-3dprinting/",
-    "summary": "user_3132746238 shares: A skull-themed lampshade composed of 40 interlocked miniature skulls designed for the Bambu Lab LED Lamp Kit MH001. Blends steampunk, gothic, Halloween flair, and dark fantasy. Snap-fit assembly. Works as both a lit and unlit decorative object. Alternative skull-lamp pick — different design approach from the Deluxe Gothic Skull in main. By ccrccrdk [&#8230;]"
-  },
-  {
-    "title": "Rugged Screw Unit – Gridfinity Hardware Storage #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/rugged-screw-unit-gridfinity-hardware-storage-3dthursday-3dprinting/",
-    "summary": "K2_Kevin shares: A stackable Gridfinity storage unit for screws and small hardware, with drawers and optional toppers. Part of a larger Rugged Organizer system. Variants: 3×5 ScrewUnit (~59.8h), 2×5 small-drawer (~21.9h), 2×5 mixed-drawer (~23.7h). Features: drawer stops to keep screws from spilling, Gridfinity stacking, Rugged Tray Topper with magnet option, scoop and no-scoop drawer options, [&#8230;]"
-  },
-  {
-    "title": "Raspberry Pi Pico (W, USB-C variant) Snap-Together Case #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/raspberry-pi-pico-w-usb-c-variant-snap-together-case-3dthursday-3dprinting/",
-    "summary": "thomashack shares: A thin two-part snap-together case (54×24×6mm) for a third-party Pico W board with non-standard dimensions of 51.50×21.0mm. Openings for the two on-board buttons; GPIO pins fully enclosed. 0.16mm layer, 2 walls, 15% infill, ~16-min print, ~5g PLA. CAVEAT: designed for a specific third-party variant with slightly different dimensions than official Raspberry Pi Pico/Pico [&#8230;]"
-  },
-  {
     "title": "VON ARDENNE Addresses Semiconductor Panel-Level Packaging Market with New HiPIMS Deposition Solution",
     "source": "EE Journal",
     "date": "2026-10-15",
@@ -166,20 +264,6 @@
     "date": "2026-10-15",
     "url": "https://www.eejournal.com/article/no-engineer-is-an-island-the-butterfly-effect-engineering-edition/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0527-image-for-home-page-e3-designers-300x150.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I often hear (or read) someone saying something that really strikes a chord, like the lyric “I wish I didn’t know now what I didn’t know then” from Toby Keith’s 1994 single Wish I Didn’t Know Now. Some of these turns of phrase, memorable observations, and pearls of wisdom really stick with me, often leaving [&#8230;]"
-  },
-  {
-    "title": "Single Button, Handheld Gaming Console",
-    "source": "Hackaday",
-    "date": "2026-10-14",
-    "url": "https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/handheld-dino-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Those of us who grew up in the 70s and 80s might be familiar with the Atari 2600 console and its now relatively unrecognizable (by modern standards) controller with only <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Using an ESP32-C3’s RF Hardware for DVB-S2 Video Transmission",
-    "source": "Hackaday",
-    "date": "2026-10-14",
-    "url": "https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/11/esp32-c3-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally the DVB-S and -S2 standards require a satellite somewhere in Earth orbit to provide a signal to receive, but you can also transmit your own DVB-S2 stream with any <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/\">&#8230;read more</a>"
   },
   {
     "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
@@ -341,19 +425,5 @@
     "date": "2026-10-09",
     "url": "https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/",
     "summary": "<p>Microchip Technology Inc. has launched its first turnkey touch controllers with parallel sensing for buttons, sliders, and wheels in appliances and outdoor and industrial applications. The two new additions to the capacitive-touch family offer enhanced touch sensitivity and noise immunity, enabling touch detection through thick cover materials and gloves. The MTCH3380P and MTCH3240P controllers target [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-adds-parallel-sensing-to-touch-controllers/\">Microchip Adds Parallel Sensing to Touch Controllers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-10-08",
-    "url": "https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/",
-    "summary": "<div><img alt=\"Sipeed SLogic32U3\" class=\"attachment-medium size-medium wp-post-image\" height=\"470\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Sipeed-SLogic32U3-720x470.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Sipeed has just launched what they claim is the world&#8217;s first 10 Gbps USB 3.2 logic analyzer. The SLogic32U3 is the successor to the SLogic16U3 3.2 Gbps logic analyzer launched in 2025. The SLogic32U3 USB-C logic analyzer supports up to 32 channels via four mini HDMI connectors, 350 MHz signal bandwidth, up to 1400 MS/s per channel with four channels, or 200 MS/s per channel with 32 channels, and is offered with an optional ADC module. SLogic32U3 specifications: FPGA – Not mentioned (potentially from GOWIN) Input channels – 32 digital channels via 4x mini HDMI ports, each with 8 channels Sample rates 1400MS/s @ 4 channels 800MS/s @ 8 channels 400MS/s @ 16 channels 200MS/s @ 32 channels Digital signal bandwidth – 350 MHz Stream FIFO buffer &#8211; 2 Gbit DDR3 Capture mode &#8211; Stream (real-time readback); depth limited by PC memory/disk Signal input voltage – 0–10 V Adjustable threshold [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/\">Sipeed SLogic32U3 &#8211; A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Qorvo Introduces X-Band RFFE Targeting AESA Radar Designs",
-    "source": "Embedded.com",
-    "date": "2026-10-08",
-    "url": "https://www.embedded.com/qorvo-introduces-x-band-rffe-targeting-aesa-radar-designs/",
-    "summary": "<p>Qorvo Inc. has introduced an X-band RF front-end solution designed for active electronically scanned array (AESA) radar systems. The architecture combines transmit drive, receive performance, and RF front-end control within the constrained space of an array lattice, reducing the number of external components required around each antenna element. At the center of the solution is [...]</p>\n<p>The post <a href=\"https://www.embedded.com/qorvo-introduces-x-band-rffe-targeting-aesa-radar-designs/\">Qorvo Introduces X-Band RFFE Targeting AESA Radar Designs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
