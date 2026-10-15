@@ -1,5 +1,12 @@
 [
   {
+    "title": "Building An M7 Pan Tilt Head Controller",
+    "source": "Hackaday",
+    "date": "2026-10-15",
+    "url": "https://hackaday.com/2026/10/15/building-an-m7-pan-tilt-head-controller/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Live-motion-tracking-using-hacked-soonpho-m7-and-a-custom-yolo-vision-model-0-41-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Soonpho M7 Pan Tilt Head is a useful photography tool for remotely aiming a decently-sized camera. Only, [Kyle Housley] wanted a little more control than was available out of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/15/building-an-m7-pan-tilt-head-controller/\">&#8230;read more</a>"
+  },
+  {
     "title": "Pager Converted to Meshtastic Node",
     "source": "Hackaday",
     "date": "2026-10-15",
@@ -14,11 +21,46 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"329\" src=\"https://hackaday.com/wp-content/uploads/2026/10/A-7-ESP32-lets-an-AI-set-an-alarm-on-a-stock-iPhone-no-Mac-no-jailbreak-0-20-screenshot-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Do you want to get an AI agent to do something to an iPhone? You could try and jailbreak the device and do some heavy software hacking, or&#8230; you could <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/\">&#8230;read more</a>"
   },
   {
+    "title": "HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control",
+    "source": "CNX Software",
+    "date": "2026-10-15",
+    "url": "https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/",
+    "summary": "<div><img alt=\"HPM5100 series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/HPM5100-series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog comparators. It also includes a high-speed USB 2.0 OTG interface with an integrated PHY, CAN FD, multiple UART/SPI/I2C interfaces, and 32 PWM channels for motor control. The chip supports hardware floating-point operations and DSP instructions, while the integrated analog peripherals reduce the need for external ADCs and signal-conditioning circuits. HPMicro HPM5100 specifications: MCU core – Single-core 32-bit RISC-V processor @ 400 MHz (up to 480 MHz in high-performance mode with external power supply) Hardware FPU, SIMD, and DSP instruction support 16 KB L1 instruction cache and 16 KB L1 data cache Up to 3.57 CoreMark/MHz Memory 416 KB SRAM 256 KB instruction local memory (ILM) 128 KB data local memory [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/\">HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Nvidia invests in five UK startups",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
+    "summary": "<p>Today, Nvidia announced new planned investments in UK startups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/\">Nvidia invests in five UK startups</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Salience Labs raises $125m for photonics ICs",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
+    "summary": "<p>Salience Labs of Thame, a five-year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125m Series B. The company’s Seed round in 2022 raised [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/\">Salience Labs raises $125m for photonics ICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Japan to invest $21bn in two GlobalFoundries fabs in New York",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
+    "summary": "<p>GlobalFoundries is to build two fabs at its Malta, New York site, with Japan providing up to $21bn in funding. Japan provides the investment, while GF contributes its technologies, manufacturing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/\">Japan to invest $21bn in two GlobalFoundries fabs in New York</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "ASML has €11.7bn Q3",
     "source": "Electronics Weekly",
     "date": "2026-10-15",
     "url": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
-    "summary": "<p>ASML reported €11.7 billion sales and €5 billion profit at a net margin of 57.5%   in Q3 2026. Full-year 2026 sales are expected to be between €44 billion and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/\">ASML has €11.7bn Q3</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>ASML reported €11.7bn sales and €5bn profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44bn and €45bn with a gross [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/\">ASML has €11.7bn Q3</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Nvidia to spend $250m on UK computing resources",
+    "source": "Electronics Weekly",
+    "date": "2026-10-15",
+    "url": "https://www.electronicsweekly.com/news/business/nvidia-to-spend-250m-on-uk-computing-resources-2026-10/",
+    "summary": "<p>Nvidia is to  provide $50 million a year for five years to support UK computing resources at the British Open-Ended Learning and Discovery Lab (BOLD), the Science of Fundamental AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-to-spend-250m-on-uk-computing-resources-2026-10/\">Nvidia to spend $250m on UK computing resources</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "2026 world GDP growth of 3.1% says IMF",
@@ -26,6 +68,48 @@
     "date": "2026-10-15",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/2026-world-growth-of-3-1-2026-10/",
     "summary": "<p>The IMF now reckons the world economy will grow 3.1% this year. In July it said 3%. Countries upgraded since the last forecast are India, the United Kingdom and Germany. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/2026-world-growth-of-3-1-2026-10/\">2026 world GDP growth of 3.1% says IMF</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Flexi Zombie – Articulated with Detachable Brain #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/flexi-zombie-articulated-with-detachable-brain-3dthursday-3dprinting/",
+    "summary": "3dPrintInPlace shares: A fully-articulated zombie flexi with a detachable brain — designed to bend, wiggle, and fidget, creepy and cute at once. Available in regular, keychain, and magnet versions. Flexi-style print with no supports needed; brain prints as a separate piece. 3.8h total print, PLA (57g primary + 10g + 1g accents). Compatible across Bambu [&#8230;]"
+  },
+  {
+    "title": "Candy Corn Monsters – Halloween Triad: Cornhallow, Huskbinder, Cobwraith #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/candy-corn-monsters-halloween-triad-cornhallow-huskbinder-cobwraith-3dthursday-3dprinting/",
+    "summary": "cryostatic shares: Three candy corn monsters — Cornhallow, Huskbinder, and Cobwraith — collectively called the Triadum Inmanducati. Designer&#8217;s fiction says they rise from leftover candy corn at Halloween midnight. Large Triad 6&#8243; (127mm): 0.2mm layer, 2 walls, 10% infill, ~27.8h, 1 plate. Tiny Triad 2.5&#8243; (63mm): same settings, ~11.7h, 1 plate. Cornhallow&#8217;s teeth made more [&#8230;]"
+  },
+  {
+    "title": "Cranio Skull Lamp – 40 Interlocked Skulls for Bambu MH001 LED Kit #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/cranio-skull-lamp-40-interlocked-skulls-for-bambu-mh001-led-kit-3dthursday-3dprinting/",
+    "summary": "user_3132746238 shares: A skull-themed lampshade composed of 40 interlocked miniature skulls designed for the Bambu Lab LED Lamp Kit MH001. Blends steampunk, gothic, Halloween flair, and dark fantasy. Snap-fit assembly. Works as both a lit and unlit decorative object. Alternative skull-lamp pick — different design approach from the Deluxe Gothic Skull in main. By ccrccrdk [&#8230;]"
+  },
+  {
+    "title": "Rugged Screw Unit – Gridfinity Hardware Storage #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/rugged-screw-unit-gridfinity-hardware-storage-3dthursday-3dprinting/",
+    "summary": "K2_Kevin shares: A stackable Gridfinity storage unit for screws and small hardware, with drawers and optional toppers. Part of a larger Rugged Organizer system. Variants: 3×5 ScrewUnit (~59.8h), 2×5 small-drawer (~21.9h), 2×5 mixed-drawer (~23.7h). Features: drawer stops to keep screws from spilling, Gridfinity stacking, Rugged Tray Topper with magnet option, scoop and no-scoop drawer options, [&#8230;]"
+  },
+  {
+    "title": "Raspberry Pi Pico (W, USB-C variant) Snap-Together Case #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/raspberry-pi-pico-w-usb-c-variant-snap-together-case-3dthursday-3dprinting/",
+    "summary": "thomashack shares: A thin two-part snap-together case (54×24×6mm) for a third-party Pico W board with non-standard dimensions of 51.50×21.0mm. Openings for the two on-board buttons; GPIO pins fully enclosed. 0.16mm layer, 2 walls, 15% infill, ~16-min print, ~5g PLA. CAVEAT: designed for a specific third-party variant with slightly different dimensions than official Raspberry Pi Pico/Pico [&#8230;]"
+  },
+  {
+    "title": "From the mail bag…",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/from-the-mail-bag-809/",
+    "summary": "From the mail bag! Thank you — I really appreciate the help. This is one of my first personal orders with Adafruit, and I’ve been very impressed with the support experience. I’ve interacted with Adafruit on the business side before, and it’s great to see the same level of responsiveness and care extended to individual [&#8230;]"
   },
   {
     "title": "Wearable Plague Doctor Mask #3DThursday #3DPrinting",
@@ -61,13 +145,6 @@
     "date": "2026-10-14",
     "url": "https://hackaday.com/2026/10/14/2026-hackaday-supercon-workshops-are-open/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/supercon-x-initial-4k.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Supercon is Hackaday&#8217;s annual gathering, and you absolutely need to be there. Today, we&#8217;re pleased to announce our lineup of workshops, and it&#8217;s more than we&#8217;ve ever offered, thanks to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/2026-hackaday-supercon-workshops-are-open/\">&#8230;read more</a>"
-  },
-  {
-    "title": "DIY Force Sensing Joysticks are a Cheap Way To Go",
-    "source": "Hackaday",
-    "date": "2026-10-14",
-    "url": "https://hackaday.com/2026/10/14/diy-force-sensing-joysticks-are-a-cheap-way-to-go/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Force-Sensing-Joysticks-Are-Cheap-.-if-you-diy-1-51-screenshot-1-e1791945124894.png?w=625\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"625\" /></div>Traditional joysticks typically use potentiometers or hall effect sensors to determine the displacement of the stick itself when moved by the operator. Force-sensing joysticks are considered more desirable for certain <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/diy-force-sensing-joysticks-are-a-cheap-way-to-go/\">&#8230;read more</a>"
   },
   {
     "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
@@ -133,34 +210,6 @@
     "summary": "<p>Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/\">In conversation with Siemens on semiconductor test technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "TechPoint buys Esprit Electronics for EMS growth",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
-    "summary": "<p>TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. &#8220;We’re delighted to welcome the Esprit Electronics team [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/\">TechPoint buys Esprit Electronics for EMS growth</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qualcomm wins Arm case – awarded $2 in damages",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
-    "summary": "<p>The  jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/\">Qualcomm wins Arm case &#8211; awarded $2 in damages</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UK tech companies raise $25.7bn this year",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/news/business/uk-tech-has-raised-25-7bn-this-year-2026-10/",
-    "summary": "<p>UK Tech companies raised $25.7 billion in the first nine months of 2026, up 88% from $13.7 billion in 9M 2025, across 816 rounds, down 17% from 984, according to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-tech-has-raised-25-7bn-this-year-2026-10/\">UK tech companies raise $25.7bn this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "This time it’s different",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/",
-    "summary": "<p>The overall chip market continues to show treble-digit monthly annualised growth rates, more than twice as large as the industry’s two previous record highs in June 2000 (59.3 percent) and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/\">This time it’s different</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "How to migrate Windows 11 from an old SSD to a new NVMe SSD without reinstalling",
     "source": "Adafruit",
     "date": "2026-10-14",
@@ -194,48 +243,6 @@
     "date": "2026-10-14",
     "url": "https://blog.adafruit.com/2026/10/14/improving-epinephrine-injections-with-a-wearable/",
     "summary": "Components of the wearable AI device that monitors physiological indicators for anaphylaxis and intervenes by administering an epinephrine injection. (Purdue University photo/Johana Elisa Vargas Gómez) via PPurdue University Professor Muhammad Hussain from Purdue University is leading a team of electrical and computer engineers working on developing a wearable device capable of rapid epinephrine administration. The [&#8230;]"
-  },
-  {
-    "title": "Last Minute Projects from our Halloween Gift Guide! #ElectronicHalloween",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/last-minute-projects-from-our-halloween-gift-guide-electronichalloween/",
-    "summary": "Halloween is a little over two weeks away &#8211; that means you still have time to put something together! Here are a few last minute projects we pulled from the Adafruit Halloween Gift Guide! Not seeing anything you like? Browse through all the Halloween things in our Learn System! Make a simple LED Unicorn Horn [&#8230;]"
-  },
-  {
-    "title": "Open Source ESP32 Retro Smart Speaker",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/open-source-esp32-retro-smart-speaker/",
-    "summary": "Mostly Builds shared this open source retro smart speaker. The custom PCB is built around an ESP32 and the radio features a 3D-printed case with a capacitive touchscreen. It supports Bluetooth, streaming internet radio and playback via a microSD card. Thanks for sharing!! I’m finally open sourcing my retro smart speaker. The firmware, KiCad files, [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week 10/13/26 @adafruit @johnedgarpark #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/jps-product-pick-of-the-week-10-13-26-adafruit-johnedgarpark-adafruit-newproductpick/",
-    "summary": "This week’s pick is the Adafruit Feather RP2040 with RFM95 LoRa Radio &#8211; 915MHz &#8211; RadioFruit and STEMMA QT! Watch the video for a live demo and more. Tune in every Tuesday at 3pm ET and 12pm PT on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. LIVE TEXT CHAT IS HERE in the Adafruit Discord [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-14-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "NEW PRODUCT – NeoPixel Ring – 12 x 5050 WWA with Integrated Drivers",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/new-product-neopixel-ring-12-x-5050-wwa-with-integrated-drivers/",
-    "summary": "NEW PRODUCT &#8211; NeoPixel Ring &#8211; 12 x 5050 WWA with Integrated Drivers __________________________________________________________________________________________________ What is better than smart LEDs? Smart WWA LEDs! These NeoPixel rings now have 3 white LEDs in them in three tints (also known as &#8216;color temperatures&#8217;): warm white, cool white and amber, great for excellent lighting effects that want pure white [&#8230;]"
-  },
-  {
-    "title": "NEW PRODUCT – NeoPixel Ring – 16 x 5050 WWA LED with Integrated Drivers",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/new-product-neopixel-ring-16-x-5050-wwa-led-with-integrated-drivers/",
-    "summary": "NEW PRODUCT &#8211; NeoPixel Ring &#8211; 16 x 5050 WWA LED with Integrated Drivers __________________________________________________________________________________________________ What is better than smart LEDs? Smart WWA LEDs! These NeoPixel rings now have 3 white LEDs in them in three tints (also known as &#8216;color temperatures&#8217;): warm white, cool white and amber, great for excellent lighting effects that want pure [&#8230;]"
   },
   {
     "title": "RECOM and CELUS Partner to Bring RECOM Power Designs to the CELUS Design Platform",
@@ -404,13 +411,6 @@
     "date": "2026-10-08",
     "url": "https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/",
     "summary": "<div><img alt=\"Sipeed SLogic32U3\" class=\"attachment-medium size-medium wp-post-image\" height=\"470\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Sipeed-SLogic32U3-720x470.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Sipeed has just launched what they claim is the world&#8217;s first 10 Gbps USB 3.2 logic analyzer. The SLogic32U3 is the successor to the SLogic16U3 3.2 Gbps logic analyzer launched in 2025. The SLogic32U3 USB-C logic analyzer supports up to 32 channels via four mini HDMI connectors, 350 MHz signal bandwidth, up to 1400 MS/s per channel with four channels, or 200 MS/s per channel with 32 channels, and is offered with an optional ADC module. SLogic32U3 specifications: FPGA – Not mentioned (potentially from GOWIN) Input channels – 32 digital channels via 4x mini HDMI ports, each with 8 channels Sample rates 1400MS/s @ 4 channels 800MS/s @ 8 channels 400MS/s @ 16 channels 200MS/s @ 32 channels Digital signal bandwidth – 350 MHz Stream FIFO buffer &#8211; 2 Gbit DDR3 Capture mode &#8211; Stream (real-time readback); depth limited by PC memory/disk Signal input voltage – 0–10 V Adjustable threshold [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/\">Sipeed SLogic32U3 &#8211; A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-10-08",
-    "url": "https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/",
-    "summary": "<div><img alt=\"Q8botOne A Serious Quadruped That Fits in Your Hand\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Q8botOne-A-Serious-Quadruped-That-Fits-in-Your-Hand-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ZeroWire Robotics Q8botOne is an open-source, palm-sized quadruped robot built around an ESP32-C3 MCU and ROBOTIS DYNAMIXEL smart actuators. Designed with a unique wire-free architecture, the robot integrates all components onto a central printed circuit board also used as the structural chassis. The robot is roughly the size of a smartphone and can jog, jump, and carry up to twice its 250-gram weight. The main PCB uses a dedicated 6V/16A step-down converter for motor power and includes a battery management system for two 14500 Li-ion cells. For control, the kit includes a separate ESP32-C3 controller PCB with an Adafruit Mini I2C Gamepad. Q8botOne specifications: Wireless module – Espressif Systems ESP32-C3-MINI-1-N4 module with: ESP32-C3 (ESP32-C3FN4) SoC CPU &#8211; 32-bit RISC-V single-core processor up to 160 MHz Memory &#8211; 400 KB SRAM (16 KB for cache), 8 KB SRAM in RTC Storage &#8211; 4 MB embedded flash, 384 KB ROM Connectivity – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/\">Q8botOne &#8211; A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Qorvo Introduces X-Band RFFE Targeting AESA Radar Designs",
