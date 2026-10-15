@@ -1,5 +1,19 @@
 [
   {
+    "title": "So You Want To Make Your SDR Work On Other Frequencies",
+    "source": "Hackaday",
+    "date": "2026-10-15",
+    "url": "https://hackaday.com/2026/10/15/so-you-want-to-make-your-sdr-work-on-other-frequencies/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2021/07/esp32-linux-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Perhaps the most exciting news of the past few weeks in the world of hardware hacking has been the unlocking of hidden SDR functionality in the Wi-Fi radios found on <a class=\"read-more\" href=\"https://hackaday.com/2026/10/15/so-you-want-to-make-your-sdr-work-on-other-frequencies/\">&#8230;read more</a>"
+  },
+  {
+    "title": "A Thermal Camera That Uses WebUSB",
+    "source": "Hackaday",
+    "date": "2026-10-15",
+    "url": "https://hackaday.com/2026/10/15/a-thermal-camera-that-uses-webusb/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/webusb-thermal-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When creating a peripheral for a mobile phone, an obvious path is to create a companion app with which to talk to it. But as we all know today&#8217;s app <a class=\"read-more\" href=\"https://hackaday.com/2026/10/15/a-thermal-camera-that-uses-webusb/\">&#8230;read more</a>"
+  },
+  {
     "title": "Building An M7 Pan Tilt Head Controller",
     "source": "Hackaday",
     "date": "2026-10-15",
@@ -28,46 +42,60 @@
     "summary": "<div><img alt=\"HPM5100 series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/HPM5100-series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog comparators. It also includes a high-speed USB 2.0 OTG interface with an integrated PHY, CAN FD, multiple UART/SPI/I2C interfaces, and 32 PWM channels for motor control. The chip supports hardware floating-point operations and DSP instructions, while the integrated analog peripherals reduce the need for external ADCs and signal-conditioning circuits. HPMicro HPM5100 specifications: MCU core – Single-core 32-bit RISC-V processor @ 400 MHz (up to 480 MHz in high-performance mode with external power supply) Hardware FPU, SIMD, and DSP instruction support 16 KB L1 instruction cache and 16 KB L1 data cache Up to 3.57 CoreMark/MHz Memory 416 KB SRAM 256 KB instruction local memory (ILM) 128 KB data local memory [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/\">HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Nvidia invests in five UK startups",
-    "source": "Electronics Weekly",
+    "title": "Solving the Edge Computing Energy Problem",
+    "source": "Embedded.com",
     "date": "2026-10-15",
-    "url": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
-    "summary": "<p>Today, Nvidia announced new planned investments in UK startups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/\">Nvidia invests in five UK startups</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem/",
+    "summary": "<p>With edge AI, the inference has moved from the cloud to the embedded device. Cameras, wearables, industrial sensors, robots, and vehicles can run trained models, making predictions or decisions on new and uncertain data. Because these devices are often powered by small batteries, an energy issue arises. Engineers developing embedded systems at the edge face [...]</p>\n<p>The post <a href=\"https://www.embedded.com/solving-the-edge-computing-energy-problem/\">Solving the Edge Computing Energy Problem</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Salience Labs raises $125m for photonics ICs",
-    "source": "Electronics Weekly",
+    "title": "3D Hangouts –  Special Guest Brent, Marquee, USB Hub and Knight Cat",
+    "source": "Adafruit",
     "date": "2026-10-15",
-    "url": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
-    "summary": "<p>Salience Labs of Thame, a five-year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125m Series B. The company’s Seed round in 2022 raised [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/\">Salience Labs raises $125m for photonics ICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/15/3d-hangouts-special-guest-brent-marquee-usb-hub-and-knight-cat/",
+    "summary": "3D Hangouts – USB Desk Hub, Marquee and Knight Cat https://youtube.com/live/aq4mvEwK7MM?feature=share This week @adafruit special guest Brent Rubell joins to chat about the Adafruit Marquee interface builder for e-ink displays and supported hardware.  Noe is showcasing his built-in USB hub for the Ikea MITTZON desk. Pedro releases a video on Adafruit Marquee. Checking out this [&#8230;]"
   },
   {
-    "title": "Japan to invest $21bn in two GlobalFoundries fabs in New York",
-    "source": "Electronics Weekly",
+    "title": "3D printed airless wheels help ground robots bring the wounded to safety #3dThursday",
+    "source": "Adafruit",
     "date": "2026-10-15",
-    "url": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
-    "summary": "<p>GlobalFoundries is to build two fabs at its Malta, New York site, with Japan providing up to $21bn in funding. Japan provides the investment, while GF contributes its technologies, manufacturing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/\">Japan to invest $21bn in two GlobalFoundries fabs in New York</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/15/3d-printed-airless-wheels-help-ground-robots-bring-the-wounded-to-safety-3dthursday/",
+    "summary": "Print&#38;Live and iSCALE3D have developed Arkan, a set of 3D printed airless wheels for unmanned ground vehicles, published on designboom. The wheels are built for casualty evacuation, ammunition transport, and logistics over rough ground. Each wheel uses a lattice structure made from load-bearing elastomers and polymer composites, with a rounded tread and enclosed sidewalls that [&#8230;]"
   },
   {
-    "title": "ASML has €11.7bn Q3",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-10-15",
-    "url": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
-    "summary": "<p>ASML reported €11.7bn sales and €5bn profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44bn and €45bn with a gross [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/\">ASML has €11.7bn Q3</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/15/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-15-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
-    "title": "Nvidia to spend $250m on UK computing resources",
-    "source": "Electronics Weekly",
+    "title": "Knight cat #3DThursday #3DPrinting",
+    "source": "Adafruit",
     "date": "2026-10-15",
-    "url": "https://www.electronicsweekly.com/news/business/nvidia-to-spend-250m-on-uk-computing-resources-2026-10/",
-    "summary": "<p>Nvidia is to  provide $50 million a year for five years to support UK computing resources at the British Open-Ended Learning and Discovery Lab (BOLD), the Science of Fundamental AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-to-spend-250m-on-uk-computing-resources-2026-10/\">Nvidia to spend $250m on UK computing resources</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/15/knight-cat-3dthursday-3dprinting/",
+    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Knight cat By Sunshine3D_ makerworld.com/en/models/3400182-knight-cat Bambu X1C PolyMaker PLA 28hr 50mins X:86 Y:63 Z:138mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 257g 230mm/s Every Thursday is #3dthursday here [&#8230;]"
   },
   {
-    "title": "2026 world GDP growth of 3.1% says IMF",
-    "source": "Electronics Weekly",
+    "title": "An interactive Commodore 64 hardware simulator on your screen",
+    "source": "Adafruit",
     "date": "2026-10-15",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/2026-world-growth-of-3-1-2026-10/",
-    "summary": "<p>The IMF now reckons the world economy will grow 3.1% this year. In July it said 3%. Countries upgraded since the last forecast are India, the United Kingdom and Germany. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/2026-world-growth-of-3-1-2026-10/\">2026 world GDP growth of 3.1% says IMF</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/15/an-interactive-commodore-64-hardware-simulator-on-your-screen/",
+    "summary": "Salvatore Sanfilippo (antirez) has published c64-hw-sim on GitHub, a simulator of the Commodore 64 motherboard, ASSY 250407, down to the individual pins. The program knows the board netlist and how each chip behaves at its pins. It knows nothing about what a broken C64 looks like, so when the screen fills with garbage after a [&#8230;]"
+  },
+  {
+    "title": "Candy Corn Slinky – Halloween Fidget, Over a Meter Stretch, No AMS #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/candy-corn-slinky-halloween-fidget-over-a-meter-stretch-no-ams-3dthursday-3dprinting/",
+    "summary": "Sulena3DDesign shares: A Halloween fidget that gives the classic slinky a candy-corn look. The large version stretches over a meter. Designed to print in PLA with only two color changes — no AMS required (two manual pauses for filament swaps; pictured colors: yellow → orange → white). 0.2mm layer with adaptive on the threads at [&#8230;]"
+  },
+  {
+    "title": "Grid for Word Clock 2.0 – ESP8266 + WS2812B Neopixels #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-15",
+    "url": "https://blog.adafruit.com/2026/10/15/grid-for-word-clock-2-0-esp8266-ws2812b-neopixels-3dthursday-3dprinting/",
+    "summary": "didldiprint shares: A 3D-printable grid for a word clock supporting English, Italian, and German text. Based on techniccontroller.com&#8217;s tutorial project — ESP8266 + WS2812B NeoPixels. Designer uses a TTP223 touch sensor in place of a button, mounted above the last character of the first row so it&#8217;s hidden. Frame: IKEA RÖDALM for its white support [&#8230;]"
   },
   {
     "title": "Flexi Zombie – Articulated with Detachable Brain #3DThursday #3DPrinting",
@@ -105,18 +133,39 @@
     "summary": "thomashack shares: A thin two-part snap-together case (54×24×6mm) for a third-party Pico W board with non-standard dimensions of 51.50×21.0mm. Openings for the two on-board buttons; GPIO pins fully enclosed. 0.16mm layer, 2 walls, 15% infill, ~16-min print, ~5g PLA. CAVEAT: designed for a specific third-party variant with slightly different dimensions than official Raspberry Pi Pico/Pico [&#8230;]"
   },
   {
-    "title": "From the mail bag…",
-    "source": "Adafruit",
+    "title": "VON ARDENNE Addresses Semiconductor Panel-Level Packaging Market with New HiPIMS Deposition Solution",
+    "source": "EE Journal",
     "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/from-the-mail-bag-809/",
-    "summary": "From the mail bag! Thank you — I really appreciate the help. This is one of my first personal orders with Adafruit, and I’ve been very impressed with the support experience. I’ve interacted with Adafruit on the business side before, and it’s great to see the same level of responsiveness and care extended to individual [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/von-ardenne-addresses-semiconductor-panel-level-packaging-market-with-new-hipims-deposition-solution/",
+    "summary": "VON ARDENNE, a global leader in high-precision vacuum coating equipment and co-developed materials solutions, today announced that it is expanding its semiconductor deposition portfolio into panel-level packaging (PLP). The HiPIMS solution deposits high-aspect-ratio barrier and seed layers in through-glass via (TGV) holes, enabling dense, highly adherent functional film deposition with improved material performance. It leverages [&#8230;]"
   },
   {
-    "title": "Wearable Plague Doctor Mask #3DThursday #3DPrinting",
-    "source": "Adafruit",
+    "title": "SAXON Q Shows That Room-Temperature Quantum Computers Can Rival the Performance of Superconducting Processors",
+    "source": "EE Journal",
     "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/wearable-plague-doctor-mask-3dthursday-3dprinting/",
-    "summary": "FrankEverything shares: A fully-wearable plague doctor mask designed for cosplay, display, or dramatic costume use. Full-face design, goggle ports (open or fit with your own sunglass or mesh lenses — not included), side grille, long beak. Fits most adult faces with flexible or padded lining underneath. Pairs well with a balaclava or hood. Straps NOT [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/saxon-q-shows-that-room-temperature-quantum-computers-can-rival-the-performance-of-superconducting-processors/",
+    "summary": "SAXON Q, a leader in NV-center quantum computing, today released a paper showing that its room-temperature diamond-based system can perform on par with superconducting quantum computers cooled to near absolute zero. Running Grover’s search algorithm, a standard benchmark test for quantum performance, a SAXON Q system identified a single target state 77.3% of the time [&#8230;]"
+  },
+  {
+    "title": "Siemens transforms computational lithography for next-generation AI semiconductors with NVIDIA cuLitho",
+    "source": "EE Journal",
+    "date": "2026-10-15",
+    "url": "https://www.eejournal.com/industry_news/siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho/",
+    "summary": "Collaboration between Siemens and NVIDIA delivers up to 12x acceleration for full-chip optical proximity correction (OPC) workloads in lithography Enables practical full-chip optimization of photomasks for High Numerical Aperture Extreme Ultraviolet EUV lithography (High-NA EUV) lithography using the most advanced computational lithographic methods, including inverse lithography technology (ILT) Addresses the critical runtime and complexity challenges [&#8230;]"
+  },
+  {
+    "title": "TASKING Brings Certifiable Agentic AI to Embedded Debugging Analysis with winIDEA AI Kit",
+    "source": "EE Journal",
+    "date": "2026-10-15",
+    "url": "https://www.eejournal.com/industry_news/tasking-brings-certifiable-agentic-ai-to-embedded-debugging-analysis-with-winidea-ai-kit/",
+    "summary": "TASKING, a global leader in high-performance embedded software development tools, has launched the winIDEA AI Kit. This set of tools and files allows artificial intelligent (AI) agents to integrate with TASKING’s unified toolchain through the winIDEA development environment. Accessibility to AI agents within the development toolchain enables developers to automate multiple development workflows, accelerating software [&#8230;]"
+  },
+  {
+    "title": "No Engineer Is an Island (The Butterfly Effect: Engineering Edition)",
+    "source": "EE Journal",
+    "date": "2026-10-15",
+    "url": "https://www.eejournal.com/article/no-engineer-is-an-island-the-butterfly-effect-engineering-edition/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0527-image-for-home-page-e3-designers-300x150.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I often hear (or read) someone saying something that really strikes a chord, like the lyric “I wish I didn’t know now what I didn’t know then” from Toby Keith’s 1994 single Wish I Didn’t Know Now. Some of these turns of phrase, memorable observations, and pearls of wisdom really stick with me, often leaving [&#8230;]"
   },
   {
     "title": "Single Button, Handheld Gaming Console",
@@ -131,20 +180,6 @@
     "date": "2026-10-14",
     "url": "https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2020/11/esp32-c3-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally the DVB-S and -S2 standards require a satellite somewhere in Earth orbit to provide a signal to receive, but you can also transmit your own DVB-S2 stream with any <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Tiny e-Paper Display Delivers 30 FPS of Game Boy Fun",
-    "source": "Hackaday",
-    "date": "2026-10-14",
-    "url": "https://hackaday.com/2026/10/14/tiny-e-paper-display-delivers-30-fps-of-game-boy-fun/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/ePaper_esp32_gameboy.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Slow refresh, ghosting and low-contrast &#8212; wait, are we talking about passive matrix LCDs, or e-paper displays? That might be why e-paper Game Boy emulators are a thing: the limitations <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/tiny-e-paper-display-delivers-30-fps-of-game-boy-fun/\">&#8230;read more</a>"
-  },
-  {
-    "title": "2026 Hackaday Supercon: Workshops are Open!",
-    "source": "Hackaday",
-    "date": "2026-10-14",
-    "url": "https://hackaday.com/2026/10/14/2026-hackaday-supercon-workshops-are-open/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/09/supercon-x-initial-4k.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Supercon is Hackaday&#8217;s annual gathering, and you absolutely need to be there. Today, we&#8217;re pleased to announce our lineup of workshops, and it&#8217;s more than we&#8217;ve ever offered, thanks to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/14/2026-hackaday-supercon-workshops-are-open/\">&#8230;read more</a>"
   },
   {
     "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
@@ -180,69 +215,6 @@
     "date": "2026-10-14",
     "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/",
     "summary": "<p>Axiado Corporation has announced a collaboration with Arm to integrate its Data Center Secure Control Module (DC-SCM) cards into the Arm AGI CPU server platform. The integration combines hardware-anchored security, intelligent platform management, and AI-assisted monitoring to address the operational and security requirements of next-generation data centers designed for agentic AI workloads. The companies are [...]</p>\n<p>The post <a href=\"https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/\">Axiado, Arm Integrate AI Security into AGI CPU Servers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "10 years of TME Education – a decade of supporting technical education",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2-2026-10/",
-    "summary": "<p>Learn more about TME Education &#8211; an educational project based on practical learning and collaboration with local communities.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2-2026-10/\">10 years of TME Education – a decade of supporting technical education</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Vishay optical sensors target battery management, energy storage",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/news/products/sensors-products/vishay-optical-sensors-target-battery-management-energy-storage-2026-10/",
-    "summary": "<p>Vishay&#8217;s new automotive grade optical sensors address challenges in modern battery management, energy storage, and industrial automation systems. The four new devices combine an infrared (IR) emitter and PIN photodiode [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/vishay-optical-sensors-target-battery-management-energy-storage-2026-10/\">Vishay optical sensors target battery management, energy storage</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Datacentre? Not In My Backyard",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/",
-    "summary": "<p>Ballotpedia has counted 35 local measures on the ballot in the US November 3 midterm elections  aimed at banning or restricting the construction of new datacentres. Ohio has 21 such [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/\">Datacentre? Not In My Backyard</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "In conversation with Siemens on semiconductor test technology",
-    "source": "Electronics Weekly",
-    "date": "2026-10-14",
-    "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
-    "summary": "<p>Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/\">In conversation with Siemens on semiconductor test technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "How to migrate Windows 11 from an old SSD to a new NVMe SSD without reinstalling",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/how-to-migrate-windows-11-from-an-old-ssd-to-a-new-nvme-ssd-without-reinstalling/",
-    "summary": "Julian Horsey at Geeky Gadgets walks through moving a working Windows 11 install from an older SATA SSD to an NVMe drive by cloning the disk instead of reinstalling. The point he keeps returning to is that Windows does not live in one partition. The EFI System Partition and the Windows Recovery Environment have to [&#8230;]"
-  },
-  {
-    "title": "Today’s Guide Update adds DVI audio to DVI video in CircuitPython",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/todays-guide-update-adds-dvi-audio-to-dvi-video-in-circuitpython/",
-    "summary": "Have you wanted to add audio to your DVI video in CircuitPython? In games, programs, etc.? Now you can! In the latest bleeding edge version of CircuitPython, DVI audio has been added. Several examples show you how to implement things currently. Later updates to CircuitPython may add additional capabilities into the mix. This is to [&#8230;]"
-  },
-  {
-    "title": "Build a 10.1-inch Home Assistant panel with an ESP32-P4",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/build-a-10-1-inch-home-assistant-panel-with-an-esp32-p4/",
-    "summary": "Julian Horsey at Geeky Gadgets writes up a build from Techiesms that turns an ESP32-P4 module into a wall-mounted Home Assistant control panel. The hardware is a 10.1-inch TFT LCD with a 1200&#215;800 capacitive touchscreen that handles up to five touch points. The ESP32-P4 behind it has a dual-core 400 MHz processor, 16 MB of [&#8230;]"
-  },
-  {
-    "title": "Epic Games reportedly pivoting to “AI first” game development model",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/epic-games-reportedly-pivoting-to-ai-first-game-development-model/",
-    "summary": "Kyle Orland reports at Ars Technica that Epic Games is moving to an &#8220;AI first&#8221; development strategy for its collaboration with the Walt Disney Company. Citing a Bloomberg report based on internal employee messages, the story says AI models will write all the code and guide all the artwork for an upcoming shooter. Human developers [&#8230;]"
-  },
-  {
-    "title": "Improving Epinephrine Injections with a Wearable",
-    "source": "Adafruit",
-    "date": "2026-10-14",
-    "url": "https://blog.adafruit.com/2026/10/14/improving-epinephrine-injections-with-a-wearable/",
-    "summary": "Components of the wearable AI device that monitors physiological indicators for anaphylaxis and intervenes by administering an epinephrine injection. (Purdue University photo/Johana Elisa Vargas Gómez) via PPurdue University Professor Muhammad Hussain from Purdue University is leading a team of electrical and computer engineers working on developing a wearable device capable of rapid epinephrine administration. The [&#8230;]"
   },
   {
     "title": "RECOM and CELUS Partner to Bring RECOM Power Designs to the CELUS Design Platform",
@@ -306,41 +278,6 @@
     "date": "2026-10-13",
     "url": "https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/",
     "summary": "<p>Texas Instruments Inc. (TI) has claimed the industry's first analog-to-digital converter (ADC) to enable 24/7 event-based remote monitoring at nanosecond resolution for AI data centers. Introduced at the Open Compute Project (OCP) Global Summit, TI will demo the ADC34DSO75 ADC, along with the new LMI800PS hot-swap controller and LMK6B bulk acoustic wave (BAW)-based oscillator, addressing the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/\">TI unveils 3-GSPS ADC for AI Data Centers at OCP</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TI unveils new ADC to enable nanosecond-level telemetry and minimize downtime in AI data centers",
-    "source": "EE Journal",
-    "date": "2026-10-13",
-    "url": "https://www.eejournal.com/industry_news/ti-unveils-new-adc-to-enable-nanosecond-level-telemetry-and-minimize-downtime-in-ai-data-centers/",
-    "summary": "At the Open Compute Project (OCP) Global Summit, Texas Instruments (TI) (Nasdaq: TXN) debuted the first analog-to-digital converter (ADC) to enable 24/7, low-power, event-based remote monitoring at nanosecond resolution. As AI workloads rapidly increase, data center operators face significant challenges around power instability, inadequate real-time monitoring and signal degradation, all of which can lead to [&#8230;]"
-  },
-  {
-    "title": "FLIR Introduces A8481 Compact HD MWIR Science Camera",
-    "source": "EE Journal",
-    "date": "2026-10-13",
-    "url": "https://www.eejournal.com/industry_news/flir-introduces-a8481-compact-hd-mwir-science-camera/",
-    "summary": "Teledyne FLIR today announced the launch of the A8481, a new compact HD MWIR science camera designed for researchers and engineers who need significantly more thermal detail without changing the workflows, optics, software, and infrastructure they already use. Built around a 1280 × 1024 HOT MWIR SLS detector, the A8481 delivers four times the pixels [&#8230;]"
-  },
-  {
-    "title": "Navitas Collaborates with NVIDIA on 800 V-to-12 V Power Delivery Board for Next-Generation AI Infrastructure",
-    "source": "EE Journal",
-    "date": "2026-10-13",
-    "url": "https://www.eejournal.com/industry_news/navitas-collaborates-with-nvidia-on-800-v-to-12-v-power-delivery-board-for-next-generation-ai-infrastructure/",
-    "summary": "Navitas Semiconductor (Nasdaq: NVTS), a leader in next-generation power semiconductors and power delivery solutions, pioneering GaN, high-voltage and ultra-high-voltage SiC, and IVR technologies, today announced its latest 24 kW, 800 V-to-12 V DC-DC power delivery board (PDB), powered by GaNFast™ technology and developed in collaboration with NVIDIA, to support the NVIDIA MGX ecosystem and advance [&#8230;]"
-  },
-  {
-    "title": "TDK PositionSenseTM offers ‘Smart Perception’ for wearables, mobile, robots, and other Physical AI devices",
-    "source": "EE Journal",
-    "date": "2026-10-13",
-    "url": "https://www.eejournal.com/industry_news/tdk-positionsensetm-offers-smart-perception-for-wearables-mobile-robots-and-other-physical-ai-devices/",
-    "summary": "&#8211;  Now available for worldwide distribution, PositionSense is a 2-chip 9-axis sensor solution for absolute orientation detection and fast sensor calibration &#8211;  Enables the ultimate positioning accuracy for smart glasses, smartphones, AI wearables, humanoid robots, drones, and any device requiring precise location &#8211;  Integrates TDK’s ultra-low power 6-axis IMU and 3-axis TMR-based magnetometer with on-chip [&#8230;]"
-  },
-  {
-    "title": "Now ANY Bluetooth Device Can Enjoy Satellite Connectivity",
-    "source": "EE Journal",
-    "date": "2026-10-13",
-    "url": "https://www.eejournal.com/article/now-any-bluetooth-device-can-enjoy-satellite-connectivity/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"169\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0526-image-for-home-page-hubble-300x169.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I find it hard to wrap my brain around how something as innocuous as Bluetooth can suddenly start impinging on my consciousness (and my Bluetooth-equipped devices) from all directions, including—it now turns out—from satellites whizzing around above our heads in low Earth Orbit (LEO). Just to ensure we’re all tap-dancing to the same skirl of [&#8230;]"
   },
   {
     "title": "PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support",
@@ -418,12 +355,5 @@
     "date": "2026-10-08",
     "url": "https://www.embedded.com/qorvo-introduces-x-band-rffe-targeting-aesa-radar-designs/",
     "summary": "<p>Qorvo Inc. has introduced an X-band RF front-end solution designed for active electronically scanned array (AESA) radar systems. The architecture combines transmit drive, receive performance, and RF front-end control within the constrained space of an array lattice, reducing the number of external components required around each antenna element. At the center of the solution is [...]</p>\n<p>The post <a href=\"https://www.embedded.com/qorvo-introduces-x-band-rffe-targeting-aesa-radar-designs/\">Qorvo Introduces X-Band RFFE Targeting AESA Radar Designs</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Chiplets at the Edge: How Modular SoCs Redefine Performance Per Watt",
-    "source": "Embedded.com",
-    "date": "2026-10-08",
-    "url": "https://www.embedded.com/chiplets-at-the-edge-how-modular-socs-redefine-performance-per-watt/",
-    "summary": "<p>The evolution of edge systems is shifting the focus from computing power alone to how efficiently each watt is transformed into useful performance. Chiplets and modular system-on-chips (SoCs) enable the combination of CPUs, accelerators, memory, and I/O based on specific needs, creating new possibilities for designing more compact, flexible, and efficient platforms. From silicon scalability [...]</p>\n<p>The post <a href=\"https://www.embedded.com/chiplets-at-the-edge-how-modular-socs-redefine-performance-per-watt/\">Chiplets at the Edge: How Modular SoCs Redefine Performance Per Watt</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
