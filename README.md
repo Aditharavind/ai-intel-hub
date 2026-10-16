@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-15 22:42 UTC
+Last Updated: 2026-10-16 00:50 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,8 +9,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-10-15 | Bringing GPT-Rosalind to academic research labs | OpenAI | [link](https://openai.com/index/introducing-the-rosalind-academic-plan) |
 | 2026-10-15 | Teaching students to think and learn through questions | OpenAI | [link](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) |
+| 2026-10-15 | Sullivan & Cromwell brings legal expertise into agreement review | OpenAI | [link](https://openai.com/index/sullivan-cromwell) |
 | 2026-10-15 | Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint | Hugging Face | [link](https://huggingface.co/blog/ibm-granite/granite-switch-4-1) |
-| 2026-10-15 | Apertus 1.5 Release Notes | Hugging Face | [link](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes) |
 | 2026-10-15 | Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta | Hugging Face | [link](https://huggingface.co/blog/meta-muse-spark-open) |
 | 2026-10-15 | Welcome FLUX.3 Image Klein in Diffusers | Hugging Face | [link](https://huggingface.co/blog/flux-3) |
 | 2026-10-14 | Amp puts AI agents to work beyond code with OpenAI models | OpenAI | [link](https://openai.com/index/amp-beyond-coding) |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-16 | Tesla Models Y and 3 Dominate | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/tesla-models-y-and-3-dominate-2026-10/) |
+| 2026-10-16 | WLED WIFI RGB Matrix Panel Clock – ESP32-C3 + WS2812 8×32 with Scrolling Text #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/10/15/wled-wifi-rgb-matrix-panel-clock-esp32-c3-ws2812-8x32-with-scrolling-text-3dthursday-3dprinting/) |
+| 2026-10-15 | 45 Years Later, The Sinclair ULA Design Documents Surface | Hackaday | [link](https://hackaday.com/2026/10/15/45-years-later-the-sinclair-ula-design-documents-surface/) |
 | 2026-10-15 | Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews | Hackaday | [link](https://hackaday.com/2026/10/15/linux-kernel-drops-ai-tag-requirement-uses-meta-ai-for-code-reviews/) |
 | 2026-10-15 | C64 Hardware Simulator Isn’t (Just) For Playing Around | Hackaday | [link](https://hackaday.com/2026/10/15/c64-hardware-simulator-isnt-just-for-playing-around/) |
 | 2026-10-15 | Hand-Machined Stake Sharpener Just in Time for Dracula Season | Hackaday | [link](https://hackaday.com/2026/10/15/hand-machined-stake-sharpener-just-in-time-for-dracula-season/) |
 | 2026-10-15 | So You Want To Make Your SDR Work On Other Frequencies | Hackaday | [link](https://hackaday.com/2026/10/15/so-you-want-to-make-your-sdr-work-on-other-frequencies/) |
 | 2026-10-15 | A Thermal Camera That Uses WebUSB | Hackaday | [link](https://hackaday.com/2026/10/15/a-thermal-camera-that-uses-webusb/) |
 | 2026-10-15 | Building An M7 Pan Tilt Head Controller | Hackaday | [link](https://hackaday.com/2026/10/15/building-an-m7-pan-tilt-head-controller/) |
-| 2026-10-15 | Pager Converted to Meshtastic Node | Hackaday | [link](https://hackaday.com/2026/10/14/pager-converted-to-meshtastic-node/) |
 | 2026-10-15 | W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver | CNX Software | [link](https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/) |
-| 2026-10-15 | HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control | CNX Software | [link](https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/) |
-| 2026-10-15 | From Spooky Action to Quantum Internet: Communication Takes to the Air | Embedded.com | [link](https://www.embedded.com/from-spooky-action-to-quantum-internet-communication-takes-to-the-air/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,7 +77,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-10-15 | tron-robot/ev-yam-handkerchief-hpt-wrist-102 | 0 | 0 | [link](https://huggingface.co/tron-robot/ev-yam-handkerchief-hpt-wrist-102) |
 | 2026-10-15 | latheamit/review-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/latheamit/review-robotics-vision-language) |
 | 2026-10-15 | SadullahKE/Robotscientist | 0 | 1 | [link](https://huggingface.co/SadullahKE/Robotscientist) |
 | 2026-10-15 | mangocloud/gr00t-n1.7-robotwin-sft | 0 | 0 | [link](https://huggingface.co/mangocloud/gr00t-n1.7-robotwin-sft) |
@@ -87,20 +86,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-15 | TalentStill/robotomy-v3 | 14 | 1 | [link](https://huggingface.co/TalentStill/robotomy-v3) |
 | 2026-10-15 | TalentStill/robotomy-v2 | 12 | 1 | [link](https://huggingface.co/TalentStill/robotomy-v2) |
 | 2026-10-15 | Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k | 13 | 1 | [link](https://huggingface.co/Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k) |
+| 2026-10-15 | milab-robot/act-smoke-test | 0 | 0 | [link](https://huggingface.co/milab-robot/act-smoke-test) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29028 | Python | 11611.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3607 | Python | 1442.9 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1520 | Rust | 608.1 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 1078 | Python | 431.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | autonomous-ai/lampOS | 456 | Python | 182.5 | [link](https://github.com/autonomous-ai/lampOS) |
 | commaai/openpilot | 63912 | Python | 25564.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 20689 | Python | 8275.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17444 | Java | 6977.7 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16294 | Python | 6517.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 16072 | C++ | 6428.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| worldbench/awesome-vla-for-ad | 501 | HTML | 200.5 | [link](https://github.com/worldbench/awesome-vla-for-ad) |
+| deeplethe/utopia | 8373 | Rust | 3349.3 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7196 | Python | 2878.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| isaac-sim/IsaacLab | 8357 | Python | 3342.9 | [link](https://github.com/isaac-sim/IsaacLab) |
+| harvard-edge/cs249r_book | 29031 | Python | 11612.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3607 | Python | 1442.9 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1520 | Rust | 608.1 | [link](https://github.com/copper-project/copper-rs) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -109,12 +109,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjUzdjREbUEtT3lUWWJRMzR5STJEWUNIZmNyczJLUDVXa2NGRy1JdEViOTRwd3dNRE1UQTVubE1PSnNDOEpEOWYyVWRRUXJyWVp3X3B4cjJTUUczNDhoYTU5bW9NbzVRdUFFSFBYaS1sajFQdG5iLXlDOE1hdWdNMjUtQmwxSjFIUUpMWERjYUpUUEJrbWMyaW5HamNvZk9maEVtcUIwdEFQSVBDMWx1Wld5QUVCUURLZjlWY2JrYw?oc=5) |
 | 2026-10-09 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5) |
 | 2026-10-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJnVDRXTF80VnJNWUtScWZtaHV4cGt2dTFiaWVETVcwX2VrSW8xeWhPdThCUFg2SlpLTnNRcFJGSlZQME9Tb2ItNkYyalpRUDVadjdDVG9YWXA4OFBpUFI3Qk4zYzVmTHVKYmJuOXlCWWZqbGxxY3lkWDV4N3NuVXRUOWJlaUswSFplR1FMc3NzZTg?oc=5) |
-| 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUFzNkpkdGUtdjhiNVFsVGFwZmlHNnR0bEVrT1lGYy1zQ1dkM25keGFDR01jalRCampzaFBJU2owWnJRaHlRWEZSODVaV2FZRmtUc1lNamM4cXlBTnQteTJhZWpjVzVOZklyUlExUm1CbThNMEpxYVRUSUtaT0NHcEJLeExKQ2FSN2dTdEt5QWdnWTlIX0ZNWVRnSFVjTjg0dkRNdDFIUkkyUWt6NHRqWdIBrAFBVV95cUxNbGd2THB6QnFPU2dLMTdOaGdYM0wyR0ttd2stT0lOdnkxdGZIb0FmeHd4YktFb2lyM2phMS1oaHliUGp5MFp2Rk5oUFE1RFNuTUhsakE4ZFpENnNWbTlWZXBtY3F0VFVaSkNvUFVsQVRYTWltMVJnc204OVFzZ0gxdVYwU0NoYTVGMUV3bjZ5X2JVUThLMFRVZDlXck4zRmthRzBtQkV5aFpNb2FJ?oc=5) |
 | 2026-10-01 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUW5BR1lMVk93VmxPNTNaamZCdTAxNkFWQ1FzYndjdUlxbFlvNHB3NnlISVJMdExvajB3TlB5Ym1Xb0ZNaDlYOWFHRkhzajJnRmRqMDJlVEU2aUxFX25mNC12TllsZHVaanNiakczcmZFUmZyb3cxVjBiQzltQUlDckpwOWd6S3lvNm1PUHI4QmM3aWJFcjZac2QyQWlHT1NJVnNIQmhWbjY4aEE5S25qVEFXWFBvSkp3V1B3SktFV0FSVlRqRXZqUHQzTXJzYUIt0gHkAUFVX3lxTE9aeTlSRjdIcEZIel95UjRYYVN6SkgwMTgteXNsaGdmNUt4TF8xellYV2V4bzZxODVNclgwVU9BRkJ0T3N5QUV2c3R2NUZJMjQ3aFU5cFpDWWNVWld5cU1CS2lsUkJBM1BCeTdEMUREWEp2aUpyNG5DUnlta0dZaWhVbnlybE5nbzZScU9GSjBqeTF5Wm4yNElyNi0zZ2xJYnhEZWxrVXVubVBQQVk3NHF1SkFGMW9PZGxoQmZkaHJwRTU0U2VRQ3BmZEZ1RVRiMWxoX0Fra1VLM0Q0Qy1sRmR3MGhYWQ?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-26 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnNveThPbDVwUWdxWi1YM2NXWW1yaFpMZ05US0NnQlRUSU54MFFZd2xfY0sxdkhOQklnakp0UklGUGFKeU1TSkt5dE14OUd1Yy1NNUhUeWx3VjlHNU5yZ1h6YjdDdmNrQkFhYkdUWTNfbjR2UXFHc2dJLUxLOTVjYllfd09SQXl4V240RVhJZlFOQTVuUEtyUUp5cVg0VEdRVUNHSXdUUVlVeDZsdTB6aEZZXzZTNWp3RnhETmo1YndiT3M?oc=5) |
 | 2026-09-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
+| 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

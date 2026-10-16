@@ -1,13 +1,83 @@
 [
   {
+    "repo": "autonomous-ai/lampOS",
+    "stars": 456,
+    "language": "Python",
+    "description": "The open-source operating system for physical AI.",
+    "url": "https://github.com/autonomous-ai/lampOS",
+    "date": "2026-10-16",
+    "topic": "physical-ai",
+    "score": 182.5
+  },
+  {
+    "repo": "commaai/openpilot",
+    "stars": 63912,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-10-16",
+    "topic": "robotics",
+    "score": 25564.9
+  },
+  {
+    "repo": "questdb/questdb",
+    "stars": 17444,
+    "language": "Java",
+    "description": "QuestDB is a high performance, open-source, time-series database",
+    "url": "https://github.com/questdb/questdb",
+    "date": "2026-10-16",
+    "topic": "robotics",
+    "score": 6977.7
+  },
+  {
+    "repo": "worldbench/awesome-vla-for-ad",
+    "stars": 501,
+    "language": "HTML",
+    "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
+    "url": "https://github.com/worldbench/awesome-vla-for-ad",
+    "date": "2026-10-16",
+    "topic": "vla",
+    "score": 200.5
+  },
+  {
+    "repo": "deeplethe/utopia",
+    "stars": 8373,
+    "language": "Rust",
+    "description": "World's first open-source enterprise world model.",
+    "url": "https://github.com/deeplethe/utopia",
+    "date": "2026-10-16",
+    "topic": "world-model",
+    "score": 3349.3
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 7196,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-10-16",
+    "topic": "world-model",
+    "score": 2878.5
+  },
+  {
+    "repo": "isaac-sim/IsaacLab",
+    "stars": 8357,
+    "language": "Python",
+    "description": "Unified framework for robot learning with multi-physics/renderer support",
+    "url": "https://github.com/isaac-sim/IsaacLab",
+    "date": "2026-10-16",
+    "topic": "robot-learning",
+    "score": 3342.9
+  },
+  {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 29028,
+    "stars": 29031,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-10-15",
     "topic": "embodied-ai",
-    "score": 11611.3
+    "score": 11612.5
   },
   {
     "repo": "NVIDIA/skills",
@@ -31,63 +101,33 @@
   },
   {
     "repo": "mosaico-labs/mosaico",
-    "stars": 1078,
+    "stars": 1079,
     "language": "Python",
     "description": "Mosaico - The data platform for Physical AI",
     "url": "https://github.com/mosaico-labs/mosaico",
     "date": "2026-10-15",
     "topic": "physical-ai",
-    "score": 431.3
-  },
-  {
-    "repo": "autonomous-ai/lampOS",
-    "stars": 456,
-    "language": "Python",
-    "description": "The open-source operating system for physical AI.",
-    "url": "https://github.com/autonomous-ai/lampOS",
-    "date": "2026-10-15",
-    "topic": "physical-ai",
-    "score": 182.5
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 63912,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-10-15",
-    "topic": "robotics",
-    "score": 25564.9
+    "score": 431.7
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 20689,
+    "stars": 20706,
     "language": "Python",
     "description": "Give your agent CAD superpowers.",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-10-15",
     "topic": "robotics",
-    "score": 8275.7
-  },
-  {
-    "repo": "questdb/questdb",
-    "stars": 17444,
-    "language": "Java",
-    "description": "QuestDB is a high performance, open-source, time-series database",
-    "url": "https://github.com/questdb/questdb",
-    "date": "2026-10-15",
-    "topic": "robotics",
-    "score": 6977.7
+    "score": 8282.5
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16294,
+    "stars": 16295,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-10-15",
     "topic": "robotics",
-    "score": 6517.7
+    "score": 6518.1
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -101,13 +141,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 15696,
+    "stars": 15698,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-10-15",
     "topic": "robotics",
-    "score": 6278.5
+    "score": 6279.3
   },
   {
     "repo": "RLinf/RLinf",
@@ -220,16 +260,6 @@
     "score": 266.1
   },
   {
-    "repo": "worldbench/awesome-vla-for-ad",
-    "stars": 501,
-    "language": "HTML",
-    "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
-    "url": "https://github.com/worldbench/awesome-vla-for-ad",
-    "date": "2026-10-15",
-    "topic": "vla",
-    "score": 200.5
-  },
-  {
     "repo": "luohongk/Embodied-AI-Daily",
     "stars": 478,
     "language": "HTML",
@@ -240,34 +270,14 @@
     "score": 191.3
   },
   {
-    "repo": "deeplethe/utopia",
-    "stars": 8371,
-    "language": "Rust",
-    "description": "World's first open-source enterprise world model.",
-    "url": "https://github.com/deeplethe/utopia",
-    "date": "2026-10-15",
-    "topic": "world-model",
-    "score": 3348.5
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 7191,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-10-15",
-    "topic": "world-model",
-    "score": 2876.5
-  },
-  {
     "repo": "SkyworkAI/Matrix-Game",
-    "stars": 2487,
+    "stars": 2488,
     "language": "Python",
     "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
     "url": "https://github.com/SkyworkAI/Matrix-Game",
     "date": "2026-10-15",
     "topic": "world-model",
-    "score": 994.9
+    "score": 995.3
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -310,6 +320,16 @@
     "score": 308.9
   },
   {
+    "repo": "OpenHUTB/hutb",
+    "stars": 659,
+    "language": "C++",
+    "description": "人车模拟器（Human-vehicle Simulator）",
+    "url": "https://github.com/OpenHUTB/hutb",
+    "date": "2026-10-15",
+    "topic": "humanoid",
+    "score": 263.7
+  },
+  {
     "repo": "ROBOTIS-GIT/ai_worker",
     "stars": 198,
     "language": "Python",
@@ -338,16 +358,6 @@
     "date": "2026-10-15",
     "topic": "humanoid",
     "score": 26.5
-  },
-  {
-    "repo": "isaac-sim/IsaacLab",
-    "stars": 8357,
-    "language": "Python",
-    "description": "Unified framework for robot learning with multi-physics/renderer support",
-    "url": "https://github.com/isaac-sim/IsaacLab",
-    "date": "2026-10-15",
-    "topic": "robot-learning",
-    "score": 3342.9
   },
   {
     "repo": "wadeKeith/Awesome-Embodied-AI",
@@ -480,24 +490,14 @@
     "score": 260.1
   },
   {
-    "repo": "OpenHUTB/hutb",
-    "stars": 659,
-    "language": "C++",
-    "description": "人车模拟器（Human-vehicle Simulator）",
-    "url": "https://github.com/OpenHUTB/hutb",
-    "date": "2026-10-14",
-    "topic": "humanoid",
-    "score": 263.7
-  },
-  {
     "repo": "robocasa/robocasa",
-    "stars": 1810,
+    "stars": 1811,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-10-14",
     "topic": "robot-learning",
-    "score": 724.1
+    "score": 724.5
   },
   {
     "repo": "robotlearning123/awesome-isaac-gym",
