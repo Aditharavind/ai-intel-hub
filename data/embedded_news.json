@@ -1,5 +1,12 @@
 [
   {
+    "title": "The 10€ Gamepad",
+    "source": "Hackaday",
+    "date": "2026-10-16",
+    "url": "https://hackaday.com/2026/10/16/the-10e-gamepad/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/game.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We aren&#8217;t sure what [Lazy_Duck] is doing with video games, but it must require a lot of controllers. Dismayed at the cost and complexity of commercial gamepads, they started soldering <a class=\"read-more\" href=\"https://hackaday.com/2026/10/16/the-10e-gamepad/\">&#8230;read more</a>"
+  },
+  {
     "title": "Fairbuds 2 Teardown Shows Little Glue, Easy Battery Swap",
     "source": "Hackaday",
     "date": "2026-10-16",
@@ -40,13 +47,6 @@
     "date": "2026-10-16",
     "url": "https://hackaday.com/2026/10/16/running-doom-sort-of-on-a-sonoff-smart-switch/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"425\" src=\"https://hackaday.com/wp-content/uploads/2026/10/sonoffdoom_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s often said in this community that DOOM can be made to run on anything, and as time goes on, that&#8217;s becoming more and more accurate. We&#8217;re at the point <a class=\"read-more\" href=\"https://hackaday.com/2026/10/16/running-doom-sort-of-on-a-sonoff-smart-switch/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Another Wireless Chip has a Hidden SDR Revealed",
-    "source": "Hackaday",
-    "date": "2026-10-16",
-    "url": "https://hackaday.com/2026/10/15/another-wireless-chip-has-a-hidden-sdr-revealed/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/lr2021-sdr-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The news of the past couple of weeks has seen the ESP32 turned into an software-defined radio (SDR) thanks to a hidden baseband mode, an exciting development by anyone&#8217;s standards. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/15/another-wireless-chip-has-a-hidden-sdr-revealed/\">&#8230;read more</a>"
   },
   {
     "title": "Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)",
@@ -138,6 +138,13 @@
     "date": "2026-10-16",
     "url": "https://www.electronicsweekly.com/news/business/infineon-and-wolfspeed-hook-up-on-sic-wafers-uh-2026-10/",
     "summary": "<p>Infineon and Wolfspeed have signed a new multi-year supply agreement for 200mm SiC wafers to take over from 150 mm wafers “Silicon carbide is at the heart of the energy [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-and-wolfspeed-hook-up-on-sic-wafers-uh-2026-10/\">Infineon and Wolfspeed hook up on SiC wafers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "STM32F407 RT-Spark Music Player Using FreeRTOS",
+    "source": "Adafruit",
+    "date": "2026-10-16",
+    "url": "https://blog.adafruit.com/2026/10/16/stm32f407-rt-spark-music-player-using-freertos/",
+    "summary": "John Paul Maluya, Karl Vincent Remo, and Amer Patrick Lauma built an eight-song music player built on the STM32F407 RT-Spark board. Check out the details of their project on hackster.io This project was developed for BCA182 Embedded Systems Programming Laboratory 2 using the RT-Thread RT-Spark development board with an STM32F407 microcontroller. The objective was to [&#8230;]"
   },
   {
     "title": "John Park’s CircuitPython Parsec: STEMMA QT Port GPIO Pins",
@@ -250,13 +257,6 @@
     "date": "2026-10-15",
     "url": "https://blog.adafruit.com/2026/10/15/john-parks-workshop-live-today-10-15-26/",
     "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today (the usual time, no change to the Workshop show schedule)!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: Playdate Crankfruit CircuitPython Parsec: STEMMA QT is a Lie! Learn Guides Gear Report: M-Vave FM-1 alt firmware Tool Tips CAD: Adafruit Circuit [&#8230;]"
-  },
-  {
-    "title": "Motion Sensor for Halloween Animatronics – HC-SR501 PIR + PC817 Optocoupler Enclosure #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-15",
-    "url": "https://blog.adafruit.com/2026/10/15/motion-sensor-for-halloween-animatronics-hc-sr501-pir-pc817-optocoupler-enclosure-3dthursday-3dprinting/",
-    "summary": "Shared by tupsyvejle on MakerWorld: An enclosure for a DIY motion-trigger module aimed at Halloween animatronics. BOM: HC-SR501 PIR motion sensor, Sharp PC817 optocoupler, 9V battery clip (Type T), KCD1 square 2-pin on/off rocker switch, 100Ω resistor, 1× 9V battery. PLA or PETG body (TPU adjusting cap), 20-30% infill, no supports. Two print files, both [&#8230;]"
   },
   {
     "title": "Testblox Launches Small Form Factor Multi-Vendor Platform for In-Fixture Functional Test",

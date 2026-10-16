@@ -1,23 +1,23 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 29046,
+    "stars": 29048,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-10-16",
     "topic": "embodied-ai",
-    "score": 11618.5
+    "score": 11619.3
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3618,
+    "stars": 3621,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-10-16",
     "topic": "physical-ai",
-    "score": 1447.3
+    "score": 1448.5
   },
   {
     "repo": "copper-project/copper-rs",
@@ -61,43 +61,43 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63916,
+    "stars": 63915,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 25566.5
+    "score": 25566.1
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44694,
+    "stars": 44695,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 17877.7
+    "score": 17878.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 20934,
+    "stars": 20971,
     "language": "Python",
     "description": "Give your agent CAD superpowers.",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 8373.7
+    "score": 8388.5
   },
   {
     "repo": "questdb/questdb",
-    "stars": 17445,
+    "stars": 17446,
     "language": "Java",
     "description": "QuestDB is a high performance, open-source, time-series database",
     "url": "https://github.com/questdb/questdb",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 6978.1
+    "score": 6978.5
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -111,23 +111,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 16080,
+    "stars": 16081,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 6432.1
+    "score": 6432.5
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 15714,
+    "stars": 15717,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 6285.7
+    "score": 6286.9
   },
   {
     "repo": "RLinf/RLinf",
@@ -168,6 +168,16 @@
     "date": "2026-10-16",
     "topic": "vla",
     "score": 274.9
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 667,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-10-16",
+    "topic": "vla",
+    "score": 266.9
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
@@ -211,23 +221,23 @@
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7210,
+    "stars": 7211,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-10-16",
     "topic": "world-model",
-    "score": 2884.1
+    "score": 2884.5
   },
   {
     "repo": "SkyworkAI/Matrix-Game",
-    "stars": 2538,
+    "stars": 2539,
     "language": "Python",
     "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
     "url": "https://github.com/SkyworkAI/Matrix-Game",
     "date": "2026-10-16",
     "topic": "world-model",
-    "score": 1015.3
+    "score": 1015.7
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -311,13 +321,13 @@
   },
   {
     "repo": "MinghaoFu/lewam",
-    "stars": 250,
+    "stars": 255,
     "language": "Python",
     "description": "LeWAM: End-to-End World and Action Modeling with JEPAs",
     "url": "https://github.com/MinghaoFu/lewam",
     "date": "2026-10-16",
     "topic": "robot-learning",
-    "score": 100.1
+    "score": 102.1
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -328,6 +338,36 @@
     "date": "2026-10-16",
     "topic": "robot-learning",
     "score": 93.3
+  },
+  {
+    "repo": "reality-opened/openreality",
+    "stars": 358,
+    "language": "Python",
+    "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
+    "url": "https://github.com/reality-opened/openreality",
+    "date": "2026-10-16",
+    "topic": "lerobot",
+    "score": 143.3
+  },
+  {
+    "repo": "rokbenko/quackd",
+    "stars": 263,
+    "language": "Python",
+    "description": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and decision LLMs (Jev, Laya, Kev). Drives Microduck, Open Duck Mini, LeRobot, XLeRobot, AlohaMini, ToddlerBot, or any ROS 2 base from a laptop, offboard.",
+    "url": "https://github.com/rokbenko/quackd",
+    "date": "2026-10-16",
+    "topic": "lerobot",
+    "score": 105.3
+  },
+  {
+    "repo": "black-forest-labs/flux-action",
+    "stars": 181,
+    "language": "Python",
+    "description": "FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games.",
+    "url": "https://github.com/black-forest-labs/flux-action",
+    "date": "2026-10-16",
+    "topic": "lerobot",
+    "score": 72.5
   },
   {
     "repo": "roboninecom/SO-ARM-102",
@@ -351,23 +391,23 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 4012,
+    "stars": 4013,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-10-15",
     "topic": "embodied-ai",
-    "score": 1604.9
+    "score": 1605.3
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2959,
+    "stars": 2960,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-10-15",
     "topic": "embodied-ai",
-    "score": 1183.7
+    "score": 1184.1
   },
   {
     "repo": "dexmal/opendm",
@@ -400,16 +440,6 @@
     "score": 1059.3
   },
   {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 667,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-10-15",
-    "topic": "vla",
-    "score": 266.9
-  },
-  {
     "repo": "Thinklab-SJTU/Awesome-LLM4AD",
     "stars": 1897,
     "language": "",
@@ -421,13 +451,13 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 662,
+    "stars": 663,
     "language": "C++",
     "description": "人车模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-10-15",
     "topic": "humanoid",
-    "score": 264.9
+    "score": 265.3
   },
   {
     "repo": "thanhndv212/figaroh-plus",
@@ -448,16 +478,6 @@
     "date": "2026-10-15",
     "topic": "robot-learning",
     "score": 100.9
-  },
-  {
-    "repo": "black-forest-labs/flux-action",
-    "stars": 181,
-    "language": "Python",
-    "description": "FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-101), simulators and games.",
-    "url": "https://github.com/black-forest-labs/flux-action",
-    "date": "2026-10-15",
-    "topic": "lerobot",
-    "score": 72.5
   },
   {
     "repo": "cerul-ai/cerul",
@@ -501,13 +521,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83684,
+    "stars": 83685,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-10-14",
     "topic": "robotics",
-    "score": 33473.7
+    "score": 33474.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
@@ -551,13 +571,13 @@
   },
   {
     "repo": "Hebbian-Robotics/hflow",
-    "stars": 297,
+    "stars": 298,
     "language": "Python",
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "date": "2026-10-14",
     "topic": "lerobot",
-    "score": 118.9
+    "score": 119.3
   },
   {
     "repo": "v-modal/vmodal_sdk_robotics",
@@ -568,26 +588,6 @@
     "date": "2026-10-13",
     "topic": "physical-ai",
     "score": 183.7
-  },
-  {
-    "repo": "reality-opened/openreality",
-    "stars": 357,
-    "language": "Python",
-    "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
-    "url": "https://github.com/reality-opened/openreality",
-    "date": "2026-10-13",
-    "topic": "lerobot",
-    "score": 142.9
-  },
-  {
-    "repo": "rokbenko/quackd",
-    "stars": 263,
-    "language": "Python",
-    "description": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM), VLAs for arms and decision LLMs (Jev, Laya, Kev). Drives Microduck, Open Duck Mini, LeRobot, XLeRobot, AlohaMini, ToddlerBot, or any ROS 2 base from a laptop, offboard.",
-    "url": "https://github.com/rokbenko/quackd",
-    "date": "2026-10-13",
-    "topic": "lerobot",
-    "score": 105.3
   },
   {
     "repo": "PathOn-AI/PathOnRoboticsOSS",

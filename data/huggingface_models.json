@@ -18,6 +18,15 @@
     "score": 0.1
   },
   {
+    "model": "SimpleJev/JevAny-Robotics-4B-LoRA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SimpleJev/JevAny-Robotics-4B-LoRA",
+    "date": "2026-10-16",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "suryatmodulus/reki-2b-robotwin-cleanrand",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "ayaansharmagug/review-robotics-vision-language",
+    "model": "prehj/faster-vla-speed-module",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ayaansharmagug/review-robotics-vision-language",
+    "url": "https://huggingface.co/prehj/faster-vla-speed-module",
     "date": "2026-10-16",
-    "keyword": "robotics",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -112,6 +121,33 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-10-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_11.10.2026_300eps_policy_ACT_500k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_11.10.2026_300eps_policy_ACT_500k",
+    "date": "2026-10-16",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "TESS-Computer/smolvlm-atari-vla-clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TESS-Computer/smolvlm-atari-vla-clean",
+    "date": "2026-10-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "TESS-Computer/csgo-vla-checkpoint-clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TESS-Computer/csgo-vla-checkpoint-clean",
     "date": "2026-10-16",
     "keyword": "vla",
     "score": 0.1
@@ -132,15 +168,6 @@
     "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
     "date": "2026-10-16",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "prehj/faster-vla-speed-module",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/prehj/faster-vla-speed-module",
-    "date": "2026-10-16",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -180,33 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "Charly-chan/mc-duplex-vla-ckpt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Charly-chan/mc-duplex-vla-ckpt",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlen-beilik/qwen-pe-t2i-2.1-runpod",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlen-beilik/qwen-pe-t2i-2.1-runpod",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Snare314/VLA-Fabric-pi05-Box",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Box",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "DiogenesLab/world-model-research",
     "downloads": 0,
     "likes": 0,
@@ -240,6 +240,15 @@
     "url": "https://huggingface.co/oliverwood/embodied-ai-survey24-2023",
     "date": "2026-10-16",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "prithviraj-maurya/microduck-sprint-2m-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/prithviraj-maurya/microduck-sprint-2m-policy",
+    "date": "2026-10-16",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -303,6 +312,15 @@
     "url": "https://huggingface.co/lerobotStudent/picking-items-version-1.0_policy",
     "date": "2026-10-16",
     "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ayaansharmagug/review-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ayaansharmagug/review-robotics-vision-language",
+    "date": "2026-10-16",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -376,15 +394,6 @@
     "date": "2026-10-16",
     "keyword": "robotics",
     "score": 12.6
-  },
-  {
-    "model": "lobianchi/robotics-vision-language-analysis",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/lobianchi/robotics-vision-language-analysis",
-    "date": "2026-10-16",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "whi-tert/embodied-ai",
@@ -472,24 +481,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/policyengine/policyengine-uk-data-private",
-    "date": "2026-10-15",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "nguigz/my_trained_policy",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/nguigz/my_trained_policy",
-    "date": "2026-10-15",
-    "keyword": "policy",
-    "score": 5.2
-  },
-  {
-    "model": "jiajun0613/act-policy-v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jiajun0613/act-policy-v3",
     "date": "2026-10-15",
     "keyword": "policy",
     "score": 0.1
