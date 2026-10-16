@@ -1,5 +1,59 @@
 [
   {
+    "model": "hggforget/lingbotvla-robotwin-clean-sft",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/hggforget/lingbotvla-robotwin-clean-sft",
+    "date": "2026-10-16",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "Sumail/robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Sumail/robot",
+    "date": "2026-10-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "suryatmodulus/reki-2b-robotwin-cleanrand",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/suryatmodulus/reki-2b-robotwin-cleanrand",
+    "date": "2026-10-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "suryatmodulus/reki-2b-robotwin-clean",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/suryatmodulus/reki-2b-robotwin-clean",
+    "date": "2026-10-16",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "constructelligence/painting-vision-robotics-kit",
+    "downloads": 79,
+    "likes": 1,
+    "url": "https://huggingface.co/constructelligence/painting-vision-robotics-kit",
+    "date": "2026-10-16",
+    "keyword": "robotics",
+    "score": 24.0
+  },
+  {
+    "model": "Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k",
+    "downloads": 29,
+    "likes": 1,
+    "url": "https://huggingface.co/Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k",
+    "date": "2026-10-16",
+    "keyword": "vla",
+    "score": 9.0
+  },
+  {
     "model": "MtnMCG/PCEI-Robotics",
     "downloads": 0,
     "likes": 0,
@@ -25,15 +79,6 @@
     "date": "2026-10-16",
     "keyword": "robot",
     "score": 5.2
-  },
-  {
-    "model": "Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k",
-    "downloads": 29,
-    "likes": 1,
-    "url": "https://huggingface.co/Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 9.0
   },
   {
     "model": "RainyBot/SemWAM-RoboTwin-Ablation8-20261016-v26-adjust-bottle-run01",
@@ -63,55 +108,64 @@
     "score": 0.1
   },
   {
-    "model": "biyotteu/cosmos3-nano-robotwin",
+    "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/biyotteu/cosmos3-nano-robotwin",
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
     "date": "2026-10-16",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "zmf2023/robotwin2",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/zmf2023/robotwin2",
+    "model": "UCSC-VLAA/ClinSeek-35B-A3B",
+    "downloads": 102,
+    "likes": 4,
+    "url": "https://huggingface.co/UCSC-VLAA/ClinSeek-35B-A3B",
     "date": "2026-10-16",
-    "keyword": "robot",
-    "score": 5.8
+    "keyword": "vla",
+    "score": 31.5
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
-    "downloads": 33,
+    "model": "SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
     "date": "2026-10-16",
-    "keyword": "robotics",
-    "score": 10.0
+    "keyword": "policy",
+    "score": 0.1
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
-    "downloads": 35,
+    "model": "prehj/faster-vla-speed-module",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
+    "url": "https://huggingface.co/prehj/faster-vla-speed-module",
     "date": "2026-10-16",
-    "keyword": "robotics",
-    "score": 10.6
+    "keyword": "vla",
+    "score": 0.1
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
-    "downloads": 37,
+    "model": "Snare314/VLA-Fabric-pi05-Mic",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Mic",
     "date": "2026-10-16",
-    "keyword": "robotics",
-    "score": 11.2
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "RocheL/vlatest",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RocheL/vlatest",
+    "date": "2026-10-16",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Shoes",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Shoes",
     "date": "2026-10-16",
     "keyword": "vla",
     "score": 0.1
@@ -144,40 +198,13 @@
     "score": 0.1
   },
   {
-    "model": "fouad1233/vla_jepa_pen_in_bowl_wrist",
+    "model": "Snare314/VLA-Fabric-pi05-Box",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/fouad1233/vla_jepa_pen_in_bowl_wrist",
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Box",
     "date": "2026-10-16",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "vlad-grig/realesr-general-x4v3-onnx",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlad-grig/realesr-general-x4v3-onnx",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "introvoyz045/Xiaomi-Robotics-1-VLABench",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/introvoyz045/Xiaomi-Robotics-1-VLABench",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Danielxsy/safedrive-vla",
-    "downloads": 5,
-    "likes": 3,
-    "url": "https://huggingface.co/Danielxsy/safedrive-vla",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 2.2
   },
   {
     "model": "DiogenesLab/world-model-research",
@@ -213,6 +240,15 @@
     "url": "https://huggingface.co/oliverwood/embodied-ai-survey24-2023",
     "date": "2026-10-16",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "Ashish-Ranjan/Qwen3.5-9B-Policy-Structure-LoRA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Ashish-Ranjan/Qwen3.5-9B-Policy-Structure-LoRA",
+    "date": "2026-10-16",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -270,6 +306,33 @@
     "score": 0.1
   },
   {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
+    "downloads": 33,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
+    "date": "2026-10-16",
+    "keyword": "robotics",
+    "score": 10.0
+  },
+  {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
+    "downloads": 35,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
+    "date": "2026-10-16",
+    "keyword": "robotics",
+    "score": 10.6
+  },
+  {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
+    "downloads": 37,
+    "likes": 0,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
+    "date": "2026-10-16",
+    "keyword": "robotics",
+    "score": 11.2
+  },
+  {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round",
     "downloads": 40,
     "likes": 0,
@@ -321,42 +384,6 @@
     "url": "https://huggingface.co/lobianchi/robotics-vision-language-analysis",
     "date": "2026-10-16",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
-    "downloads": 31,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage1_RL-FMB_SqCircle-alpha0",
-    "date": "2026-10-16",
-    "keyword": "robotics",
-    "score": 9.4
-  },
-  {
-    "model": "vlad-grig/piper-voices",
-    "downloads": 516,
-    "likes": 1,
-    "url": "https://huggingface.co/vlad-grig/piper-voices",
-    "date": "2026-10-15",
-    "keyword": "vla",
-    "score": 155.1
-  },
-  {
-    "model": "vlad-grig/Kokoro-82M-v1.0-ONNX",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/vlad-grig/Kokoro-82M-v1.0-ONNX",
-    "date": "2026-10-15",
-    "keyword": "vla",
-    "score": 3.4
-  },
-  {
-    "model": "mliv/lingbot-vla-v2-arx5-block-fullframe-fixed",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mliv/lingbot-vla-v2-arx5-block-fullframe-fixed",
-    "date": "2026-10-15",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -466,24 +493,6 @@
     "date": "2026-10-15",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "mrodher/policy_test_V5_b32",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/mrodher/policy_test_V5_b32",
-    "date": "2026-10-15",
-    "keyword": "policy",
-    "score": 4.6
-  },
-  {
-    "model": "mrodher/policy_test_V5",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/mrodher/policy_test_V5",
-    "date": "2026-10-15",
-    "keyword": "policy",
-    "score": 5.2
   },
   {
     "model": "nvidia/PhysicalAI-Simulation-VoMP-Model",
