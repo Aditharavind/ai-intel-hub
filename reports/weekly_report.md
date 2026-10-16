@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-16 05:11 UTC
+Generated: 2026-10-16 10:11 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-16 05:11 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83683 | 33473.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63913 | 25565.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44690 | 17876.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30708 | 12283.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29035 | 11614.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83684 | 33473.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63915 | 25566.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44688 | 17875.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30711 | 12284.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29037 | 11614.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| mradermacher/semantic-world-model-4B-GGUF | 295 | 88.8 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
-| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 258 | 77.7 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| mradermacher/semantic-world-model-4B-GGUF | 306 | 92.1 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
+| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 257 | 77.4 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
 | masterset-ai/PhysicalEye-Decide-35B | 64 | 19.7 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
-| ubr-physical-ai/rescue-target-yolo26n | 37 | 11.2 | [link](https://huggingface.co/ubr-physical-ai/rescue-target-yolo26n) |
-| jgalego/space-invaders-world-model | 31 | 9.4 | [link](https://huggingface.co/jgalego/space-invaders-world-model) |
+| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 47 | 14.2 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
+| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube | 44 | 13.3 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-10-16 05:11 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-16 | Top Physical AI And Industrial Robotics Startups In Japan To Watch In 2027 - TechRound | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWpaSmFEWjlGRERsSkFzLUg0Vm5VSi1WQndBVnRoOTN4VVM2VU91azZfa0J2Uk5UWUczUVp4WXg2RzdPVHN0MmxIV0puTlh1eU1mZERqc0ZwMzdWX3hVZDZOSENEaFI4NnNvYm1lSGtnaVlKcUtSUG9makhzclRPTm15MmhIOTQ1cnYzYnZxZl9UcFF0eTdvbFdlZW8wTUtTeUdzNkhqOA?oc=5) |
 | 2026-10-15 | Chinese startup DexForce trains humanoid robots using virtual data to slash costs - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5) |
 | 2026-10-14 | German robotics unicorn NEURA launches Neuron AI to advance Physical AI and humanoid robotics - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUlub2lCTVM5UENWMkEtY0ZXVlFCTHZ0a3RRQzZ3ZEUwaFNMSmFCSGhpSjB5WTRWUFBnQ1BXTU81c3VoM2xKbE1rSmhZSGlxX2s2MDYxOHFpNEkzdnVtNUtvdE8zeU5zWVN1VmoxdUhwQmphQ2pYc2lrSjlFRnl3QlN4R3puUF83a0hWcWhoTDlKNjI1UXQ1VU9PUGVsd3R6UVVHVmlwZFI0X1A1eUwtNGIzMUdPSlllODhfa1hWSFhUaC1SZVhNY3ln?oc=5) |
-| 2026-10-14 | China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market - Bloomberg | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5) |
+| 2026-10-14 | China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market - Bloomberg.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5) |
 | 2026-10-14 | China's Humanoid Robot Shipments Hit 97% of the World as Tesla Stalls - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3A4SHNqRkFzU1JCUi1OdVlEejczTFhremlnYXcxNEwzWWNmVXJLZ1Y2VjVLUTd1dnFTaERhR1duNGZ6b2luWDFoZUFENGhMM0xaXzk1NXMta1ZOOTVqa05lUjNzZmRKYWUtVE55Yzd1Z2lpdjBENG5mM1hRbHdlY0laRDlyMlFsU2ExTjVEZlhaNlNoWUJ4YlBodw?oc=5) |
-| 2026-10-14 | Rivian's Robot Startup Hires Veteran EV Exec Doug Field - InsideEVs | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE5DTVpyQTlGN21saGJIbER6cnRwQlpuLUQ2SlBPa3Z2ZGJTbTdEbmFIMTZhYTc0NGVBTVNDdDVKRmY1UFJZQ3FoQk40MlhDcEN3a0ZVcHNleWIzNHRHR0FzVnFPQ3JodnZ0R2xFWXBUQUJyNUxwVWVNSg?oc=5) |
