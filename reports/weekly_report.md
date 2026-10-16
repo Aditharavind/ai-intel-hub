@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-16 10:11 UTC
+Generated: 2026-10-16 15:01 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-16 10:11 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83684 | 33473.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63915 | 25566.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44688 | 17875.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30711 | 12284.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29037 | 11614.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83685 | 33474.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63917 | 25566.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44690 | 17876.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30714 | 12285.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29042 | 11616.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
+| vlad-grig/piper-voices | 516 | 155.1 | [link](https://huggingface.co/vlad-grig/piper-voices) |
 | mradermacher/semantic-world-model-4B-GGUF | 306 | 92.1 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 257 | 77.4 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
-| masterset-ai/PhysicalEye-Decide-35B | 64 | 19.7 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
-| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 47 | 14.2 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
-| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube | 44 | 13.3 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube) |
+| masterset-ai/PhysicalEye-Decide-35B | 68 | 20.9 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
+| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 49 | 14.8 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

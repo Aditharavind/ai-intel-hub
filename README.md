@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-16 10:11 UTC
+Last Updated: 2026-10-16 15:01 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-10-16 | Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline | Hugging Face | [link](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) |
+| 2026-10-16 | Welcome Beam: a 501B open model you can own, customize, and scale | Hugging Face | [link](https://huggingface.co/blog/reflection-beam) |
 | 2026-10-15 | Bringing GPT-Rosalind to academic research labs | OpenAI | [link](https://openai.com/index/introducing-the-rosalind-academic-plan) |
 | 2026-10-15 | Teaching students to think and learn through questions | OpenAI | [link](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) |
 | 2026-10-15 | Sullivan & Cromwell brings legal expertise into agreement review | OpenAI | [link](https://openai.com/index/sullivan-cromwell) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-15 | Welcome FLUX.3 Image Klein in Diffusers | Hugging Face | [link](https://huggingface.co/blog/flux-3) |
 | 2026-10-14 | Amp puts AI agents to work beyond code with OpenAI models | OpenAI | [link](https://openai.com/index/amp-beyond-coding) |
 | 2026-10-14 | SentinelOne cuts malware analysis from weeks to hours | OpenAI | [link](https://openai.com/index/sentinelone) |
-| 2026-10-14 | How Third Moment Research runs 10,000 agents for 36+ hours | OpenAI | [link](https://openai.com/index/third-moment-research) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-16 | This Week in Security: Critical DNS Keys Rotated, Hacking Freezers Isn’t Cool, OpenAI Spies On Itself, and Advanced Hardware Wallet Hacks | Hackaday | [link](https://hackaday.com/2026/10/16/this-week-in-security-critical-dns-keys-rotated-hacking-freezers-isnt-cool-openai-spies-on-itself-and-advanced-hardware-wallet-hacks/) |
+| 2026-10-16 | Disposing of PLA and Why Composting is Not an Option | Hackaday | [link](https://hackaday.com/2026/10/16/disposing-of-pla-and-why-composting-is-not-an-option/) |
 | 2026-10-16 | Running DOOM (Sort Of) on a Sonoff Smart Switch | Hackaday | [link](https://hackaday.com/2026/10/16/running-doom-sort-of-on-a-sonoff-smart-switch/) |
 | 2026-10-16 | Another Wireless Chip has a Hidden SDR Revealed | Hackaday | [link](https://hackaday.com/2026/10/15/another-wireless-chip-has-a-hidden-sdr-revealed/) |
 | 2026-10-16 | Using Optical Waveguide Arrays to Make Sheets Sense Shapes | Hackaday | [link](https://hackaday.com/2026/10/15/using-optical-waveguide-arrays-to-make-sheets-sense-shapes/) |
 | 2026-10-16 | Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/) |
-| 2026-10-16 | Data services the growth engine for Satellite Connectivity revenue – Novaspace | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/data-services-the-growth-engine-for-satellite-connectivity-revenue-novaspace-2026-10/) |
-| 2026-10-16 | Anglia addresses alternative analogue | Electronics Weekly | [link](https://www.electronicsweekly.com/news/anglia-addresses-alternative-analogue-2026-10/) |
-| 2026-10-16 | IonQ and Cavendish Lab open Quantum innovation Centre | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/ionq-and-cavendish-lab-open-quantum-innovation-centre-2026-10/) |
-| 2026-10-16 | Infineon and Wolfspeed hook up on SiC wafers | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-and-wolfspeed-hook-up-on-sic-wafers-uh-2026-10/) |
-| 2026-10-16 | Altair Semi to add Iridium direct phone signals to cellular  chipsets | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/altair-semi-to-add-iridium-direct-phone-signals-to-iot-chipsets-2026-10/) |
-| 2026-10-16 | Datacentre installation growth rate slowed by opposition | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/datacentre-infrastructure-2026-10/) |
+| 2026-10-16 | Elektrobit and Microchip Simplify AUTOSAR Integration | Embedded.com | [link](https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration/) |
+| 2026-10-16 | Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/) |
+| 2026-10-16 | What caught your eye? Arm vs Qualcomm, AI boom, ADR mission | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/) |
+| 2026-10-16 | When Mandy  Became A Revolutionary | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-10-16 | Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k | 13 | 1 | [link](https://huggingface.co/Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k) |
+| 2026-10-16 | MtnMCG/PCEI-Robotics | 0 | 0 | [link](https://huggingface.co/MtnMCG/PCEI-Robotics) |
+| 2026-10-16 | kyutai/reki-2b-robotwin-cleanrand | 9 | 0 | [link](https://huggingface.co/kyutai/reki-2b-robotwin-cleanrand) |
+| 2026-10-16 | kyutai/reki-2b-robotwin-clean | 17 | 0 | [link](https://huggingface.co/kyutai/reki-2b-robotwin-clean) |
+| 2026-10-16 | Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k | 29 | 1 | [link](https://huggingface.co/Xiaodong/lingbot-vla-2-robotwin-clean-bs512-step2k) |
+| 2026-10-16 | RainyBot/SemWAM-RoboTwin-Ablation8-20261016-v26-adjust-bottle-run01 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Ablation8-20261016-v26-adjust-bottle-run01) |
+| 2026-10-16 | yyoraa/robottt-runs | 0 | 0 | [link](https://huggingface.co/yyoraa/robottt-runs) |
 | 2026-10-16 | ayaansharmagug/review-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/ayaansharmagug/review-robotics-vision-language) |
 | 2026-10-16 | biyotteu/cosmos3-nano-robotwin | 0 | 0 | [link](https://huggingface.co/biyotteu/cosmos3-nano-robotwin) |
 | 2026-10-16 | zmf2023/robotwin2 | 19 | 0 | [link](https://huggingface.co/zmf2023/robotwin2) |
-| 2026-10-16 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0 | 31 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0) |
-| 2026-10-16 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle | 32 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle) |
-| 2026-10-16 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0 | 36 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0) |
-| 2026-10-16 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round | 39 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round) |
-| 2026-10-16 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 47 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
-| 2026-10-16 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube | 44 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube) |
+| 2026-10-16 | DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0 | 33 | 0 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29037 | Python | 11614.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| copper-project/copper-rs | 1520 | Rust | 608.1 | [link](https://github.com/copper-project/copper-rs) |
+| harvard-edge/cs249r_book | 29042 | Python | 11616.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3613 | Python | 1445.3 | [link](https://github.com/NVIDIA/skills) |
+| copper-project/copper-rs | 1522 | Rust | 608.9 | [link](https://github.com/copper-project/copper-rs) |
+| pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1079 | Python | 431.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | autonomous-ai/lampOS | 459 | Python | 183.7 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 63915 | Python | 25566.1 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 20836 | Python | 8334.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63917 | Python | 25566.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44690 | JavaScript | 17876.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| earthtojake/text-to-cad | 20894 | Python | 8357.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17445 | Java | 6978.1 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16294 | Python | 6517.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 16077 | C++ | 6430.9 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15707 | C++ | 6282.9 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -113,8 +113,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-01 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUW5BR1lMVk93VmxPNTNaamZCdTAxNkFWQ1FzYndjdUlxbFlvNHB3NnlISVJMdExvajB3TlB5Ym1Xb0ZNaDlYOWFHRkhzajJnRmRqMDJlVEU2aUxFX25mNC12TllsZHVaanNiakczcmZFUmZyb3cxVjBiQzltQUlDckpwOWd6S3lvNm1PUHI4QmM3aWJFcjZac2QyQWlHT1NJVnNIQmhWbjY4aEE5S25qVEFXWFBvSkp3V1B3SktFV0FSVlRqRXZqUHQzTXJzYUIt0gHkAUFVX3lxTE9aeTlSRjdIcEZIel95UjRYYVN6SkgwMTgteXNsaGdmNUt4TF8xellYV2V4bzZxODVNclgwVU9BRkJ0T3N5QUV2c3R2NUZJMjQ3aFU5cFpDWWNVWld5cU1CS2lsUkJBM1BCeTdEMUREWEp2aUpyNG5DUnlta0dZaWhVbnlybE5nbzZScU9GSjBqeTF5Wm4yNElyNi0zZ2xJYnhEZWxrVXVubVBQQVk3NHF1SkFGMW9PZGxoQmZkaHJwRTU0U2VRQ3BmZEZ1RVRiMWxoX0Fra1VLM0Q0Qy1sRmR3MGhYWQ?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-26 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnNveThPbDVwUWdxWi1YM2NXWW1yaFpMZ05US0NnQlRUSU54MFFZd2xfY0sxdkhOQklnakp0UklGUGFKeU1TSkt5dE14OUd1Yy1NNUhUeWx3VjlHNU5yZ1h6YjdDdmNrQkFhYkdUWTNfbjR2UXFHc2dJLUxLOTVjYllfd09SQXl4V240RVhJZlFOQTVuUEtyUUp5cVg0VEdRVUNHSXdUUVlVeDZsdTB6aEZZXzZTNWp3RnhETmo1YndiT3M?oc=5) |
-| 2026-09-20 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzcwTk1oOWQzbGNkRVJ1MTdsSGtON244WXFqdk5TNHQ5cHBPck94VVhCanFtZmY2S3UyYkZGY0ozcGE5eXFTVElja0hwODR6djI1d0pvM0dIS1ZSbHNMTm9yZ29iMFZ1bU43bklyYXc1SGJFNnV3MEpMaGtiTks2TktCejZpOXN4a1U4ek14SGZhMHc5cHFDMEdtUEk?oc=5) |
 | 2026-09-16 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUFSRWNnR1QtQ0w3NTY4Y1BjUlV6SlBQclAxYVJuWGFabjBqSkxoNERDelc0ZkNiRjF5ZEcyc2Z6aU9selJGNWF2NDNrUVpOczJQX2ZINFlhZ3FfZFBtYl83RWtNNThRWnlXcTVKVFlob2pQU2x4b1lNUy0yS09DVHk3X3V6WVFtSmJZWUtYT1JXelRPM19ETi1qRko5SGpveEp1N29tY0x1aHVKbEdDYjM5ZUtaQlRBaWZkcWNrUFhSZTdt?oc=5) |
+| 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -133,6 +133,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-16 | Material Handler, Commercial Operations | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4710235006) |
+| 2026-10-16 | Senior Demand Generation & Campaign Strategy Manager | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6225720004) |
 | 2026-10-15 | Hardware Reliability Intern [Winter 2027] | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
 | 2026-10-15 | Buyer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222793004) |
 | 2026-10-15 | Buyer II | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222776004) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-15 | Senior Supply Planner - Raw Components | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222796004) |
 | 2026-10-15 | Senior Triage & RCA Engineer | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6128829004) |
 | 2026-10-14 | Embedded Software Engineering Intern, Platform | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4722086006) |
-| 2026-10-14 | Senior Deployment Specialist | Agility Robotics | Onsite- Pittsburgh, PA; Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222418004) |
-| 2026-10-14 | Senior Technical Support Specialist | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222414004) |
 
 ## Automation
 
