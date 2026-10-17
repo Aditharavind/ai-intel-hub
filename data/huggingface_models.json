@@ -1,5 +1,14 @@
 [
   {
+    "model": "unileon-robotics/thewhisper-large-v3-turbo-GGML",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/unileon-robotics/thewhisper-large-v3-turbo-GGML",
+    "date": "2026-10-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "hggforget/lingbotvla-robotwin-clean-sft",
     "downloads": 0,
     "likes": 2,
@@ -7,6 +16,33 @@
     "date": "2026-10-17",
     "keyword": "robot",
     "score": 0.5
+  },
+  {
+    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "date": "2026-10-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "vinguyen0891/Vivy-Robot-3B-Video-Pro-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vinguyen0891/Vivy-Robot-3B-Video-Pro-GGUF",
+    "date": "2026-10-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "vinguyen0891/Vivy-Robot-1.5B-Act-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vinguyen0891/Vivy-Robot-1.5B-Act-GGUF",
+    "date": "2026-10-17",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
@@ -72,40 +108,22 @@
     "score": 13.6
   },
   {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
-    "downloads": 44,
-    "likes": 1,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
+    "model": "mangocloud/libero-90-cover-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mangocloud/libero-90-cover-vla",
     "date": "2026-10-17",
-    "keyword": "robotics",
-    "score": 13.5
+    "keyword": "vla",
+    "score": 0.1
   },
   {
-    "model": "KiyotakaWang/WAVE-0-RoboTwin",
-    "downloads": 8,
+    "model": "mangocloud/libero-4suite-cover-vla",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/KiyotakaWang/WAVE-0-RoboTwin",
+    "url": "https://huggingface.co/mangocloud/libero-4suite-cover-vla",
     "date": "2026-10-17",
-    "keyword": "robot",
-    "score": 2.5
-  },
-  {
-    "model": "SimpleJev/JevAny-Robotics-4B-LoRA",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/SimpleJev/JevAny-Robotics-4B-LoRA",
-    "date": "2026-10-17",
-    "keyword": "robotics",
-    "score": 2.8
-  },
-  {
-    "model": "polarisai-robots/bento_ur7e_pi05_v5_dagger",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v5_dagger",
-    "date": "2026-10-17",
-    "keyword": "robot",
-    "score": 2.5
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "vladlen-beilik/qwen-pe-t2i-2.1-runpod",
@@ -198,6 +216,24 @@
     "score": 164.2
   },
   {
+    "model": "StrongUzumaki/rover-navigation-stack-yolov8n",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/StrongUzumaki/rover-navigation-stack-yolov8n",
+    "date": "2026-10-17",
+    "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "shalevo/so101_block_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shalevo/so101_block_policy",
+    "date": "2026-10-17",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "k-rainfield/my_policy",
     "downloads": 0,
     "likes": 0,
@@ -270,6 +306,24 @@
     "score": 3.4
   },
   {
+    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
+    "downloads": 44,
+    "likes": 1,
+    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-PnP_Banana",
+    "date": "2026-10-17",
+    "keyword": "robotics",
+    "score": 13.5
+  },
+  {
+    "model": "SimpleJev/JevAny-Robotics-4B-LoRA",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/SimpleJev/JevAny-Robotics-4B-LoRA",
+    "date": "2026-10-17",
+    "keyword": "robotics",
+    "score": 2.8
+  },
+  {
     "model": "prehj/faster-vla-speed-module",
     "downloads": 0,
     "likes": 0,
@@ -313,24 +367,6 @@
     "date": "2026-10-16",
     "keyword": "vla",
     "score": 3.1
-  },
-  {
-    "model": "UCSC-VLAA/ClinSeek-35B-A3B",
-    "downloads": 334,
-    "likes": 4,
-    "url": "https://huggingface.co/UCSC-VLAA/ClinSeek-35B-A3B",
-    "date": "2026-10-16",
-    "keyword": "vla",
-    "score": 101.1
-  },
-  {
-    "model": "SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
-    "date": "2026-10-16",
-    "keyword": "policy",
-    "score": 4.6
   },
   {
     "model": "DiogenesLab/world-model-research",
@@ -378,13 +414,13 @@
     "score": 6.4
   },
   {
-    "model": "Ashish-Ranjan/Qwen3.5-9B-Policy-Structure-LoRA",
-    "downloads": 32,
+    "model": "SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
+    "downloads": 15,
     "likes": 0,
-    "url": "https://huggingface.co/Ashish-Ranjan/Qwen3.5-9B-Policy-Structure-LoRA",
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
     "date": "2026-10-16",
     "keyword": "policy",
-    "score": 9.7
+    "score": 4.6
   },
   {
     "model": "constructelligence/painting-vision-robotics-kit",
@@ -394,24 +430,6 @@
     "date": "2026-10-16",
     "keyword": "robotics",
     "score": 26.4
-  },
-  {
-    "model": "MtnMCG/PCEI-Robotics",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MtnMCG/PCEI-Robotics",
-    "date": "2026-10-16",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "ayaansharmagug/review-robotics-vision-language",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/ayaansharmagug/review-robotics-vision-language",
-    "date": "2026-10-16",
-    "keyword": "robotics",
-    "score": 4.3
   },
   {
     "model": "whi-tert/embodied-ai",
@@ -754,14 +772,5 @@
     "date": "2026-08-24",
     "keyword": "navigation",
     "score": 3.1
-  },
-  {
-    "model": "hfunknown/qwen3-8b-navigation-lora-persistent",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/hfunknown/qwen3-8b-navigation-lora-persistent",
-    "date": "2026-08-24",
-    "keyword": "navigation",
-    "score": 4.6
   }
 ]
