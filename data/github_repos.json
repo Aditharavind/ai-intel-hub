@@ -1,13 +1,13 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 29055,
+    "stars": 29058,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-10-17",
     "topic": "embodied-ai",
-    "score": 11622.1
+    "score": 11623.3
   },
   {
     "repo": "NVIDIA/skills",
@@ -41,13 +41,13 @@
   },
   {
     "repo": "autonomous-ai/lampOS",
-    "stars": 470,
+    "stars": 471,
     "language": "Python",
     "description": "The open-source operating system for physical AI.",
     "url": "https://github.com/autonomous-ai/lampOS",
     "date": "2026-10-17",
     "topic": "physical-ai",
-    "score": 188.1
+    "score": 188.5
   },
   {
     "repo": "commaai/openpilot",
@@ -61,13 +61,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 21222,
+    "stars": 21237,
     "language": "Python",
     "description": "Give your agent CAD superpowers.",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-10-17",
     "topic": "robotics",
-    "score": 8488.9
+    "score": 8494.9
   },
   {
     "repo": "questdb/questdb",
@@ -81,23 +81,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 16083,
+    "stars": 16084,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-10-17",
     "topic": "robotics",
-    "score": 6433.3
+    "score": 6433.7
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 15730,
+    "stars": 15731,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-10-17",
     "topic": "robotics",
-    "score": 6292.1
+    "score": 6292.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -150,14 +150,24 @@
     "score": 201.3
   },
   {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 480,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-10-17",
+    "topic": "vla",
+    "score": 192.1
+  },
+  {
     "repo": "deeplethe/utopia",
-    "stars": 8407,
+    "stars": 8411,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-10-17",
     "topic": "world-model",
-    "score": 3362.9
+    "score": 3364.5
   },
   {
     "repo": "vllm-project/vllm-omni",
@@ -311,13 +321,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44701,
+    "stars": 44702,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 17880.5
+    "score": 17880.9
   },
   {
     "repo": "zauberzeug/nicegui",
@@ -360,24 +370,14 @@
     "score": 260.9
   },
   {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 480,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-10-16",
-    "topic": "vla",
-    "score": 192.1
-  },
-  {
     "repo": "SkyworkAI/Matrix-Game",
-    "stars": 2547,
+    "stars": 2548,
     "language": "Python",
     "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
     "url": "https://github.com/SkyworkAI/Matrix-Game",
     "date": "2026-10-16",
     "topic": "world-model",
-    "score": 1018.9
+    "score": 1019.3
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -451,13 +451,13 @@
   },
   {
     "repo": "reality-opened/openreality",
-    "stars": 369,
+    "stars": 375,
     "language": "Python",
     "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
     "url": "https://github.com/reality-opened/openreality",
     "date": "2026-10-16",
     "topic": "lerobot",
-    "score": 147.7
+    "score": 150.1
   },
   {
     "repo": "rokbenko/quackd",
@@ -491,13 +491,13 @@
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2973,
+    "stars": 2975,
     "language": "Python",
     "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
     "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
     "date": "2026-10-15",
     "topic": "embodied-ai",
-    "score": 1189.3
+    "score": 1190.1
   },
   {
     "repo": "dexmal/opendm",
@@ -761,13 +761,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3381,
+    "stars": 3382,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-10-02",
     "topic": "lerobot",
-    "score": 1352.5
+    "score": 1352.9
   },
   {
     "repo": "Tavish9/any4lerobot",
