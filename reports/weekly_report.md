@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-16 22:14 UTC
+Generated: 2026-10-17 00:50 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,19 +15,19 @@ Generated: 2026-10-16 22:14 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83685 | 33474.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63915 | 25566.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44695 | 17878.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63914 | 25565.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44696 | 17878.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30714 | 12285.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 29048 | 11619.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| mradermacher/semantic-world-model-4B-GGUF | 306 | 92.1 | [link](https://huggingface.co/mradermacher/semantic-world-model-4B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 257 | 77.4 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
 | UCSC-VLAA/ClinSeek-35B-A3B | 102 | 31.5 | [link](https://huggingface.co/UCSC-VLAA/ClinSeek-35B-A3B) |
 | constructelligence/painting-vision-robotics-kit | 79 | 24.0 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
 | masterset-ai/PhysicalEye-Decide-35B | 68 | 20.9 | [link](https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B) |
+| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 49 | 14.8 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -42,7 +42,7 @@ Generated: 2026-10-16 22:14 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-16 | Postcard from MassRobotics: Where Physical AI Meets Startup Speed - Intel | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGtDOUNJWHBXRVpONXhLY1I2ck02V252Qk1aZlM4UExVa19Ea2R5U0NTYl9jWUUtSlZRRUhvV2pCNmN6a0hKRWtibHVJaF9RT2psRVowNHFRVUJDOVhEcW43QWxRSFdHczd3VFBGNlQzMWF4R3Z3MHJlakpJRXVINEZzZE5ocWM1b0UtbUl1UVFvbmJUUjFxTUFKWlV0XzhpVGdFcjJXbkRsa3E2eFdRVW5haUlqcUVwa3dDR1FpcWszMXBkMFhlVXdB?oc=5) |
+| 2026-10-16 | Rivian CEO RJ Scaringe Says Physical AI Will Have Its ‘Science Fiction’ Moment by 2030 - 1 Smart Business Story | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU05UeHl1R3ZxVEdOUFdfMWRuWGxDTHptN0hZblhWWjl3LUhuUU1MekdZZ1lSRjRjb3N3NTg5Mm8wZnZpX1U2RE5jTFRyU2VRZjE4Qm9lTm9sZXJrdXBKU3NPcmxNMENuQnVQbFEyMjRObkpab3F6bEJENjY0dUdyTWw4R2FuQkt3Qm50bFpqaHdOME9YeEhhejBnWjNrT3JJLUVDa0RoaEVLdkxrU1pFajAxZ2VFX2pPUUtEdXY1VkwwOWJDZFNQaTZFVGUzQQ?oc=5) |
 | 2026-10-16 | Top Physical AI And Industrial Robotics Startups In Japan To Watch In 2027 - TechRound | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWpaSmFEWjlGRERsSkFzLUg0Vm5VSi1WQndBVnRoOTN4VVM2VU91azZfa0J2Uk5UWUczUVp4WXg2RzdPVHN0MmxIV0puTlh1eU1mZERqc0ZwMzdWX3hVZDZOSENEaFI4NnNvYm1lSGtnaVlKcUtSUG9makhzclRPTm15MmhIOTQ1cnYzYnZxZl9UcFF0eTdvbFdlZW8wTUtTeUdzNkhqOA?oc=5) |
 | 2026-10-16 | Can BlackBerry (TSX:BB) Win Physical AI Startups With QNX? - Kalkine Media | physical ai startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkhjVUY3dVdDbU1mVUVUVl9yNng4cEZyNEpQUEhxaEt0ZjJvMTJLT2dURHpKVkNWVE1fSExGbEFaTFRoX0RlYXJ4b2lOOFA1U3czSlJKTmd0T1pZNkMyNU92Smt5ZEJwRzR5WnUzaHlOMkY0VVR0NmVtWlFNTzlGeEJjcG9jUWRBVlhoeDhscG1ZNlg0dWZxUmlwRGV3R3V2cjNUcDQyNExvbW40M2tGSzAyQQ?oc=5) |
 | 2026-10-15 | Chinese startup DexForce trains humanoid robots using virtual data to slash costs - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5) |
-| 2026-10-14 | German robotics unicorn NEURA launches Neuron AI to advance Physical AI and humanoid robotics - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUlub2lCTVM5UENWMkEtY0ZXVlFCTHZ0a3RRQzZ3ZEUwaFNMSmFCSGhpSjB5WTRWUFBnQ1BXTU81c3VoM2xKbE1rSmhZSGlxX2s2MDYxOHFpNEkzdnVtNUtvdE8zeU5zWVN1VmoxdUhwQmphQ2pYc2lrSjlFRnl3QlN4R3puUF83a0hWcWhoTDlKNjI1UXQ1VU9PUGVsd3R6UVVHVmlwZFI0X1A1eUwtNGIzMUdPSlllODhfa1hWSFhUaC1SZVhNY3ln?oc=5) |
