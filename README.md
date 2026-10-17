@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-17 21:04 UTC
+Last Updated: 2026-10-17 23:32 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -36,6 +36,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-10-17 | The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies | Robotics Business Review | [link](https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/) |
+| 2026-10-17 | ADI explains the race to make AI physical | Robotics Business Review | [link](https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/) |
 | 2026-10-16 | Video Friday: When Two Robots Become One | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-reconfigurable-robots) |
 | 2026-10-16 | MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program | Robotics Business Review | [link](https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/) |
 | 2026-10-16 | Why opportunity charging is winning as robot fleets scale | Robotics Business Review | [link](https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/) |
@@ -44,18 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-15 | How ADI is helping robotics startups scale | Robotics Business Review | [link](https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/) |
 | 2026-10-14 | Timken Precision Drives puts the motion challenge first in humanoid robots | Robotics Business Review | [link](https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/) |
 | 2026-10-14 | RoboBusiness 2026 panel to discuss reshoring with robots | Robotics Business Review | [link](https://www.therobotreport.com/robobusiness-2026-panel-discusses-reshoring-with-robots/) |
-| 2026-10-13 | Q&A: Mars Perseverance Rover Sets a Distance Record | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/mars-rover-distance-record) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-17 | 2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games | Hackaday | [link](https://hackaday.com/2026/10/17/2026-retrocomputing-challenge-dollhouse-arcade-cabinet-runs-remote-dos-games/) |
 | 2026-10-17 | Building a Flying Drone With a Single Propeller | Hackaday | [link](https://hackaday.com/2026/10/17/building-a-flying-drone-with-a-single-propeller/) |
 | 2026-10-17 | 2026 Retrocomputing Challenge: Oldputer Gives Old Eyes Relief with E-ink Display | Hackaday | [link](https://hackaday.com/2026/10/17/2026-retrocomputing-challenge-oldputer-gives-old-eyes-relief-with-e-ink-display/) |
 | 2026-10-17 | Discovering SDRs Everywhere | Hackaday | [link](https://hackaday.com/2026/10/17/discovering-sdrs-everywhere/) |
 | 2026-10-17 | SolidCraft is Parametric, Automation-friendly CAD for Desktop and Browser | Hackaday | [link](https://hackaday.com/2026/10/17/solidcraft-is-parametric-automation-friendly-cad-for-desktop-and-browser/) |
 | 2026-10-17 | Making One Fender From Another | Hackaday | [link](https://hackaday.com/2026/10/17/making-one-fender-from-another/) |
 | 2026-10-17 | TAKTO, Open Source Hand-Tracking Built Like LEGO | Hackaday | [link](https://hackaday.com/2026/10/16/takto-open-source-hand-tracking-built-like-lego/) |
-| 2026-10-17 | The Trials And Tribulations Of Your First Badge | Hackaday | [link](https://hackaday.com/2026/10/16/the-trials-and-tribulations-of-your-first-badge/) |
 | 2026-10-17 | Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options | CNX Software | [link](https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/) |
 | 2026-10-17 | Astrobiologist Answers Mars Questions | Adafruit | [link](https://blog.adafruit.com/2026/10/17/astrobiologist-answers-mars-questions/) |
 | 2026-10-17 | Adafruit New Product this Week: Adafruit CP2105 Friend – USB to Dual UART Serial Converters | Adafruit | [link](https://blog.adafruit.com/2026/10/17/adafruit-new-product-this-week-adafruit-cp2105-friend-usb-to-dual-uart-serial-converters/) |
@@ -77,8 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-10-17 | polarisai-robots/bento_ur7e_pi05_v6 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v6) |
 | 2026-10-17 | abcamiletto/robot-models | 0 | 0 | [link](https://huggingface.co/abcamiletto/robot-models) |
+| 2026-10-17 | polarisai-robots/bento_ur7e_pi05_v6 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v6) |
 | 2026-10-17 | OpenPhoenix/Phoenix-RoboTwin | 0 | 0 | [link](https://huggingface.co/OpenPhoenix/Phoenix-RoboTwin) |
 | 2026-10-17 | AnyverseDynamics/Phoenix-RoboTwin | 0 | 0 | [link](https://huggingface.co/AnyverseDynamics/Phoenix-RoboTwin) |
 | 2026-10-17 | gonzalezadrian/robotics-vision-language-prototype-2023 | 0 | 0 | [link](https://huggingface.co/gonzalezadrian/robotics-vision-language-prototype-2023) |
@@ -97,7 +97,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | robocurve/inspect-robots | 683 | Python | 273.3 | [link](https://github.com/robocurve/inspect-robots) |
 | autonomous-ai/lampOS | 471 | Python | 188.5 | [link](https://github.com/autonomous-ai/lampOS) |
 | commaai/openpilot | 63921 | Python | 25568.5 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 21237 | Python | 8494.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 21255 | Python | 8502.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17448 | Java | 6979.3 | [link](https://github.com/questdb/questdb) |
 | ArduPilot/ardupilot | 16084 | C++ | 6433.7 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 15731 | C++ | 6292.5 | [link](https://github.com/google-deepmind/mujoco) |
