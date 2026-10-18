@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-18 06:40 UTC
+Generated: 2026-10-18 11:47 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-18 06:40 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83689 | 33475.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83690 | 33476.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63924 | 25569.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44702 | 17880.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44703 | 17881.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30721 | 12288.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29062 | 11624.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29063 | 11625.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| EPFL-LARA/lean-world-model-qwen3-8b-grpo | 556 | 166.9 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo) |
-| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 551 | 165.4 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
-| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 548 | 164.5 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
-| EPFL-LARA/lean-world-model-qwen3-8b-sft | 547 | 164.2 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-sft) |
-| mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF | 256 | 77.1 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF) |
+| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 607 | 182.2 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 600 | 180.1 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-8b-grpo | 599 | 179.8 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-8b-sft | 595 | 178.6 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-sft) |
+| mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 258 | 77.5 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

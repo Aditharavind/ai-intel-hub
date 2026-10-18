@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-18 06:40 UTC
+Last Updated: 2026-10-18 11:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,14 +49,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-18 | Evolving RC circuits | Hackaday | [link](https://hackaday.com/2026/10/18/evolving-rc-circuits/) |
+| 2026-10-18 | Turning a Wi-Fi Adapter into an SDR | Hackaday | [link](https://hackaday.com/2026/10/18/turning-a-wi-fi-adapter-into-an-sdr/) |
 | 2026-10-18 | Making a New Mechanism for a Reciprocating Pencil Sharpener | Hackaday | [link](https://hackaday.com/2026/10/17/making-a-new-mechanism-for-a-reciprocating-pencil-sharpener/) |
 | 2026-10-18 | Busting the Myth that Plastics are Chemically Inert in Water | Hackaday | [link](https://hackaday.com/2026/10/17/busting-the-myth-that-plastics-are-chemically-inert-in-water/) |
 | 2026-10-18 | M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display | CNX Software | [link](https://www.cnx-software.com/2026/10/18/m5stack-paperdiy-kits-pair-an-esp32-s3-mcu-with-a-4-7-inch-e-paper-display/) |
 | 2026-10-17 | 2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games | Hackaday | [link](https://hackaday.com/2026/10/17/2026-retrocomputing-challenge-dollhouse-arcade-cabinet-runs-remote-dos-games/) |
 | 2026-10-17 | Building a Flying Drone With a Single Propeller | Hackaday | [link](https://hackaday.com/2026/10/17/building-a-flying-drone-with-a-single-propeller/) |
 | 2026-10-17 | 2026 Retrocomputing Challenge: Oldputer Gives Old Eyes Relief with E-ink Display | Hackaday | [link](https://hackaday.com/2026/10/17/2026-retrocomputing-challenge-oldputer-gives-old-eyes-relief-with-e-ink-display/) |
-| 2026-10-17 | Discovering SDRs Everywhere | Hackaday | [link](https://hackaday.com/2026/10/17/discovering-sdrs-everywhere/) |
-| 2026-10-17 | SolidCraft is Parametric, Automation-friendly CAD for Desktop and Browser | Hackaday | [link](https://hackaday.com/2026/10/17/solidcraft-is-parametric-automation-friendly-cad-for-desktop-and-browser/) |
 | 2026-10-17 | Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options | CNX Software | [link](https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/) |
 | 2026-10-17 | Astrobiologist Answers Mars Questions | Adafruit | [link](https://blog.adafruit.com/2026/10/17/astrobiologist-answers-mars-questions/) |
 
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3) |
+| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23) |
+| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2) |
+| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13) |
+| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12) |
 | 2026-10-18 | anhdao69/ChronoLoop_Robotwin5 | 0 | 0 | [link](https://huggingface.co/anhdao69/ChronoLoop_Robotwin5) |
-| 2026-10-18 | Aalmutairison/random-robotics-vision-language-2024 | 0 | 0 | [link](https://huggingface.co/Aalmutairison/random-robotics-vision-language-2024) |
-| 2026-10-18 | vinguyen0891/Vivy-R-Robotics-3B-GGUF | 0 | 0 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
+| 2026-10-18 | Aalmutairison/random-robotics-vision-language-2024 | 8 | 0 | [link](https://huggingface.co/Aalmutairison/random-robotics-vision-language-2024) |
+| 2026-10-18 | vinguyen0891/Vivy-R-Robotics-3B-GGUF | 100 | 0 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
+| 2026-10-18 | Charly-chan/mc-duplex-vla-ckpt | 0 | 0 | [link](https://huggingface.co/Charly-chan/mc-duplex-vla-ckpt) |
 | 2026-10-18 | Chenbao77/VLA-Rolling | 0 | 0 | [link](https://huggingface.co/Chenbao77/VLA-Rolling) |
-| 2026-10-18 | RocheL/vlatest | 0 | 0 | [link](https://huggingface.co/RocheL/vlatest) |
-| 2026-10-18 | jasonren-ai2/g1-vla-finetune-checkpoints | 0 | 0 | [link](https://huggingface.co/jasonren-ai2/g1-vla-finetune-checkpoints) |
-| 2026-10-18 | vicshi97/pi05_policy_sock-garbage-merged_2.0_yolo_20k | 31 | 1 | [link](https://huggingface.co/vicshi97/pi05_policy_sock-garbage-merged_2.0_yolo_20k) |
-| 2026-10-18 | anandsmilesath/Team1_Bhel_Poori-Dataset3-Policy | 0 | 0 | [link](https://huggingface.co/anandsmilesath/Team1_Bhel_Poori-Dataset3-Policy) |
-| 2026-10-17 | abcamiletto/robot-models | 0 | 0 | [link](https://huggingface.co/abcamiletto/robot-models) |
-| 2026-10-17 | polarisai-robots/bento_ur7e_pi05_v6 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v6) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29062 | Python | 11624.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| autonomous-ai/lampOS | 471 | Python | 188.5 | [link](https://github.com/autonomous-ai/lampOS) |
+| harvard-edge/cs249r_book | 29063 | Python | 11625.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| autonomous-ai/lampOS | 473 | Python | 189.3 | [link](https://github.com/autonomous-ai/lampOS) |
+| Developer-Y/cs-video-courses | 83690 |  | 33476.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63924 | Python | 25569.7 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 21313 | Python | 8525.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 21361 | Python | 8544.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17448 | Java | 6979.3 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 16087 | C++ | 6434.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | dora-rs/dora | 4016 | Rust | 1606.5 | [link](https://github.com/dora-rs/dora) |
-| PhyAgentOS/PhyAgentOS-core | 2981 | Python | 1192.5 | [link](https://github.com/PhyAgentOS/PhyAgentOS-core) |
-| sou350121/VLA-Handbook | 715 | HTML | 286.1 | [link](https://github.com/sou350121/VLA-Handbook) |
-| RealXiaoze/humanoid-motion-intelligence | 652 |  | 260.9 | [link](https://github.com/RealXiaoze/humanoid-motion-intelligence) |
-| luohongk/Embodied-AI-Daily | 481 | HTML | 192.5 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
+| PhyAgentOS/PhyAgentOS-core | 2985 | Python | 1194.1 | [link](https://github.com/PhyAgentOS/PhyAgentOS-core) |
+| sou350121/VLA-Handbook | 716 | HTML | 286.5 | [link](https://github.com/sou350121/VLA-Handbook) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
