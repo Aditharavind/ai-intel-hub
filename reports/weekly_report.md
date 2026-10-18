@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-18 11:47 UTC
+Generated: 2026-10-18 14:55 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -16,9 +16,9 @@ Generated: 2026-10-18 11:47 UTC
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83690 | 33476.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63924 | 25569.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44703 | 17881.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30721 | 12288.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29063 | 11625.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NaiboWang/EasySpider | 44706 | 17882.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30722 | 12288.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29065 | 11626.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-10-18 11:47 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-17 | Physical AI startup Origin emerges from stealth with $20 million to scale construction robots - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUUNNTXB0OEt1YkdBazladGpodEZnSTlnWkhFaktnaFM5dVpqRm5vS0NDMmp5ZkVTRjRuc2Ywc1FpMDdfWmF2RF9pQmphWk1uVHBnbU40WUZyeUYzOWFOajJkVmlHTXpOYXQzb21HTnlvTUVTTUJJVlBVYXpmUlZVNTRzVFBLWEtaSnlmVnh5ZDNXcGxoa05YVHFHak12d2hjWUdXRER3MGdWN0RLOU5MSjI1cXY4Mzk2RVBvY0ZLX1NrSzlNRUN0NXlPSFNkMFJCX1ZnNFJR0gHWAUFVX3lxTE9RQ01NcHQ4S3ViR0FrOVp0amh0RmdJOWdaSEVqS2doUzl1WmpGbm9LQ0MyanlmRVNGNG5zZjBzUWkwN19aYXZEX2lCamFaTW5UcGdtTjRZRnJ5RjM5YU5qMmRWaUdNek5hdDNvbUdOeW9NRVNNQklWUFVhemZSVlU1NHNUUEtYS1pKeWZWeHlkM1dwbGhrTlhUcUdqTXZ3aGNZR1dERHcwZ1Y3REs5TkxKMjVxdjgzOTZFUG9jRktfU2tLOU1FQ3Q1eU9IU2QwUkJfVmc0UlE?oc=5) |
 | 2026-10-17 | Canada's Promise Robotics Signs Multi-Year Deal With US Homebuilder DR Horton for Robotic Homebuilding - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFF3bUtPakdLSkE4MEhOYjF4cnY4eHJtdWw2TldnN000NEJrWVp0SWFwbzU0VWlJN0lZamIzYmxMX1NIRzh0SXNkaS05cmE0Y1NYbUVBTFc2NTE0NDNHYXpZWGRRby14LUg3Q0ctbHQ4OV93OERmYTlpUlVfcVpFelVjY1hTbEJpS0Zzc2VYY2hyNVZRa2U3SEVaMUdXVVNyYmowVjJPMDVBcVVFWjhJU3BpbFF4MXhNdzloWDRINHVqakFKLUpnT2JKUDdtdGtETWh0Smpn?oc=5) |
 | 2026-10-16 | Postcard from MassRobotics: Where Physical AI Meets Startup Speed - Intel | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGtDOUNJWHBXRVpONXhLY1I2ck02V252Qk1aZlM4UExVa19Ea2R5U0NTYl9jWUUtSlZRRUhvV2pCNmN6a0hKRWtibHVJaF9RT2psRVowNHFRVUJDOVhEcW43QWxRSFdHczd3VFBGNlQzMWF4R3Z3MHJlakpJRXVINEZzZE5ocWM1b0UtbUl1UVFvbmJUUjFxTUFKWlV0XzhpVGdFcjJXbkRsa3E2eFdRVW5haUlqcUVwa3dDR1FpcWszMXBkMFhlVXdB?oc=5) |
 | 2026-10-16 | Rivian CEO RJ Scaringe Says Physical AI Will Have Its ‘Science Fiction’ Moment by 2030 - 1 Smart Business Story | physical ai startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU05UeHl1R3ZxVEdOUFdfMWRuWGxDTHptN0hZblhWWjl3LUhuUU1MekdZZ1lSRjRjb3N3NTg5Mm8wZnZpX1U2RE5jTFRyU2VRZjE4Qm9lTm9sZXJrdXBKU3NPcmxNMENuQnVQbFEyMjRObkpab3F6bEJENjY0dUdyTWw4R2FuQkt3Qm50bFpqaHdOME9YeEhhejBnWjNrT3JJLUVDa0RoaEVLdkxrU1pFajAxZ2VFX2pPUUtEdXY1VkwwOWJDZFNQaTZFVGUzQQ?oc=5) |
 | 2026-10-16 | Top Physical AI And Industrial Robotics Startups In Japan To Watch In 2027 - TechRound | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWpaSmFEWjlGRERsSkFzLUg0Vm5VSi1WQndBVnRoOTN4VVM2VU91azZfa0J2Uk5UWUczUVp4WXg2RzdPVHN0MmxIV0puTlh1eU1mZERqc0ZwMzdWX3hVZDZOSENEaFI4NnNvYm1lSGtnaVlKcUtSUG9makhzclRPTm15MmhIOTQ1cnYzYnZxZl9UcFF0eTdvbFdlZW8wTUtTeUdzNkhqOA?oc=5) |
-| 2026-10-16 | DeepSeek Enters Embodied Intelligence with Investments in Winverse AI and New Startups - KuCoin | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDlXbHg5MDc2SEpwWUUxUXhTOWJlaXVUU0h6aFJTT3FmS3NhNnNoQjZvVV9YYzBiR2I1UlRIU0V5bnJnR1ZLaXdxRlFMX0t0akpoRjVKdFB0OVhIcmZ2WUNEdTVEZkZkc2FzTk9FLTJXaXkwMHZXYUJrdHV2eUdxZ3cyc2t6MUkzdUdfQ2g3X094c3FVenFncDNoZWlDb2U1TFhTbVN4VEN4cmN4aXRMRW9sSXlveml6c1pocQ?oc=5) |
