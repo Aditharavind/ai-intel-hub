@@ -1,5 +1,32 @@
 [
   {
+    "model": "OpenPhoenix/Phoenix-RoboTwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenPhoenix/Phoenix-RoboTwin",
+    "date": "2026-10-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23",
+    "date": "2026-10-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Akasxxh/Robotics-Sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Akasxxh/Robotics-Sim",
+    "date": "2026-10-18",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "arunos728/cosmos3-robotwin-h32-l2-b256-16k",
     "downloads": 0,
     "likes": 0,
@@ -81,33 +108,6 @@
     "score": 8.9
   },
   {
-    "model": "Obsidian-Robotics/ppo-LunarLander-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Obsidian-Robotics/ppo-LunarLander-v2",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
@@ -153,6 +153,24 @@
     "score": 0.1
   },
   {
+    "model": "jadidbourbaki/shared-cache-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jadidbourbaki/shared-cache-world-model",
+    "date": "2026-10-18",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "manhasv/diffusion-policy-pusht200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/manhasv/diffusion-policy-pusht200",
+    "date": "2026-10-18",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Max-imumlikelihood/cqlz-gym-policy",
     "downloads": 0,
     "likes": 0,
@@ -175,15 +193,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/zonglin11/act_amazinghand_soarm_policy",
-    "date": "2026-10-18",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "manhasv/diffusion-policy-pusht200",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/manhasv/diffusion-policy-pusht200",
     "date": "2026-10-18",
     "keyword": "policy",
     "score": 0.1
@@ -241,6 +250,15 @@
     "date": "2026-10-18",
     "keyword": "policy",
     "score": 8.8
+  },
+  {
+    "model": "Obsidian-Robotics/ppo-LunarLander-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/ppo-LunarLander-v2",
+    "date": "2026-10-18",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "Aalmutairison/random-robotics-vision-language-2024",
@@ -448,15 +466,6 @@
     "date": "2026-10-17",
     "keyword": "robotics",
     "score": 14.2
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
-    "downloads": 49,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_Round-alpha0",
-    "date": "2026-10-17",
-    "keyword": "robotics",
-    "score": 14.8
   },
   {
     "model": "DiogenesLab/world-model-research",
@@ -727,15 +736,6 @@
     "date": "2026-10-08",
     "keyword": "physical ai",
     "score": 0.3
-  },
-  {
-    "model": "Prahaladha/flappy-world-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Prahaladha/flappy-world-model",
-    "date": "2026-10-07",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
