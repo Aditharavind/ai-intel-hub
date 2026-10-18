@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-17 23:32 UTC
+Generated: 2026-10-18 01:37 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,7 +15,7 @@ Generated: 2026-10-17 23:32 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83689 | 33475.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63921 | 25568.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63922 | 25568.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44702 | 17880.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30720 | 12288.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 29058 | 11623.3 | [link](https://github.com/harvard-edge/cs249r_book) |
@@ -44,5 +44,5 @@ Generated: 2026-10-17 23:32 UTC
 | 2026-10-17 | Canada's Promise Robotics Signs Multi-Year Deal With US Homebuilder DR Horton for Robotic Homebuilding - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFF3bUtPakdLSkE4MEhOYjF4cnY4eHJtdWw2TldnN000NEJrWVp0SWFwbzU0VWlJN0lZamIzYmxMX1NIRzh0SXNkaS05cmE0Y1NYbUVBTFc2NTE0NDNHYXpZWGRRby14LUg3Q0ctbHQ4OV93OERmYTlpUlVfcVpFelVjY1hTbEJpS0Zzc2VYY2hyNVZRa2U3SEVaMUdXVVNyYmowVjJPMDVBcVVFWjhJU3BpbFF4MXhNdzloWDRINHVqakFKLUpnT2JKUDdtdGtETWh0Smpn?oc=5) |
 | 2026-10-16 | Postcard from MassRobotics: Where Physical AI Meets Startup Speed - Intel | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGtDOUNJWHBXRVpONXhLY1I2ck02V252Qk1aZlM4UExVa19Ea2R5U0NTYl9jWUUtSlZRRUhvV2pCNmN6a0hKRWtibHVJaF9RT2psRVowNHFRVUJDOVhEcW43QWxRSFdHczd3VFBGNlQzMWF4R3Z3MHJlakpJRXVINEZzZE5ocWM1b0UtbUl1UVFvbmJUUjFxTUFKWlV0XzhpVGdFcjJXbkRsa3E2eFdRVW5haUlqcUVwa3dDR1FpcWszMXBkMFhlVXdB?oc=5) |
 | 2026-10-16 | Top Physical AI And Industrial Robotics Startups In Japan To Watch In 2027 - TechRound | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWpaSmFEWjlGRERsSkFzLUg0Vm5VSi1WQndBVnRoOTN4VVM2VU91azZfa0J2Uk5UWUczUVp4WXg2RzdPVHN0MmxIV0puTlh1eU1mZERqc0ZwMzdWX3hVZDZOSENEaFI4NnNvYm1lSGtnaVlKcUtSUG9makhzclRPTm15MmhIOTQ1cnYzYnZxZl9UcFF0eTdvbFdlZW8wTUtTeUdzNkhqOA?oc=5) |
-| 2026-10-16 | DeepSeek Enters Embodied Intelligence with Investments in Winverse AI and New Startups - KuCoin | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDlXbHg5MDc2SEpwWUUxUXhTOWJlaXVUU0h6aFJTT3FmS3NhNnNoQjZvVV9YYzBiR2I1UlRIU0V5bnJnR1ZLaXdxRlFMX0t0akpoRjVKdFB0OVhIcmZ2WUNEdTVEZkZkc2FzTk9FLTJXaXkwMHZXYUJrdHV2eUdxZ3cyc2t6MUkzdUdfQ2g3X094c3FVenFncDNoZWlDb2U1TFhTbVN4VEN4cmN4aXRMRW9sSXlveml6c1pocQ?oc=5) |
 | 2026-10-15 | Chinese startup DexForce trains humanoid robots using virtual data to slash costs - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5) |
+| 2026-10-14 | German robotics unicorn NEURA launches Neuron AI to advance Physical AI and humanoid robotics - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUlub2lCTVM5UENWMkEtY0ZXVlFCTHZ0a3RRQzZ3ZEUwaFNMSmFCSGhpSjB5WTRWUFBnQ1BXTU81c3VoM2xKbE1rSmhZSGlxX2s2MDYxOHFpNEkzdnVtNUtvdE8zeU5zWVN1VmoxdUhwQmphQ2pYc2lrSjlFRnl3QlN4R3puUF83a0hWcWhoTDlKNjI1UXQ1VU9PUGVsd3R6UVVHVmlwZFI0X1A1eUwtNGIzMUdPSlllODhfa1hWSFhUaC1SZVhNY3ln?oc=5) |
