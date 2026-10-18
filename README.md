@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-18 14:55 UTC
+Last Updated: 2026-10-18 17:36 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-18 | Building a Microscope with a 3D View | Hackaday | [link](https://hackaday.com/2026/10/18/building-a-microscope-with-a-3d-view/) |
 | 2026-10-18 | A Plasma Donut | Hackaday | [link](https://hackaday.com/2026/10/18/a-plasma-donut/) |
 | 2026-10-18 | Evolving RC circuits | Hackaday | [link](https://hackaday.com/2026/10/18/evolving-rc-circuits/) |
 | 2026-10-18 | Turning a Wi-Fi Adapter into an SDR | Hackaday | [link](https://hackaday.com/2026/10/18/turning-a-wi-fi-adapter-into-an-sdr/) |
@@ -56,7 +57,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-18 | Busting the Myth that Plastics are Chemically Inert in Water | Hackaday | [link](https://hackaday.com/2026/10/17/busting-the-myth-that-plastics-are-chemically-inert-in-water/) |
 | 2026-10-18 | M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display | CNX Software | [link](https://www.cnx-software.com/2026/10/18/m5stack-paperdiy-kits-pair-an-esp32-s3-mcu-with-a-4-7-inch-e-paper-display/) |
 | 2026-10-17 | 2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games | Hackaday | [link](https://hackaday.com/2026/10/17/2026-retrocomputing-challenge-dollhouse-arcade-cabinet-runs-remote-dos-games/) |
-| 2026-10-17 | Building a Flying Drone With a Single Propeller | Hackaday | [link](https://hackaday.com/2026/10/17/building-a-flying-drone-with-a-single-propeller/) |
 | 2026-10-17 | Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options | CNX Software | [link](https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/) |
 | 2026-10-17 | Astrobiologist Answers Mars Questions | Adafruit | [link](https://blog.adafruit.com/2026/10/17/astrobiologist-answers-mars-questions/) |
 
@@ -77,28 +77,28 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-18 | arunos728/cosmos3-robotwin-h32-l2-b256-16k | 0 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-h32-l2-b256-16k) |
+| 2026-10-18 | Obsidian-Robotics/q-Taxi-v3 | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/q-Taxi-v3) |
+| 2026-10-18 | Obsidian-Robotics/q-FrozenLake-v1-4x4-noSlippery | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/q-FrozenLake-v1-4x4-noSlippery) |
+| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2) |
 | 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13) |
 | 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12) |
+| 2026-10-18 | AnyverseDynamics/Phoenix-RoboTwin | 0 | 0 | [link](https://huggingface.co/AnyverseDynamics/Phoenix-RoboTwin) |
 | 2026-10-18 | hggforget/lingbotvla-robotwin-clean-sft | 0 | 2 | [link](https://huggingface.co/hggforget/lingbotvla-robotwin-clean-sft) |
-| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2) |
 | 2026-10-18 | Muse-Ltd/Muse-Robotics-1.1 | 26 | 5 | [link](https://huggingface.co/Muse-Ltd/Muse-Robotics-1.1) |
 | 2026-10-18 | Obsidian-Robotics/ppo-LunarLander-v2 | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/ppo-LunarLander-v2) |
-| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3) |
-| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23) |
-| 2026-10-18 | anhdao69/ChronoLoop_Robotwin5 | 0 | 0 | [link](https://huggingface.co/anhdao69/ChronoLoop_Robotwin5) |
-| 2026-10-18 | Aalmutairison/random-robotics-vision-language-2024 | 8 | 0 | [link](https://huggingface.co/Aalmutairison/random-robotics-vision-language-2024) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29065 | Python | 11626.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29067 | Python | 11626.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1524 | Rust | 609.7 | [link](https://github.com/copper-project/copper-rs) |
-| autonomous-ai/lampOS | 473 | Python | 189.3 | [link](https://github.com/autonomous-ai/lampOS) |
-| Developer-Y/cs-video-courses | 83690 |  | 33476.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63924 | Python | 25569.7 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 21400 | Python | 8560.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| autonomous-ai/lampOS | 474 | Python | 189.7 | [link](https://github.com/autonomous-ai/lampOS) |
+| Developer-Y/cs-video-courses | 83691 |  | 33476.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63926 | Python | 25570.5 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 21414 | Python | 8565.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17449 | Java | 6979.7 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16088 | C++ | 6435.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 16090 | C++ | 6436.1 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 15735 | C++ | 6294.1 | [link](https://github.com/google-deepmind/mujoco) |
 | datawhalechina/every-embodied | 4118 | Python | 1647.3 | [link](https://github.com/datawhalechina/every-embodied) |
 
