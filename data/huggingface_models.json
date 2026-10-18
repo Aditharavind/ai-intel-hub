@@ -1,5 +1,59 @@
 [
   {
+    "model": "AnyverseDynamics/Phoenix-RoboTwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/AnyverseDynamics/Phoenix-RoboTwin",
+    "date": "2026-10-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "mario-d-robot/AnyPose",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mario-d-robot/AnyPose",
+    "date": "2026-10-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Obsidian-Robotics/Reinforce-Pixelcopter-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/Reinforce-Pixelcopter-v1",
+    "date": "2026-10-18",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Obsidian-Robotics/Reinforce-CartPole-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/Reinforce-CartPole-v1",
+    "date": "2026-10-18",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3",
+    "date": "2026-10-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4",
+    "date": "2026-10-18",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "OpenPhoenix/Phoenix-RoboTwin",
     "downloads": 0,
     "likes": 0,
@@ -52,60 +106,6 @@
     "date": "2026-10-18",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "AnyverseDynamics/Phoenix-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/AnyverseDynamics/Phoenix-RoboTwin",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "hggforget/lingbotvla-robotwin-clean-sft",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/hggforget/lingbotvla-robotwin-clean-sft",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.5
-  },
-  {
-    "model": "Muse-Ltd/Muse-Robotics-1.1",
-    "downloads": 26,
-    "likes": 5,
-    "url": "https://huggingface.co/Muse-Ltd/Muse-Robotics-1.1",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 8.9
   },
   {
     "model": "Najongs/vla-recipe-ckpts",
@@ -250,6 +250,15 @@
     "date": "2026-10-18",
     "keyword": "policy",
     "score": 8.8
+  },
+  {
+    "model": "Muse-Ltd/Muse-Robotics-1.1",
+    "downloads": 26,
+    "likes": 5,
+    "url": "https://huggingface.co/Muse-Ltd/Muse-Robotics-1.1",
+    "date": "2026-10-18",
+    "keyword": "robotics",
+    "score": 8.9
   },
   {
     "model": "Obsidian-Robotics/ppo-LunarLander-v2",
@@ -439,33 +448,6 @@
     "date": "2026-10-17",
     "keyword": "robotics",
     "score": 6.1
-  },
-  {
-    "model": "unileon-robotics/thewhisper-large-v3-turbo-GGML",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/unileon-robotics/thewhisper-large-v3-turbo-GGML",
-    "date": "2026-10-17",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
-    "downloads": 46,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
-    "date": "2026-10-17",
-    "keyword": "robotics",
-    "score": 13.9
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
-    "downloads": 47,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
-    "date": "2026-10-17",
-    "keyword": "robotics",
-    "score": 14.2
   },
   {
     "model": "DiogenesLab/world-model-research",

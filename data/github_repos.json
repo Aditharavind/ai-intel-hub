@@ -51,13 +51,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 21424,
+    "stars": 21430,
     "language": "Python",
     "description": "Give your agent CAD superpowers.",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-10-18",
     "topic": "robotics",
-    "score": 8569.7
+    "score": 8572.1
   },
   {
     "repo": "questdb/questdb",
@@ -71,13 +71,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 16090,
+    "stars": 16092,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-10-18",
     "topic": "robotics",
-    "score": 6436.1
+    "score": 6436.9
   },
   {
     "repo": "google-deepmind/mujoco",
@@ -101,13 +101,13 @@
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 4017,
+    "stars": 4019,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-10-18",
     "topic": "embodied-ai",
-    "score": 1606.9
+    "score": 1607.7
   },
   {
     "repo": "PhyAgentOS/PhyAgentOS-core",
@@ -150,6 +150,16 @@
     "score": 276.9
   },
   {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 679,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-10-18",
+    "topic": "vla",
+    "score": 271.7
+  },
+  {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
     "stars": 653,
     "language": "",
@@ -181,23 +191,23 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8432,
+    "stars": 8433,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-10-18",
     "topic": "world-model",
-    "score": 3372.9
+    "score": 3373.3
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7235,
+    "stars": 7237,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-10-18",
     "topic": "world-model",
-    "score": 2894.1
+    "score": 2894.9
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -251,13 +261,13 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8375,
+    "stars": 8376,
     "language": "Python",
     "description": "Unified framework for robot learning with multi-physics/renderer support",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-10-18",
     "topic": "robot-learning",
-    "score": 3350.1
+    "score": 3350.5
   },
   {
     "repo": "robocasa/robocasa",
@@ -371,13 +381,13 @@
   },
   {
     "repo": "roboninecom/SO-ARM-102",
-    "stars": 154,
+    "stars": 155,
     "language": "",
     "description": "Open-source leader + follower robot arm kit: 5 DOF + gripper, PET-CF frame, parallel gripper, LeRobot-compatible. STEP/STL, BOM, print and assembly guide.",
     "url": "https://github.com/roboninecom/SO-ARM-102",
     "date": "2026-10-17",
     "topic": "lerobot",
-    "score": 61.7
+    "score": 62.1
   },
   {
     "repo": "Edgenesis/shifu",
@@ -421,33 +431,23 @@
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16293,
+    "stars": 16294,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-10-16",
     "topic": "robotics",
-    "score": 6517.3
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 679,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-10-16",
-    "topic": "vla",
-    "score": 271.7
+    "score": 6517.7
   },
   {
     "repo": "SkyworkAI/Matrix-Game",
-    "stars": 2598,
+    "stars": 2601,
     "language": "Python",
     "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
     "url": "https://github.com/SkyworkAI/Matrix-Game",
     "date": "2026-10-16",
     "topic": "world-model",
-    "score": 1039.3
+    "score": 1040.5
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -611,13 +611,13 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30727,
+    "stars": 30728,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-10-14",
     "topic": "robotics",
-    "score": 12290.9
+    "score": 12291.3
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
@@ -721,23 +721,23 @@
   },
   {
     "repo": "roboninecom/SO-ARM100-101-Parallel-Gripper",
-    "stars": 192,
+    "stars": 193,
     "language": "Python",
     "description": "3D-printed parallel gripper compatible with Feetech STS3215 and Waveshare ST3215 servos. Ready-to-use solution for the SO-ARM 100/SO-ARM 101.",
     "url": "https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper",
     "date": "2026-10-10",
     "topic": "lerobot",
-    "score": 76.9
+    "score": 77.3
   },
   {
     "repo": "bulletphysics/bullet3",
-    "stars": 14803,
+    "stars": 14804,
     "language": "C++",
     "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
     "url": "https://github.com/bulletphysics/bullet3",
     "date": "2026-10-09",
     "topic": "robotics",
-    "score": 5921.3
+    "score": 5921.7
   },
   {
     "repo": "thu-ml/Motus",
@@ -771,13 +771,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3383,
+    "stars": 3384,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-10-02",
     "topic": "lerobot",
-    "score": 1353.3
+    "score": 1353.7
   },
   {
     "repo": "Tavish9/any4lerobot",

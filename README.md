@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-18 19:43 UTC
+Last Updated: 2026-10-18 21:57 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-18 | The New Phobos Martian Moon Rover that Weighs in at Only 15 Grams | Hackaday | [link](https://hackaday.com/2026/10/18/the-new-phobos-martian-moon-rover-that-weighs-in-at-only-15-grams/) |
 | 2026-10-18 | Building a Microscope with a 3D View | Hackaday | [link](https://hackaday.com/2026/10/18/building-a-microscope-with-a-3d-view/) |
 | 2026-10-18 | A Plasma Donut | Hackaday | [link](https://hackaday.com/2026/10/18/a-plasma-donut/) |
 | 2026-10-18 | Evolving RC circuits | Hackaday | [link](https://hackaday.com/2026/10/18/evolving-rc-circuits/) |
@@ -57,8 +58,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-18 | Busting the Myth that Plastics are Chemically Inert in Water | Hackaday | [link](https://hackaday.com/2026/10/17/busting-the-myth-that-plastics-are-chemically-inert-in-water/) |
 | 2026-10-18 | M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display | CNX Software | [link](https://www.cnx-software.com/2026/10/18/m5stack-paperdiy-kits-pair-an-esp32-s3-mcu-with-a-4-7-inch-e-paper-display/) |
 | 2026-10-18 | Adafruit Weekly Editorial Round-Up: Ada Lovelace Day 2026, LED Bubble Hair & More! | Adafruit | [link](https://blog.adafruit.com/2026/10/18/adafruit-weekly-editorial-round-up-ada-lovelace-day-2026-led-bubble-hair-more/) |
-| 2026-10-17 | 2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games | Hackaday | [link](https://hackaday.com/2026/10/17/2026-retrocomputing-challenge-dollhouse-arcade-cabinet-runs-remote-dos-games/) |
-| 2026-10-17 | Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options | CNX Software | [link](https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/) |
+| 2026-10-18 | Pixie – the 3W Chainable LED Pixel #AdafruitLearnSystem | Adafruit | [link](https://blog.adafruit.com/2026/10/18/pixie-the-3w-chainable-led-pixel-adafruitlearnsystem/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,16 +77,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-18 | AnyverseDynamics/Phoenix-RoboTwin | 0 | 0 | [link](https://huggingface.co/AnyverseDynamics/Phoenix-RoboTwin) |
+| 2026-10-18 | mario-d-robot/AnyPose | 0 | 0 | [link](https://huggingface.co/mario-d-robot/AnyPose) |
+| 2026-10-18 | Obsidian-Robotics/Reinforce-Pixelcopter-v1 | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/Reinforce-Pixelcopter-v1) |
+| 2026-10-18 | Obsidian-Robotics/Reinforce-CartPole-v1 | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/Reinforce-CartPole-v1) |
+| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3) |
+| 2026-10-18 | Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4 | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4) |
 | 2026-10-18 | OpenPhoenix/Phoenix-RoboTwin | 0 | 0 | [link](https://huggingface.co/OpenPhoenix/Phoenix-RoboTwin) |
 | 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23) |
 | 2026-10-18 | Akasxxh/Robotics-Sim | 0 | 0 | [link](https://huggingface.co/Akasxxh/Robotics-Sim) |
 | 2026-10-18 | arunos728/cosmos3-robotwin-h32-l2-b256-16k | 0 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-h32-l2-b256-16k) |
-| 2026-10-18 | Obsidian-Robotics/q-Taxi-v3 | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/q-Taxi-v3) |
-| 2026-10-18 | Obsidian-Robotics/q-FrozenLake-v1-4x4-noSlippery | 0 | 0 | [link](https://huggingface.co/Obsidian-Robotics/q-FrozenLake-v1-4x4-noSlippery) |
-| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read2) |
-| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read13) |
-| 2026-10-18 | RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read12) |
-| 2026-10-18 | AnyverseDynamics/Phoenix-RoboTwin | 0 | 0 | [link](https://huggingface.co/AnyverseDynamics/Phoenix-RoboTwin) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
@@ -96,9 +96,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | autonomous-ai/lampOS | 474 | Python | 189.7 | [link](https://github.com/autonomous-ai/lampOS) |
 | Developer-Y/cs-video-courses | 83692 |  | 33476.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63927 | Python | 25570.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 21424 | Python | 8569.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 21430 | Python | 8572.1 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17449 | Java | 6979.7 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16090 | C++ | 6436.1 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 16092 | C++ | 6436.9 | [link](https://github.com/ArduPilot/ardupilot) |
 | google-deepmind/mujoco | 15736 | C++ | 6294.5 | [link](https://github.com/google-deepmind/mujoco) |
 | datawhalechina/every-embodied | 4117 | Python | 1646.9 | [link](https://github.com/datawhalechina/every-embodied) |
 
@@ -112,9 +112,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-08 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnJnVDRXTF80VnJNWUtScWZtaHV4cGt2dTFiaWVETVcwX2VrSW8xeWhPdThCUFg2SlpLTnNRcFJGSlZQME9Tb2ItNkYyalpRUDVadjdDVG9YWXA4OFBpUFI3Qk4zYzVmTHVKYmJuOXlCWWZqbGxxY3lkWDV4N3NuVXRUOWJlaUswSFplR1FMc3NzZTg?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkMtbzNDYVJvWWI2UFBFUWlXT293TTZ4QlpqaXg0amhjT1hVM2NjVlpLMG5kdE9FM0JsUVBlTXRjNEpYTThUN2U4WkhLQ2JmSnNBQnFvZGplOVB5dzFCWVFiUkFrcDcxUzhxVnBVa1AxN25SYUlzY2l0a09SLWY4Sk5kVGtObXRS?oc=5) |
 | 2026-10-07 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUFzNkpkdGUtdjhiNVFsVGFwZmlHNnR0bEVrT1lGYy1zQ1dkM25keGFDR01jalRCampzaFBJU2owWnJRaHlRWEZSODVaV2FZRmtUc1lNamM4cXlBTnQteTJhZWpjVzVOZklyUlExUm1CbThNMEpxYVRUSUtaT0NHcEJLeExKQ2FSN2dTdEt5QWdnWTlIX0ZNWVRnSFVjTjg0dkRNdDFIUkkyUWt6NHRqWdIBrAFBVV95cUxNbGd2THB6QnFPU2dLMTdOaGdYM0wyR0ttd2stT0lOdnkxdGZIb0FmeHd4YktFb2lyM2phMS1oaHliUGp5MFp2Rk5oUFE1RFNuTUhsakE4ZFpENnNWbTlWZXBtY3F0VFVaSkNvUFVsQVRYTWltMVJnc204OVFzZ0gxdVYwU0NoYTVGMUV3bjZ5X2JVUThLMFRVZDlXck4zRmthRzBtQkV5aFpNb2FJ?oc=5) |
+| 2026-10-01 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUW5BR1lMVk93VmxPNTNaamZCdTAxNkFWQ1FzYndjdUlxbFlvNHB3NnlISVJMdExvajB3TlB5Ym1Xb0ZNaDlYOWFHRkhzajJnRmRqMDJlVEU2aUxFX25mNC12TllsZHVaanNiakczcmZFUmZyb3cxVjBiQzltQUlDckpwOWd6S3lvNm1PUHI4QmM3aWJFcjZac2QyQWlHT1NJVnNIQmhWbjY4aEE5S25qVEFXWFBvSkp3V1B3SktFV0FSVlRqRXZqUHQzTXJzYUIt0gHkAUFVX3lxTE9aeTlSRjdIcEZIel95UjRYYVN6SkgwMTgteXNsaGdmNUt4TF8xellYV2V4bzZxODVNclgwVU9BRkJ0T3N5QUV2c3R2NUZJMjQ3aFU5cFpDWWNVWld5cU1CS2lsUkJBM1BCeTdEMUREWEp2aUpyNG5DUnlta0dZaWhVbnlybE5nbzZScU9GSjBqeTF5Wm4yNElyNi0zZ2xJYnhEZWxrVXVubVBQQVk3NHF1SkFGMW9PZGxoQmZkaHJwRTU0U2VRQ3BmZEZ1RVRiMWxoX0Fra1VLM0Q0Qy1sRmR3MGhYWQ?oc=5) |
 | 2026-09-29 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmdPVTMxUElSOFBRN2lkRVM4WlFwdWg4WF9qUUhkX0xfSXN3M0FmNmFrUjVoM1YzalJlTjd0ZkZLYVczd01ETnF2OHNEWUp2bzdCNC1RNEpyRU93RVJRdVZtYXFySmJEcUpnVE5KcHNzQ1hGbE4tOHcyckpqQnhsTGJoZ1pxSmQ0NG92a3BzaEJ2NG5r?oc=5) |
 | 2026-09-22 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnA2VG1XT1ByUVItemxmRzhrVEhEaHd2R2M3LW5pMTBnMG1TaU43OFF1dHVKdzZpbmtSLTVvZ2hBUGtpQTl4RFVrSTd2QkxuZmxKN0xIa3hkQlMzeDJtQ3ktaTRVZWd0cC1OVzMtdFd1ektGLXJUNURkQ21CWU02OXJyS2FVYlNFdFBFNUl2blR4VUcxZktqVg?oc=5) |
-| 2026-09-16 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
