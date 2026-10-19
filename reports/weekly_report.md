@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-18 23:48 UTC
+Generated: 2026-10-19 01:54 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-15 | LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation | [link](https://arxiv.org/pdf/2610.22372v1) |
-| 2026-10-15 | Value as Memory: Online Value-Guided Post-training for General Robot Policies | [link](https://arxiv.org/pdf/2610.22368v1) |
-| 2026-10-15 | T2-z: Test-Time Optimization of Environment Latents for Robotic World Models | [link](https://arxiv.org/pdf/2610.22364v1) |
-| 2026-10-15 | Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation | [link](https://arxiv.org/pdf/2610.22363v1) |
-| 2026-10-15 | CoDA: Co-Evolution of Data Engines and Action Policies | [link](https://arxiv.org/pdf/2610.22362v1) |
+| 2026-10-16 | Language Models Learn to Improve Language Models | [link](https://arxiv.org/pdf/2610.23344v1) |
+| 2026-10-16 | LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence | [link](https://arxiv.org/pdf/2610.23334v1) |
+| 2026-10-16 | From Sliding Windows to Self-evolving Lifelong Memory: A Dual-perspective Survey of Memory Paradigms for Long-Horizon Robotics VLA Models | [link](https://arxiv.org/pdf/2610.23319v1) |
+| 2026-10-16 | SkyAgent: Revisable Target Memory for Continuous Aerial Search | [link](https://arxiv.org/pdf/2610.23293v1) |
+| 2026-10-16 | CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots | [link](https://arxiv.org/pdf/2610.23288v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83693 | 33477.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63928 | 25571.3 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83694 | 33477.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63930 | 25572.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44708 | 17883.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30728 | 12291.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29068 | 11627.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30729 | 12291.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29069 | 11627.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
