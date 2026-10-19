@@ -1,5 +1,77 @@
 [
   {
+    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "downloads": 100,
+    "likes": 0,
+    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "date": "2026-10-19",
+    "keyword": "robotics",
+    "score": 30.1
+  },
+  {
+    "model": "Obsidian-Robotics/a2c-PandaReachDense-v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/a2c-PandaReachDense-v3",
+    "date": "2026-10-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Sumail/robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Sumail/robot",
+    "date": "2026-10-19",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "mangocloud/robotwin-cover-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mangocloud/robotwin-cover-vla",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Obsidian-Robotics/ppo-LunarLander-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/ppo-LunarLander-v2",
+    "date": "2026-10-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Obsidian-Robotics/Reinforce-Pixelcopter-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/Reinforce-Pixelcopter-v1",
+    "date": "2026-10-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Obsidian-Robotics/Reinforce-CartPole-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Obsidian-Robotics/Reinforce-CartPole-v1",
+    "date": "2026-10-19",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Zainulabedin1/soft-robot-deformation-mlp",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Zainulabedin1/soft-robot-deformation-mlp",
+    "date": "2026-10-19",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read23",
     "downloads": 0,
     "likes": 0,
@@ -27,13 +99,130 @@
     "score": 8.8
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
+    "model": "rommeltest/lingbot-vla-new-1epoch",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "url": "https://huggingface.co/rommeltest/lingbot-vla-new-1epoch",
     "date": "2026-10-19",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "mangocloud/libero-90-cover-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mangocloud/libero-90-cover-vla",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Scan",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Scan",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Arch4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Arch4",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Frame3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Frame3",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Shared",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Shared",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Mic",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Mic",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Shoes",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Shoes",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Box",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Box",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Stack3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Stack3",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Frame4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Frame4",
+    "date": "2026-10-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mradermacher/stopwatch-policy-2b-GGUF",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mradermacher/stopwatch-policy-2b-GGUF",
+    "date": "2026-10-19",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "HoonheeCho/policy-ckpt-1011",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HoonheeCho/policy-ckpt-1011",
+    "date": "2026-10-19",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Amazon-FAR/stopwatch-policy-2b",
+    "downloads": 4,
+    "likes": 1,
+    "url": "https://huggingface.co/Amazon-FAR/stopwatch-policy-2b",
+    "date": "2026-10-19",
+    "keyword": "policy",
+    "score": 1.5
   },
   {
     "model": "RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3",
@@ -42,123 +231,6 @@
     "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Joint-Readout-20261018-read3",
     "date": "2026-10-18",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "AnyverseDynamics/Phoenix-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/AnyverseDynamics/Phoenix-RoboTwin",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "mario-d-robot/AnyPose",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mario-d-robot/AnyPose",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Obsidian-Robotics/Reinforce-Pixelcopter-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Obsidian-Robotics/Reinforce-Pixelcopter-v1",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Obsidian-Robotics/Reinforce-CartPole-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Obsidian-Robotics/Reinforce-CartPole-v1",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "OpenPhoenix/Phoenix-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenPhoenix/Phoenix-RoboTwin",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Akasxxh/Robotics-Sim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Akasxxh/Robotics-Sim",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "arunos728/cosmos3-robotwin-h32-l2-b256-16k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/arunos728/cosmos3-robotwin-h32-l2-b256-16k",
-    "date": "2026-10-18",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "tsangb34/lingbot-vla-v2-6b-droid-towel-in-basket-15ep",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/tsangb34/lingbot-vla-v2-6b-droid-towel-in-basket-15ep",
-    "date": "2026-10-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Charly-chan/mc-duplex-vla-ckpt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Charly-chan/mc-duplex-vla-ckpt",
-    "date": "2026-10-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Chenbao77/VLA-Rolling",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chenbao77/VLA-Rolling",
-    "date": "2026-10-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "RocheL/vlatest",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RocheL/vlatest",
-    "date": "2026-10-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "jasonren-ai2/g1-vla-finetune-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jasonren-ai2/g1-vla-finetune-checkpoints",
-    "date": "2026-10-18",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -252,13 +324,22 @@
     "score": 10.2
   },
   {
-    "model": "anandsmilesath/Team1_Bhel_Poori-Dataset3-Policy",
-    "downloads": 29,
+    "model": "Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/anandsmilesath/Team1_Bhel_Poori-Dataset3-Policy",
+    "url": "https://huggingface.co/Obsidian-Robotics/dqn-SpaceInvadersNoFrameskip-v4",
     "date": "2026-10-18",
-    "keyword": "policy",
-    "score": 8.8
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "Akasxxh/Robotics-Sim",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Akasxxh/Robotics-Sim",
+    "date": "2026-10-18",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "Obsidian-Robotics/q-Taxi-v3",
@@ -286,87 +367,6 @@
     "date": "2026-10-18",
     "keyword": "robotics",
     "score": 8.9
-  },
-  {
-    "model": "Obsidian-Robotics/ppo-LunarLander-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Obsidian-Robotics/ppo-LunarLander-v2",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Aalmutairison/random-robotics-vision-language-2024",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/Aalmutairison/random-robotics-vision-language-2024",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 2.5
-  },
-  {
-    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "downloads": 100,
-    "likes": 0,
-    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "date": "2026-10-18",
-    "keyword": "robotics",
-    "score": 30.1
-  },
-  {
-    "model": "vladfi/phillip-models",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/vladfi/phillip-models",
-    "date": "2026-10-17",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
-    "model": "mangocloud/libero-90-cover-vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mangocloud/libero-90-cover-vla",
-    "date": "2026-10-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mangocloud/libero-4suite-cover-vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mangocloud/libero-4suite-cover-vla",
-    "date": "2026-10-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlen-beilik/qwen-pe-t2i-2.1-runpod",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlen-beilik/qwen-pe-t2i-2.1-runpod",
-    "date": "2026-10-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlapky/vosk-tts-ru-0.10-webgpu-fp16",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/vlapky/vosk-tts-ru-0.10-webgpu-fp16",
-    "date": "2026-10-17",
-    "keyword": "vla",
-    "score": 6.4
-  },
-  {
-    "model": "yangluvu/scene-adaptive-VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yangluvu/scene-adaptive-VLA",
-    "date": "2026-10-17",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF",
@@ -430,24 +430,6 @@
     "date": "2026-10-17",
     "keyword": "navigation",
     "score": 4.3
-  },
-  {
-    "model": "anandsmilesath/Team1_Bhel_Poori-Policy2new",
-    "downloads": 42,
-    "likes": 0,
-    "url": "https://huggingface.co/anandsmilesath/Team1_Bhel_Poori-Policy2new",
-    "date": "2026-10-17",
-    "keyword": "policy",
-    "score": 12.7
-  },
-  {
-    "model": "anandsmilesath/Team1_Bhel_Poori-Policy",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/anandsmilesath/Team1_Bhel_Poori-Policy",
-    "date": "2026-10-17",
-    "keyword": "policy",
-    "score": 5.2
   },
   {
     "model": "DiogenesLab/world-model-research",
