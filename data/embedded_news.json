@@ -1,5 +1,19 @@
 [
   {
+    "title": "Going Whole-Hog on a First Satellite Ground Station",
+    "source": "Hackaday",
+    "date": "2026-10-20",
+    "url": "https://hackaday.com/2026/10/20/going-whole-hog-on-a-first-satellite-ground-station/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/satellite-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When most radio enthusiasts start trying to pick up signals from satellites, they might put together a quick-and-dirty Yagi antenna and try to catch a repeater as is passes overhead, <a class=\"read-more\" href=\"https://hackaday.com/2026/10/20/going-whole-hog-on-a-first-satellite-ground-station/\">&#8230;read more</a>"
+  },
+  {
+    "title": "NASA’s Lunar Grounding Challenge is a Real Buzz",
+    "source": "Hackaday",
+    "date": "2026-10-20",
+    "url": "https://hackaday.com/2026/10/20/nasas-lunar-grounding-challenge-is-a-real-buzz/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"403\" src=\"https://hackaday.com/wp-content/uploads/2026/10/lunar_grounding_challenge_banner_nasa.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One could make a joke about how an astronaut walking on the lunar surface is rather akin to a cat walking on the carpet in the living room, but out <a class=\"read-more\" href=\"https://hackaday.com/2026/10/20/nasas-lunar-grounding-challenge-is-a-real-buzz/\">&#8230;read more</a>"
+  },
+  {
     "title": "Spreading Life to Bleached Coral",
     "source": "Hackaday",
     "date": "2026-10-20",
@@ -42,11 +56,25 @@
     "summary": "<div><img alt=\"Semtech LR2021 LoRa transceiver used as an SDR for raw I Q capture and signal analysis (Image AI generated)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Semtech-LR2021-LoRa-transceiver-used-as-an-SDR-for-raw-I-Q-capture-and-signal-analysis-Image-AI-generated-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Earlier this month, we saw how the humble ESP32-S3 could be turned into an SDR transmitter and receiver; then we saw developer h0m3us3r release the w1700k-sdr project, which turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The LR2021-SDR open-source project by Samuel Reynolds (SAMS0N1TE) follows the same principle and turns the Semtech LR2021 LoRa transceiver into a software-defined radio (SDR) capable of receiving signals from 100 MHz to 2.74 GHz. Using an undocumented command in the chip&#8217;s ROM, this project exposes raw 16-bit I/Q samples, allowing software to decode P25 Phase 1 digital voice, POCSAG pager messages, and analog FM signals without an external SDR dongle. LR2021-SDR firmware features: Supported hardware &#8211; Semtech LR2021 running ROM 1.24; not compatible with the SX1262 variant for raw I/Q access. Receive frequency range &#8211; 100 MHz to 2.74 GHz (experimentally tested), extending beyond the datasheet&#8217;s specified 150–960 MHz and 1.5–2.5 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/\">Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Altera Expands Defense-Grade Agilex FPGA Portfolio",
+    "source": "Embedded.com",
+    "date": "2026-10-20",
+    "url": "https://www.embedded.com/altera-expands-defense-grade-agilex-fpga-portfolio/",
+    "summary": "<p>Altera Corp. is extending defense-grade capabilities across its Agilex FPGA and SoC FPGA portfolio to support aerospace and defense systems requiring high performance, reliability, and long-term availability. The expanded offering covers applications ranging from embedded processing and edge computing to high-bandwidth communications, sensing, and electronic warfare. Defense-grade Agilex devices are designed to operate across temperatures [...]</p>\n<p>The post <a href=\"https://www.embedded.com/altera-expands-defense-grade-agilex-fpga-portfolio/\">Altera Expands Defense-Grade Agilex FPGA Portfolio</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform",
     "source": "Embedded.com",
     "date": "2026-10-20",
     "url": "https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/",
     "summary": "<p>Synaptics Inc. has claimed a new class of microcontrollers (MCUs), the xMCU, for multimodal edge AI. Announced at its annual tech day, the new Astra SR200 series combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM. It was designed to enable device-native and real-time experiences that combine modalities such as voice, vision, audio, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/\">Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "P. S. Art 2026 Celebrates NYC Through The Lens of City Kids",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/p-s-art-2026-celebrates-nyc-through-the-lens-of-city-kids/",
+    "summary": "Nia Obrien (Grade 8), The Speed of Life (detail), 2026. Digital photograph. Lower Manhattan Community Middle School, Manhattan. Teacher: Jessica Sinclair via The Metropolitan Museum of Art Artists from prekindergarten through grade 12 created collages, drawings, mixed-media pieces, paintings, photographs, prints, sculptures and more for this year&#8217;s P. S. Art. The selected pieces are on [&#8230;]"
   },
   {
     "title": "JP’s Product Pick of the Week —  3pm Eastern TODAY 10/20/26 @adafruit #adafruit #newproductpick",
@@ -105,6 +133,13 @@
     "summary": "VT100.net has published an annotated disassembly of the original 8 KiB firmware for the DEC VT100 terminal. The project takes the ROM code apart and explains how it works, with links to the Technical Manual and the print set. The VT100 shipped in 1978. It was DEC&#8217;s first ANSI-compatible terminal and the first to drop [&#8230;]"
   },
   {
+    "title": "Making a Giant Chia Skeleton for Halloween",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/making-a-giant-chia-skeleton-for-halloween/",
+    "summary": "We&#8217;re always down to see fun spins on the 12ft skeleton and Ali Spagnola&#8217;s chia skeleton definitely fits the bill!"
+  },
+  {
     "title": "ICYMI: The Python on Microcontrollers Newsletter: New MicroPython Dev Environments, Pirate Gets the Boot and More!",
     "source": "Adafruit",
     "date": "2026-10-20",
@@ -154,20 +189,6 @@
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0528-image-for-home-page-coralboard-300x150.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />As you feast your orbs on these words (assuming you’re feasting them early in the morning of October 20, 2026), magnificent marvels of modern engineering are being unveiled at Synaptics Tech Day 2026. Before we delve into these technological treasures, however, it behooves one of us to set the scene… OK, I’ll do it if [&#8230;]"
   },
   {
-    "title": "An RV on a Bike",
-    "source": "Hackaday",
-    "date": "2026-10-19",
-    "url": "https://hackaday.com/2026/10/19/an-rv-on-a-bike/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/bike-rv-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Bicycles are the ultimate form of transportation freedom. They&#8217;re easy to repair, parts are cheap, and they will travel almost anywhere for free, as long as the rider has enough <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/an-rv-on-a-bike/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Meshtastic Sniffer for DragonOS",
-    "source": "Hackaday",
-    "date": "2026-10-19",
-    "url": "https://hackaday.com/2026/10/19/meshtastic-sniffer-for-dragonos/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/dragonos-meshtastic-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Meshtastic has gained a lot of popularity over the last few years thanks to its low barrier of entry. No licenses are needed and the hardware is dirt cheap, at <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/meshtastic-sniffer-for-dragonos/\">&#8230;read more</a>"
-  },
-  {
     "title": "Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures",
     "source": "CNX Software",
     "date": "2026-10-19",
@@ -208,20 +229,6 @@
     "date": "2026-10-19",
     "url": "https://blog.adafruit.com/2026/10/19/new-learn-guide-crankfruit-gaming-adafruitlearningsystem-adafruit/",
     "summary": "Play with this unofficial, experimental Playdate-inspired CircuitPython game console on your TV using a controller and custom crank! Crankfruit is a standalone game player for the Adafruit Fruit Jam that runs Playdate-style Lua games from source, with crisp one-bit graphics and synth sound over HDMI. Play with a USB game controller, and add a crank [&#8230;]"
-  },
-  {
-    "title": "Classic Macintosh software has been rebuilt for modern macOS",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/classic-macintosh-software-has-been-rebuilt-for-modern-macos/",
-    "summary": "A collection of 68000 Mac programs from the 1980s and &#8217;90s has been rebuilt as native macOS apps. The developer used Claude Opus 5.5 to reverse-engineer each one back to an approximation of its original source language, then ported the game logic to Swift or C with SDL. The original sounds and artwork are used. [&#8230;]"
-  },
-  {
-    "title": "A flicker-free DMA driver for SM16380 S-PWM HUB75 LED panels on the ESP32-S3",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/flicker-free-dma-driver-for-sm16380-s-pwm-hub75-led-panels-on-the-esp32-s3/",
-    "summary": "StubbyDevs has published a driver on GitHub for HUB75 LED panels that use SM16380 S-PWM column drivers, running on the ESP32-S3. The row scan runs in hardware with no CPU time, and a new frame is spliced in at the end of a scan pass, so updates do not tear or blink. A 128&#215;64 panel [&#8230;]"
   },
   {
     "title": "High-voltage Flexible Power Cable for Electric Flight — TE Connectivity and Mouser Electronics",
@@ -348,12 +355,5 @@
     "date": "2026-10-14",
     "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/",
     "summary": "<p>Axiado Corporation has announced a collaboration with Arm to integrate its Data Center Secure Control Module (DC-SCM) cards into the Arm AGI CPU server platform. The integration combines hardware-anchored security, intelligent platform management, and AI-assisted monitoring to address the operational and security requirements of next-generation data centers designed for agentic AI workloads. The companies are [...]</p>\n<p>The post <a href=\"https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/\">Axiado, Arm Integrate AI Security into AGI CPU Servers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Designing Edge AI for Real-Time Systems",
-    "source": "Embedded.com",
-    "date": "2026-10-13",
-    "url": "https://www.embedded.com/designing-edge-ai-for-real-time-systems/",
-    "summary": "<p>Bringing AI directly into embedded systems is much more than just running a model on the device. When a decision must come within milliseconds, every element of the chain becomes decisive. The sensors, correctly sized memory, optimized models, processor, AI accelerators, operating system, and software must be designed together to achieve adequate scheduling and predictable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-edge-ai-for-real-time-systems/\">Designing Edge AI for Real-Time Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

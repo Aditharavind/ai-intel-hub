@@ -1,5 +1,59 @@
 [
   {
+    "model": "polarisai-robots/bento_ur7e_pi05_v5_color200",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v5_color200",
+    "date": "2026-10-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80_full",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80_full",
+    "date": "2026-10-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "vanya-robot/smolvla-m-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vanya-robot/smolvla-m-checkpoints",
+    "date": "2026-10-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "csusupergear/needed_checkpoints_robotics_repa",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/csusupergear/needed_checkpoints_robotics_repa",
+    "date": "2026-10-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80",
+    "date": "2026-10-20",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "RoboticsCollectiveAachen/diffusion_piper_hex_bolt_insertion",
+    "downloads": 2,
+    "likes": 0,
+    "url": "https://huggingface.co/RoboticsCollectiveAachen/diffusion_piper_hex_bolt_insertion",
+    "date": "2026-10-20",
+    "keyword": "robotics",
+    "score": 0.7
+  },
+  {
     "model": "RoboticsCollectiveAachen/act_piper_hexagonal_bolt_insertion_zero_home",
     "downloads": 0,
     "likes": 0,
@@ -54,57 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "downloads": 252,
-    "likes": 0,
-    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "date": "2026-10-20",
-    "keyword": "robotics",
-    "score": 75.7
-  },
-  {
-    "model": "isthathuman/RoboTwin-DIF-checkpoints-5000",
+    "model": "LennoxWei/Aegis-VLA",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/isthathuman/RoboTwin-DIF-checkpoints-5000",
+    "url": "https://huggingface.co/LennoxWei/Aegis-VLA",
     "date": "2026-10-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80",
-    "date": "2026-10-20",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "ngocchau-ai/Vivy-R-Robotics-3B-GGUF",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ngocchau-ai/Vivy-R-Robotics-3B-GGUF",
-    "date": "2026-10-20",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-v29-v2-20261020",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-v29-v2-20261020",
-    "date": "2026-10-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "lewandowski1992/study-robotics-vision-language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/lewandowski1992/study-robotics-vision-language",
-    "date": "2026-10-20",
-    "keyword": "robotics",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -207,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "dddddsds31341/vla-adapter-food-140k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-food-140k",
-    "date": "2026-10-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "YongYong/cis6280-stack-world-models",
     "downloads": 0,
     "likes": 0,
@@ -297,6 +297,24 @@
     "score": 0.1
   },
   {
+    "model": "Jycccc111/Go-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jycccc111/Go-Policy",
+    "date": "2026-10-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "fabono/act_policy_close",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fabono/act_policy_close",
+    "date": "2026-10-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "winner132/my_pi05_policy",
     "downloads": 0,
     "likes": 0,
@@ -351,15 +369,6 @@
     "score": 0.1
   },
   {
-    "model": "Jycccc111/Go-Policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jycccc111/Go-Policy",
-    "date": "2026-10-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "HoonheeCho/policy-ckpt-1011",
     "downloads": 0,
     "likes": 0,
@@ -396,12 +405,30 @@
     "score": 7.0
   },
   {
-    "model": "dontKnow23456/WAM-Policy",
+    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "downloads": 252,
+    "likes": 0,
+    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "date": "2026-10-20",
+    "keyword": "robotics",
+    "score": 75.7
+  },
+  {
+    "model": "ngocchau-ai/Vivy-R-Robotics-3B-GGUF",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "url": "https://huggingface.co/ngocchau-ai/Vivy-R-Robotics-3B-GGUF",
     "date": "2026-10-20",
-    "keyword": "policy",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "lewandowski1992/study-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/lewandowski1992/study-robotics-vision-language",
+    "date": "2026-10-20",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -414,15 +441,6 @@
     "score": 0.1
   },
   {
-    "model": "RoboticsCollectiveAachen/diffusion_piper_hex_bolt_insertion",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/RoboticsCollectiveAachen/diffusion_piper_hex_bolt_insertion",
-    "date": "2026-10-20",
-    "keyword": "robotics",
-    "score": 0.7
-  },
-  {
     "model": "mradermacher/EmbodiedBrain-7B-GGUF",
     "downloads": 145,
     "likes": 1,
@@ -430,15 +448,6 @@
     "date": "2026-10-19",
     "keyword": "embodied",
     "score": 43.8
-  },
-  {
-    "model": "Sierlao/genesis-robotics-showcase",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Sierlao/genesis-robotics-showcase",
-    "date": "2026-10-19",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "Mmillersarah/survey-robotics-vision-language",
@@ -457,15 +466,6 @@
     "date": "2026-10-19",
     "keyword": "robotics",
     "score": 0.7
-  },
-  {
-    "model": "DAVIAN-Robotics/PointmapVLA-RoboCasa",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/PointmapVLA-RoboCasa",
-    "date": "2026-10-19",
-    "keyword": "robotics",
-    "score": 0.4
   },
   {
     "model": "jadidbourbaki/shared-cache-world-model",
