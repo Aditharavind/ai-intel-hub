@@ -1,10 +1,73 @@
 [
   {
+    "title": "Visualize Regular Expressions with Marbles",
+    "source": "Hackaday",
+    "date": "2026-10-20",
+    "url": "https://hackaday.com/2026/10/20/visualize-regular-expressions-with-marbles/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/marble.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you are one of those people who visualize things physically better than in the abstract, then Regex Marble Run by [bottomless] might be for you. You enter a test <a class=\"read-more\" href=\"https://hackaday.com/2026/10/20/visualize-regular-expressions-with-marbles/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Birduino Plays Bird Calls on Demand with NFC-enabled Cards",
+    "source": "Hackaday",
+    "date": "2026-10-20",
+    "url": "https://hackaday.com/2026/10/19/birduino-plays-bird-calls-on-demand-with-nfc-enabled-cards/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/assembled-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>All [Hannah Robertson]&#8217;s Birduino needs is for one to tap an NFC-enabled card to the reader, and the device plays one of the vocalizations associated with the bird shown on <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/birduino-plays-bird-calls-on-demand-with-nfc-enabled-cards/\">&#8230;read more</a>"
+  },
+  {
     "title": "Making Photovoltaic Solar Cells with a Microwave",
     "source": "Hackaday",
     "date": "2026-10-20",
     "url": "https://hackaday.com/2026/10/19/making-photovoltaic-solar-cells-with-a-microwave/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"426\" src=\"https://hackaday.com/wp-content/uploads/2026/10/diy_solar_cell_dr.semiconductor_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although solar panels may seem like a kind of magic, they&#8217;re really quite simple devices, in their silicon form featuring nothing but the p-type silicon wafer and an n-type layer <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/making-photovoltaic-solar-cells-with-a-microwave/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz",
+    "source": "CNX Software",
+    "date": "2026-10-20",
+    "url": "https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/",
+    "summary": "<div><img alt=\"Semtech LR2021 LoRa transceiver used as an SDR for raw I Q capture and signal analysis (Image AI generated)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Semtech-LR2021-LoRa-transceiver-used-as-an-SDR-for-raw-I-Q-capture-and-signal-analysis-Image-AI-generated-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Earlier this month, we saw how the humble ESP32-S3 could be turned into an SDR transmitter and receiver; then we saw developer h0m3us3r release the w1700k-sdr project, which turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The LR2021-SDR open-source project by Samuel Reynolds (SAMS0N1TE) follows the sample principles and turns the Semtech LR2021 LoRa transceiver into a software-defined radio (SDR) capable of receiving signals from 100 MHz to 2.74 GHz. Using an undocumented command in the chip&#8217;s ROM, this project exposes raw 16-bit I/Q samples, allowing software to decode P25 Phase 1 digital voice, POCSAG pager messages, and analog FM signals without an external SDR dongle. LR2021-SDR firmware features: Supported hardware &#8211; Semtech LR2021 running ROM 1.24; not compatible with the SX1262 variant for raw I/Q access. Receive frequency range &#8211; 100 MHz to 2.74 GHz (experimentally tested), extending beyond the datasheet&#8217;s specified 150–960 MHz and 1.5–2.5 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/\">Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Elbit Systems buys Canadian International Submarine Engineering",
+    "source": "Electronics Weekly",
+    "date": "2026-10-20",
+    "url": "https://www.electronicsweekly.com/news/products/sensors-products/elbit-systems-buys-canadian-international-submarine-engineering-2026-10/",
+    "summary": "<p>Elbit Systems has acquired Canadian company, International Submarine Engineering (ISE), adding underwater capabilities to the defence company&#8217;s portfolio, Based in Vancouver, ISE specialises in autonomous underwater and remotely operated systems [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/elbit-systems-buys-canadian-international-submarine-engineering-2026-10/\">Elbit Systems buys Canadian International Submarine Engineering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Tenstorrent Series E raises $1.5bn",
+    "source": "Electronics Weekly",
+    "date": "2026-10-20",
+    "url": "https://www.electronicsweekly.com/news/business/tenstorrent-series-e-raises-1-5bn-2026-10/",
+    "summary": "<p>Tenstorrent, the AI chips-to-computers manufacturer, has raised $1.5 billion in a Series E round at a $6.2 billion post-money valuation. The round was led by Trace Capital and Innovation X, with [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tenstorrent-series-e-raises-1-5bn-2026-10/\">Tenstorrent Series E raises $1.5bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Q2 EDA revenues up 12.2% YoY",
+    "source": "Electronics Weekly",
+    "date": "2026-10-20",
+    "url": "https://www.electronicsweekly.com/news/business/q2-eda-revenues-up-12-2-yoy-2026-10/",
+    "summary": "<p>Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in Q2, up from the $5,089.4 million of Q2 2025, says the ESD Alliance. “The electronic design automation industry [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-eda-revenues-up-12-2-yoy-2026-10/\">Q2 EDA revenues up 12.2% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "AdapTronics wins Infineon’s humanoid robotics startup challenge",
+    "source": "Electronics Weekly",
+    "date": "2026-10-20",
+    "url": "https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/",
+    "summary": "<p>AdapTronics  from Italy has won the Infineon Startup Challenge 2026 focussed on key technologies for humanoid robots. COSMzoke of Korea was runner up and TECHiFAB from Germany third. The three [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/\">AdapTronics wins Infineon’s humanoid robotics startup challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Datacentre CPU growth outpaces GPUs and ASICs",
+    "source": "Electronics Weekly",
+    "date": "2026-10-20",
+    "url": "https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/",
+    "summary": "<p>Agentic AI is reviving data center CPU demand, with CPU revenues up 35%, ahead of AI ASICs (+23%) and GPUs (+13%), according to the Data Centers Processor Market Monitor, Q3 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/\">Datacentre CPU growth outpaces GPUs and ASICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Hyperscaler CSPs pile on the capex",
+    "source": "Electronics Weekly",
+    "date": "2026-10-20",
+    "url": "https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/",
+    "summary": "<p>Combined Capex among the world’s nine leading CSPs is projected to surge 106% YoY to $957 billion in 2026 and to  $1.5 trillion in 2027, says TrendForce.. The world’s nine [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/\">Hyperscaler CSPs pile on the capex</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Good Golly It’s MOLY",
@@ -40,20 +103,6 @@
     "date": "2026-10-19",
     "url": "https://hackaday.com/2026/10/19/one-stop-tool-shows-apple-intelligence-the-door/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2024/06/LargeLanguageModel.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Don&#8217;t want AI features on your Mac? Tough luck, unless one wants to imperfectly do it by hunting down settings in about a dozen different places. Even then, the multi-gigabyte <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/one-stop-tool-shows-apple-intelligence-the-door/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Charlotte’s New Runway Gets A Digital Twin",
-    "source": "Hackaday",
-    "date": "2026-10-19",
-    "url": "https://hackaday.com/2026/10/19/charlottes-new-runway-gets-a-digital-twin/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/10/4th_Parallel_Runway_4-27-26__2_of_4_.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The first viable powered aircraft predated the first proper runway by two decades. While it&#8217;s entirely possible to launch some planes from austere dirt or grass strips, the aviation world <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/charlottes-new-runway-gets-a-digital-twin/\">&#8230;read more</a>"
-  },
-  {
-    "title": "An LCR Meter with Compromises",
-    "source": "Hackaday",
-    "date": "2026-10-19",
-    "url": "https://hackaday.com/2026/10/19/an-lcr-meter-with-compromises/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/wmeter.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>YouTube, like the Internet, has its plusses and minuses. On the plus side, you can find information on just about anything. On the minus side, you don&#8217;t always know if <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/an-lcr-meter-with-compromises/\">&#8230;read more</a>"
   },
   {
     "title": "Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures",
@@ -110,48 +159,6 @@
     "date": "2026-10-19",
     "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/",
     "summary": "<p>CML Micro has released a power amplifier for ISM-band radio designs. The CMX90A002 is delivered in a 3mm x 3mm QFN module and supports the 868MHz &#8211; 915MHz licence-free ISM [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/\">Power amplifier in 3x3mm QFN targets ISM-band radio</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ORCA launches PT-3 photonic quantum computer",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/",
-    "summary": "<p>ORCA Computing, a spin out from the University of Oxford, is launching the PT-3, the latest generation of its photonic quantum computers. The first system is live in the Digital [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/\">ORCA launches PT-3 photonic quantum computer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Multi-band RF module suports “all major” low bands",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/multi-band-rf-module-suports-all-major-low-bands-2026-10/",
-    "summary": "<p>A multi-band mobile radio front-end module, the FFM51010 is available from Forefront RF. It is claimed to be the only front-end module that suports all major low bands in the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/multi-band-rf-module-suports-all-major-low-bands-2026-10/\">Multi-band RF module suports &#8220;all major&#8221; low bands</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "UKDI powers-up Tactical Power Challenge for military innovation",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/business/ukdi-powers-up-tactical-power-challenge-for-military-innovation-2026-10/",
-    "summary": "<p>The UKDI (UK Defence Innovation) department is launching a &#8220;Tactical Power Challenge&#8221; on behalf of the British Army, with support from the Defence Science and Technology Laboratory (Dstl). The £2.45 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ukdi-powers-up-tactical-power-challenge-for-military-innovation-2026-10/\">UKDI powers-up Tactical Power Challenge for military innovation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "MS pulls out of Nscale UK datacentre project",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/",
-    "summary": "<p>Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex, datacentre [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/\">MS pulls out of Nscale UK datacentre project</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/",
-    "summary": "<p>Nvidia has asked Samsung, Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/\">Samsung, Micron, Hynix to use TSMC base dies for NVHBM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "SSCB to scale with the 800VDC transition",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/",
-    "summary": "<p>Power Integrations and Ideal Power, developer of the B-TRAN bidirectional power switch (pictured), are getting together to deliver a solid-state circuit breaker (SSCB), which scales with the 800VDC transition. The [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/\">SSCB to scale with the 800VDC transition</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "New Learn Guide: Crankfruit #Gaming #AdafruitLearningSystem @Adafruit",
@@ -404,13 +411,6 @@
     "date": "2026-10-14",
     "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/",
     "summary": "<p>Axiado Corporation has announced a collaboration with Arm to integrate its Data Center Secure Control Module (DC-SCM) cards into the Arm AGI CPU server platform. The integration combines hardware-anchored security, intelligent platform management, and AI-assisted monitoring to address the operational and security requirements of next-generation data centers designed for agentic AI workloads. The companies are [...]</p>\n<p>The post <a href=\"https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/\">Axiado, Arm Integrate AI Security into AGI CPU Servers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing",
-    "source": "CNX Software",
-    "date": "2026-10-13",
-    "url": "https://www.cnx-software.com/2026/10/13/microchip-mtch3380p-and-mtch3240p-capacitive-touch-controllers-support-up-to-64-buttons-with-parallel-sensing/",
-    "summary": "<div><img alt=\"Microchip MTCH3380P and MTCH3240P turnkey touch controllers\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Microchip-MTCH3380P-and-MTCH3240P-turnkey-touch-controllers-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Microchip Technology has introduced the MTCH3380P and MTCH3240P, two new capacitive touch controllers that handle touch detection internally, making it easier to build display-free HMI devices with touch-sensitive buttons, sliders, and wheels. The main difference between the two controllers is the number of supported touch sensors. The MTCH3380P supports up to 38 self-capacitance or 64 mutual-capacitance keys, while the smaller MTCH3240P supports up to 24 self-capacitance or 32 mutual-capacitance keys. Both controllers use parallel sensing with 12 on-chip ADCs to improve touch response times and noise immunity. They also support touch detection through thick cover materials and when users are wearing gloves, making them suitable for home appliances, industrial control panels, EV chargers, and outdoor kiosks. Both also support IEC/UL 60730 Class B functional safety requirements. Microchip MTCH3380P and MTCH3240P specifications: Controller engine – Microchip patented charge-transfer acquisition engine with pipelined analog sensing and digital processing. Touch sensing Mutual capacitance [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/13/microchip-mtch3380p-and-mtch3240p-capacitive-touch-controllers-support-up-to-64-buttons-with-parallel-sensing/\">Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Designing Edge AI for Real-Time Systems",
