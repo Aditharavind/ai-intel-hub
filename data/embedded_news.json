@@ -1,5 +1,12 @@
 [
   {
+    "title": "Spreading Life to Bleached Coral",
+    "source": "Hackaday",
+    "date": "2026-10-20",
+    "url": "https://hackaday.com/2026/10/20/spreading-life-to-bleached-coral/",
+    "summary": "<div><img alt=\"A series of ten close up images of two pieces of coral. In the first, on the top left, the coral on the left is bright white while the one on the right is brown with darker brown spots. Text reads: &quot;Week 0.&quot; The last image, on the bottom right, shows both pieces of coral as brown with darker brown spots and the text, &quot;Week 9.&quot; The intervening images show the white, dead coral, slowly becoming more brown as time progresses.\" class=\"attachment-large size-large wp-post-image\" height=\"478\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-12.14.20-PM.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Coral bleaching is a major problem for ocean ecosystems as the ocean gets warmer. Researchers at Stanford have found a new method for regenerating bleached corals. Scientists working on coral <a class=\"read-more\" href=\"https://hackaday.com/2026/10/20/spreading-life-to-bleached-coral/\">&#8230;read more</a>"
+  },
+  {
     "title": "Super Mario Galaxy Now Runs on the GBA",
     "source": "Hackaday",
     "date": "2026-10-20",
@@ -35,11 +42,109 @@
     "summary": "<div><img alt=\"Semtech LR2021 LoRa transceiver used as an SDR for raw I Q capture and signal analysis (Image AI generated)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Semtech-LR2021-LoRa-transceiver-used-as-an-SDR-for-raw-I-Q-capture-and-signal-analysis-Image-AI-generated-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Earlier this month, we saw how the humble ESP32-S3 could be turned into an SDR transmitter and receiver; then we saw developer h0m3us3r release the w1700k-sdr project, which turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The LR2021-SDR open-source project by Samuel Reynolds (SAMS0N1TE) follows the same principle and turns the Semtech LR2021 LoRa transceiver into a software-defined radio (SDR) capable of receiving signals from 100 MHz to 2.74 GHz. Using an undocumented command in the chip&#8217;s ROM, this project exposes raw 16-bit I/Q samples, allowing software to decode P25 Phase 1 digital voice, POCSAG pager messages, and analog FM signals without an external SDR dongle. LR2021-SDR firmware features: Supported hardware &#8211; Semtech LR2021 running ROM 1.24; not compatible with the SX1262 variant for raw I/Q access. Receive frequency range &#8211; 100 MHz to 2.74 GHz (experimentally tested), extending beyond the datasheet&#8217;s specified 150–960 MHz and 1.5–2.5 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/\">Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform",
+    "source": "Embedded.com",
+    "date": "2026-10-20",
+    "url": "https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/",
+    "summary": "<p>Synaptics Inc. has claimed a new class of microcontrollers (MCUs), the xMCU, for multimodal edge AI. Announced at its annual tech day, the new Astra SR200 series combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM. It was designed to enable device-native and real-time experiences that combine modalities such as voice, vision, audio, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/\">Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "JP’s Product Pick of the Week —  3pm Eastern TODAY 10/20/26 @adafruit #adafruit #newproductpick",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/jps-product-pick-of-the-week-3pm-eastern-today-10-20-26-adafruit-adafruit-newproductpick/",
+    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in [&#8230;]"
+  },
+  {
+    "title": "Trick-or-Streets is Back for 2026!",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/trick-or-streets-is-back-for-2026/",
+    "summary": "Explore the interactive map to find events big and small close to you This is the fifth year the NYC DOT compiled the Trick-or-Streets list. These are streets, plazas, and other corridors that are shutting out cars and creating pedestrian friendly Halloween activities. Checkout the map and links to plot your macabre merrymaking. From now [&#8230;]"
+  },
+  {
+    "title": "Remote Control with the Huzzah + Adafruit.io #AdafruitLearn",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/remote-control-with-the-huzzah-adafruit-io-adafruitlearn/",
+    "summary": "This guide will show you how to send button press data to Adafruit IO from the HUZZAH ESP8266, then use that data to change the color of an LED connected to a second HUZZAH ESP8266. If you haven&#8217;t worked your way through the Adafruit IO feed and dashboard basics guides, you should do that before continuing [&#8230;]"
+  },
+  {
+    "title": "Off The Cloud: a Raspberry Pi 5 that replaces Google Photos",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/off-the-cloud-a-raspberry-pi-5-that-replaces-google-photos/",
+    "summary": "I feel constantly overwhelmed and inundated by both our ever-growing stock of digital photos and the need to pay multiple companies to store said photos. This clever and handy project from maker Alonso Vidales proposes a DIY solution to that very issue: Google Photos and iCloud are convenient, but they keep a family&#8217;s photos on [&#8230;]"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-20-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "It took me nine years to hack my Xbox 360",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/it-took-me-nine-years-to-hack-my-xbox-360/",
+    "summary": "A writer at kennedn.com bought a Matrix CoolRunner Rev D glitcher in 2017 to tackle an Xbox 360 and only finished the job in 2026. The Xbox 360 was built so that the first bootloader, 1BL, is baked into the CPU silicon and checks Microsoft&#8217;s signature on everything that follows. Software attacks mostly went nowhere. [&#8230;]"
+  },
+  {
+    "title": "Getting old Macromedia Director games to run on modern hardware",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/getting-old-macromedia-director-games-to-run-on-modern-hardware/",
+    "summary": "WerWolv, writing at werwolv.net, walked through getting a German point-and-click game from the early 2000s, &#8220;Findus bei den Mucklas,&#8221; running under Wine on a modern Linux machine. The disc images came from archive.org as CloneCD files, and the first obstacle was the disc itself: several files appeared twice, once real and once as a 0 [&#8230;]"
+  },
+  {
+    "title": "An annotated disassembly of the DEC VT-100 ROM",
+    "source": "Adafruit",
+    "date": "2026-10-20",
+    "url": "https://blog.adafruit.com/2026/10/20/an-annotated-disassembly-of-the-dec-vt-100-rom/",
+    "summary": "VT100.net has published an annotated disassembly of the original 8 KiB firmware for the DEC VT100 terminal. The project takes the ROM code apart and explains how it works, with links to the Technical Manual and the print set. The VT100 shipped in 1978. It was DEC&#8217;s first ANSI-compatible terminal and the first to drop [&#8230;]"
+  },
+  {
     "title": "ICYMI: The Python on Microcontrollers Newsletter: New MicroPython Dev Environments, Pirate Gets the Boot and More!",
     "source": "Adafruit",
     "date": "2026-10-20",
     "url": "https://blog.adafruit.com/2026/10/20/icymi-the-python-on-microcontrollers-newsletter-new-micropython-dev-environments-pirate-gets-the-boot-and-more/",
     "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,339 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
+  },
+  {
+    "title": "Neural Concept Launches MCP Bridge, Augmenting AI Agents to Operate Industrial Engineering Software",
+    "source": "EE Journal",
+    "date": "2026-10-20",
+    "url": "https://www.eejournal.com/industry_news/neural-concept-launches-mcp-bridge-augmenting-ai-agents-to-operate-industrial-engineering-software/",
+    "summary": "AI agents can now operate commercial CAD and simulation software such as CATIA, NX and Abaqus, inside enterprise environments. Neural Concept benchmarked AI models on real engineering tasks and tuned them to each one, so every step of the design and simulation workflow runs on the best-suited model. MCP Bridge is already deployed by leading [&#8230;]"
+  },
+  {
+    "title": "Anglia provides resilience during ‘analog frenzy’",
+    "source": "EE Journal",
+    "date": "2026-10-20",
+    "url": "https://www.eejournal.com/industry_news/anglia-provides-resilience-during-analog-frenzy/",
+    "summary": "Anglia Components, one of Europe’s longest-established, independent, authorised distributors of electronic components, is helping customers navigate the current frenzy in the analog market, by offering a full package of signal chain components from a range of high quality, reliable, proven and audited manufacturers from around the world. Says Steve Rawlins, Anglia’s CEO: “Anglia has signed [&#8230;]"
+  },
+  {
+    "title": "Infineon expands PSOC™ Control C3 family with PSC3M/P6 featuring advanced security for multi-motor control and power conversion systems",
+    "source": "EE Journal",
+    "date": "2026-10-20",
+    "url": "https://www.eejournal.com/industry_news/infineon-expands-psoc-control-c3-family-with-psc3m-p6-featuring-advanced-security-for-multi-motor-control-and-power-conversion-systems/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) announced today that it is expanding its PSOC™ Control family with the launch of the PSOC Control C3 Main Line PSC3M/P6 microcontrollers (MCUs). The new, versatile, and cost-optimized MCUs combine real-time motor and power control performance, with advanced security features. The features efficiently drive up to four [&#8230;]"
+  },
+  {
+    "title": "MicroCare Introduces FRC2 General Purpose Flux Remover",
+    "source": "EE Journal",
+    "date": "2026-10-20",
+    "url": "https://www.eejournal.com/industry_news/microcare-introduces-frc2-general-purpose-flux-remover/",
+    "summary": "MicroCare has introduced FRC2 General Purpose Flux Remover, a next-generation, HFC-free cleaner designed to deliver powerful, reliable removal of no-clean and rosin fluxes from electronic assemblies and components. FRC2 replaces the MicroCare FRC General Purpose Flux Remover, which is being discontinued. The new formulation provides electronics manufacturers with a versatile cleaning solution for both benchtop [&#8230;]"
+  },
+  {
+    "title": "STMicroelectronics expands space-grade portfolio with QML-V qualified quad LVDS receiver",
+    "source": "EE Journal",
+    "date": "2026-10-20",
+    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-expands-space-grade-portfolio-with-qml-v-qualified-quad-lvds-receiver/",
+    "summary": "STMicroelectronics’ RHFLVDS42 QML-V qualified[1] quad low-voltage differential signaling (LVDS) receiver combines high communication speeds, low power consumption, and enhanced robustness for aerospace applications. The receiver enables data exchange at up to 600Mbps. With a wide operating voltage range from 2.3V to 3.6V, it conforms to the latest TIA/EIA-644 and Jedec low-voltage logic and power supply [&#8230;]"
   },
   {
     "title": "Synaptics and Google Are Bringing Edge AI to Life",
@@ -63,13 +168,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/dragonos-meshtastic-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Meshtastic has gained a lot of popularity over the last few years thanks to its low barrier of entry. No licenses are needed and the hardware is dirt cheap, at <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/meshtastic-sniffer-for-dragonos/\">&#8230;read more</a>"
   },
   {
-    "title": "An Open Micro-Maniplulator Improved",
-    "source": "Hackaday",
-    "date": "2026-10-19",
-    "url": "https://hackaday.com/2026/10/19/an-open-micro-maniplulator-improved/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/micro.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you need a micro-manipulator, you probably already have a good idea of what it does. For example, you might be moving a probe over an IC die or wafer. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/an-open-micro-maniplulator-improved/\">&#8230;read more</a>"
-  },
-  {
     "title": "Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures",
     "source": "CNX Software",
     "date": "2026-10-19",
@@ -91,6 +189,20 @@
     "summary": "<div><img alt=\"Axera AX8860 products\" class=\"attachment-medium size-medium wp-post-image\" height=\"654\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Axera-AX8860-products-720x654.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Axera AX8860P is a new 16-core Cortex-A55 SoC with up to 128 TOPS/256 TOPS (FP4) NPU, 256-bit LPDDR5/5X memory, and PCIe 5.0 connectivity, aiming to power desktop AI solutions competing with NVIDIA DGX Spark at a fraction of the cost. Dr. Qiu Xiaoxin, founder and CEO of Axera, unveiled the new AX8860/AX8860P processor a few days ago at the China International Industrial Fair, along with upcoming products from Sipeed and Radxa. Axera AX8860P key features and specifications: CPU &#8211; 16x Arm Cortex-A55 processor AI &#8211; Up to 256 TOPS VPU &#8211; 64-channel decode, 16-channel encode Memory &#8211; Up to 128GB 256-bit LPDDR5x with 273GB/s bandwidth Interconnect &#8211; PCIe 5.0 + AXLink (C2C) cascading with 80% efficiency for multi-chip cards and systems Power Consumption &#8211; About 40 Watts under load Package &#8211; 78 × 78 mm module Process &#8211; 6nm The AX8860P SoC is said to support vLLM, SGLang, PyTorch, ONNX, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/\">Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
+    "source": "Embedded.com",
+    "date": "2026-10-19",
+    "url": "https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production/",
+    "summary": "<p>Seco has moved its Modular Vision 10.1 MX95 industrial human-machine interface (HMI) platform into mass production, making it available to original equipment manufacturers (OEMs) and system integrators developing new industrial interfaces or upgrading existing machine designs. Based on NXP's i.MX 95 applications processor, the platform integrates computing, display, industrial connectivity, and software into a single [...]</p>\n<p>The post <a href=\"https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production/\">Seco Modular Vision 10.1 MX95 Enters Mass Production</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Industrial Edge Analytics: Detect Issues Faster and Improve Maintenance",
+    "source": "Embedded.com",
+    "date": "2026-10-19",
+    "url": "https://www.embedded.com/industrial-edge-analytics-detect-issues-faster-and-improve-maintenance/",
+    "summary": "<p>Edge computing processes data locally, transforming sensor data into decision-making inference close to the source. It delivers lower latency, higher accuracy, and faster decision-making for real-time industrial analytics at the edge. Embedded monitoring systems comprise sensors, DC/DC converters, and other signal-conditioning circuits, as well as microcontrollers (MCUs) or processors and communication interfaces. Edge computing provides [...]</p>\n<p>The post <a href=\"https://www.embedded.com/industrial-edge-analytics-detect-issues-faster-and-improve-maintenance/\">Industrial Edge Analytics: Detect Issues Faster and Improve Maintenance</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "New Learn Guide: Crankfruit #Gaming #AdafruitLearningSystem @Adafruit",
     "source": "Adafruit",
     "date": "2026-10-19",
@@ -110,62 +222,6 @@
     "date": "2026-10-19",
     "url": "https://blog.adafruit.com/2026/10/19/flicker-free-dma-driver-for-sm16380-s-pwm-hub75-led-panels-on-the-esp32-s3/",
     "summary": "StubbyDevs has published a driver on GitHub for HUB75 LED panels that use SM16380 S-PWM column drivers, running on the ESP32-S3. The row scan runs in hardware with no CPU time, and a new frame is spliced in at the end of a scan pass, so updates do not tear or blink. A 128&#215;64 panel [&#8230;]"
-  },
-  {
-    "title": "etherbulb: the bulb that shows you the RF spectrum",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/etherbulb-the-bulb-that-shows-you-the-rf-spectrum/",
-    "summary": "Peter Holzhauser has published Etherbulb on GitHub, open source firmware that turns an inexpensive ESP32-C3 smart bulb into a receive-only radio. The bulb listens to the 2.4 GHz band and the mobile bands nearby, classifies what it hears, and colors the room by signal type. Blue for Bluetooth, green for WiFi, and a color of [&#8230;]"
-  },
-  {
-    "title": "A Pimoroni Presto UK train display",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/a-pimoroni-presto-uk-train-display/",
-    "summary": "Robin Cole has published a live UK train departure board for the Pimoroni Presto on GitHub. It pulls data from National Rail Darwin through the Rail Data Marketplace REST/JSON API. There is no Raspberry Pi, server, cloud function or translation proxy in the chain. The legacy SOAP service is not used. Setup is two local [&#8230;]"
-  },
-  {
-    "title": "A custom server for the undead robot vacuum cleaners",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/a-custom-server-for-the-undead-robot-vacuum-cleaners/",
-    "summary": "Neato Robotics shut down in 2023, and its vacuums depended on company servers to work. Vacuula has published a replacement server on GitHub that brings those orphaned robots back online. The project is an all-in-one repair and control solution for broken Neato robots. It runs as a server you host yourself, so it needs hardware [&#8230;]"
-  },
-  {
-    "title": "LT6502b, a second and slimmer revision of the LT6502, a laptop built around the 6502 processor",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/lt6502b-a-second-and-slimmer-revision-of-the-lt6502-a-laptop-built-around-the-6502-processor/",
-    "summary": "TechPaula has posted the LT6502b on Codeberg, a second and slimmer revision of the LT6502, a laptop built around the 6502 processor. The first version was red. This one is orange. The project is still a work in progress. The memory map carries over from the first LT6502, with two changes: the expansion port is [&#8230;]"
-  },
-  {
-    "title": "NesEmulatorPicoSeries: An NES emulator in PureMetal for Raspberry Pi Pico W, Pico 2 W and Pi 4",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/nesemulatorpicoseries-an-nes-emulator-in-puremetal-for-raspberry-pi-pico-w-pico-2-w-and-pi-4/",
-    "summary": "Developer ajtaji has published NesEmulatorPicoSeries on GitHub, an NTSC NES emulator written in PureMetal and compiled to bare-metal machine code with PureMetalForge. There is no SDK and no RTOS. Games are not built into the firmware. A small Python tool writes your own .nes files to the board&#8217;s flash, with a window for normal use [&#8230;]"
-  },
-  {
-    "title": "Moisture Sensor Robot Planter",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/moisture-sensor-robot-planter/",
-    "summary": "CrazyScience shares this robot friend who lets you know when your plant is feeling a little dehydrated. Check out the details on instructables Hi planters! in this instructables i made this cute little robot that shows the real time plant moisture levels along with cutest facial expressions! This mini robot planter will keep your plants [&#8230;]"
-  },
-  {
-    "title": "MicroManipulatorStepper: a sub-micrometer 3D motion control plattform",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/micromanipulatorstepper-a-sub-micrometer-3d-motion-control-plattform/",
-    "summary": "Developer 0x23 has published an open source motorized XYZ micro-manipulator on GitHub, built for optical alignment, probing electronic components, and microscopy. It uses a parallel kinematic structure with miniature ball joints for stiffness and a large range of motion. The motors are off the shelf steppers run by a 30 kHz closed loop controller. A [&#8230;]"
-  },
-  {
-    "title": "Video2NAND: how to build logic gates inside the VP8 video codec",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/video2nand-how-to-build-logic-gates-inside-the-vp8-video-codec/",
-    "summary": "A post on Shared Object shows how to build logic gates inside the VP8 video codec, using nothing but a key-frame and its intra-frame prediction modes. The setup is simple. Each block in the frame is either all white (pixel value 255) for True or all black (0) for False. Wires running right and down [&#8230;]"
   },
   {
     "title": "High-voltage Flexible Power Cable for Electric Flight — TE Connectivity and Mouser Electronics",
@@ -196,27 +252,6 @@
     "summary": "General Micro Systems (GMS), the undisputed leader in ultra-rugged small form factor (SFF) embedded computing for defense and aerospace applications, today unveiled its MOSA-compliant smart peripheral Expansion™ modules, a breakthrough family of Thunderbolt™-enabled subsystems that fundamentally redefine how advanced capabilities are deployed at the tactical edge. The company directly compares the MOSA modules’ affordability, scalability, [&#8230;]"
   },
   {
-    "title": "RECOM and CELUS Partner to Bring RECOM Power Designs to the CELUS Design Platform",
-    "source": "EE Journal",
-    "date": "2026-10-19",
-    "url": "https://www.eejournal.com/industry_news/recom-and-celus-partner-to-bring-recom-power-designs-to-the-celus-design-platform-2/",
-    "summary": "RECOM Power, the Austrian designer and manufacturer of power conversion solutions, and CELUS, an industry leader in cloud-based electronics design automation, today announced a partnership that brings a first set of RECOM power designs to the CELUS Design Platform. Under the partnership, these designs are represented as reusable, application-ready design content within CELUS. Engineers can evaluate [&#8230;]"
-  },
-  {
-    "title": "TDK introduces new high-performance Hall-based current sensor IC for C-core concentrators for high power conversion systems",
-    "source": "EE Journal",
-    "date": "2026-10-19",
-    "url": "https://www.eejournal.com/industry_news/tdk-introduces-new-high-performance-hall-based-current-sensor-ic-for-c-core-concentrators-for-high-power-conversion-systems/",
-    "summary": "&#8211;  Customer-programmable linear Hall-effect current sensor IC optimized for C-core concentrators &#8211;  Selectable 250 kHz / 500 kHz bandwidth and user-adjustable 2.5 V quiescent output for fast bi-directional current sensing &#8211;  AEC-Q100 Grade 0 qualified with EEPROM trimming, protection functions, and diagnostics including broken-wire detection TDK Corporation (TSE: 6762) announces the Micronas CUR 3020, a [&#8230;]"
-  },
-  {
-    "title": "COSMAC: The Long, True, and Never-ending Story of the World’s First CMOS Microprocessors, Part 3",
-    "source": "EE Journal",
-    "date": "2026-10-19",
-    "url": "https://www.eejournal.com/article/cosmac-the-long-true-and-never-ending-story-of-the-worlds-first-cmos-microprocessors-part-3/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"290\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/Cosmac-Elf-Thumbnail-300x290.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Samples of the two-chip 1801 (internally known as the TC 1084 and TC 1085) became available in 1972 and were used to construct a series of FRED development systems. The basic FRED system had a front panel with lights and switches for entering programs by hand, a gravity-fed punched-card reader and a cassette tape deck [&#8230;]"
-  },
-  {
     "title": "M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display",
     "source": "CNX Software",
     "date": "2026-10-18",
@@ -238,11 +273,18 @@
     "summary": "<div><img alt=\"Xerxes Pi 2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Xerxes-Pi-2026-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After a successful campaign for Xerxes Pi back in 2025, Rapid Analysis has returned with a Xerxes Home Lab ecosystem that includes the Xerxes Pi 2026 and Xerxes Nano carrier board. The upgrade includes M.2 NVMe storage support on the bottom of the board, an I2S Qwiic connector for digital audio, and added debug and boot jumper pins for easier headless deployment. Designed for home labs, edge AI developers, and small businesses, the Xerxes Pi 2026 supports Raspberry Pi CM4/CM5 and other CM modules, Gigabit Ethernet, optional PoE+, and CSI/HDMI expansion. The larger Xerxes Nano supports NVIDIA Jetson Orin Nano and Turing RK1 modules, adding M.2 PCIe, OCuLink, and SPI/UART connectivity. Both boards support active cooling and compact 1U rack installations. Xerxes Pi 2026 Xerxes Pi 2026 specifications: Supported SoMs – Raspberry Pi CM4, CM5, and compatible alternatives via 2x 100-pin high-density mezzanine connectors Storage M.2 M-key PCIe Gen 2 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/\">Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Agentic AI and RF Digital Twins: 6G Redesigned in Real Time",
-    "source": "EE Journal",
+    "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
+    "source": "Embedded.com",
     "date": "2026-10-16",
-    "url": "https://www.eejournal.com/fish_fry/agentic-ai-and-rf-digital-twins-6g-redesigned-in-real-time/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/AI-6G-Holographic-Connectivity-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />In this week’s podcast, we’re looking at the future of wireless engineering, and how agentic AI, digital twins, and 6G networks are coming together to change how we design, simulate, and operate connected systems. My guest is Houman Zarrinkoub, Principal Product Manager of Wireless Communications at MathWorks. Houman and I explore why RF digital twins [&#8230;]"
+    "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/",
+    "summary": "<p>Here's a roundup of this week's must-read articles. We cover the latest developments on designing edge AI for real-time systems, solving the edge computing energy problem, PCIe 6.0 high-radix switches for AI data centers, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/\">Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Elektrobit and Microchip Simplify AUTOSAR Integration",
+    "source": "Embedded.com",
+    "date": "2026-10-16",
+    "url": "https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration/",
+    "summary": "<p>Elektrobit and Microchip Technology have announced a collaboration to simplify AUTOSAR-based software development for automotive manufacturers and Tier 1 suppliers using Microchip's automotive processor platforms. The initiative combines Elektrobit's automotive software, development tools, and automation capabilities with Microchip's hardware to reduce integration effort, mitigate development risks, and accelerate time to market for software-defined vehicles. As [...]</p>\n<p>The post <a href=\"https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration/\">Elektrobit and Microchip Simplify AUTOSAR Integration</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver",
@@ -259,11 +301,18 @@
     "summary": "<div><img alt=\"HPM5100 series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/HPM5100-series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog comparators. It also includes a high-speed USB 2.0 OTG interface with an integrated PHY, CAN FD, multiple UART/SPI/I2C interfaces, and 32 PWM channels for motor control. The chip supports hardware floating-point operations and DSP instructions, while the integrated analog peripherals reduce the need for external ADCs and signal-conditioning circuits. HPMicro HPM5100 specifications: MCU core – Single-core 32-bit RISC-V processor @ 400 MHz (up to 480 MHz in high-performance mode with external power supply) Hardware FPU, SIMD, and DSP instruction support 16 KB L1 instruction cache and 16 KB L1 data cache Up to 3.57 CoreMark/MHz Memory 416 KB SRAM 256 KB instruction local memory (ILM) 128 KB data local memory [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/\">HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Testblox Launches Small Form Factor Multi-Vendor Platform for In-Fixture Functional Test",
-    "source": "EE Journal",
+    "title": "From Spooky Action to Quantum Internet: Communication Takes to the Air",
+    "source": "Embedded.com",
     "date": "2026-10-15",
-    "url": "https://www.eejournal.com/industry_news/testblox-launches-small-form-factor-multi-vendor-platform-for-in-fixture-functional-test/",
-    "summary": "Testblox AB, a new test &#38; measurement company that focuses on reducing the size, complexity, and cost of functional test, today launched a new, multi-vendor platform for automated test.  Nearly 40 commercial-off-the-shelf (COTS) modules are available at launch, covering measurement, switching, power, communications, and I/O. The modules share a compact, playing-card-sized form factor, common interfaces, [&#8230;]"
+    "url": "https://www.embedded.com/from-spooky-action-to-quantum-internet-communication-takes-to-the-air/",
+    "summary": "<p>Researchers demonstrate a 13-mile free-space quantum link across Long Island Sound.</p>\n<p>The post <a href=\"https://www.embedded.com/from-spooky-action-to-quantum-internet-communication-takes-to-the-air/\">From Spooky Action to Quantum Internet: Communication Takes to the Air</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Solving the Edge Computing Energy Problem",
+    "source": "Embedded.com",
+    "date": "2026-10-15",
+    "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem/",
+    "summary": "<p>With edge AI, the inference has moved from the cloud to the embedded device. Cameras, wearables, industrial sensors, robots, and vehicles can run trained models, making predictions or decisions on new and uncertain data. Because these devices are often powered by small batteries, an energy issue arises. Engineers developing embedded systems at the edge face [...]</p>\n<p>The post <a href=\"https://www.embedded.com/solving-the-edge-computing-energy-problem/\">Solving the Edge Computing Energy Problem</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
@@ -285,5 +334,26 @@
     "date": "2026-10-14",
     "url": "https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/",
     "summary": "<div><img alt=\"VIEWE 4.3 inch ESP32 S31 smart display with a music player interface\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/VIEWE-4.3-inch-ESP32-S31-smart-display-with-a-music-player-interface-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>VIEWE has introduced the PLCM-UES31S043H800V480C-U, a 4.3-inch smart display module that appears to be the first third-party development board powered by the new ESP32-S31 MCU. The board includes a 4.3-inch display with 2.4 GHz Wi-Fi 6, Bluetooth 5.4 LE and Classic, and IEEE 802.15.4 for Zigbee and Thread. It also features USB-C and USB-A ports, a microSD card slot, RS485 and CAN interfaces, and a 20-pin GPIO expansion header with UART and I2C. The board also includes an ES8389 audio codec, two NS4150B amplifiers, two onboard microphones, four ADC buttons, a WS2812B RGB LED, and BOOT/RESET buttons. It operates on a 5V power supply and supports an operating temperature range of -20°C to +70°C. VIEWE PLCM-UES31S043H800V480C-U Specifications: Wireless module – ESP32-S31-WROOM-3-N16R16V SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/\">VIEWE launches 4.3-inch ESP32-S31 display development board</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers",
+    "source": "Embedded.com",
+    "date": "2026-10-14",
+    "url": "https://www.embedded.com/microchip-unveils-pcie-gen-6-and-nvme-devices-for-data-centers/",
+    "summary": "<p>Microchip Technology Inc. has expanded its data center portfolio with new connectivity, storage, and acceleration capabilities designed to meet the performance, security, and scalability needs of AI infrastructure. The additions include PCIe Gen 6 switching, enhanced PCIe Gen 5 NVMe SSD controllers, and updates to the Adaptec SmartRAID 4300 family of NVMe RAID storage accelerators, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-unveils-pcie-gen-6-and-nvme-devices-for-data-centers/\">Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Axiado, Arm Integrate AI Security into AGI CPU Servers",
+    "source": "Embedded.com",
+    "date": "2026-10-14",
+    "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/",
+    "summary": "<p>Axiado Corporation has announced a collaboration with Arm to integrate its Data Center Secure Control Module (DC-SCM) cards into the Arm AGI CPU server platform. The integration combines hardware-anchored security, intelligent platform management, and AI-assisted monitoring to address the operational and security requirements of next-generation data centers designed for agentic AI workloads. The companies are [...]</p>\n<p>The post <a href=\"https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/\">Axiado, Arm Integrate AI Security into AGI CPU Servers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Designing Edge AI for Real-Time Systems",
+    "source": "Embedded.com",
+    "date": "2026-10-13",
+    "url": "https://www.embedded.com/designing-edge-ai-for-real-time-systems/",
+    "summary": "<p>Bringing AI directly into embedded systems is much more than just running a model on the device. When a decision must come within milliseconds, every element of the chain becomes decisive. The sensors, correctly sized memory, optimized models, processor, AI accelerators, operating system, and software must be designed together to achieve adequate scheduling and predictable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-edge-ai-for-real-time-systems/\">Designing Edge AI for Real-Time Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
