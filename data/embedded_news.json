@@ -1,5 +1,12 @@
 [
   {
+    "title": "Super Mario Galaxy Now Runs on the GBA",
+    "source": "Hackaday",
+    "date": "2026-10-20",
+    "url": "https://hackaday.com/2026/10/20/super-mario-galaxy-now-runs-on-the-gba/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"457\" src=\"https://hackaday.com/wp-content/uploads/2026/10/super_mario_galaxy_nintendo_gba_tobias_friedly_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Joining the ranks of fresh backported Nintendo games is Super Mario Galaxy for the Nintendo Game Boy Advance (GBA), courtesy of [Tobias Friedly], AKA [Tobi]. In a recent video he announces <a class=\"read-more\" href=\"https://hackaday.com/2026/10/20/super-mario-galaxy-now-runs-on-the-gba/\">&#8230;read more</a>"
+  },
+  {
     "title": "Visualize Regular Expressions with Marbles",
     "source": "Hackaday",
     "date": "2026-10-20",
@@ -25,56 +32,21 @@
     "source": "CNX Software",
     "date": "2026-10-20",
     "url": "https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/",
-    "summary": "<div><img alt=\"Semtech LR2021 LoRa transceiver used as an SDR for raw I Q capture and signal analysis (Image AI generated)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Semtech-LR2021-LoRa-transceiver-used-as-an-SDR-for-raw-I-Q-capture-and-signal-analysis-Image-AI-generated-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Earlier this month, we saw how the humble ESP32-S3 could be turned into an SDR transmitter and receiver; then we saw developer h0m3us3r release the w1700k-sdr project, which turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The LR2021-SDR open-source project by Samuel Reynolds (SAMS0N1TE) follows the sample principles and turns the Semtech LR2021 LoRa transceiver into a software-defined radio (SDR) capable of receiving signals from 100 MHz to 2.74 GHz. Using an undocumented command in the chip&#8217;s ROM, this project exposes raw 16-bit I/Q samples, allowing software to decode P25 Phase 1 digital voice, POCSAG pager messages, and analog FM signals without an external SDR dongle. LR2021-SDR firmware features: Supported hardware &#8211; Semtech LR2021 running ROM 1.24; not compatible with the SX1262 variant for raw I/Q access. Receive frequency range &#8211; 100 MHz to 2.74 GHz (experimentally tested), extending beyond the datasheet&#8217;s specified 150–960 MHz and 1.5–2.5 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/\">Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"Semtech LR2021 LoRa transceiver used as an SDR for raw I Q capture and signal analysis (Image AI generated)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Semtech-LR2021-LoRa-transceiver-used-as-an-SDR-for-raw-I-Q-capture-and-signal-analysis-Image-AI-generated-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Earlier this month, we saw how the humble ESP32-S3 could be turned into an SDR transmitter and receiver; then we saw developer h0m3us3r release the w1700k-sdr project, which turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The LR2021-SDR open-source project by Samuel Reynolds (SAMS0N1TE) follows the same principle and turns the Semtech LR2021 LoRa transceiver into a software-defined radio (SDR) capable of receiving signals from 100 MHz to 2.74 GHz. Using an undocumented command in the chip&#8217;s ROM, this project exposes raw 16-bit I/Q samples, allowing software to decode P25 Phase 1 digital voice, POCSAG pager messages, and analog FM signals without an external SDR dongle. LR2021-SDR firmware features: Supported hardware &#8211; Semtech LR2021 running ROM 1.24; not compatible with the SX1262 variant for raw I/Q access. Receive frequency range &#8211; 100 MHz to 2.74 GHz (experimentally tested), extending beyond the datasheet&#8217;s specified 150–960 MHz and 1.5–2.5 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/\">Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Elbit Systems buys Canadian International Submarine Engineering",
-    "source": "Electronics Weekly",
+    "title": "ICYMI: The Python on Microcontrollers Newsletter: New MicroPython Dev Environments, Pirate Gets the Boot and More!",
+    "source": "Adafruit",
     "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/news/products/sensors-products/elbit-systems-buys-canadian-international-submarine-engineering-2026-10/",
-    "summary": "<p>Elbit Systems has acquired Canadian company, International Submarine Engineering (ISE), adding underwater capabilities to the defence company&#8217;s portfolio, Based in Vancouver, ISE specialises in autonomous underwater and remotely operated systems [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/sensors-products/elbit-systems-buys-canadian-international-submarine-engineering-2026-10/\">Elbit Systems buys Canadian International Submarine Engineering</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/10/20/icymi-the-python-on-microcontrollers-newsletter-new-micropython-dev-environments-pirate-gets-the-boot-and-more/",
+    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,339 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
   },
   {
-    "title": "Tenstorrent Series E raises $1.5bn",
-    "source": "Electronics Weekly",
+    "title": "Synaptics and Google Are Bringing Edge AI to Life",
+    "source": "EE Journal",
     "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/news/business/tenstorrent-series-e-raises-1-5bn-2026-10/",
-    "summary": "<p>Tenstorrent, the AI chips-to-computers manufacturer, has raised $1.5 billion in a Series E round at a $6.2 billion post-money valuation. The round was led by Trace Capital and Innovation X, with [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tenstorrent-series-e-raises-1-5bn-2026-10/\">Tenstorrent Series E raises $1.5bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Q2 EDA revenues up 12.2% YoY",
-    "source": "Electronics Weekly",
-    "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/news/business/q2-eda-revenues-up-12-2-yoy-2026-10/",
-    "summary": "<p>Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in Q2, up from the $5,089.4 million of Q2 2025, says the ESD Alliance. “The electronic design automation industry [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q2-eda-revenues-up-12-2-yoy-2026-10/\">Q2 EDA revenues up 12.2% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "AdapTronics wins Infineon’s humanoid robotics startup challenge",
-    "source": "Electronics Weekly",
-    "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/",
-    "summary": "<p>AdapTronics  from Italy has won the Infineon Startup Challenge 2026 focussed on key technologies for humanoid robots. COSMzoke of Korea was runner up and TECHiFAB from Germany third. The three [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/\">AdapTronics wins Infineon’s humanoid robotics startup challenge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Datacentre CPU growth outpaces GPUs and ASICs",
-    "source": "Electronics Weekly",
-    "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/",
-    "summary": "<p>Agentic AI is reviving data center CPU demand, with CPU revenues up 35%, ahead of AI ASICs (+23%) and GPUs (+13%), according to the Data Centers Processor Market Monitor, Q3 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/\">Datacentre CPU growth outpaces GPUs and ASICs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Hyperscaler CSPs pile on the capex",
-    "source": "Electronics Weekly",
-    "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/",
-    "summary": "<p>Combined Capex among the world’s nine leading CSPs is projected to surge 106% YoY to $957 billion in 2026 and to  $1.5 trillion in 2027, says TrendForce.. The world’s nine [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/\">Hyperscaler CSPs pile on the capex</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Good Golly It’s MOLY",
-    "source": "Electronics Weekly",
-    "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/good-golly-its-moly-2026-10/",
-    "summary": "<p>65 years ago this ad for TI diodes packaged using its Molybdenum Glass  hermetic seal technique appeared in Electronics Weekly’s edition of May 3 1961: &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/good-golly-its-moly-2026-10/\">Good Golly It’s MOLY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.eejournal.com/article/synaptics-and-google-are-bringing-edge-ai-to-life/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0528-image-for-home-page-coralboard-300x150.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />As you feast your orbs on these words (assuming you’re feasting them early in the morning of October 20, 2026), magnificent marvels of modern engineering are being unveiled at Synaptics Tech Day 2026. Before we delve into these technological treasures, however, it behooves one of us to set the scene… OK, I’ll do it if [&#8230;]"
   },
   {
     "title": "An RV on a Bike",
@@ -98,13 +70,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/micro.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you need a micro-manipulator, you probably already have a good idea of what it does. For example, you might be moving a probe over an IC die or wafer. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/an-open-micro-maniplulator-improved/\">&#8230;read more</a>"
   },
   {
-    "title": "One-stop Tool Shows Apple Intelligence The Door",
-    "source": "Hackaday",
-    "date": "2026-10-19",
-    "url": "https://hackaday.com/2026/10/19/one-stop-tool-shows-apple-intelligence-the-door/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2024/06/LargeLanguageModel.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Don&#8217;t want AI features on your Mac? Tough luck, unless one wants to imperfectly do it by hunting down settings in about a dozen different places. Even then, the multi-gigabyte <a class=\"read-more\" href=\"https://hackaday.com/2026/10/19/one-stop-tool-shows-apple-intelligence-the-door/\">&#8230;read more</a>"
-  },
-  {
     "title": "Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures",
     "source": "CNX Software",
     "date": "2026-10-19",
@@ -124,41 +89,6 @@
     "date": "2026-10-19",
     "url": "https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/",
     "summary": "<div><img alt=\"Axera AX8860 products\" class=\"attachment-medium size-medium wp-post-image\" height=\"654\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Axera-AX8860-products-720x654.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Axera AX8860P is a new 16-core Cortex-A55 SoC with up to 128 TOPS/256 TOPS (FP4) NPU, 256-bit LPDDR5/5X memory, and PCIe 5.0 connectivity, aiming to power desktop AI solutions competing with NVIDIA DGX Spark at a fraction of the cost. Dr. Qiu Xiaoxin, founder and CEO of Axera, unveiled the new AX8860/AX8860P processor a few days ago at the China International Industrial Fair, along with upcoming products from Sipeed and Radxa. Axera AX8860P key features and specifications: CPU &#8211; 16x Arm Cortex-A55 processor AI &#8211; Up to 256 TOPS VPU &#8211; 64-channel decode, 16-channel encode Memory &#8211; Up to 128GB 256-bit LPDDR5x with 273GB/s bandwidth Interconnect &#8211; PCIe 5.0 + AXLink (C2C) cascading with 80% efficiency for multi-chip cards and systems Power Consumption &#8211; About 40 Watts under load Package &#8211; 78 × 78 mm module Process &#8211; 6nm The AX8860P SoC is said to support vLLM, SGLang, PyTorch, ONNX, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/\">Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
-    "source": "Embedded.com",
-    "date": "2026-10-19",
-    "url": "https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production/",
-    "summary": "<p>Seco has moved its Modular Vision 10.1 MX95 industrial human-machine interface (HMI) platform into mass production, making it available to original equipment manufacturers (OEMs) and system integrators developing new industrial interfaces or upgrading existing machine designs. Based on NXP's i.MX 95 applications processor, the platform integrates computing, display, industrial connectivity, and software into a single [...]</p>\n<p>The post <a href=\"https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production/\">Seco Modular Vision 10.1 MX95 Enters Mass Production</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Industrial Edge Analytics: Detect Issues Faster and Improve Maintenance",
-    "source": "Embedded.com",
-    "date": "2026-10-19",
-    "url": "https://www.embedded.com/industrial-edge-analytics-detect-issues-faster-and-improve-maintenance/",
-    "summary": "<p>Edge computing processes data locally, transforming sensor data into decision-making inference close to the source. It delivers lower latency, higher accuracy, and faster decision-making for real-time industrial analytics at the edge. Embedded monitoring systems comprise sensors, DC/DC converters, and other signal-conditioning circuits, as well as microcontrollers (MCUs) or processors and communication interfaces. Edge computing provides [...]</p>\n<p>The post <a href=\"https://www.embedded.com/industrial-edge-analytics-detect-issues-faster-and-improve-maintenance/\">Industrial Edge Analytics: Detect Issues Faster and Improve Maintenance</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Spectrum Instrumentation digitisers get onboard averaging function",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/spectrum-instrumentation-digitisers-get-onboard-averaging-function-2026-10/",
-    "summary": "<p>Spectrum Instrumentation has introduced a new firmware option for its high-resolution 59xx series digitizers to perform onboard summation averaging. The tool is for reducing unwanted signal noise while and improving [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/spectrum-instrumentation-digitisers-get-onboard-averaging-function-2026-10/\">Spectrum Instrumentation digitisers get onboard averaging function</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Who Wants A Sports Car?",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/genius/who-wants-a-sports-car-2026-10/",
-    "summary": "<p>Tesla unveiled its flying Roadster last week, marking a return to the company’s roots. The very first vehicle Tesla ever sold was an electric sports car. The new Roadster is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/genius/who-wants-a-sports-car-2026-10/\">Who Wants A Sports Car?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Power amplifier in 3x3mm QFN targets ISM-band radio",
-    "source": "Electronics Weekly",
-    "date": "2026-10-19",
-    "url": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/",
-    "summary": "<p>CML Micro has released a power amplifier for ISM-band radio designs. The CMX90A002 is delivered in a 3mm x 3mm QFN module and supports the 868MHz &#8211; 915MHz licence-free ISM [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/\">Power amplifier in 3x3mm QFN targets ISM-band radio</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "New Learn Guide: Crankfruit #Gaming #AdafruitLearningSystem @Adafruit",
@@ -238,13 +168,6 @@
     "summary": "A post on Shared Object shows how to build logic gates inside the VP8 video codec, using nothing but a key-frame and its intra-frame prediction modes. The setup is simple. Each block in the frame is either all white (pixel value 255) for True or all black (0) for False. Wires running right and down [&#8230;]"
   },
   {
-    "title": "Counting stars: open source hardware at chip companies",
-    "source": "Adafruit",
-    "date": "2026-10-19",
-    "url": "https://blog.adafruit.com/2026/10/19/counting-stars-open-source-hardware-at-chip-companies/",
-    "summary": "Zero ASIC ran a count of GitHub stars on public, non-fork chip design repositories, grouped by company. The data was collected October 11, 2026. The company says it ranked first in the world, roughly 100 times the next company and about 4,900 times NVIDIA. The post also normalizes stars by headcount, and checks the 320 [&#8230;]"
-  },
-  {
     "title": "High-voltage Flexible Power Cable for Electric Flight — TE Connectivity and Mouser Electronics",
     "source": "EE Journal",
     "date": "2026-10-19",
@@ -315,20 +238,6 @@
     "summary": "<div><img alt=\"Xerxes Pi 2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Xerxes-Pi-2026-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After a successful campaign for Xerxes Pi back in 2025, Rapid Analysis has returned with a Xerxes Home Lab ecosystem that includes the Xerxes Pi 2026 and Xerxes Nano carrier board. The upgrade includes M.2 NVMe storage support on the bottom of the board, an I2S Qwiic connector for digital audio, and added debug and boot jumper pins for easier headless deployment. Designed for home labs, edge AI developers, and small businesses, the Xerxes Pi 2026 supports Raspberry Pi CM4/CM5 and other CM modules, Gigabit Ethernet, optional PoE+, and CSI/HDMI expansion. The larger Xerxes Nano supports NVIDIA Jetson Orin Nano and Turing RK1 modules, adding M.2 PCIe, OCuLink, and SPI/UART connectivity. Both boards support active cooling and compact 1U rack installations. Xerxes Pi 2026 Xerxes Pi 2026 specifications: Supported SoMs – Raspberry Pi CM4, CM5, and compatible alternatives via 2x 100-pin high-density mezzanine connectors Storage M.2 M-key PCIe Gen 2 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/\">Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
-    "source": "Embedded.com",
-    "date": "2026-10-16",
-    "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/",
-    "summary": "<p>Here's a roundup of this week's must-read articles. We cover the latest developments on designing edge AI for real-time systems, solving the edge computing energy problem, PCIe 6.0 high-radix switches for AI data centers, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/\">Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Elektrobit and Microchip Simplify AUTOSAR Integration",
-    "source": "Embedded.com",
-    "date": "2026-10-16",
-    "url": "https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration/",
-    "summary": "<p>Elektrobit and Microchip Technology have announced a collaboration to simplify AUTOSAR-based software development for automotive manufacturers and Tier 1 suppliers using Microchip's automotive processor platforms. The initiative combines Elektrobit's automotive software, development tools, and automation capabilities with Microchip's hardware to reduce integration effort, mitigate development risks, and accelerate time to market for software-defined vehicles. As [...]</p>\n<p>The post <a href=\"https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration/\">Elektrobit and Microchip Simplify AUTOSAR Integration</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
     "title": "Agentic AI and RF Digital Twins: 6G Redesigned in Real Time",
     "source": "EE Journal",
     "date": "2026-10-16",
@@ -350,32 +259,11 @@
     "summary": "<div><img alt=\"HPM5100 series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/HPM5100-series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog comparators. It also includes a high-speed USB 2.0 OTG interface with an integrated PHY, CAN FD, multiple UART/SPI/I2C interfaces, and 32 PWM channels for motor control. The chip supports hardware floating-point operations and DSP instructions, while the integrated analog peripherals reduce the need for external ADCs and signal-conditioning circuits. HPMicro HPM5100 specifications: MCU core – Single-core 32-bit RISC-V processor @ 400 MHz (up to 480 MHz in high-performance mode with external power supply) Hardware FPU, SIMD, and DSP instruction support 16 KB L1 instruction cache and 16 KB L1 data cache Up to 3.57 CoreMark/MHz Memory 416 KB SRAM 256 KB instruction local memory (ILM) 128 KB data local memory [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/\">HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "From Spooky Action to Quantum Internet: Communication Takes to the Air",
-    "source": "Embedded.com",
-    "date": "2026-10-15",
-    "url": "https://www.embedded.com/from-spooky-action-to-quantum-internet-communication-takes-to-the-air/",
-    "summary": "<p>Researchers demonstrate a 13-mile free-space quantum link across Long Island Sound.</p>\n<p>The post <a href=\"https://www.embedded.com/from-spooky-action-to-quantum-internet-communication-takes-to-the-air/\">From Spooky Action to Quantum Internet: Communication Takes to the Air</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Solving the Edge Computing Energy Problem",
-    "source": "Embedded.com",
-    "date": "2026-10-15",
-    "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem/",
-    "summary": "<p>With edge AI, the inference has moved from the cloud to the embedded device. Cameras, wearables, industrial sensors, robots, and vehicles can run trained models, making predictions or decisions on new and uncertain data. Because these devices are often powered by small batteries, an energy issue arises. Engineers developing embedded systems at the edge face [...]</p>\n<p>The post <a href=\"https://www.embedded.com/solving-the-edge-computing-energy-problem/\">Solving the Edge Computing Energy Problem</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
     "title": "Testblox Launches Small Form Factor Multi-Vendor Platform for In-Fixture Functional Test",
     "source": "EE Journal",
     "date": "2026-10-15",
     "url": "https://www.eejournal.com/industry_news/testblox-launches-small-form-factor-multi-vendor-platform-for-in-fixture-functional-test/",
     "summary": "Testblox AB, a new test &#38; measurement company that focuses on reducing the size, complexity, and cost of functional test, today launched a new, multi-vendor platform for automated test.  Nearly 40 commercial-off-the-shelf (COTS) modules are available at launch, covering measurement, switching, power, communications, and I/O. The modules share a compact, playing-card-sized form factor, common interfaces, [&#8230;]"
-  },
-  {
-    "title": "VON ARDENNE Addresses Semiconductor Panel-Level Packaging Market with New HiPIMS Deposition Solution",
-    "source": "EE Journal",
-    "date": "2026-10-15",
-    "url": "https://www.eejournal.com/industry_news/von-ardenne-addresses-semiconductor-panel-level-packaging-market-with-new-hipims-deposition-solution/",
-    "summary": "VON ARDENNE, a global leader in high-precision vacuum coating equipment and co-developed materials solutions, today announced that it is expanding its semiconductor deposition portfolio into panel-level packaging (PLP). The HiPIMS solution deposits high-aspect-ratio barrier and seed layers in through-glass via (TGV) holes, enabling dense, highly adherent functional film deposition with improved material performance. It leverages [&#8230;]"
   },
   {
     "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
@@ -397,33 +285,5 @@
     "date": "2026-10-14",
     "url": "https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/",
     "summary": "<div><img alt=\"VIEWE 4.3 inch ESP32 S31 smart display with a music player interface\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/VIEWE-4.3-inch-ESP32-S31-smart-display-with-a-music-player-interface-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>VIEWE has introduced the PLCM-UES31S043H800V480C-U, a 4.3-inch smart display module that appears to be the first third-party development board powered by the new ESP32-S31 MCU. The board includes a 4.3-inch display with 2.4 GHz Wi-Fi 6, Bluetooth 5.4 LE and Classic, and IEEE 802.15.4 for Zigbee and Thread. It also features USB-C and USB-A ports, a microSD card slot, RS485 and CAN interfaces, and a 20-pin GPIO expansion header with UART and I2C. The board also includes an ES8389 audio codec, two NS4150B amplifiers, two onboard microphones, four ADC buttons, a WS2812B RGB LED, and BOOT/RESET buttons. It operates on a 5V power supply and supports an operating temperature range of -20°C to +70°C. VIEWE PLCM-UES31S043H800V480C-U Specifications: Wireless module – ESP32-S31-WROOM-3-N16R16V SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/\">VIEWE launches 4.3-inch ESP32-S31 display development board</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers",
-    "source": "Embedded.com",
-    "date": "2026-10-14",
-    "url": "https://www.embedded.com/microchip-unveils-pcie-gen-6-and-nvme-devices-for-data-centers/",
-    "summary": "<p>Microchip Technology Inc. has expanded its data center portfolio with new connectivity, storage, and acceleration capabilities designed to meet the performance, security, and scalability needs of AI infrastructure. The additions include PCIe Gen 6 switching, enhanced PCIe Gen 5 NVMe SSD controllers, and updates to the Adaptec SmartRAID 4300 family of NVMe RAID storage accelerators, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/microchip-unveils-pcie-gen-6-and-nvme-devices-for-data-centers/\">Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Axiado, Arm Integrate AI Security into AGI CPU Servers",
-    "source": "Embedded.com",
-    "date": "2026-10-14",
-    "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/",
-    "summary": "<p>Axiado Corporation has announced a collaboration with Arm to integrate its Data Center Secure Control Module (DC-SCM) cards into the Arm AGI CPU server platform. The integration combines hardware-anchored security, intelligent platform management, and AI-assisted monitoring to address the operational and security requirements of next-generation data centers designed for agentic AI workloads. The companies are [...]</p>\n<p>The post <a href=\"https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers/\">Axiado, Arm Integrate AI Security into AGI CPU Servers</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Designing Edge AI for Real-Time Systems",
-    "source": "Embedded.com",
-    "date": "2026-10-13",
-    "url": "https://www.embedded.com/designing-edge-ai-for-real-time-systems/",
-    "summary": "<p>Bringing AI directly into embedded systems is much more than just running a model on the device. When a decision must come within milliseconds, every element of the chain becomes decisive. The sensors, correctly sized memory, optimized models, processor, AI accelerators, operating system, and software must be designed together to achieve adequate scheduling and predictable [...]</p>\n<p>The post <a href=\"https://www.embedded.com/designing-edge-ai-for-real-time-systems/\">Designing Edge AI for Real-Time Systems</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "TI unveils 3-GSPS ADC for AI Data Centers at OCP",
-    "source": "Embedded.com",
-    "date": "2026-10-13",
-    "url": "https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/",
-    "summary": "<p>Texas Instruments Inc. (TI) has claimed the industry's first analog-to-digital converter (ADC) to enable 24/7 event-based remote monitoring at nanosecond resolution for AI data centers. Introduced at the Open Compute Project (OCP) Global Summit, TI will demo the ADC34DSO75 ADC, along with the new LMI800PS hot-swap controller and LMK6B bulk acoustic wave (BAW)-based oscillator, addressing the [...]</p>\n<p>The post <a href=\"https://www.embedded.com/ti-unveils-3-gsps-adc-for-ai-data-centers-at-ocp/\">TI unveils 3-GSPS ADC for AI Data Centers at OCP</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
