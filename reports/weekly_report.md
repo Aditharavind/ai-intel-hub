@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-21 15:40 UTC
+Generated: 2026-10-21 19:41 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,10 +15,10 @@ Generated: 2026-10-21 15:40 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83721 | 33488.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63954 | 25581.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44719 | 17887.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30758 | 12303.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29093 | 11637.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| commaai/openpilot | 63955 | 25582.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44721 | 17888.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30759 | 12303.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29095 | 11638.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-10-21 15:40 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-10-20 | Reservoir Farms expands to Pacific Northwest to accelerate physical AI - AgFunderNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2pMRFFMOWVCT3FwdU4yWC1MWjlZM2R0MkMzdU83LWNnTDk1b3ZONjREQTZqM2RtQk93a05MZ3pvQ1hrS3A0N2hpaHBZU1dIUkE1Vm0zZi1KV2hKczQ1d3E5NVJIcDczLTZ0UmhGalhJbG5oUnlyNTZaUVEwaVg1bjV6em16YlR0WFBNdWNXZnhqQUZqdFJKeklqZTJMUVp4RzhLZFVuYnhUZTFNVTlXNTlqNV9rVzdi?oc=5) |
+| 2026-10-21 | ASI Secures $325M Series C at $3B Valuation to Scale AI for Physical Infrastructure - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWNHTUpMNS1jczBTR2JUTDBEcnNBYW55M0JXTGE2cElvaEtNOUNiMUQwZldveXpxYzA4cnkwQWxYcXROTFRFb1FicWs1UTI2YlpXU1FRSF85OEVrdEhJMmtEQl9nY2RmVDI4b2VscVZDejdBLXB1emJvRERET1RLZFdRS3NVUnQtNVcyUG92bHA4aVdLUjY3OXhrREhaY2MxTC04OEdrYUxCaWZVZlUxSHFfalQ1T0JaR01z?oc=5) |
 | 2026-10-20 | Eka is worth $1.45B thanks to a physical AI model that has experts raving - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5) |
 | 2026-10-20 | Eka Robotics Hits $1.45B Valuation With Physical AI Breakthrough - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU215ckJmWmNHQmRtLUVQLXZfUVNncG9UQmFEcGZxWEVKQVRNYmk4UnhzMUJGLXpRRU5QX01vcWkwZXJmR3dZeWptYWxJV2t1a3oyUXFwOEFscnRqU2o4a1RTSzBJdlpDeTd6X25LU0xZZ0duUkY4QkZsbU0zaWt2MThIV3ZTakhGdTFBc2tXclpxS1dLd2ExRk5uT2I?oc=5) |
-| 2026-10-20 | Reservoir Farms Expands to Washington State to Accelerate Physical AI for Tree Fruit, Blueberries, and Critical High-Value Crops - Global Ag Tech Initiative | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwJBVV95cUxObG9Ub1RaN19Lei1VMm5DWmxSdjFPUjRncmZGNVBjY3Q1dWZCc1pNeEkxaUJ1b1NqUE1HVmlIZm1wem5iY0ZMSVg4OHFUME5xR1A2WE1LVmFMbmltTko0V0ZBSDJQSHBORG5YTDlyVE1PdEtiOXEta2lHeG0yNlBJYUtyaFpac2JqaGpiM0dRUzVJMHU0SGIyY0g5aEZFWVU4MWlHcXE2QmFTTG9jNm52YjUxRTZsOV9ETk5MYUI3dW9KLWdsX2ZPU0FfZWhnWW5VM2Jua21DTHUxV0E4YUtrOEVPTXpJbTNiTXNHVGlNRVNZRXBoRkJDRDVBSkl3SG9EWUZIdzZRSEZSU2RPQlBj?oc=5) |
+| 2026-10-20 | Reservoir Farms expands to Pacific Northwest to accelerate physical AI - AgFunderNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2pMRFFMOWVCT3FwdU4yWC1MWjlZM2R0MkMzdU83LWNnTDk1b3ZONjREQTZqM2RtQk93a05MZ3pvQ1hrS3A0N2hpaHBZU1dIUkE1Vm0zZi1KV2hKczQ1d3E5NVJIcDczLTZ0UmhGalhJbG5oUnlyNTZaUVEwaVg1bjV6em16YlR0WFBNdWNXZnhqQUZqdFJKeklqZTJMUVp4RzhLZFVuYnhUZTFNVTlXNTlqNV9rVzdi?oc=5) |
 | 2026-10-20 | Eka Robotics Secures Series A Funding Led by Andreessen Horowitz - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjhoSU5XZllMd3BiS0tEd3dvc3hKREs1S1ZUaHpmZU81Qlp4VXNEX25seGRMcXJ3TDY4MUlvTzNRVjlrTmxJYnB0YVhTN1I4djBycXJhSGVUa3VIc2k1WUtTWTRsMTF0WlB5dzJ1azZjaVZaeUYwYko4MS01X0VaVkpNVXEzT3pqWXZXa3l3UQ?oc=5) |

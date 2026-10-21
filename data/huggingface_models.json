@@ -1,11 +1,38 @@
 [
   {
+    "model": "abcamiletto/robot-models",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/abcamiletto/robot-models",
+    "date": "2026-10-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Owlsnet/lingbot-vla-v2-robotwin-clean50-10k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Owlsnet/lingbot-vla-v2-robotwin-clean50-10k",
+    "date": "2026-10-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "LinShan/EgoForesight-RoboTwin",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/LinShan/EgoForesight-RoboTwin",
     "date": "2026-10-21",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/pi05_so101_camera_setting_2026Oct_redcube_whitebowl_polarbear_greentray_v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/pi05_so101_camera_setting_2026Oct_redcube_whitebowl_polarbear_greentray_v1",
+    "date": "2026-10-21",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -81,12 +108,39 @@
     "score": 1.9
   },
   {
-    "model": "mangocloud/robotwin-cover-vla",
+    "model": "vladadu/hy-mt2-1.8b-litert-lm",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mangocloud/robotwin-cover-vla",
+    "url": "https://huggingface.co/vladadu/hy-mt2-1.8b-litert-lm",
     "date": "2026-10-21",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-nesting_3dolls-150k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-nesting_3dolls-150k",
+    "date": "2026-10-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "jasonren-ai2/g1-vla-finetune-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jasonren-ai2/g1-vla-finetune-checkpoints",
+    "date": "2026-10-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "rxc205/GEOMEM-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rxc205/GEOMEM-VLA",
+    "date": "2026-10-21",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -153,51 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "dddddsds31341/vla-adapter-nesting_3dolls-120k",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-nesting_3dolls-120k",
-    "date": "2026-10-21",
-    "keyword": "vla",
-    "score": 1.0
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-nesting_3dolls-110k",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-nesting_3dolls-110k",
-    "date": "2026-10-21",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-nesting_3dolls-100k",
-    "downloads": 1,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-nesting_3dolls-100k",
-    "date": "2026-10-21",
-    "keyword": "vla",
-    "score": 0.4
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-nesting_3dolls-90k",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-nesting_3dolls-90k",
-    "date": "2026-10-21",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-nesting_3dolls-80k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-nesting_3dolls-80k",
-    "date": "2026-10-21",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "saidaliu27/nano-world-model-c3-robonet-seed0",
     "downloads": 0,
     "likes": 0,
@@ -234,19 +243,19 @@
     "score": 26.9
   },
   {
-    "model": "rguntz/chunked_policy_robomimic",
+    "model": "HoonheeCho/policy-ckpt-1011",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/rguntz/chunked_policy_robomimic",
+    "url": "https://huggingface.co/HoonheeCho/policy-ckpt-1011",
     "date": "2026-10-21",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "HoonheeCho/policy-ckpt-1011",
+    "model": "rguntz/chunked_policy_robomimic",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/HoonheeCho/policy-ckpt-1011",
+    "url": "https://huggingface.co/rguntz/chunked_policy_robomimic",
     "date": "2026-10-21",
     "keyword": "policy",
     "score": 0.1
@@ -321,24 +330,6 @@
     "url": "https://huggingface.co/at237299966/ODE_policy_euler_open_drawer_multimodal",
     "date": "2026-10-21",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "RobotisSW/paper_tower_headcam_tuned_groot_90k",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/paper_tower_headcam_tuned_groot_90k",
-    "date": "2026-10-20",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "polarisai-robots/bento_ur7e_pi05_v5_color200",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/polarisai-robots/bento_ur7e_pi05_v5_color200",
-    "date": "2026-10-20",
-    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -502,15 +493,6 @@
     "date": "2026-10-20",
     "keyword": "robotics",
     "score": 7.6
-  },
-  {
-    "model": "lewandowski1992/study-robotics-vision-language",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/lewandowski1992/study-robotics-vision-language",
-    "date": "2026-10-20",
-    "keyword": "robotics",
-    "score": 6.7
   },
   {
     "model": "mradermacher/EmbodiedBrain-7B-GGUF",
