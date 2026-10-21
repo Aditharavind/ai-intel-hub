@@ -1,5 +1,54 @@
 [
   {
+    "title": "OpenAI models are coming to Google Cloud",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+  },
+  {
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+  },
+  {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+  },
+  {
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+  },
+  {
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "source": "Hugging Face",
+    "date": "2026-10-21",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "summary": ""
+  },
+  {
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "source": "Hugging Face",
+    "date": "2026-10-21",
+    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "summary": ""
+  },
+  {
     "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
     "source": "OpenAI",
     "date": "2026-10-20",
@@ -19,13 +68,6 @@
     "date": "2026-10-20",
     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments."
-  },
-  {
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "source": "Hugging Face",
-    "date": "2026-10-20",
-    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "summary": ""
   },
   {
     "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -84,18 +126,18 @@
     "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "source": "OpenAI",
-    "date": "2026-10-16",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-  },
-  {
     "title": "Benefit Street Partners answers questions faster with Codex",
     "source": "OpenAI",
     "date": "2026-10-16",
     "url": "https://openai.com/index/benefit-street-partners",
     "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI",
+    "date": "2026-10-16",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
   },
   {
     "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -105,39 +147,11 @@
     "summary": ""
   },
   {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "source": "OpenAI",
-    "date": "2026-10-15",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-  },
-  {
-    "title": "Teaching students to think and learn through questions",
-    "source": "OpenAI",
-    "date": "2026-10-15",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-  },
-  {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "source": "OpenAI",
-    "date": "2026-10-15",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
-  },
-  {
     "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
     "source": "NVIDIA AI",
     "date": "2026-10-15",
     "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
     "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]"
-  },
-  {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "source": "Hugging Face",
-    "date": "2026-10-15",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "summary": ""
   },
   {
     "title": "Apertus 1.5 Release Notes",
@@ -159,20 +173,6 @@
     "date": "2026-10-15",
     "url": "https://huggingface.co/blog/flux-3",
     "summary": ""
-  },
-  {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "source": "OpenAI",
-    "date": "2026-10-14",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-  },
-  {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "source": "OpenAI",
-    "date": "2026-10-14",
-    "url": "https://openai.com/index/sentinelone",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
   },
   {
     "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
