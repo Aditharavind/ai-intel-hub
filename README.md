@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-21 19:41 UTC
+Last Updated: 2026-10-21 22:49 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-10-21 | How AT&T is rethinking in-house legal work with OpenAI | OpenAI | [link](https://openai.com/index/att-legal) |
+| 2026-10-21 | Broad access through consistent standards | OpenAI | [link](https://openai.com/index/broad-access-through-consistent-standards) |
 | 2026-10-21 | OpenAI models are coming to Google Cloud | OpenAI | [link](https://openai.com/index/openai-models-google-cloud) |
 | 2026-10-21 | Patch the Planet: global response coordination as agents uncover critical vulnerabilities | OpenAI | [link](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities) |
 | 2026-10-21 | ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform | OpenAI | [link](https://openai.com/index/chatgpt-ads-expands-26-new-countries) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-21 | Democratic governance of frontier AI, part II: Empowering cyber defenders | OpenAI | [link](https://openai.com/index/empowering-cyber-defenders) |
 | 2026-10-21 | NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required | Hugging Face | [link](https://huggingface.co/blog/nvidia/kumo-relational) |
 | 2026-10-21 | How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization) |
-| 2026-10-21 | Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium. | Hugging Face | [link](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-21 | Sega Genesis Controllers on the Philips CD-i | Hackaday | [link](https://hackaday.com/2026/10/21/sega-genesis-controllers-on-the-philips-cd-i/) |
 | 2026-10-21 | Knitting Yarn and Filament with FilaLoom | Hackaday | [link](https://hackaday.com/2026/10/21/knitting-yarn-and-filament-with-filaloom/) |
 | 2026-10-21 | Building a Simple Internet Radio | Hackaday | [link](https://hackaday.com/2026/10/21/building-a-simple-internet-radio/) |
 | 2026-10-21 | The Age of Altair | Hackaday | [link](https://hackaday.com/2026/10/21/the-age-of-altair/) |
 | 2026-10-21 | Clotty The Custom Period Tracker Can, Of Course, Run DOOM | Hackaday | [link](https://hackaday.com/2026/10/21/clotty-the-custom-period-tracker-can-of-course-run-doom/) |
 | 2026-10-21 | A Stereo Vision Board For Hardware Hackers | Hackaday | [link](https://hackaday.com/2026/10/21/a-stereo-vision-board-for-hardware-hackers/) |
 | 2026-10-21 | 5 GHz Drone Video, With An ESP32 | Hackaday | [link](https://hackaday.com/2026/10/20/5-ghz-drone-video-with-an-esp32/) |
-| 2026-10-21 | Using Ultrasound and Microbubbles to Make Tiny Devices | Hackaday | [link](https://hackaday.com/2026/10/20/using-ultrasound-and-microbubbles-to-make-tiny-devices/) |
 | 2026-10-21 | ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation | CNX Software | [link](https://www.cnx-software.com/2026/10/21/esp-mosaico-an-esp32-s31-based-modular-development-platform-for-ai-assisted-hardware-creation/) |
 | 2026-10-21 | Raytron SE5 1280: 1280×1024 Uncooled Thermal Imaging Module for OEM Applications (Sponsored) | CNX Software | [link](https://www.cnx-software.com/2026/10/21/raytron-se5-1280-1280x1024-uncooled-thermal-imaging-module-for-oem-applications/) |
-| 2026-10-21 | Siemens Adds Self-Verification for Long-Running EDA Agents | Embedded.com | [link](https://www.embedded.com/siemens-adds-self-verification-for-long-running-eda-agents/) |
+| 2026-10-21 | Variscite, SecEdge Add Firmware TPM 2.0 Security to i.MX SoMs | Embedded.com | [link](https://www.embedded.com/variscite-secedge-add-firmware-tpm-2-0-security-to-i-mx-soms/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,15 +91,15 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29095 | Python | 11638.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29096 | Python | 11638.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 | NVIDIA/skills | 3683 | Python | 1473.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1528 | Rust | 611.3 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1437 | Go | 574.9 | [link](https://github.com/Edgenesis/shifu) |
-| mosaico-labs/mosaico | 1083 | Python | 433.3 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 1084 | Python | 433.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | robocurve/inspect-robots | 698 | Python | 279.3 | [link](https://github.com/robocurve/inspect-robots) |
 | awslabs/awsome-distributed-ai | 488 | Shell | 195.3 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | autonomous-ai/lampOS | 483 | Python | 193.3 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 63955 | Python | 25582.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 63956 | Python | 25582.5 | [link](https://github.com/commaai/openpilot) |
 | AtsushiSakai/PythonRobotics | 30759 | Python | 12303.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 
 ## Startup Funding
@@ -119,7 +119,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-10-21 | ASI Secures $325M Series C at $3B Valuation to Scale AI for Physical Infrastructure - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWNHTUpMNS1jczBTR2JUTDBEcnNBYW55M0JXTGE2cElvaEtNOUNiMUQwZldveXpxYzA4cnkwQWxYcXROTFRFb1FicWs1UTI2YlpXU1FRSF85OEVrdEhJMmtEQl9nY2RmVDI4b2VscVZDejdBLXB1emJvRERET1RLZFdRS3NVUnQtNVcyUG92bHA4aVdLUjY3OXhrREhaY2MxTC04OEdrYUxCaWZVZlUxSHFfalQ1T0JaR01z?oc=5) |
+| 2026-10-21 | Italy’s Generative Bionics Plans Physical AI Data Factory Network for Industrial Humanoids - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGtzWGp6VU9zQzd2WVZDS3plbnNEVGplRDhqc3JITTV3U20za0otMGd0dTYydUxVZzlfZEJ6c0Q1SzFUOFRVN3hwVFVjal9lbGZ3OHJvYlVPN2JyZDRQUnJqcFRNTmdZcEhBa2lJWGxKUXc3Skw2V0oydjU1MDhNTEVzSF9tTmc5YjB6U0Z3UFkxbWRtUDZyZmYtdW9Nc0lBeUdRcEFEOXpJUHZaLTFJb0N5azJ1LXJURGotX3A5bV9XZjB4ZGc?oc=5) |
 | 2026-10-20 | Eka is worth $1.45B thanks to a physical AI model that has experts raving - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5) |
 | 2026-10-20 | Eka Robotics Hits $1.45B Valuation With Physical AI Breakthrough - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU215ckJmWmNHQmRtLUVQLXZfUVNncG9UQmFEcGZxWEVKQVRNYmk4UnhzMUJGLXpRRU5QX01vcWkwZXJmR3dZeWptYWxJV2t1a3oyUXFwOEFscnRqU2o4a1RTSzBJdlpDeTd6X25LU0xZZ0duUkY4QkZsbU0zaWt2MThIV3ZTakhGdTFBc2tXclpxS1dLd2ExRk5uT2I?oc=5) |
 | 2026-10-20 | Reservoir Farms expands to Pacific Northwest to accelerate physical AI - AgFunderNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2pMRFFMOWVCT3FwdU4yWC1MWjlZM2R0MkMzdU83LWNnTDk1b3ZONjREQTZqM2RtQk93a05MZ3pvQ1hrS3A0N2hpaHBZU1dIUkE1Vm0zZi1KV2hKczQ1d3E5NVJIcDczLTZ0UmhGalhJbG5oUnlyNTZaUVEwaVg1bjV6em16YlR0WFBNdWNXZnhqQUZqdFJKeklqZTJMUVp4RzhLZFVuYnhUZTFNVTlXNTlqNV9rVzdi?oc=5) |
