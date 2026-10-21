@@ -1,5 +1,14 @@
 [
   {
+    "model": "RobotisSW/paper_tower_headcam_tuned_groot_90k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/paper_tower_headcam_tuned_groot_90k",
+    "date": "2026-10-20",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "polarisai-robots/bento_ur7e_pi05_v5_color200",
     "downloads": 0,
     "likes": 0,
@@ -97,15 +106,6 @@
     "date": "2026-10-20",
     "keyword": "robotics",
     "score": 4.0
-  },
-  {
-    "model": "vis22/act_robotwin_putbd",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vis22/act_robotwin_putbd",
-    "date": "2026-10-20",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "LennoxWei/Aegis-VLA",
@@ -272,11 +272,11 @@
   {
     "model": "nvidia/Cosmos3-H-Embodied-Nano",
     "downloads": 0,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano",
     "date": "2026-10-20",
     "keyword": "embodied",
-    "score": 0.3
+    "score": 0.5
   },
   {
     "model": "smiriva1988ph/survey-embodied-ai",
@@ -301,6 +301,24 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Jycccc111/Go-Policy",
+    "date": "2026-10-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zhicao/Zhi-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zhicao/Zhi-Policy",
+    "date": "2026-10-20",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "vicshi97/pi05_policy_sock-garbage-merged_3.0_yolo_lora_10k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vicshi97/pi05_policy_sock-garbage-merged_3.0_yolo_lora_10k",
     "date": "2026-10-20",
     "keyword": "policy",
     "score": 0.1
@@ -337,15 +355,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/nkalyank99/my_act_policy",
-    "date": "2026-10-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "vicshi97/pi05_policy_sock-garbage-merged_3.0_yolo_lora_10k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vicshi97/pi05_policy_sock-garbage-merged_3.0_yolo_lora_10k",
     "date": "2026-10-20",
     "keyword": "policy",
     "score": 0.1
@@ -394,15 +403,6 @@
     "date": "2026-10-20",
     "keyword": "policy",
     "score": 1.3
-  },
-  {
-    "model": "mrodher/policy_test_V5",
-    "downloads": 23,
-    "likes": 0,
-    "url": "https://huggingface.co/mrodher/policy_test_V5",
-    "date": "2026-10-20",
-    "keyword": "policy",
-    "score": 7.0
   },
   {
     "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
@@ -614,11 +614,11 @@
   {
     "model": "nvidia/PhysicalAI-Simulation-VoMP-Model",
     "downloads": 0,
-    "likes": 8,
+    "likes": 9,
     "url": "https://huggingface.co/nvidia/PhysicalAI-Simulation-VoMP-Model",
     "date": "2026-10-14",
     "keyword": "physical ai",
-    "score": 1.7
+    "score": 1.9
   },
   {
     "model": "arendjan/physicalai",

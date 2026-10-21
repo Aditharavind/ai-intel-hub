@@ -1,22 +1,16 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-20 21:57 UTC
+Generated: 2026-10-21 00:15 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-10-19 | Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience | [link](https://arxiv.org/pdf/2610.26855v1) |
-| 2026-10-19 | Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation | [link](https://arxiv.org/pdf/2610.26854v1) |
-| 2026-10-19 | CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting | [link](https://arxiv.org/pdf/2610.26852v1) |
-| 2026-10-19 | Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy | [link](https://arxiv.org/pdf/2610.26848v1) |
-| 2026-10-19 | GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation | [link](https://arxiv.org/pdf/2610.26846v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83714 | 33485.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63951 | 25580.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44719 | 17887.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| commaai/openpilot | 63953 | 25581.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44720 | 17888.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30751 | 12300.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 29085 | 11634.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
@@ -45,4 +39,4 @@ Generated: 2026-10-20 21:57 UTC
 | 2026-10-20 | Eka Robotics Hits $1.45B Valuation With Physical AI Breakthrough - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU215ckJmWmNHQmRtLUVQLXZfUVNncG9UQmFEcGZxWEVKQVRNYmk4UnhzMUJGLXpRRU5QX01vcWkwZXJmR3dZeWptYWxJV2t1a3oyUXFwOEFscnRqU2o4a1RTSzBJdlpDeTd6X25LU0xZZ0duUkY4QkZsbU0zaWt2MThIV3ZTakhGdTFBc2tXclpxS1dLd2ExRk5uT2I?oc=5) |
 | 2026-10-20 | Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’ - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUi05Mmh1ODFYYmxSeWlMVkwzRWRjanJObl9TNVR5ZzM0WjFiYmFRcTJDcXRRM1VGbDFtdm5xa3R0VmpsTlh3bGZEa0VzLUxCLW9wUFFTWXhRb2hhY1FBeUtSREwwWmpCa1FaWEtFQ05PUUZRN3JYSk45SWlETGpreTRyNXVldi1xMDgwbEE2X0tiNnRkNm5iRFd4b1h4WDhQdmNZRXZB?oc=5) |
 | 2026-10-20 | Germany’s NEURA Robotics shows no signs of slowing down as it teams up with Austria’s NXAI for physical AI - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUC1CUVV6VEFaM3JqRk9mY1RhdUdCdl9faF93bzVORTl1b0hSdFZZNzIydkVDaC1PbjJxYUktajV6V1V0eE5Cb3hWSWx6WV9ndkFkdmRJUG5rWGk4Z0dHZ0Q0UlVqTVY1d2JmQUtUQnJISndxT050cUViYnViak9pMlNxTDhjdUg4ZXUzWDNUX1U0MlEzakxZRGI3WkFrb2NzYmpwa1FfeHFOZDhEZW9SMzRQZTQ3ZC1hd2xmMkJEa1FKV0phUzMwWmtnN3NHV1lvS0c4b25pZUQ?oc=5) |
-| 2026-10-20 | Reservoir Farms Expands to Washington State to Accelerate Physical AI for Tree Fruit, Blueberries, and Critical High-Value Crops - Global Ag Tech Initiative | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwJBVV95cUxObG9Ub1RaN19Lei1VMm5DWmxSdjFPUjRncmZGNVBjY3Q1dWZCc1pNeEkxaUJ1b1NqUE1HVmlIZm1wem5iY0ZMSVg4OHFUME5xR1A2WE1LVmFMbmltTko0V0ZBSDJQSHBORG5YTDlyVE1PdEtiOXEta2lHeG0yNlBJYUtyaFpac2JqaGpiM0dRUzVJMHU0SGIyY0g5aEZFWVU4MWlHcXE2QmFTTG9jNm52YjUxRTZsOV9ETk5MYUI3dW9KLWdsX2ZPU0FfZWhnWW5VM2Jua21DTHUxV0E4YUtrOEVPTXpJbTNiTXNHVGlNRVNZRXBoRkJDRDVBSkl3SG9EWUZIdzZRSEZSU2RPQlBj?oc=5) |
+| 2026-10-20 | Neura Robotics, NXAI Partner to Build Memory System for Physical AI - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFlUOEJaVWdNVlNUV2pHTUozQ3VtMWlmaFlBaUh0MWQtV29yM1ZjbkJVbXRhMFpGWHM4dW55dXpFbWZtZU9Ra1pKRlN3MnhldkpfNjhkVEY0c1dJTnFnQnl2b2lkQ211Rmx0aE16b0h5YUgxZUdjNldXRTlnMlFEejE3SmM0ZzZEeGE0SlJ2OTExb3YyclFyc2VxQTJkM2F3TEhic2pNSQ?oc=5) |
