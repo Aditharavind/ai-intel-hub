@@ -1,5 +1,19 @@
 [
   {
+    "title": "Reading QR Codes by Hand",
+    "source": "Hackaday",
+    "date": "2026-10-22",
+    "url": "https://hackaday.com/2026/10/21/reading-qr-codes-by-hand/",
+    "summary": "<div><img alt=\"A person with blonde hair and light skin in a black t-shirt points at an image of a large QR code with what appear to be pictographic humans dancing in place of the usual blocky squares between the finding squares.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/How-to-Read-QR-codes-by-hand.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>QR codes can be a handy way to send a link or contact details without all that tedious mucking about with typing in a link, but they aren&#8217;t very useful <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/reading-qr-codes-by-hand/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Making a Five-Segment Display with Platinum-Titanium Cathodes",
+    "source": "Hackaday",
+    "date": "2026-10-22",
+    "url": "https://hackaday.com/2026/10/21/making-a-five-segment-display-with-platinum-titanium-cathodes/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"466\" src=\"https://hackaday.com/wp-content/uploads/2026/10/seven_segment_display_standalone_witchcraft_and_alchemy_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Before the advent of effective semiconductor LEDs many display types existed to display things like numbers and other characters. The Nixie tube is a well-known one, along with VFDs and <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/making-a-five-segment-display-with-platinum-titanium-cathodes/\">&#8230;read more</a>"
+  },
+  {
     "title": "Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC",
     "source": "CNX Software",
     "date": "2026-10-22",
@@ -7,11 +21,67 @@
     "summary": "<div><img alt=\"ESP32-S31 rotary encoder\" class=\"attachment-medium size-medium wp-post-image\" height=\"673\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/ESP32-S31-rotary-encoder-720x673.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Following our coverage of a 4.3-inch ESP32-S31 display development board, a Facebook reader pointed out the GUITION JC3636F118C-I-YR1 rotary encoder with a built-in 1.8-inch touchscreen display. It appears to be an update to an earlier ESP32-S3 model, now equipped with an ESP32-S31NRV16 WiFi 6, Bluetooth 5.4, and 802.15.4 SoC with 16MB of PSRAM. The rotary knob also includes 16MB SPI flash, a speaker, a microphone, and an optional rechargeable battery. GUITION JC3636F118C-I-YR1 specifications: SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash MicroSD card slot (for WiFi configuration, music or MJPEG video playback, etc.) Display 1.8-inch [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/\">Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Hydrogen truck for Dakar Rally",
+    "source": "Electronics Weekly",
+    "date": "2026-10-22",
+    "url": "https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/",
+    "summary": "<p>Toyota is to enter a hydrogen-powered truck (pictured with driver Dania Akeel) in the January 2027 Dakar Rally. The truck is a hydrogen fuel cell version of the ICE Hilux [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/\">Hydrogen truck for Dakar Rally</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Flapping Airplanes raises $1bn",
+    "source": "Electronics Weekly",
+    "date": "2026-10-22",
+    "url": "https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/",
+    "summary": "<p>Flapping Airplanes, a one year-old San Francisco AI neolab, has raised $1 billion at a $6 billion valuation before it has put a product on the market. ‘Neolab’ denotes an [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/\">Flapping Airplanes raises $1bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Photon Bridge raises €10m",
+    "source": "Electronics Weekly",
+    "date": "2026-10-22",
+    "url": "https://www.electronicsweekly.com/news/business/photon-bridge-raises-e10m-2026-10/",
+    "summary": "<p>Photon Bridge, the Dutch photonics specialist, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/photon-bridge-raises-e10m-2026-10/\">Photon Bridge raises €10m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Q3 phone market sinks 22% YoY",
+    "source": "Electronics Weekly",
+    "date": "2026-10-22",
+    "url": "https://www.electronicsweekly.com/news/business/q3-phone-market-sinks-22-yoy-2026-10/",
+    "summary": "<p>The global smartphone market shrank 22.0% YoY to 255.3 million, according to  IDC., Shipments marking the highest YoY decline to date of any quarter.. “The sharp downturn the industry has [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q3-phone-market-sinks-22-yoy-2026-10/\">Q3 phone market sinks 22% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Private wireless RAN revenue growth slows",
+    "source": "Electronics Weekly",
+    "date": "2026-10-22",
+    "url": "https://www.electronicsweekly.com/news/business/h1-slow-down-in-private-wireless-ran-revenue-growth-2026-10/",
+    "summary": "<p>Private Wireless Radio Access Network (RAN) revenue growth slowed to the mid-single digits in H1, reports Dell’Oro. Wide-area private wireless networks are increasingly supporting market growth, driven by opportunities in [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/h1-slow-down-in-private-wireless-ran-revenue-growth-2026-10/\">Private wireless RAN revenue growth slows</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Carbon Capture Scratching The Surface",
     "source": "Electronics Weekly",
     "date": "2026-10-22",
     "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/carbon-capture-scratching-the-surface-2026-10/",
     "summary": "<p>According to the Global Status of CCS (Carbon Capture and Storage) report,  there are currently 132 commercial CCS projects in operation around the world. Together, these facilities are capable of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/carbon-capture-scratching-the-surface-2026-10/\">Carbon Capture Scratching The Surface</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Candy Corn Dragon Halloween #3DThursday #3DPrinting #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/candy-corn-dragon-halloween-3dthursday-3dprinting-3dthursday-3dprinting/",
+    "summary": "Meyerhouse shares: A free articulated dragon with candy-corn-style spikes and festive tri-color look (yellow/orange/white). Fully articulated and fun to pose. Scales from small tabletop to centerpiece dragon. Glue stick on build plate for adhesion; brim recommended if the printer has trouble sticking. Alternative Halloween-flexi pick AND an alternative candy-corn subcategory take (held out of main [&#8230;]"
+  },
+  {
+    "title": "From the mail bag…",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/from-the-mail-bag-810/",
+    "summary": "From the mail bag! I ordered several on/off switches that had been on back order. They arrived in a small, elegant box, reminiscent of those from Tiffany’s. Although the color wasn’t the same, it was still beautiful. Inside, I found the four stunning switches, their chrome bevels gleaming under my overhead light. I wanted to [&#8230;]"
+  },
+  {
+    "title": "Halloween Coffin Planter #3DThursday #3DPrinting #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/halloween-coffin-planter/",
+    "summary": "user_1490077247 shares: A Halloween-themed coffin planter for small plants or succulents. Coffin has drainage holes at the bottom; base catches runoff. Second plate: a matching RIP tombstone. 0.2mm layer, 2 walls, 15% infill, ~2.7h across 2 plates, ~109g PLA for the main piece. Standard Digital File License (non-commercial). Designer mentions a matching spider model separately. [&#8230;]"
   },
   {
     "title": "Every Type of Current Sensor Explained",
@@ -47,20 +117,6 @@
     "date": "2026-10-21",
     "url": "https://hackaday.com/2026/10/21/the-age-of-altair/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/10/altair.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>I recently got the Amazon Christmas toy book in the mail, and it is definitely the modern version of the Sears Christmas Wish Book for last century&#8217;s youth. Or at <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/the-age-of-altair/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Clotty The Custom Period Tracker Can, Of Course, Run DOOM",
-    "source": "Hackaday",
-    "date": "2026-10-21",
-    "url": "https://hackaday.com/2026/10/21/clotty-the-custom-period-tracker-can-of-course-run-doom/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/clotty_close_doom-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[kati]&#8217;s Clotty might run DOOM and game-ify the menstrual tracking process with a playful Tamagotchi-like aspect, but don&#8217;t let that distract you. It is, at its heart, a personal menstrual <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/clotty-the-custom-period-tracker-can-of-course-run-doom/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A Stereo Vision Board For Hardware Hackers",
-    "source": "Hackaday",
-    "date": "2026-10-21",
-    "url": "https://hackaday.com/2026/10/21/a-stereo-vision-board-for-hardware-hackers/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/4reel-front-e1792558807281.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s plenty easy to do lots of vision tasks with a single camera, but using two cameras gives you lots of magical abilities, like depth perception! If you&#8217;d like to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/a-stereo-vision-board-for-hardware-hackers/\">&#8230;read more</a>"
   },
   {
     "title": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation",
@@ -117,41 +173,6 @@
     "date": "2026-10-21",
     "url": "https://www.electronicsweekly.com/news/business/12-ideas-for-startups-for-free-2026-10/",
     "summary": "<p>Idealab.ai kicked off on Monday with 1,208,577 ideas for starting up a new tech business. The site was set up by serial entrepreneur Bill Gross (pictured ) the billionaire founder [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/12-ideas-for-startups-for-free-2026-10/\">1,208,577 ideas for tech startups for free</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qualcomm to start worldwide layoffs",
-    "source": "Electronics Weekly",
-    "date": "2026-10-21",
-    "url": "https://www.electronicsweekly.com/news/business/qualcomm-to-start-worldwide-layoffs-2026-10/",
-    "summary": "<p>Qualcomm is to lay off staff worldwide according to a memo from CEO Cristiano Amon to employees seen by Reuters. Notifications are to start next month. The number involved is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qualcomm-to-start-worldwide-layoffs-2026-10/\">Qualcomm to start worldwide layoffs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Google and Synaptics launch xMCUs",
-    "source": "Electronics Weekly",
-    "date": "2026-10-21",
-    "url": "https://www.electronicsweekly.com/news/business/google-and-synaptics-launch-xmcus-2026-10/",
-    "summary": "<p>Synaptics and Google have introduced the xMCU &#8211; an MCU  that combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM scalable to hundreds of megabytes, enabling larger AI [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/google-and-synaptics-launch-xmcus-2026-10/\">Google and Synaptics launch xMCUs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qinetiq to help DCMS deliver TechFirst",
-    "source": "Electronics Weekly",
-    "date": "2026-10-21",
-    "url": "https://www.electronicsweekly.com/news/business/qinetiq-to-help-dcms-deliver-techfirst-2026-10/",
-    "summary": "<p>QinetiQ is to help deliver the government’s skills and employability programme, TechFirst. Run by the Department of Digital, Culture, Media and Sport (DCMS), TechFirst is designed to engage a million [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/qinetiq-to-help-dcms-deliver-techfirst-2026-10/\">Qinetiq to help DCMS deliver TechFirst</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Qualcomm vs Arm (cont’d)",
-    "source": "Electronics Weekly",
-    "date": "2026-10-21",
-    "url": "https://www.electronicsweekly.com/news/qualcomm-vs-arm-nudge-2026-10/",
-    "summary": "<p>Yesterday the judge in the Qualcomm vs Arm case heard the closing arguments on the two points in the case that are decided by the judge not the jury. The [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/qualcomm-vs-arm-nudge-2026-10/\">Qualcomm vs Arm (cont’d)</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Top Ten Chinese Semiconductor Companies",
-    "source": "Electronics Weekly",
-    "date": "2026-10-21",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-stent-chinese-semiconductor-companies-2026-10/",
-    "summary": "<p>1.  SMIC (Semiconductor Manufacturing International Corporation) – China’s largest foundry, ~$9.3 billion revenue in 2025. 2.  CXMT (ChangXin Memory Technologies) – Leading domestic DRAM maker, revenue surged past $8 billion. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-stent-chinese-semiconductor-companies-2026-10/\">Top Ten Chinese Semiconductor Companies</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Adafruit Learn Guide: Cosplay Hacks #WearableWednesday",
@@ -264,27 +285,6 @@
     "date": "2026-10-20",
     "url": "https://blog.adafruit.com/2026/10/20/jps-product-pick-of-the-week-3pm-eastern-today-10-20-26-adafruit-adafruit-newproductpick/",
     "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in [&#8230;]"
-  },
-  {
-    "title": "Trick-or-Streets is Back for 2026!",
-    "source": "Adafruit",
-    "date": "2026-10-20",
-    "url": "https://blog.adafruit.com/2026/10/20/trick-or-streets-is-back-for-2026/",
-    "summary": "Explore the interactive map to find events big and small close to you This is the fifth year the NYC DOT compiled the Trick-or-Streets list. These are streets, plazas, and other corridors that are shutting out cars and creating pedestrian friendly Halloween activities. Checkout the map and links to plot your macabre merrymaking. From now [&#8230;]"
-  },
-  {
-    "title": "Remote Control with the Huzzah + Adafruit.io #AdafruitLearn",
-    "source": "Adafruit",
-    "date": "2026-10-20",
-    "url": "https://blog.adafruit.com/2026/10/20/remote-control-with-the-huzzah-adafruit-io-adafruitlearn/",
-    "summary": "This guide will show you how to send button press data to Adafruit IO from the HUZZAH ESP8266, then use that data to change the color of an LED connected to a second HUZZAH ESP8266. If you haven&#8217;t worked your way through the Adafruit IO feed and dashboard basics guides, you should do that before continuing [&#8230;]"
-  },
-  {
-    "title": "Off The Cloud: a Raspberry Pi 5 that replaces Google Photos",
-    "source": "Adafruit",
-    "date": "2026-10-20",
-    "url": "https://blog.adafruit.com/2026/10/20/off-the-cloud-a-raspberry-pi-5-that-replaces-google-photos/",
-    "summary": "I feel constantly overwhelmed and inundated by both our ever-growing stock of digital photos and the need to pay multiple companies to store said photos. This clever and handy project from maker Alonso Vidales proposes a DIY solution to that very issue: Google Photos and iCloud are convenient, but they keep a family&#8217;s photos on [&#8230;]"
   },
   {
     "title": "Neural Concept Launches MCP Bridge, Augmenting AI Agents to Operate Industrial Engineering Software",
