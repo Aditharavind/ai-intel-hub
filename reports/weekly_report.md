@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-22 06:41 UTC
+Generated: 2026-10-22 12:32 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,28 +14,28 @@ Generated: 2026-10-22 06:41 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83727 | 33490.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63959 | 25583.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44722 | 17888.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30763 | 12305.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29109 | 11643.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83736 | 33494.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63964 | 25585.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44726 | 17890.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30766 | 12306.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29120 | 11648.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 644 | 193.3 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
-| EPFL-LARA/lean-world-model-qwen3-8b-grpo | 643 | 193.0 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo) |
-| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 637 | 191.2 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 661 | 198.4 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-8b-grpo | 659 | 197.8 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 654 | 196.3 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
+| vinguyen0891/Vivy-R-Robotics-3B-GGUF | 496 | 148.9 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
 | mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 434 | 130.3 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
-| vinguyen0891/Vivy-R-Robotics-3B-GGUF | 411 | 123.4 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-10-22 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ25PdEVSOXJKN3VoWGFkeTlDU3YwVXZoMnJmcFBYcHFKeERTd1ByVVJid3A2S3B3bjAyb2hqSjY4QWFuZ1NWbFFfZFNVTUZEVERMOURyZEh4a1U2WFB5dUNkSzVwdjdrZHd6Q1ZHLS1LUVMzeTJuVXVWNFljMUFoemtnU0diSHEwUV9XcVZxUHQ0cTBiRjFnRzU4NnZIZ2kwVVh6TXBHREZJTjhablM3T3QwNnVNVkxBTXNfUmZ6M2hsb1NWY2l6WUJCc0k2dk9oN0FrZW55Y3RzTDBzWTFEc1pDaTV3R0xjU0E?oc=5) |
 | 2026-10-21 | Unitree |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1LaDBZdDRWSFNfYjRsMVUtWlVTVXNxSER2SExIYXc4Y2w3dmpxd0R4QTBKY1I5RjktblV4VnIwalZKdTVJWmxULVVWVklXanFOSG9GMmdZU0NfVVNUZC1hdWZmMWwxTkpqekw3ZnZIRmZ5RV9sY0E?oc=5) |
 | 2026-10-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMmlMZWN3VW1HeWR6dXNPcGlXeWtUc0FWdWxCYl9ZN0tTTDhEckR5OTBockE2MVdzWWw3SHBSMkI0R3VpYTdfS0FCSEctUzFCQldvQWY5V0RqUQ?oc=5) |
 | 2026-10-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUlmbVJseC1CTzFMWVZrWmFhUEJJRUFpVmRYeFJETV9WM3J0LU1SWG5tOVlqMmE3MjgyQktkYnFZYkNoYTI4VXNnVm5CVmxGSDQwLXlUUVBrM2c5dmFmRkVoc1dSMVRxSmx2X3h4NXo5d184R2x4QnJJblVMSUVXSmlrZF9PSklka2NCd19uWlhycWkwZ3ZQM1hDRFRnY2czZ2lXNDB6RQ?oc=5) |
-| 2026-10-19 | Unitree |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXBSbDBybWt1b1MzTWV0Ykxrc0xDa0d6YU5uN2xRT044cGd4aW51aFhyUmc1dFVZV3JUT2pUV3RvU3JEODZRQTM4ejJrLXl4YllRM1JqQTJsWW10dm5uQVVMeFpyNEdoeWR6SHNjU3ZtQ1VrLTh0X2YxZmR2Y085NnU4dHd1OUROUC1JWFp6OEdrUQ?oc=5) |
 | 2026-10-19 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnFORlllUzZhSFlWU3VTMTZ1VjF0djNnVE1GNFAyUmZKdFRmREF4WWdvNGlEanZ4V3dod0FzaGQyM1Y0allYOVRkYjJCMDVJV085SlhLb3k1ZFlRSUxTUU9qc3pSU1Vpa0x5RlJXM3dUaEhzNERoYlltb3hwMURvNW5DUWpYcDVfNWxIT2Ytb2FwbERDS0doZEdRc2dnd0I1TW9ub0lYQlVLdWt2VVd6V3JkSWFKMFRVQVNz?oc=5) |
 
 ## Most Active Companies

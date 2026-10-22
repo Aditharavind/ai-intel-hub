@@ -1,5 +1,19 @@
 [
   {
+    "title": "Floating-Point Addition and Subtraction on Intel’s 8087",
+    "source": "Hackaday",
+    "date": "2026-10-22",
+    "url": "https://hackaday.com/2026/10/22/floating-point-addition-and-subtraction-on-intels-8087/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"451\" src=\"https://hackaday.com/wp-content/uploads/2026/10/intel_8087_add_subtract_circuitry_ken_shirriff.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although you can do basic floating point format operations like addition and subtraction just fine on any CPU, having specialized hardware for it can provide a significant speed boost. Here <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/floating-point-addition-and-subtraction-on-intels-8087/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Trying to Get Linux Running on a Nokia E6",
+    "source": "Hackaday",
+    "date": "2026-10-22",
+    "url": "https://hackaday.com/2026/10/22/trying-to-get-linux-running-on-a-nokia-e6/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/23274-rotated-e1792558325798.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Nokia E6 is a smartphone from back in the old days when Symbian was a thing. [fluffleswaffled] has been doing the work to get the ancient handset running Linux <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/trying-to-get-linux-running-on-a-nokia-e6/\">&#8230;read more</a>"
+  },
+  {
     "title": "Reading QR Codes by Hand",
     "source": "Hackaday",
     "date": "2026-10-22",
@@ -14,11 +28,25 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"466\" src=\"https://hackaday.com/wp-content/uploads/2026/10/seven_segment_display_standalone_witchcraft_and_alchemy_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Before the advent of effective semiconductor LEDs many display types existed to display things like numbers and other characters. The Nixie tube is a well-known one, along with VFDs and <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/making-a-five-segment-display-with-platinum-titanium-cathodes/\">&#8230;read more</a>"
   },
   {
+    "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
+    "source": "CNX Software",
+    "date": "2026-10-22",
+    "url": "https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/",
+    "summary": "<div><img alt=\"GL.iNet Mango 2 (GL MG1300) Dual band Mini Travel Router\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/GL.iNet-Mango-2-GL-MG1300-Dual-band-Mini-Travel-Router-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>GL.iNet Mango 2 (GL-MG1300) mini dual-band WiFi 5 travel router is built around the MediaTek MT7621A dual-core processor. It is designed to share hotel WiFi, wired Ethernet, or mobile internet connections with multiple devices. The router measures just 89 x 63 x 15mm and weighs 100 grams. It supports WiFi speeds of up to 400 Mbps on the 2.4 GHz band and 866 Mbps on the 5 GHz band, along with WireGuard VPN speeds of up to 184 Mbps and OpenVPN speeds of up to 95 Mbps with DCO. Other features include dual  Gigabit Ethernet ports, USB 3.0, USB-C power, and others. GL.iNet Mango 2 (GL-MG1300) specifications: Processor – Mediatek MT7621A dual core MIPS 1004Kc processor @ 880Mhz Memory – 128MB DDR3L RAM Storage – 128MB SPI NAND flash + 2MB SPI NOR flash Networking 2x Gigabit Ethernet ports (WAN/LAN) Dual-band 802.11a/b/g/n/ac WiFi 5 2.4 GHz – Up to 400 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/\">GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC",
     "source": "CNX Software",
     "date": "2026-10-22",
     "url": "https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/",
     "summary": "<div><img alt=\"ESP32-S31 rotary encoder\" class=\"attachment-medium size-medium wp-post-image\" height=\"673\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/ESP32-S31-rotary-encoder-720x673.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Following our coverage of a 4.3-inch ESP32-S31 display development board, a Facebook reader pointed out the GUITION JC3636F118C-I-YR1 rotary encoder with a built-in 1.8-inch touchscreen display. It appears to be an update to an earlier ESP32-S3 model, now equipped with an ESP32-S31NRV16 WiFi 6, Bluetooth 5.4, and 802.15.4 SoC with 16MB of PSRAM. The rotary knob also includes 16MB SPI flash, a speaker, a microphone, and an optional rechargeable battery. GUITION JC3636F118C-I-YR1 specifications: SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash MicroSD card slot (for WiFi configuration, music or MJPEG video playback, etc.) Display 1.8-inch [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/\">Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
+    "source": "Electronics Weekly",
+    "date": "2026-10-22",
+    "url": "https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/",
+    "summary": "<p>Industrial automation is increasingly becoming a strategic priority for manufacturers, with robotics, AI and connected production systems promising productivity, flexibility and resilience, writes Payam Pajoohi of PHYTEC. Despite this, adopting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/\">Why embedded engineering is becoming a bottleneck for industrial automation </a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Hydrogen truck for Dakar Rally",
@@ -63,6 +91,48 @@
     "summary": "<p>According to the Global Status of CCS (Carbon Capture and Storage) report,  there are currently 132 commercial CCS projects in operation around the world. Together, these facilities are capable of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/carbon-capture-scratching-the-surface-2026-10/\">Carbon Capture Scratching The Surface</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Halloween Trick-or-Treat Spider Candy Box – Pop-Up Spider Mechanism #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/halloween-trick-or-treat-spider-candy-box-pop-up-spider-mechanism-3dthursday-3dprinting/",
+    "summary": "superGeometry shares: A Halloween candy box with a spider that pops out when the lid slides. Attach a candy to the spider with double-sided tape — opening the box delivers a scare AND a treat. Mechanism: gear + arm assembly inside the box holds the spider; sliding the lid moves it out; a knob on [&#8230;]"
+  },
+  {
+    "title": "Arduino Uno R4 WiFi + Minima Case – Several Top-Case Connector Variants #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/arduino-uno-r4-wifi-minima-case-several-top-case-connector-variants-3dthursday-3dprinting-3dthursday-3dprinting/",
+    "summary": "tim290923 shares: A case for the Arduino Uno R4 WiFi or Minima. Several top-case variants depending on which connectors you need. Can be mounted and secured to a plate through its holes. Screw assembly requires M3 threaded inserts and M3×12 screws, but holds together without screws. Recommended: 0.2mm layer, 3 walls, 30% infill, ~1.2h, 32g [&#8230;]"
+  },
+  {
+    "title": "Modern Christmas Tree Tea Light Holder #3DThursday #3DPrinting #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/modern-christmas-tree-tea-light-holder-3dthursday-3dprinting-3dthursday-3dprinting/",
+    "summary": "watchthemaker shares: A tea light holder shaped like a minimalist Christmas tree. Base screws on to hold a tea light; switch can be reached from underneath without taking the piece apart. Print profile includes both standard and fuzzy skin versions of the trees. Designer printed in Bambu PLA Matte Bone White + Latte Brown. Standard [&#8230;]"
+  },
+  {
+    "title": "LILYGO TTGO Meshtastic T-Beam Case #3DThursday #3DPrinting #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/lilygo-ttgo-meshtastic-t-beam-case-3dthursday-3dprinting-3dthursday-3dprinting/",
+    "summary": "lastparody shares: A custom case for the LILYGO TTGO Meshtastic T-Beam. Package has four parts: two top covers + two bottom bases, pick one of each. Bottom bases: 50° angled (better viewing angle) or 90° flat (keeps device upright). Angled base may not suit monopole antennas at 433MHz — use flat for that. Top covers: [&#8230;]"
+  },
+  {
+    "title": "Christmas Star LED Tree Topper #3DThursday #3DPrinting #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/christmas-star-led-tree-topper-3dthursday-3dprinting-3dthursday-3dprinting/",
+    "summary": "BamBamDesign shares: A printable 3D star Christmas tree topper in dodecahedron shape — ~240mm diameter assembled, tips ~90mm long. Easy to light up — G4 holder integrated (G4 bulb suggested as example), works with LED strips or similar. Parts: 11 tips + 25 connectors. Choose one bottom (fits over tree) or one hanging top (hole [&#8230;]"
+  },
+  {
+    "title": "An industrial case for Monster Eyes #3DThursday #3DPrinting #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-22",
+    "url": "https://blog.adafruit.com/2026/10/22/an-industrial-case-for-monster-eyes-3dthursday-3dprinting-3dthursday-3dprinting/",
+    "summary": "miekush shares: A 3D printable case for an Adafruit Monster Eye with an industrial flair! download the files on: https://www.hackster.io/miekush/adafruit-monster-eyes-industrial-case-492349 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics projects integrated with 3D printed enclosures, brackets, [&#8230;]"
+  },
+  {
     "title": "Candy Corn Dragon Halloween #3DThursday #3DPrinting #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-22",
@@ -103,20 +173,6 @@
     "date": "2026-10-21",
     "url": "https://hackaday.com/2026/10/21/knitting-yarn-and-filament-with-filaloom/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"424\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-102633.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We don’t generally think of 3D printing and knitting in the same sentence. One uses threads and fine motor control, while the other requires great knowledge of pressing buttons and <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/knitting-yarn-and-filament-with-filaloom/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Building a Simple Internet Radio",
-    "source": "Hackaday",
-    "date": "2026-10-21",
-    "url": "https://hackaday.com/2026/10/21/building-a-simple-internet-radio/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/10/F5UUYGVMVA11SYU-1-1.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Broadcast radio isn&#8217;t as popular as it once was, its popularity suffering in turn due to technologies like MP3 players and music streaming services. If you don&#8217;t fancy either of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/building-a-simple-internet-radio/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The Age of Altair",
-    "source": "Hackaday",
-    "date": "2026-10-21",
-    "url": "https://hackaday.com/2026/10/21/the-age-of-altair/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/10/altair.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>I recently got the Amazon Christmas toy book in the mail, and it is definitely the modern version of the Sears Christmas Wish Book for last century&#8217;s youth. Or at <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/the-age-of-altair/\">&#8230;read more</a>"
   },
   {
     "title": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation",
@@ -168,13 +224,6 @@
     "summary": "<p>Iceye has successfully launched and deployed four further SAR satellites into orbit, expanding its LEO constellation for Earth Observation. The four craft include two satellites for Portugal’s Atlantic Constellation with [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/iceye-expands-sar-satellite-constellation-2026-10/\">Iceye expands SAR satellite constellation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "1,208,577 ideas for tech startups for free",
-    "source": "Electronics Weekly",
-    "date": "2026-10-21",
-    "url": "https://www.electronicsweekly.com/news/business/12-ideas-for-startups-for-free-2026-10/",
-    "summary": "<p>Idealab.ai kicked off on Monday with 1,208,577 ideas for starting up a new tech business. The site was set up by serial entrepreneur Bill Gross (pictured ) the billionaire founder [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/12-ideas-for-startups-for-free-2026-10/\">1,208,577 ideas for tech startups for free</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Adafruit Learn Guide: Cosplay Hacks #WearableWednesday",
     "source": "Adafruit",
     "date": "2026-10-21",
@@ -194,34 +243,6 @@
     "date": "2026-10-21",
     "url": "https://blog.adafruit.com/2026/10/21/jps-product-pick-of-the-week-10-20-26-adafruit-bno055-bmp280-bff-for-qt-py-newproductpick/",
     "summary": "If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit BNO055 + BMP280 BFF Add-On for QT Py! Watch the video to find out about the Adafruit BNO055 + BMP280 BFF Add-On for QT Py, how to use ’em, [&#8230;]"
-  },
-  {
-    "title": "CircuitPython 11.0.0-alpha.2 Released!",
-    "source": "Adafruit",
-    "date": "2026-10-21",
-    "url": "https://blog.adafruit.com/2026/10/21/circuitpython-11-0-0-alpha-2-released/",
-    "summary": "From the GitHub release page: This is CircuitPython 11.0.0-alpha.2, an alpha release for 11.0.0. Further features, changes, and bug fixes will be added before the final release of 11.0.0. CircuitPython libraries from the 10.x bundles are still compatible with CircuitPython 11.0.0 builds. Highlights of changes since 11.0.0-alpha.1 storage.map_file allows directly reading a file from mapped [&#8230;]"
-  },
-  {
-    "title": "LIVE! 3D Hangouts with Noe and Pedro",
-    "source": "Adafruit",
-    "date": "2026-10-21",
-    "url": "https://blog.adafruit.com/2026/10/21/live-3d-hangouts-with-noe-and-pedro-89/",
-    "summary": "3D Hangouts – USB Desk Hub, Holiday Wreath and Caroline https://youtube.com/live/_yM1B3QA7ok?feature=share This week @adafruit Noe is showcasing his guide for his built-in USB hub for the Ikea MITTZON desk. Pedro is working on a new project inspired by the Apple HomeView. Checking out this week’s Timelapse Tuesday model of Caroline. USB hub for Ikea Mittzon [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-10-21",
-    "url": "https://blog.adafruit.com/2026/10/21/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-21-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Building a Spotify Desk Thing",
-    "source": "Adafruit",
-    "date": "2026-10-21",
-    "url": "https://blog.adafruit.com/2026/10/21/building-a-spotify-desk-thing/",
-    "summary": "Pink Propeller made a Spotify Desk Thing and shared the build and the 3 simple rules dictating the build over on YouTube! I was tired of having to click the function key and then three other buttons just to change the song so I decided to make my own version of the Spotify thing since [&#8230;]"
   },
   {
     "title": "CR-8000 2026 Streamlines PCB Development With New Automation and Reuse Capabilities",
@@ -271,20 +292,6 @@
     "date": "2026-10-20",
     "url": "https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/",
     "summary": "<p>Synaptics Inc. has claimed a new class of microcontrollers (MCUs), the xMCU, for multimodal edge AI. Announced at its annual tech day, the new Astra SR200 series combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM. It was designed to enable device-native and real-time experiences that combine modalities such as voice, vision, audio, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/\">Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "P. S. Art 2026 Celebrates NYC Through The Lens of City Kids",
-    "source": "Adafruit",
-    "date": "2026-10-20",
-    "url": "https://blog.adafruit.com/2026/10/20/p-s-art-2026-celebrates-nyc-through-the-lens-of-city-kids/",
-    "summary": "Nia Obrien (Grade 8), The Speed of Life (detail), 2026. Digital photograph. Lower Manhattan Community Middle School, Manhattan. Teacher: Jessica Sinclair via The Metropolitan Museum of Art Artists from prekindergarten through grade 12 created collages, drawings, mixed-media pieces, paintings, photographs, prints, sculptures and more for this year&#8217;s P. S. Art. The selected pieces are on [&#8230;]"
-  },
-  {
-    "title": "JP’s Product Pick of the Week —  3pm Eastern TODAY 10/20/26 @adafruit #adafruit #newproductpick",
-    "source": "Adafruit",
-    "date": "2026-10-20",
-    "url": "https://blog.adafruit.com/2026/10/20/jps-product-pick-of-the-week-3pm-eastern-today-10-20-26-adafruit-adafruit-newproductpick/",
-    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in [&#8230;]"
   },
   {
     "title": "Neural Concept Launches MCP Bridge, Augmenting AI Agents to Operate Industrial Engineering Software",
@@ -404,13 +411,6 @@
     "date": "2026-10-15",
     "url": "https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/",
     "summary": "<div><img alt=\"Full 2.4 GHz spectrum view with flattened passband correction applied\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Full-2.4-GHz-spectrum-view-with-flattened-passband-correction-applied-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Just a few days ago, we wrote about the ESP-SDR project, which turned an ESP32 into an SDR receiver (and now SDR transmitter), but the data was streamed over UART, which couldn&#8217;t keep up with the sample rate. Now, developer h0m3us3r has released w1700k-sdr, also an open-source project that turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The project uses the router&#8217;s built-in MediaTek MT7996 radio to capture raw 14-bit I/Q samples at up to 320 MSps across the 2.4 GHz, 5 GHz, and 6 GHz bands. The captured data is then streamed over a 10 GbE connection using the router&#8217;s Airoha AN7581 SoC to a Linux computer, where you can view the live spectrum and waterfall in a browser. To make this work, the project replaces the router&#8217;s stock firmware with a custom Linux system and radio firmware, allowing it to capture raw I/Q data [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/\">W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control",
-    "source": "CNX Software",
-    "date": "2026-10-15",
-    "url": "https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/",
-    "summary": "<div><img alt=\"HPM5100 series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/HPM5100-series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog comparators. It also includes a high-speed USB 2.0 OTG interface with an integrated PHY, CAN FD, multiple UART/SPI/I2C interfaces, and 32 PWM channels for motor control. The chip supports hardware floating-point operations and DSP instructions, while the integrated analog peripherals reduce the need for external ADCs and signal-conditioning circuits. HPMicro HPM5100 specifications: MCU core – Single-core 32-bit RISC-V processor @ 400 MHz (up to 480 MHz in high-performance mode with external power supply) Hardware FPU, SIMD, and DSP instruction support 16 KB L1 instruction cache and 16 KB L1 data cache Up to 3.57 CoreMark/MHz Memory 416 KB SRAM 256 KB instruction local memory (ILM) 128 KB data local memory [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/\">HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "From Spooky Action to Quantum Internet: Communication Takes to the Air",
