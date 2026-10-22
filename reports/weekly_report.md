@@ -1,24 +1,18 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-21 22:49 UTC
+Generated: 2026-10-22 01:01 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-10-20 | Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs | [link](https://arxiv.org/pdf/2610.28632v1) |
-| 2026-10-20 | AEON: Unifying Video and 3D World Models | [link](https://arxiv.org/pdf/2610.28631v1) |
-| 2026-10-20 | Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking | [link](https://arxiv.org/pdf/2610.28628v1) |
-| 2026-10-20 | UniWALM: Unified World Action Language Model for Embodied Robot Control | [link](https://arxiv.org/pdf/2610.28626v1) |
-| 2026-10-20 | Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets | [link](https://arxiv.org/pdf/2610.28624v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83722 | 33488.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63956 | 25582.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44721 | 17888.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 83724 | 33489.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63958 | 25583.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44722 | 17888.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30759 | 12303.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29096 | 11638.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29101 | 11640.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |

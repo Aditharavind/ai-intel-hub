@@ -1,5 +1,26 @@
 [
   {
+    "title": "Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC",
+    "source": "CNX Software",
+    "date": "2026-10-22",
+    "url": "https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/",
+    "summary": "<div><img alt=\"ESP32-S31 rotary encoder\" class=\"attachment-medium size-medium wp-post-image\" height=\"673\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/ESP32-S31-rotary-encoder-720x673.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Following our coverage of a 4.3-inch ESP32-S31 display development board, a Facebook reader pointed out the GUITION JC3636F118C-I-YR1 rotary encoder with a built-in 1.8-inch touchscreen display. It appears to be an update to an earlier ESP32-S3 model, now equipped with an ESP32-S31NRV16 WiFi 6, Bluetooth 5.4, and 802.15.4 SoC with 16MB of PSRAM. The rotary knob also includes 16MB SPI flash, a speaker, a microphone, and an optional rechargeable battery. GUITION JC3636F118C-I-YR1 specifications: SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash MicroSD card slot (for WiFi configuration, music or MJPEG video playback, etc.) Display 1.8-inch [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/\">Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Carbon Capture Scratching The Surface",
+    "source": "Electronics Weekly",
+    "date": "2026-10-22",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/carbon-capture-scratching-the-surface-2026-10/",
+    "summary": "<p>According to the Global Status of CCS (Carbon Capture and Storage) report,  there are currently 132 commercial CCS projects in operation around the world. Together, these facilities are capable of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/carbon-capture-scratching-the-surface-2026-10/\">Carbon Capture Scratching The Surface</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Every Type of Current Sensor Explained",
+    "source": "Hackaday",
+    "date": "2026-10-21",
+    "url": "https://hackaday.com/2026/10/21/every-type-of-current-sensor-explained/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/10/current_sensor_comparison_electrarc240_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Measuring electric currents is an essential element of many electrical systems, but doing so in a way that is as nonintrusive as possible is not an easy problem to solve. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/every-type-of-current-sensor-explained/\">&#8230;read more</a>"
+  },
+  {
     "title": "Sega Genesis Controllers on the Philips CD-i",
     "source": "Hackaday",
     "date": "2026-10-21",
@@ -40,13 +61,6 @@
     "date": "2026-10-21",
     "url": "https://hackaday.com/2026/10/21/a-stereo-vision-board-for-hardware-hackers/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/4reel-front-e1792558807281.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>It&#8217;s plenty easy to do lots of vision tasks with a single camera, but using two cameras gives you lots of magical abilities, like depth perception! If you&#8217;d like to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/21/a-stereo-vision-board-for-hardware-hackers/\">&#8230;read more</a>"
-  },
-  {
-    "title": "5 GHz Drone Video, With An ESP32",
-    "source": "Hackaday",
-    "date": "2026-10-21",
-    "url": "https://hackaday.com/2026/10/20/5-ghz-drone-video-with-an-esp32/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/espr2-fmrx-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>With the ESP32 series of microcontrollers having had hidden software-defined radio (SDR) facility revealed, we&#8217;re now moving on from the announcement into projects making use of the finding. [Twotoz] has <a class=\"read-more\" href=\"https://hackaday.com/2026/10/20/5-ghz-drone-video-with-an-esp32/\">&#8230;read more</a>"
   },
   {
     "title": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation",
@@ -238,13 +252,6 @@
     "summary": "<p>Synaptics Inc. has claimed a new class of microcontrollers (MCUs), the xMCU, for multimodal edge AI. Announced at its annual tech day, the new Astra SR200 series combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM. It was designed to enable device-native and real-time experiences that combine modalities such as voice, vision, audio, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/\">Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Innodisk’s DDR5 8000 RDIMM addresses edge AI",
-    "source": "Electronics Weekly",
-    "date": "2026-10-20",
-    "url": "https://www.electronicsweekly.com/news/products/memory/innodisks-ddr5-8000-rdimm-addresses-edge-ai-2026-10/",
-    "summary": "<p>Innodisk is expanding its DDR5 portfolio with 8000 RDIMM for compute-intensive applications, such as edge AI and enterprise servers. As the name indicates, the modules deliver data transfer speeds of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/memory/innodisks-ddr5-8000-rdimm-addresses-edge-ai-2026-10/\">Innodisk&#8217;s DDR5 8000 RDIMM addresses edge AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "P. S. Art 2026 Celebrates NYC Through The Lens of City Kids",
     "source": "Adafruit",
     "date": "2026-10-20",
@@ -418,12 +425,5 @@
     "date": "2026-10-15",
     "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem/",
     "summary": "<p>With edge AI, the inference has moved from the cloud to the embedded device. Cameras, wearables, industrial sensors, robots, and vehicles can run trained models, making predictions or decisions on new and uncertain data. Because these devices are often powered by small batteries, an energy issue arises. Engineers developing embedded systems at the edge face [...]</p>\n<p>The post <a href=\"https://www.embedded.com/solving-the-edge-computing-energy-problem/\">Solving the Edge Computing Energy Problem</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
-    "source": "CNX Software",
-    "date": "2026-10-14",
-    "url": "https://www.cnx-software.com/2026/10/15/orange-pi-o1-sbc-features-16-tops-sophgo-bm1688-ai-soc-supports-4g-5g-cellular-connectivity/",
-    "summary": "<div><img alt=\"Orange Pi O1\" class=\"attachment-medium size-medium wp-post-image\" height=\"511\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Orange-Pi-O1-720x511.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Orange Pi O1 is a new single board computer (SBC) based on the somewhat older SOPHGO BM1688 octa-core Cortex-A53 SoC with a built-in 16 TOPS AI accelerator/TPU, and support for decoding up to sixteen 1080p30 video streams, or encoding ten. The board comes with 8GB or 16GB memory, supports M.2 NVMe, eMMC module, SPI flash, SATA III, or microSD card storage, and offers HDMI and MIPI DSI display interfaces, two MIPI CSI camera connectors, dual GbE, WiFi 6E, Bluetooth 5.3, and optional 4G/5G cellular connectivity,  as well as a few USB ports, audio interfaces, and a 26-pin GPIO header for expansion. Orange Pi O1 specifications: SoC &#8211; SOPHGO BM1688 CPU 8-core Arm Cortex-A53 processor @ 1.65 GHz RISC-V C906 co-processor @ 1.2 GHz TPU &#8211; SOPHGO Neural Network Acceleration Engine (TPU), delivering 16 TOPS @ INT8 VPU Video decoding &#8211; H.264 &#38; H.265 up to 16 channels at 1080p30 Video [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/15/orange-pi-o1-sbc-features-16-tops-sophgo-bm1688-ai-soc-supports-4g-5g-cellular-connectivity/\">Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   }
 ]
