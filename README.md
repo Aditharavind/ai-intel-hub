@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-22 17:41 UTC
+Last Updated: 2026-10-22 20:52 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-22 | Build more responsive apps with the Decisions API | OpenAI | [link](https://openai.com/index/decisions-api) |
 | 2026-10-22 | What FDE means at OpenAI | OpenAI | [link](https://openai.com/index/forward-deployed-engineering-means) |
 | 2026-10-22 | Uber brings ChatGPT Work to all employees with OpenAI | OpenAI | [link](https://openai.com/index/uber-chatgpt-work-rollout) |
 | 2026-10-22 | OlmoEarth v1.3: State-of-the-art embeddings for the whole planet | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-v1-3) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-21 | OpenAI models are coming to Google Cloud | OpenAI | [link](https://openai.com/index/openai-models-google-cloud) |
 | 2026-10-21 | Patch the Planet: global response coordination as agents uncover critical vulnerabilities | OpenAI | [link](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities) |
 | 2026-10-21 | ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform | OpenAI | [link](https://openai.com/index/chatgpt-ads-expands-26-new-countries) |
-| 2026-10-21 | Using thousands of AI agents to uncover new leads in biological data | OpenAI | [link](https://openai.com/index/scaling-ai-research-for-complex-biological-data) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-22 | An Open Source Linear Capacitive Encoder | Hackaday | [link](https://hackaday.com/2026/10/22/an-open-source-linear-capacitive-encoder/) |
+| 2026-10-22 | Keeping Old Wi-Fi Radios Alive With Stream Conversion | Hackaday | [link](https://hackaday.com/2026/10/22/keeping-old-wi-fi-radios-alive-with-stream-conversion/) |
 | 2026-10-22 | KiCad… In The Browser? | Hackaday | [link](https://hackaday.com/2026/10/22/kicad-in-the-browser/) |
 | 2026-10-22 | Japan Launches Mission to Study Martian Moon | Hackaday | [link](https://hackaday.com/2026/10/22/japan-launches-mission-to-study-martian-moon/) |
 | 2026-10-22 | Floating-Point Addition and Subtraction on Intel’s 8087 | Hackaday | [link](https://hackaday.com/2026/10/22/floating-point-addition-and-subtraction-on-intels-8087/) |
 | 2026-10-22 | Trying to Get Linux Running on a Nokia E6 | Hackaday | [link](https://hackaday.com/2026/10/22/trying-to-get-linux-running-on-a-nokia-e6/) |
 | 2026-10-22 | Reading QR Codes by Hand | Hackaday | [link](https://hackaday.com/2026/10/21/reading-qr-codes-by-hand/) |
-| 2026-10-22 | Making a Five-Segment Display with Platinum-Titanium Cathodes | Hackaday | [link](https://hackaday.com/2026/10/21/making-a-five-segment-display-with-platinum-titanium-cathodes/) |
 | 2026-10-22 | GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet | CNX Software | [link](https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/) |
 | 2026-10-22 | Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC | CNX Software | [link](https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/) |
-| 2026-10-22 | How Agentic AI Accelerates Edge AI Software Development | Embedded.com | [link](https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development/) |
-| 2026-10-22 | Fable: The CEO Who Cut The Cr*p | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-cut-the-crp-2026-10/) |
+| 2026-10-22 | Socionext, Cadence Advance AI-Driven 3-nm SoC Design | Embedded.com | [link](https://www.embedded.com/socionext-cadence-advance-ai-driven-3-nm-soc-design/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-22 | northstar-robotics-ai/failure-recovery | 0 | 0 | [link](https://huggingface.co/northstar-robotics-ai/failure-recovery) |
 | 2026-10-22 | Sumail/robot | 0 | 0 | [link](https://huggingface.co/Sumail/robot) |
 | 2026-10-22 | Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA | 12 | 0 | [link](https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA) |
 | 2026-10-22 | NFHH/lingbot-robotwin-strong-scratch22k | 0 | 0 | [link](https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k) |
@@ -86,21 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-22 | Owlsnet/lingbot-vla-v2-robotwin-clean50-10k | 0 | 0 | [link](https://huggingface.co/Owlsnet/lingbot-vla-v2-robotwin-clean50-10k) |
 | 2026-10-22 | LuEduSoHu/robot_learning_tutorial_diffusion_1021_1640 | 6 | 0 | [link](https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_1021_1640) |
 | 2026-10-22 | NFHH/lingbot-robotwin-strong-main40k-10k | 0 | 1 | [link](https://huggingface.co/NFHH/lingbot-robotwin-strong-main40k-10k) |
-| 2026-10-22 | kesnick/vlm-vla-test | 1 | 0 | [link](https://huggingface.co/kesnick/vlm-vla-test) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29126 | Python | 11650.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3690 | Python | 1476.1 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 29127 | Python | 11650.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3693 | Python | 1477.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1530 | Rust | 612.1 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
-| mosaico-labs/mosaico | 1085 | Python | 434.1 | [link](https://github.com/mosaico-labs/mosaico) |
+| mosaico-labs/mosaico | 1086 | Python | 434.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | autonomous-ai/lampOS | 486 | Python | 194.5 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 63966 | Python | 25586.5 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 22508 | Python | 9003.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17461 | Java | 6984.5 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16176 | C++ | 6470.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| commaai/openpilot | 63970 | Python | 25588.1 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 22523 | Python | 9009.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17462 | Java | 6984.9 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 16181 | C++ | 6472.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -113,8 +113,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUlmbVJseC1CTzFMWVZrWmFhUEJJRUFpVmRYeFJETV9WM3J0LU1SWG5tOVlqMmE3MjgyQktkYnFZYkNoYTI4VXNnVm5CVmxGSDQwLXlUUVBrM2c5dmFmRkVoc1dSMVRxSmx2X3h4NXo5d184R2x4QnJJblVMSUVXSmlrZF9PSklka2NCd19uWlhycWkwZ3ZQM1hDRFRnY2czZ2lXNDB6RQ?oc=5) |
 | 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnFORlllUzZhSFlWU3VTMTZ1VjF0djNnVE1GNFAyUmZKdFRmREF4WWdvNGlEanZ4V3dod0FzaGQyM1Y0allYOVRkYjJCMDVJV085SlhLb3k1ZFlRSUxTUU9qc3pSU1Vpa0x5RlJXM3dUaEhzNERoYlltb3hwMURvNW5DUWpYcDVfNWxIT2Ytb2FwbERDS0doZEdRc2dnd0I1TW9ub0lYQlVLdWt2VVd6V3JkSWFKMFRVQVNz?oc=5) |
 | 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDFHUDVuZVo2SGJoemE0dW9DMElPTWxJMzBIWWpzM3VnbDlKdEdhbl91NHJvQlJ1djhfQm1yRkhpUjFocEpkeE9SelllY3A1eTJ4YmxlaHYzWERSczFQR2M5SUtRNlU4Q1dXeGN4Qy1kcDVibHBzQkJYTnFnTHd6bTk5b1NkeXNrMkJXRTV4dHFwanlKSHU4?oc=5) |
-| 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9abmNzVlM2a252RWR1WTVTM2RJdmgwemVHZ0pDZGI2VkpYdzAxLUdrX2hUbnlodkcyNWJ6ZF9Ib0M2Vzc4cHVhSjBSNVdXc3Y4eWsxRGxZQ0JWaHZnVENUMGlMbnliN2I2SW5vNlhsUXBLRFFiNklnRw?oc=5) |
 | 2026-10-17 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
+| 2026-10-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjUzdjREbUEtT3lUWWJRMzR5STJEWUNIZmNyczJLUDVXa2NGRy1JdEViOTRwd3dNRE1UQTVubE1PSnNDOEpEOWYyVWRRUXJyWVp3X3B4cjJTUUczNDhoYTU5bW9NbzVRdUFFSFBYaS1sajFQdG5iLXlDOE1hdWdNMjUtQmwxSjFIUUpMWERjYUpUUEJrbWMyaW5HamNvZk9maEVtcUIwdEFQSVBDMWx1Wld5QUVCUURLZjlWY2JrYw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -133,16 +133,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-22 | Manufacturing Quality Engineer BotQ | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4724194006) |
+| 2026-10-22 | Security Engineer, Infrastructure Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4714381006) |
 | 2026-10-22 | Systems Integration Engineer - Actuation Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4626247006) |
 | 2026-10-22 | Systems Integration Engineer - Hand Subsystem | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4612612006) |
-| 2026-10-22 | Manager, Accounts Payable | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6230261004) |
+| 2026-10-22 | Manager, Accounts Payable | Agility Robotics | Hybrid- Fremont, CA; Hybrid- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6230261004) |
 | 2026-10-22 | Senior Deployment Specialist | Agility Robotics | Onsite- Pittsburgh, PA; Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222418004) |
 | 2026-10-22 | Senior Technical Support Specialist | Agility Robotics | Onsite- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222414004) |
 | 2026-10-21 | Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-10-21 | Maintenance & Repair Technician | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6229755004) |
 | 2026-10-21 | Payroll Specialist  | Agility Robotics | Hybrid- Fremont, CA; Hybrid- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6230265004) |
-| 2026-10-19 | Fleet Launch Operator, Commercial Launch Team | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4665205006) |
-| 2026-10-19 | Security Engineer, Detection and Response | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4720675006) |
 
 ## Automation
 
