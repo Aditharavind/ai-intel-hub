@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-22 20:52 UTC
+Last Updated: 2026-10-22 23:42 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,8 +8,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-10-22 | Build more responsive apps with the Decisions API | OpenAI | [link](https://openai.com/index/decisions-api) |
-| 2026-10-22 | What FDE means at OpenAI | OpenAI | [link](https://openai.com/index/forward-deployed-engineering-means) |
 | 2026-10-22 | Uber brings ChatGPT Work to all employees with OpenAI | OpenAI | [link](https://openai.com/index/uber-chatgpt-work-rollout) |
+| 2026-10-22 | Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox | Hugging Face | [link](https://huggingface.co/blog/microsoft/thinkingbox-training) |
 | 2026-10-22 | OlmoEarth v1.3: State-of-the-art embeddings for the whole planet | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-v1-3) |
 | 2026-10-22 | Ensemble forecasting with IBM Granite time-series models | Hugging Face | [link](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1) |
 | 2026-10-21 | How AT&T is rethinking in-house legal work with OpenAI | OpenAI | [link](https://openai.com/index/att-legal) |
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-22 | Car’s Camera Footage Backed up to NAS | Hackaday | [link](https://hackaday.com/2026/10/22/cars-camera-footage-backed-up-to-nas/) |
 | 2026-10-22 | An Open Source Linear Capacitive Encoder | Hackaday | [link](https://hackaday.com/2026/10/22/an-open-source-linear-capacitive-encoder/) |
 | 2026-10-22 | Keeping Old Wi-Fi Radios Alive With Stream Conversion | Hackaday | [link](https://hackaday.com/2026/10/22/keeping-old-wi-fi-radios-alive-with-stream-conversion/) |
 | 2026-10-22 | KiCad… In The Browser? | Hackaday | [link](https://hackaday.com/2026/10/22/kicad-in-the-browser/) |
 | 2026-10-22 | Japan Launches Mission to Study Martian Moon | Hackaday | [link](https://hackaday.com/2026/10/22/japan-launches-mission-to-study-martian-moon/) |
 | 2026-10-22 | Floating-Point Addition and Subtraction on Intel’s 8087 | Hackaday | [link](https://hackaday.com/2026/10/22/floating-point-addition-and-subtraction-on-intels-8087/) |
 | 2026-10-22 | Trying to Get Linux Running on a Nokia E6 | Hackaday | [link](https://hackaday.com/2026/10/22/trying-to-get-linux-running-on-a-nokia-e6/) |
-| 2026-10-22 | Reading QR Codes by Hand | Hackaday | [link](https://hackaday.com/2026/10/21/reading-qr-codes-by-hand/) |
 | 2026-10-22 | GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet | CNX Software | [link](https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/) |
 | 2026-10-22 | Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC | CNX Software | [link](https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/) |
 | 2026-10-22 | Socionext, Cadence Advance AI-Driven 3-nm SoC Design | Embedded.com | [link](https://www.embedded.com/socionext-cadence-advance-ai-driven-3-nm-soc-design/) |
@@ -91,16 +91,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29127 | Python | 11650.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3693 | Python | 1477.3 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 29130 | Python | 11652.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3695 | Python | 1478.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1530 | Rust | 612.1 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1287 | Java | 514.9 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1086 | Python | 434.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | autonomous-ai/lampOS | 486 | Python | 194.5 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 63970 | Python | 25588.1 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 22523 | Python | 9009.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63971 | Python | 25588.5 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 22538 | Python | 9015.3 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17462 | Java | 6984.9 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16181 | C++ | 6472.5 | [link](https://github.com/ArduPilot/ardupilot) |
+| ArduPilot/ardupilot | 16182 | C++ | 6472.9 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -113,8 +113,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUlmbVJseC1CTzFMWVZrWmFhUEJJRUFpVmRYeFJETV9WM3J0LU1SWG5tOVlqMmE3MjgyQktkYnFZYkNoYTI4VXNnVm5CVmxGSDQwLXlUUVBrM2c5dmFmRkVoc1dSMVRxSmx2X3h4NXo5d184R2x4QnJJblVMSUVXSmlrZF9PSklka2NCd19uWlhycWkwZ3ZQM1hDRFRnY2czZ2lXNDB6RQ?oc=5) |
 | 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnFORlllUzZhSFlWU3VTMTZ1VjF0djNnVE1GNFAyUmZKdFRmREF4WWdvNGlEanZ4V3dod0FzaGQyM1Y0allYOVRkYjJCMDVJV085SlhLb3k1ZFlRSUxTUU9qc3pSU1Vpa0x5RlJXM3dUaEhzNERoYlltb3hwMURvNW5DUWpYcDVfNWxIT2Ytb2FwbERDS0doZEdRc2dnd0I1TW9ub0lYQlVLdWt2VVd6V3JkSWFKMFRVQVNz?oc=5) |
 | 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDFHUDVuZVo2SGJoemE0dW9DMElPTWxJMzBIWWpzM3VnbDlKdEdhbl91NHJvQlJ1djhfQm1yRkhpUjFocEpkeE9SelllY3A1eTJ4YmxlaHYzWERSczFQR2M5SUtRNlU4Q1dXeGN4Qy1kcDVibHBzQkJYTnFnTHd6bTk5b1NkeXNrMkJXRTV4dHFwanlKSHU4?oc=5) |
+| 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9abmNzVlM2a252RWR1WTVTM2RJdmgwemVHZ0pDZGI2VkpYdzAxLUdrX2hUbnlodkcyNWJ6ZF9Ib0M2Vzc4cHVhSjBSNVdXc3Y4eWsxRGxZQ0JWaHZnVENUMGlMbnliN2I2SW5vNlhsUXBLRFFiNklnRw?oc=5) |
 | 2026-10-17 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
-| 2026-10-14 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjUzdjREbUEtT3lUWWJRMzR5STJEWUNIZmNyczJLUDVXa2NGRy1JdEViOTRwd3dNRE1UQTVubE1PSnNDOEpEOWYyVWRRUXJyWVp3X3B4cjJTUUczNDhoYTU5bW9NbzVRdUFFSFBYaS1sajFQdG5iLXlDOE1hdWdNMjUtQmwxSjFIUUpMWERjYUpUUEJrbWMyaW5HamNvZk9maEVtcUIwdEFQSVBDMWx1Wld5QUVCUURLZjlWY2JrYw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
@@ -128,7 +128,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-20 | Eka Robotics Hits $1.45B Valuation With Physical AI Breakthrough - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU215ckJmWmNHQmRtLUVQLXZfUVNncG9UQmFEcGZxWEVKQVRNYmk4UnhzMUJGLXpRRU5QX01vcWkwZXJmR3dZeWptYWxJV2t1a3oyUXFwOEFscnRqU2o4a1RTSzBJdlpDeTd6X25LU0xZZ0duUkY4QkZsbU0zaWt2MThIV3ZTakhGdTFBc2tXclpxS1dLd2ExRk5uT2I?oc=5) |
 | 2026-10-20 | Reservoir Farms expands to Pacific Northwest to accelerate physical AI - AgFunderNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2pMRFFMOWVCT3FwdU4yWC1MWjlZM2R0MkMzdU83LWNnTDk1b3ZONjREQTZqM2RtQk93a05MZ3pvQ1hrS3A0N2hpaHBZU1dIUkE1Vm0zZi1KV2hKczQ1d3E5NVJIcDczLTZ0UmhGalhJbG5oUnlyNTZaUVEwaVg1bjV6em16YlR0WFBNdWNXZnhqQUZqdFJKeklqZTJMUVp4RzhLZFVuYnhUZTFNVTlXNTlqNV9rVzdi?oc=5) |
 | 2026-10-20 | Eka Robotics Secures Series A Funding Led by Andreessen Horowitz - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjhoSU5XZllMd3BiS0tEd3dvc3hKREs1S1ZUaHpmZU81Qlp4VXNEX25seGRMcXJ3TDY4MUlvTzNRVjlrTmxJYnB0YVhTN1I4djBycXJhSGVUa3VIc2k1WUtTWTRsMTF0WlB5dzJ1azZjaVZaeUYwYko4MS01X0VaVkpNVXEzT3pqWXZXa3l3UQ?oc=5) |
-| 2026-10-20 | Reservoir Farms Expands to Washington State to Accelerate Physical AI for Tree Fruit, Blueberries, and Critical High-Value Crops - Global Ag Tech Initiative | physical ai startup | [link](https://news.google.com/rss/articles/CBMijwJBVV95cUxObG9Ub1RaN19Lei1VMm5DWmxSdjFPUjRncmZGNVBjY3Q1dWZCc1pNeEkxaUJ1b1NqUE1HVmlIZm1wem5iY0ZMSVg4OHFUME5xR1A2WE1LVmFMbmltTko0V0ZBSDJQSHBORG5YTDlyVE1PdEtiOXEta2lHeG0yNlBJYUtyaFpac2JqaGpiM0dRUzVJMHU0SGIyY0g5aEZFWVU4MWlHcXE2QmFTTG9jNm52YjUxRTZsOV9ETk5MYUI3dW9KLWdsX2ZPU0FfZWhnWW5VM2Jua21DTHUxV0E4YUtrOEVPTXpJbTNiTXNHVGlNRVNZRXBoRkJDRDVBSkl3SG9EWUZIdzZRSEZSU2RPQlBj?oc=5) |
+| 2026-10-20 | Robot Foundation Model Startup Dream Labs Raises $90M Seed - Wowtale | robotics foundation model startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xRDBnLVowSE5yaDE4cnFvbWtOaFpHLUpjUU5MTXVKZ1IwYTJtZldMcTFYRDY2MkxTc2M0WmU1Z2UwTk9LTTlWX3V1NTJwR2VRSnNJ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
