@@ -1,5 +1,19 @@
 [
   {
+    "title": "Reconstructing the Ancient Chinese Storm of Crows Weapon",
+    "source": "Hackaday",
+    "date": "2026-10-23",
+    "url": "https://hackaday.com/2026/10/23/reconstructing-the-ancient-chinese-storm-of-crows-weapon/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"459\" src=\"https://hackaday.com/wp-content/uploads/2026/10/multi-missile_crossbow_launcher_tods_workshop_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Chinese had been using large crossbows &#8211; akin to Greek and Roman ballistae &#8211; for warfare for many of the same reasons that European armies loved them. Their single, <a class=\"read-more\" href=\"https://hackaday.com/2026/10/23/reconstructing-the-ancient-chinese-storm-of-crows-weapon/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Running a Philips CD-i Off USB-C",
+    "source": "Hackaday",
+    "date": "2026-10-23",
+    "url": "https://hackaday.com/2026/10/23/running-a-philips-cd-i-off-usb-c/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Running-the-Philips-CD-i-off-USB-C.-because-why-not_-14-54-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Philips CD-i is a console with many shortcomings, and those include the power supply. For whatever reason, the engineering team decided it should use an 8P8C connector just like <a class=\"read-more\" href=\"https://hackaday.com/2026/10/23/running-a-philips-cd-i-off-usb-c/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hackaday Podcast Episode 392: Microscopes, Drones, and Other DIY Things",
     "source": "Hackaday",
     "date": "2026-10-23",
@@ -35,20 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Playing-DOOM-running-on-a-multimeter-with-32KB-of-RAM-6-29-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>DOOM. Boil it, mash it, stick it in a stew, it&#8217;s the game that runs on anything and everything. Now, the classic shooter is running on a rather unlikely target—a <a class=\"read-more\" href=\"https://hackaday.com/2026/10/23/doom-ported-to-a-30-clamp-meter/\">&#8230;read more</a>"
   },
   {
-    "title": "Restoring a Soviet ES-4001 Mainframe Control Panel",
-    "source": "Hackaday",
-    "date": "2026-10-23",
-    "url": "https://hackaday.com/2026/10/22/restoring-a-soviet-es-4001-mainframe-control-panel/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"455\" src=\"https://hackaday.com/wp-content/uploads/2026/10/es-4001_control_panel_chornobyl_family_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Recently the [Chornobyl Family] got their hands on an ES-4001 control panel for a 1970s-era Soviet mainframe, with the intention to restore it to full working order. Not just because <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/restoring-a-soviet-es-4001-mainframe-control-panel/\">&#8230;read more</a>"
-  },
-  {
-    "title": "NASA Batteries Survive Extreme Cold and Heat",
-    "source": "Hackaday",
-    "date": "2026-10-23",
-    "url": "https://hackaday.com/2026/10/22/nasa-batteries-survive-extreme-cold-and-heat/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"572\" src=\"https://hackaday.com/wp-content/uploads/2026/10/cold-battery-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the major limits of mass-produced batteries is the electrolyte. From lead-acid to lithium ion, there&#8217;s some temperature where the electrolyte will freeze and cause all sorts of problems, <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/nasa-batteries-survive-extreme-cold-and-heat/\">&#8230;read more</a>"
-  },
-  {
     "title": "LILYGO T-Halow P4 – An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6",
     "source": "CNX Software",
     "date": "2026-10-23",
@@ -61,6 +61,13 @@
     "date": "2026-10-23",
     "url": "https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/",
     "summary": "<div><img alt=\"RoboParty RP1(ROBOTO 01), an open source humanoid robot\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/RoboParty-RP1ROBOTO-01-an-open-source-humanoid-robot-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Shanghai-based RoboParty has introduced the RP1 (ROBOTO 01), an open-source humanoid robot designed for robotics research, embodied AI development, and motion-control experiments. The robot is available in two configurations: the standard RP1 with 24 active degrees of freedom (DoF) and the RP1 Pro with 30 DoF. The robot stands 1.35 meters (~4.43 feet) tall and is built around a Rockchip RK3588 processor, with the Pro model adding an Allwinner A733 processor and an NVIDIA Jetson Orin NX development computing module. Other features include in-house ROMOMO joint actuators with up to 160 N·m peak torque, interchangeable head modules, optional dexterous hands, and a 10Ah battery rated for up to three hours of operation. A separate 480MHz MCU handles real-time motion control, while a dual-voltage battery system supports hot-swapping without shutting down the robot. RoboParty RP1 specifications: Computing RP1 – Rockchip RK3588 processor with a 6 TOPS NPU, 8GB LPDDR4x RAM, and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/\">RoboParty RP1 (ROBOTO 01) &#8211; A full-stack open-source humanoid robot with up to 30 degrees of freedom</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "How Agentic AI Accelerates Edge AI Software Development, Industrial Edge Analytics, Agilex FPGAs: Embedded Week Insights",
+    "source": "Embedded.com",
+    "date": "2026-10-23",
+    "url": "https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development-industrial-edge-analytics-agilex-fpgas-embedded-week-insights/",
+    "summary": "<p>Here's a roundup of this week's must-read articles. We cover the latest developments on how agentic AI accelerates edge AI software development, the benefits of industrial edge Analytics, Altera's expansion of its defense-grade Agilex FPGAs, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development-industrial-edge-analytics-agilex-fpgas-embedded-week-insights/\">How Agentic AI Accelerates Edge AI Software Development, Industrial Edge Analytics, Agilex FPGAs: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Real-Time Sensing Prevents Catastrophic Infrastructure Failures",
@@ -140,6 +147,20 @@
     "summary": "<p>China’s smartphone shipments fell 10% YoY in Q3 2026, marking the lowest Q3 level since 2012, according to Counterpoint Research. Huawei and Apple captured 40% of shipments, widening their lead [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/china-q3-phone-market-down-10-yoy-2026-10/\">China Q3 phone market down 10% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "Self-Hosted Game Vault",
+    "source": "Adafruit",
+    "date": "2026-10-23",
+    "url": "https://blog.adafruit.com/2026/10/23/self-hosted-game-vault/",
+    "summary": "Store your game collection with this self-hosted vault from botchris. Check out the repo. If you have played on PC and consoles for a while, your games are scattered: Steam, Epic, GOG, Battle.net, the EA app, Ubisoft Connect, Xbox, PlayStation, a pile of Humble Bundle keys you never redeemed, and shelves of discs. Before buying [&#8230;]"
+  },
+  {
+    "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
+    "source": "Adafruit",
+    "date": "2026-10-23",
+    "url": "https://blog.adafruit.com/2026/10/23/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4-3-3-2/",
+    "summary": "﻿ ﻿ ﻿ Are you subscribed to the Adafruit Youtube channel? If you&#8217;re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. [&#8230;]"
+  },
+  {
     "title": "Automatic Mechanical Watch Winder #AdafruitLearnSystem",
     "source": "Adafruit",
     "date": "2026-10-23",
@@ -173,6 +194,34 @@
     "date": "2026-10-23",
     "url": "https://blog.adafruit.com/2026/10/22/raspberry-pi-5-case-pimoroni-nvme-base-noctua-40x10mm-fan-3dthursday-3dprinting/",
     "summary": "user_258400175 shares: A Pi 5 case for the Pimoroni NVMe Base (M.2 SSD) + a Noctua 40×10mm 5Vdc fan. Two versions share the same lid: one with M3 threaded inserts (Ruthex RX-M3×5.7 brass), one that uses M3 screws directly without inserts. Both use M3 countersunk screws. Includes a PDF guide (Raspberry Pi5 Case.pdf) linked on [&#8230;]"
+  },
+  {
+    "title": "Navitas Unveils Next-Generation Ultra-High-Voltage SiC Power Module to Advance Energy and Grid Infrastructure Efficiency",
+    "source": "EE Journal",
+    "date": "2026-10-23",
+    "url": "https://www.eejournal.com/industry_news/navitas-unveils-next-generation-ultra-high-voltage-sic-power-module-to-advance-energy-and-grid-infrastructure-efficiency/",
+    "summary": "Navitas Semiconductor (Nasdaq: NVTS), a leader in next-generation power semiconductors and power delivery solutions, pioneering GaN, high-voltage and ultra-high-voltage SiC, and IVR technologies, today announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure. The new G4H08MT23GB4 2300 V full-bridge module family uses the industry-standard SiCPAK™ form factor and has a [&#8230;]"
+  },
+  {
+    "title": "Darveen Unveils DPC-1210 21.5-Inch Industrial Panel PC with Intel® Core™ Ultra 5 Processors for Edge AI Applications",
+    "source": "EE Journal",
+    "date": "2026-10-23",
+    "url": "https://www.eejournal.com/industry_news/darveen-unveils-dpc-1210-21-5-inch-industrial-panel-pc-with-intel-core-ultra-5-processors-for-edge-ai-applications/",
+    "summary": "Darveen, a global leader in industrial computing, today announced the launch of the DPC-1210 Industrial Panel PC, powered by the latest Intel® Core™ Ultra 5 125H/U series processors (Meteor Lake). Combining AI-ready computing, a bright 21.5-inch projected capacitive touchscreen, and an advanced copper heat pipe cooling system built for extended, stable operation, the DPC-1210 is [&#8230;]"
+  },
+  {
+    "title": "TDK presents robust and easy-to-mount NTC systems for demanding industrial applications with voltages up to 4000 V",
+    "source": "EE Journal",
+    "date": "2026-10-23",
+    "url": "https://www.eejournal.com/industry_news/tdk-presents-robust-and-easy-to-mount-ntc-systems-for-demanding-industrial-applications-with-voltages-up-to-4000-v/",
+    "summary": "TDK Corporation (TSE: 6762) announces the expansion of its NTC temperature sensor portfolio with the M704 (ordering code: B57704M0103A001) and M705 (ordering code: B57705M0103A001) series, engineered for reliable temperature measurement in high-voltage environments. With voltage ratings of up to 4000 V (AC) for the M704 and 2500 V (AC) for the M705, these probe assemblies enable safe and [&#8230;]"
+  },
+  {
+    "title": "MicroVision Begins Commercial Production of MOVIA(TM) Pro for Superior Short-Range Sensing and Onboard Perception, Enabling Physical AI at the Edge",
+    "source": "EE Journal",
+    "date": "2026-10-23",
+    "url": "https://www.eejournal.com/industry_news/microvision-begins-commercial-production-of-moviatm-pro-for-superior-short-range-sensing-and-onboard-perception-enabling-physical-ai-at-the-edge/",
+    "summary": "MicroVision, Inc. (NASDAQ: MVIS), a leader in advanced perception solutions for industrial, security and defense, intelligent infrastructure, and automotive applications, today announced the much-anticipated commercial production launch of MOVIA™ Pro, shipping sensors to meet customer demand. MOVIA Pro is the company’s next-generation short-range lidar sensor uniquely engineered to deliver differentiated sensing performance and onboard perception [&#8230;]"
   },
   {
     "title": "Inside Silicon Quantum Computing’s Atomic Precision",
@@ -245,20 +294,6 @@
     "summary": "A 2-piece snap-together case for the LilyGo T-Deck. Designed around an internal ribbon antenna. No hardware required. Keeps the factory power switch usable. Designer tested with small + medium batteries (NOT a 6000mAh — fit unknown for that size); battery taped to interior back panel. 0.2mm layer, 2 walls, 15% infill, ~1.3h, 35g PLA, 1 [&#8230;]"
   },
   {
-    "title": "John Park’s Workshop — LIVE TODAY 10/22/26",
-    "source": "Adafruit",
-    "date": "2026-10-22",
-    "url": "https://blog.adafruit.com/2026/10/22/john-parks-workshop-live-today-10-22-26/",
-    "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today (the usual time, no change to the Workshop show schedule)!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: CG Turbo Demos CircuitPython Parsec: Self Naming Boards Learn Guides Gear Report Tool Tips CAD: Adafruit Circuit Designer Retro Gear Coupon [&#8230;]"
-  },
-  {
-    "title": "16×16 WLED LED Matrix – ESP8266/ESP32 with 4× 8×8 WS2812 Panels #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-22",
-    "url": "https://blog.adafruit.com/2026/10/22/16x16-wled-led-matrix-esp8266-esp32-with-4x-8x8-ws2812-panels-3dthursday-3dprinting/",
-    "summary": "HotPotato shares: A 3D-printable frame for a 16×16 LED matrix — larger version of the designer&#8217;s 8×8 model. Runs on WLED. &#8216;NO programming skills&#8217; needed, though WLED matrix + panel-orientation setup is more involved. Target: ESP8266 (ESP32 works too). LEDs: four 8×8 WS2812 (5050 RGB) matrix panels. Power: 2-pin USB Type-C 5A socket, or cable [&#8230;]"
-  },
-  {
     "title": "STMicroelectronics adds MasterGaN7 devices to integrated high-efficiency power family",
     "source": "EE Journal",
     "date": "2026-10-22",
@@ -320,34 +355,6 @@
     "date": "2026-10-21",
     "url": "https://www.embedded.com/siemens-adds-self-verification-for-long-running-eda-agents/",
     "summary": "<p>Self-verifying agents can manage extended semiconductor design workflows, but deterministic EDA tools and human engineers still determine whether results are valid.</p>\n<p>The post <a href=\"https://www.embedded.com/siemens-adds-self-verification-for-long-running-eda-agents/\">Siemens Adds Self-Verification for Long-Running EDA Agents</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "CR-8000 2026 Streamlines PCB Development With New Automation and Reuse Capabilities",
-    "source": "EE Journal",
-    "date": "2026-10-21",
-    "url": "https://www.eejournal.com/industry_news/cr-8000-2026-streamlines-pcb-development-with-new-automation-and-reuse-capabilities/",
-    "summary": "Zuken announced CR-8000 2026, a new release of its PCB design platform that adds automation, placement analysis, and design reuse capabilities to support engineering productivity across schematic development and PCB layout. Enhancements include automated schematic routing in Design Gateway, CR-8000’s schematic capture tool, and a new Main Path View in Design Force, its PCB layout [&#8230;]"
-  },
-  {
-    "title": "Impulse Embedded Ltd Relaunches VELA: Powered by Advantech",
-    "source": "EE Journal",
-    "date": "2026-10-21",
-    "url": "https://www.eejournal.com/industry_news/impulse-embedded-ltd-relaunches-vela-powered-by-advantech/",
-    "summary": "Impulse Embedded Ltd, a leading UK provider of industrial computing solutions, has announced VELA: Powered by Advantech, a series of in-stock industrial PCs, GPU systems and servers that are in stock and ready to build from the UK. Designed to give customers greater flexibility without the long lead times often associated with custom computing, VELA [&#8230;]"
-  },
-  {
-    "title": "SECO to showcase SOM-SMARC-Dragonwing-IQ8 module and Edge AI technologies at electronica 2026",
-    "source": "EE Journal",
-    "date": "2026-10-21",
-    "url": "https://www.eejournal.com/industry_news/seco-to-showcase-som-smarc-dragonwing-iq8-module-and-edge-ai-technologies-at-electronica-2026/",
-    "summary": "SECO will present its SOM-SMARC-Dragonwing-IQ8 module and Edge AI technologies at electronica 2026, held from 10 to 13 November in Munich, Germany. Through Edge Lab LIVE! demonstrations, partner showcases across multiple halls and two conference sessions, visitors can learn more about how SECO’s modular hardware, AI development tools and lifecycle software support OEMs developing intelligent [&#8230;]"
-  },
-  {
-    "title": "Hirose Introduces Compact Floating Board-to-Board Connector for High-heat, High-Vibration Environments",
-    "source": "EE Journal",
-    "date": "2026-10-21",
-    "url": "https://www.eejournal.com/industry_news/hirose-introduces-compact-floating-board-to-board-connector-for-high-heat-high-vibration-environments/",
-    "summary": "Hirose has expanded its FunctionMAX™ family of floating board-to-board connectors to include a high-density version designed for space-constrained, harsh-environment applications. Featuring a 0.5 mm pitch, the FX36 Series supports high-density mounting, improves design flexibility, and contributes to application miniaturization, weight reduction, and more efficient automated assembly processes. With a high-heat resistance of 125°C, the board-to-board [&#8230;]"
   },
   {
     "title": "Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz",
@@ -418,12 +425,5 @@
     "date": "2026-10-17",
     "url": "https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/",
     "summary": "<div><img alt=\"XIAO IPS Display Series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/XIAO-IPS-Display-Series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio has introduced the XIAO IPS touch display series, a family of six compact development boards built around the XIAO ESP32-S3 Plus or XIAO nRF52840 Plus MCU, with 0.96-inch, 1.14-inch, and 1.47-inch IPS color displays. All six boards include a 6-axis IMU, a PDM digital microphone, user buttons, and LiPo battery support. The larger 1.47-inch version adds capacitive touch and a microSD card slot, whereas the 1.14-inch model includes a Grove I2C connector for connecting external sensors. The ESP32-S3 versions support Wi-Fi and Bluetooth LE connectivity, while the nRF52840 models focus on lower-power Bluetooth LE applications. The boards are designed for portable dashboards, smart home controllers, wearable devices, sensor monitoring, and other small IoT projects. XIAO IPS Display Series specifications: Wireless board (one or the other) XIAO nRF52840 Plus Wireless MCU –  Nordic nRF52840 Arm Cortex-M4F microcontroller @ up to 64 MHz with 1 MB flash, 256 KB SRAM, Bluetooth 5.0, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/\">Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
-    "source": "Embedded.com",
-    "date": "2026-10-16",
-    "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/",
-    "summary": "<p>Here's a roundup of this week's must-read articles. We cover the latest developments on designing edge AI for real-time systems, solving the edge computing energy problem, PCIe 6.0 high-radix switches for AI data centers, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/\">Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-23 17:59 UTC
+Last Updated: 2026-10-23 20:56 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -8,6 +8,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-10-23 | Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) | OpenAI | [link](https://openai.com/index/scaling-storage-one-billion-users-part-two) |
+| 2026-10-23 | Securing our frontier model training environment | OpenAI | [link](https://openai.com/index/securing-our-frontier-model-training-environment) |
 | 2026-10-23 | OpenAI and Poland’s NASK partner to advance AI safety and security | OpenAI | [link](https://openai.com/index/openai-nask-ai-safety-security-partnership) |
 | 2026-10-23 | LitPivot: Developing research ideas through dynamic contextualization within the literature landscape | Hugging Face | [link](https://huggingface.co/blog/allenai/litpivot) |
 | 2026-10-23 | Does Your Model Run on AWS Trainium? Look It Up | Hugging Face | [link](https://huggingface.co/blog/torch-neuronx-model-support) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-22 | Uber brings ChatGPT Work to all employees with OpenAI | OpenAI | [link](https://openai.com/index/uber-chatgpt-work-rollout) |
 | 2026-10-22 | Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox | Hugging Face | [link](https://huggingface.co/blog/microsoft/thinkingbox-training) |
 | 2026-10-22 | Ensemble forecasting with IBM Granite time-series models | Hugging Face | [link](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1) |
-| 2026-10-21 | How AT&T is rethinking in-house legal work with OpenAI | OpenAI | [link](https://openai.com/index/att-legal) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-10-23 | Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-rubiks-cube-robot) |
+| 2026-10-23 | Webinar to discuss how the FCC robotics ruling affects automation buyers | Robotics Business Review | [link](https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/) |
+| 2026-10-23 | Generative Bionics to launch Physical AI Data Factory in Italy | Robotics Business Review | [link](https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/) |
 | 2026-10-22 | Dream Labs raises $90M and launches Dream API | Robotics Business Review | [link](https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/) |
 | 2026-10-21 | AGCO to deploy Agility Digit humanoid in Kansas factory | Robotics Business Review | [link](https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/) |
 | 2026-10-21 | A guide to Day 2 of RoboBusiness 2026 | Robotics Business Review | [link](https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/) |
@@ -43,22 +45,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-20 | A guide to Day 1 of RoboBusiness 2026 | Robotics Business Review | [link](https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026/) |
 | 2026-10-20 | Gecko Robotics secures $300M contract with the U.S. Navy | Robotics Business Review | [link](https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/) |
 | 2026-10-20 | RoboBusiness rebrands as Robotics Summit & Expo West | Robotics Business Review | [link](https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/) |
-| 2026-10-20 | 2027 TRR50 Robotics Innovation Awards open nominations | Robotics Business Review | [link](https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/) |
-| 2026-10-20 | Reservoir launches new agricultural robotics incubator for Washington growers | Robotics Business Review | [link](https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-23 | Reconstructing the Ancient Chinese Storm of Crows Weapon | Hackaday | [link](https://hackaday.com/2026/10/23/reconstructing-the-ancient-chinese-storm-of-crows-weapon/) |
+| 2026-10-23 | Running a Philips CD-i Off USB-C | Hackaday | [link](https://hackaday.com/2026/10/23/running-a-philips-cd-i-off-usb-c/) |
 | 2026-10-23 | Hackaday Podcast Episode 392: Microscopes, Drones, and Other DIY Things | Hackaday | [link](https://hackaday.com/2026/10/23/hackaday-podcast-episode-392-microscopes-drones-and-other-diy-things/) |
 | 2026-10-23 | The MSX Gets A New Sound Expansion Cartridge | Hackaday | [link](https://hackaday.com/2026/10/23/the-msx-gets-a-new-sound-expansion-cartridge/) |
 | 2026-10-23 | This Week in Security: Record Patch Tuesday, PHP’s Bad Time, The Oldest Vuln, AI Armies, and More | Hackaday | [link](https://hackaday.com/2026/10/23/this-week-in-security-record-patch-tuesday-phps-bad-time-the-oldest-vuln-ai-armies-and-more/) |
 | 2026-10-23 | When You Can’t Pick Between Electric and Jet Power, This Buggy Has You Covered | Hackaday | [link](https://hackaday.com/2026/10/23/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered/) |
 | 2026-10-23 | DOOM Ported to a $30 Clamp Meter | Hackaday | [link](https://hackaday.com/2026/10/23/doom-ported-to-a-30-clamp-meter/) |
-| 2026-10-23 | Restoring a Soviet ES-4001 Mainframe Control Panel | Hackaday | [link](https://hackaday.com/2026/10/22/restoring-a-soviet-es-4001-mainframe-control-panel/) |
-| 2026-10-23 | NASA Batteries Survive Extreme Cold and Heat | Hackaday | [link](https://hackaday.com/2026/10/22/nasa-batteries-survive-extreme-cold-and-heat/) |
 | 2026-10-23 | LILYGO T-Halow P4 – An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6 | CNX Software | [link](https://www.cnx-software.com/2026/10/23/lilygo-t-halow-p4-a-m-2-2280-board-with-esp32-p4-wifi-halow-and-esp32-c6/) |
 | 2026-10-23 | RoboParty RP1 (ROBOTO 01) – A full-stack open-source humanoid robot with up to 30 degrees of freedom | CNX Software | [link](https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/) |
-| 2026-10-23 | Real-Time Sensing Prevents Catastrophic Infrastructure Failures | Embedded.com | [link](https://www.embedded.com/real-time-sensing-prevents-catastrophic-infrastructure-failures/) |
+| 2026-10-23 | How Agentic AI Accelerates Edge AI Software Development, Industrial Edge Analytics, Agilex FPGAs: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development-industrial-edge-analytics-agilex-fpgas-embedded-week-insights/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,20 +91,21 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29260 | Python | 11704.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3707 | Python | 1482.9 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 29300 | Python | 11720.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3709 | Python | 1483.7 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1530 | Rust | 612.1 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1437 | Go | 574.9 | [link](https://github.com/Edgenesis/shifu) |
+| pnoker/iot-dc3 | 1288 | Java | 515.3 | [link](https://github.com/pnoker/iot-dc3) |
 | mosaico-labs/mosaico | 1088 | Python | 435.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | robocurve/inspect-robots | 700 | Python | 280.1 | [link](https://github.com/robocurve/inspect-robots) |
 | autonomous-ai/lampOS | 489 | Python | 195.7 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 63988 | Python | 25595.3 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 22710 | Python | 9084.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17465 | Java | 6986.1 | [link](https://github.com/questdb/questdb) |
+| commaai/openpilot | 63987 | Python | 25594.9 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 22731 | Python | 9092.5 | [link](https://github.com/earthtojake/text-to-cad) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-10-23 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXA4NGZ5cFV0S2E5U2hNRk4tZ0piay1jWWhScjJ0bWRPQllrcDRZUzFNamdHc0tGZF9NOFFpQnZXQ0c0SjZuaVhKQV82MXFRRnJZUVV0a2l1OTZLaGVoZHNQNVlfMGwzXzNWY0pTYTQ5ZlRRc2tSNnNUc3pPbFcyU0xTLXdJNlhYOE1odjk0QWtEc2FBTUctazRRWXNKcHl4Sm1LUEpKdWxlQU55c0staTJrYkNLYXlQREpHdG5wcEhmemxQTGc?oc=5) |
 | 2026-10-23 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPY195TlJCNGgyM3QyMXFhWDVnNmdTVFVHaUJRYkMxOGd0bGdESXQ1Q3V5WFhNdDJEakNESUNqd2xKZDBGZnBsZDlDOEF5TUxPZGxzalNSZ043akc3S09sNzhqbmZTSHRVZ25yTVJmUzBlYWpjZ3NpM3o0RU1JUVJueTVld0tiMk1xYlRqbkdMbk1SVmh3djhxay1nd29udjNZYTJteG9feE93RnFvNzRTTmhUc3Zmcnc?oc=5) |
 | 2026-10-23 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU1VMnk4dzJSR2tfU2pCRUZtdVBybkp6cjBYZGp5Y0FXRzJVYjBSTThTRlE1R2dRbVBUdmdRem1Cb1RXRlo1Y1FyY3oxZmlpNGdBSnhSYXczYTRabVBQQkc5RFdTNzJCYnBCVmNCcjZ2ZXlZbWFMRi1rMEJhVnZWNFFrcXpwTUp3SEptY1BYeEdzeG53SHQ2TUwyQQ?oc=5) |
 | 2026-10-22 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBDM3JXeXU1OTUyMVBtT2pyalhOb0NpQ2NrYzdUM200blRycENBM1llODcwMG9UR0lEWTJ2b2JnUzZpY1Z4TWJ0bkVubjVESU16WDB5d3JycGdGaXRjZWo5dGF5ZXJCWEZIVzdiTm9QdmFSWjVzT1NxNUZkNnJnVDU1bUt2cHZTajl2ZDlReE9HRmxTQkgzejQ5aTI1NVF3UEY2SGNXdGM?oc=5) |
@@ -114,25 +115,25 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMmlMZWN3VW1HeWR6dXNPcGlXeWtUc0FWdWxCYl9ZN0tTTDhEckR5OTBockE2MVdzWWw3SHBSMkI0R3VpYTdfS0FCSEctUzFCQldvQWY5V0RqUQ?oc=5) |
 | 2026-10-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUlmbVJseC1CTzFMWVZrWmFhUEJJRUFpVmRYeFJETV9WM3J0LU1SWG5tOVlqMmE3MjgyQktkYnFZYkNoYTI4VXNnVm5CVmxGSDQwLXlUUVBrM2c5dmFmRkVoc1dSMVRxSmx2X3h4NXo5d184R2x4QnJJblVMSUVXSmlrZF9PSklka2NCd19uWlhycWkwZ3ZQM1hDRFRnY2czZ2lXNDB6RQ?oc=5) |
 | 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnFORlllUzZhSFlWU3VTMTZ1VjF0djNnVE1GNFAyUmZKdFRmREF4WWdvNGlEanZ4V3dod0FzaGQyM1Y0allYOVRkYjJCMDVJV085SlhLb3k1ZFlRSUxTUU9qc3pSU1Vpa0x5RlJXM3dUaEhzNERoYlltb3hwMURvNW5DUWpYcDVfNWxIT2Ytb2FwbERDS0doZEdRc2dnd0I1TW9ub0lYQlVLdWt2VVd6V3JkSWFKMFRVQVNz?oc=5) |
-| 2026-10-17 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-23 | Tractian Hits $1.4B as 4 Physical AI Startups Raise $240M - FourWeekMBA | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHE4SHh3STB6YUR2T09zS0F3ZWd1SVY4SVhFMVdKYnpfdzVSbGVrX3pQQUxTRnhWQWd0b2dxbE1VdXZrMWxNX0ltVENLMUhNRk1MdDUzcWZYNTVmaE93LVpULW5uVmZLV3lDbmRzeUZsS1I4NDREODlWblpTOHRmZ1BGWXNfVG1qSENR?oc=5) |
 | 2026-10-23 | UnternehmerTUM, Microsoft, Infineon and NVIDIA launch Physical AI Accelerator for EMEA startups - New Electronics | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNTFpWDZGcXkyNFlLOEo5WGs2OXAzS1diMUlTR1Z3dU5NUEpPaC1zaUswczRqRVJTX3dGVFdrWGVSSGlTWnNZMnh4ODE2VFpZU3d3RTZWQkMwOVg3SUZhS3pMVnpjSndyVnFTcmduREp0Nm9NWDhNZ0Y0QTU5V3IzVXEzdENEREU1Y2JxN1Z0eEtEMWlUZTNyY1dGTmdhMk8xSG5qSHB4VUtVcHhOMmFGOGRyXzd3MEt0bFloZVFNbGNfT3EyeHh2NkRzWF9fajlXazFHNjVB?oc=5) |
 | 2026-10-23 | AtechX start-up Bellboy Robotics continues successful development of Physical AI at NVIDIA GTC Berlin - ASSETPHYSICS | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRTNrMm9MR0xfenB6OWlwRi1hTGNyZzZUakduUWFpMXpfZTdtT0ZMajJ0QzN2cHpVbXdmTGlydEtDSVFfR0J5TnhvdDZhbTlUeFNIWUNSMjdDYmt2OHc2Umw0MnlIUTJ5MFVHbDRnc2tiUTNSM2lTaUpUT3N0V3FEUVdsU1JteC1WdURaTjI3alZDU0lQSzhKeHRSQU9fb2xjM2pScXpYckJoRkhqdElkVE52UmFoYU83TldBT3BZOFN3elltVDd5RU9TdkwyTjZwSi1Z?oc=5) |
-| 2026-10-23 | UnternehmerTUM Microsoft Infineon NVIDIA - Bisinfotech | physical ai startup | [link](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTjhVN3ZwYi01bmxKMXRqNkVUbHVfOFNpSlVwNXQzaTdPWXJwS25NTTVuanNuZWR0RTdPbkhjOG53Z1BWOWNzcEI0WTRDN1h0VEUzQ0RBWllxYlJ5UE1aTUV1TVRTU1JqOW9LeVlUOFh3VjY2QWpPWnZKTWlqc1ZLcHVSQ0l3T1UzQ2tQcjJXekg5VUtQNHg3ODdlU01KWHRKR1JXMUhiX21DdlZ1VUZ3SUc1eWxkMnBUSHJGVGdFSTlMN3h3MWN4SFVuRnhPQ1pqQ255TFFQRVFYZ3hoQmljQ2REcEpVNG1Xa1RLdDNLRC1TTDd3Z0E?oc=5) |
 | 2026-10-22 | Exclusive: Physical AI Startup Tractian Becomes a Unicorn - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGNHSzF3MEg1c2hKZ1dPekJoYWNHVk1mOUp1R2xtZjRfRWxoRmhteXRadjdSWjlDUDZtR2FSRjViTmJxYWZCMHVvaEFPMWY1N0ZQUHl2Y3I1VlEwQUtaX1h3LUpKczhmWXlBWE9STE9Od29kck5vMm5NRks0LWZuQUFWQm9Ya3c1bi1Sc2VSUEZ3QXJtMEs0M1N1SQ?oc=5) |
 | 2026-10-22 | Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI startup Enact Intelligence exits stealth with €26.68 million - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ25PdEVSOXJKN3VoWGFkeTlDU3YwVXZoMnJmcFBYcHFKeERTd1ByVVJid3A2S3B3bjAyb2hqSjY4QWFuZ1NWbFFfZFNVTUZEVERMOURyZEh4a1U2WFB5dUNkSzVwdjdrZHd6Q1ZHLS1LUVMzeTJuVXVWNFljMUFoemtnU0diSHEwUV9XcVZxUHQ0cTBiRjFnRzU4NnZIZ2kwVVh6TXBHREZJTjhablM3T3QwNnVNVkxBTXNfUmZ6M2hsb1NWY2l6WUJCc0k2dk9oN0FrZW55Y3RzTDBzWTFEc1pDaTV3R0xjU0E?oc=5) |
-| 2026-10-22 | China's humanoids go job hunting amid Korea's bets on physical AI - The Korea Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVZiTExDNVB2ejdpMnFCM3ZfS2tiQ2tKdWxMUWVXYUk3emhzLVhVQkp4YmpESmZwSER3UllCNVFUbFRvZEFWTmZCWHU1U2ZnR1hxbUVxOTVNTm5ueWJHNFJ0V2JWZTlvWndwalFyQ04tX2F0WEZjejN1dV95MzVnRV9tTFlSclIxdTk3cGQtTHkyQTBBTXpVZl8zQUNNNDlUYko4MWFhWlNEX240RHRlZWdrSkxYOUF4QkJ2TW8xaWhTdmxNOWfSAcYBQVVfeXFMT01WYkxMQzVQdno3aTJxQjN2X0trYkNrSnVsTFFlV2FJN3pocy1YVUJKeGJqREpmcEhEd1JZQjVRVGxUb2RBVk5mQlh1NVNmZ0dYcW1FcTk1TU5ubnliRzRSdFdiVmU5b1p3cGpRckNOLV9hdFhGY3ozdXVfeTM1Z0VfbUxZUnJSMXU5N3BkLUx5MkEwQU16VWZfM0FDTTQ5VGJKODFhYVpTRF9uNER0ZWVna0pMWDlBeEJCdk1vMWloU3ZsTTln?oc=5) |
-| 2026-10-22 | Infineon names winners of humanoid robotics startup challenge - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEMxUC11RFRIWmtFUjhfb05qTEdRZERGWGFtRzR3SE5waGpOVTdaWjg4c0ZmQXRIazBreXd5MGJQN09CeEdQNURxMlN1bTZQZGtZenZ6YlNSam5XWDkxMlo1VUo4Zi1sVGFKYlAzWTNwTHlNa25sam1RUXZWdlhkZzRJWmVrck1ac3pwQk94Wm9qYUJIdGFOR1lid0xDZWlpMGRpSmdZU3hndmNXSnNjUTRrTXdmVzZqQUE?oc=5) |
+| 2026-10-22 | Physical AI company Enact Intelligence emerges from stealth with $30m pre-seed funding - Startupticker | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBDM3JXeXU1OTUyMVBtT2pyalhOb0NpQ2NrYzdUM200blRycENBM1llODcwMG9UR0lEWTJ2b2JnUzZpY1Z4TWJ0bkVubjVESU16WDB5d3JycGdGaXRjZWo5dGF5ZXJCWEZIVzdiTm9QdmFSWjVzT1NxNUZkNnJnVDU1bUt2cHZTajl2ZDlReE9HRmxTQkgzejQ5aTI1NVF3UEY2SGNXdGM?oc=5) |
 | 2026-10-22 | Humanoid Robot Startup Noetix Files For A Hong Kong IPO - Finimize | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1ZhblM0RHA3dWJtRnZLY21FSVFBeFZudEkwYzlMNy1TY1FvMGUwbHdxUEt5aWtPalNYMk5kbFNYcG91NG1Yd045bjUzUmlPV2E3S1E3QTg3Y0h5WTY1eGhpMG9DLWFhSUpZanVPVW54QWdSZHQtZGdVUmRRd3lBT0JnaTktSnl5aGRwTw?oc=5) |
+| 2026-10-22 | Infineon names winners of humanoid robotics startup challenge - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEMxUC11RFRIWmtFUjhfb05qTEdRZERGWGFtRzR3SE5waGpOVTdaWjg4c0ZmQXRIazBreXd5MGJQN09CeEdQNURxMlN1bTZQZGtZenZ6YlNSam5XWDkxMlo1VUo4Zi1sVGFKYlAzWTNwTHlNa25sam1RUXZWdlhkZzRJWmVrck1ac3pwQk94Wm9qYUJIdGFOR1lid0xDZWlpMGRpSmdZU3hndmNXSnNjUTRrTXdmVzZqQUE?oc=5) |
 | 2026-10-20 | Eka is worth $1.45B thanks to a physical AI model that has experts raving - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5) |
 | 2026-10-20 | Eka Robotics Hits $1.45B Valuation With Physical AI Breakthrough - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU215ckJmWmNHQmRtLUVQLXZfUVNncG9UQmFEcGZxWEVKQVRNYmk4UnhzMUJGLXpRRU5QX01vcWkwZXJmR3dZeWptYWxJV2t1a3oyUXFwOEFscnRqU2o4a1RTSzBJdlpDeTd6X25LU0xZZ0duUkY4QkZsbU0zaWt2MThIV3ZTakhGdTFBc2tXclpxS1dLd2ExRk5uT2I?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-23 | Logistics Specialist | Agility Robotics | Onsite- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6230969004) |
 | 2026-10-22 | Manufacturing Quality Engineer BotQ | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4724194006) |
 | 2026-10-22 | Security Engineer, Infrastructure Security | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4714381006) |
 | 2026-10-22 | Systems Integration Engineer - Actuation Systems | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4626247006) |
@@ -142,7 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-22 | Senior Technical Support Specialist | Agility Robotics | Onsite- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222414004) |
 | 2026-10-21 | Staging Specialist | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4677955006) |
 | 2026-10-21 | Maintenance & Repair Technician | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6229755004) |
-| 2026-10-21 | Payroll Specialist  | Agility Robotics | Hybrid- Fremont, CA; Hybrid- Pittsburgh, PA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6230265004) |
 
 ## Automation
 
