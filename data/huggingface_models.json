@@ -1,5 +1,32 @@
 [
   {
+    "model": "NFHH/lingbot-robotwin-strong-scratch22k-cont8k-6k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k-cont8k-6k",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "downloads": 12,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 3.7
+  },
+  {
+    "model": "InternRobotics/InternW0-RoboTwin-clean",
+    "downloads": 0,
+    "likes": 3,
+    "url": "https://huggingface.co/InternRobotics/InternW0-RoboTwin-clean",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 0.7
+  },
+  {
     "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
     "downloads": 496,
     "likes": 0,
@@ -7,6 +34,51 @@
     "date": "2026-10-23",
     "keyword": "robotics",
     "score": 148.9
+  },
+  {
+    "model": "NFHH/lingbot-robotwin-strong-scratch22k-cont8k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k-cont8k",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "NFHH/lingbot-robotwin-strong-scratch22k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "NFHH/lingbot-robotwin-strong-main40k-10k",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-main40k-10k",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "lerobot/FineART-VLA-subtask-midtrained",
+    "downloads": 57,
+    "likes": 0,
+    "url": "https://huggingface.co/lerobot/FineART-VLA-subtask-midtrained",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 17.2
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-pick_balls-140k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-140k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "kesnick/vlm-vla-test",
@@ -18,12 +90,102 @@
     "score": 0.4
   },
   {
+    "model": "dddddsds31341/vla-adapter-pick_balls-130k",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-130k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-pick_balls-120k",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-120k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-pick_balls-110k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-110k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-pick_balls-100k",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-100k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-pick_balls-90k",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-90k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-pick_balls-80k",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-80k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "dddddsds31341/vla-adapter-pick_balls-70k",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-70k",
+    "date": "2026-10-23",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
     "model": "jadidbourbaki/shared-cache-world-model",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/jadidbourbaki/shared-cache-world-model",
     "date": "2026-10-23",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "Yewy/mahjong_mat_pickup_lekiwi_cl_hover_v2n_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yewy/mahjong_mat_pickup_lekiwi_cl_hover_v2n_policy",
+    "date": "2026-10-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "QuixoteH/umi-arena-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
+    "date": "2026-10-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Justicate/my_pi0_5_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Justicate/my_pi0_5_policy",
+    "date": "2026-10-23",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -45,30 +207,12 @@
     "score": 0.1
   },
   {
-    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "date": "2026-10-22",
-    "keyword": "robot",
-    "score": 3.7
-  },
-  {
-    "model": "NFHH/lingbot-robotwin-strong-scratch22k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k",
-    "date": "2026-10-22",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Owlsnet/lingbot-vla-v2-robotwin-clean50-20k",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Owlsnet/lingbot-vla-v2-robotwin-clean50-20k",
     "date": "2026-10-22",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -90,33 +234,6 @@
     "score": 0.1
   },
   {
-    "model": "Owlsnet/lingbot-vla-v2-robotwin-clean50-10k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Owlsnet/lingbot-vla-v2-robotwin-clean50-10k",
-    "date": "2026-10-22",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "LuEduSoHu/robot_learning_tutorial_diffusion_1021_1640",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/LuEduSoHu/robot_learning_tutorial_diffusion_1021_1640",
-    "date": "2026-10-22",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "NFHH/lingbot-robotwin-strong-main40k-10k",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-main40k-10k",
-    "date": "2026-10-22",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
     "model": "jasonren-ai2/g1-vla-finetune-checkpoints",
     "downloads": 0,
     "likes": 0,
@@ -130,78 +247,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/rl2-vla/cover-vla-fractal",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "alexhegit/so101-simstudio-lab01-pnp-lingbot-vla-v2-agent193-20k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/alexhegit/so101-simstudio-lab01-pnp-lingbot-vla-v2-agent193-20k",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "maximellerbach/lingbot_vla_v2_omx_multicubes_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/maximellerbach/lingbot_vla_v2_omx_multicubes_v3",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vlapky/Shtorm-PocketTTS-RU",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vlapky/Shtorm-PocketTTS-RU",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "maximellerbach/lingbot_vla_v2_omx_multicubes_v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/maximellerbach/lingbot_vla_v2_omx_multicubes_v2",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "lerobot/lingbot_vla_v2_base",
-    "downloads": 234,
-    "likes": 2,
-    "url": "https://huggingface.co/lerobot/lingbot_vla_v2_base",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 70.7
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-pick_balls-60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-60k",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-pick_balls-50k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-50k",
-    "date": "2026-10-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-pick_balls-40k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-40k",
     "date": "2026-10-22",
     "keyword": "vla",
     "score": 0.1
@@ -303,42 +348,6 @@
     "url": "https://huggingface.co/INSAIT-Institute/LADDER-Bridge-Policy",
     "date": "2026-10-22",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "oho123456/xinqing-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/oho123456/xinqing-policy",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "vvravi/umi-arena-cup-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vvravi/umi-arena-cup-policy",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "kobayashi1225/my_policy_record-test_14",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/kobayashi1225/my_policy_record-test_14",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "abcamiletto/robot-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/abcamiletto/robot-models",
-    "date": "2026-10-21",
-    "keyword": "robot",
     "score": 0.1
   },
   {
