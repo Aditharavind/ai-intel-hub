@@ -1,5 +1,14 @@
 [
   {
+    "model": "northstar-robotics-ai/failure-recovery",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/northstar-robotics-ai/failure-recovery",
+    "date": "2026-10-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
     "downloads": 553,
     "likes": 0,
@@ -99,13 +108,13 @@
     "score": 0.1
   },
   {
-    "model": "InternRobotics/InternW0-RoboTwin-clean",
-    "downloads": 4,
-    "likes": 4,
-    "url": "https://huggingface.co/InternRobotics/InternW0-RoboTwin-clean",
+    "model": "mim-chess-vlas/jr-pnp-b-100p-static-fourstage__pi__05",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-100p-static-fourstage__pi__05",
     "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 2.1
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "ryanhoangt/ra-vla-official-assets",
@@ -207,15 +216,6 @@
     "score": 3.6
   },
   {
-    "model": "dddddsds31341/vla-adapter-pick_balls-80k",
-    "downloads": 11,
-    "likes": 1,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-80k",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 3.6
-  },
-  {
     "model": "jadidbourbaki/shared-cache-world-model",
     "downloads": 0,
     "likes": 0,
@@ -231,6 +231,15 @@
     "url": "https://huggingface.co/aaubret/embodied_ssl",
     "date": "2026-10-23",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "gavinlaw/setground-question-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-23",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -349,24 +358,6 @@
     "date": "2026-10-22",
     "keyword": "policy",
     "score": 3.1
-  },
-  {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v3-step6000",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v3-step6000",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 1.9
-  },
-  {
-    "model": "northstar-robotics-ai/failure-recovery",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/northstar-robotics-ai/failure-recovery",
-    "date": "2026-10-22",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion-best",
