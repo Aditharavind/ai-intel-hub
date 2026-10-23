@@ -1,26 +1,27 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-23 13:01 UTC
+Last Updated: 2026-10-23 17:59 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-23 | Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) | OpenAI | [link](https://openai.com/index/scaling-storage-one-billion-users-part-two) |
 | 2026-10-23 | OpenAI and Poland’s NASK partner to advance AI safety and security | OpenAI | [link](https://openai.com/index/openai-nask-ai-safety-security-partnership) |
+| 2026-10-23 | LitPivot: Developing research ideas through dynamic contextualization within the literature landscape | Hugging Face | [link](https://huggingface.co/blog/allenai/litpivot) |
+| 2026-10-23 | Does Your Model Run on AWS Trainium? Look It Up | Hugging Face | [link](https://huggingface.co/blog/torch-neuronx-model-support) |
 | 2026-10-22 | Build more responsive apps with the Decisions API | OpenAI | [link](https://openai.com/index/decisions-api) |
 | 2026-10-22 | What FDE means at OpenAI | OpenAI | [link](https://openai.com/index/forward-deployed-engineering-means) |
 | 2026-10-22 | Uber brings ChatGPT Work to all employees with OpenAI | OpenAI | [link](https://openai.com/index/uber-chatgpt-work-rollout) |
 | 2026-10-22 | Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox | Hugging Face | [link](https://huggingface.co/blog/microsoft/thinkingbox-training) |
-| 2026-10-22 | OlmoEarth v1.3: State-of-the-art embeddings for the whole planet | Hugging Face | [link](https://huggingface.co/blog/allenai/olmoearth-v1-3) |
 | 2026-10-22 | Ensemble forecasting with IBM Granite time-series models | Hugging Face | [link](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1) |
 | 2026-10-21 | How AT&T is rethinking in-house legal work with OpenAI | OpenAI | [link](https://openai.com/index/att-legal) |
-| 2026-10-21 | Broad access through consistent standards | OpenAI | [link](https://openai.com/index/broad-access-through-consistent-standards) |
-| 2026-10-21 | OpenAI models are coming to Google Cloud | OpenAI | [link](https://openai.com/index/openai-models-google-cloud) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-23 | Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-rubiks-cube-robot) |
 | 2026-10-19 | The Robot I Didn’t Expect to Build | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/agility-robotics-digit-5-redesign) |
 | 2026-10-16 | Video Friday: When Two Robots Become One | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-reconfigurable-robots) |
 | 2026-10-09 | Video Friday: Robot Decommissioning Takes a Fun Turn | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-reachy-mini-raps) |
@@ -30,11 +31,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-02 | Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-bioinspired-robotics) |
 | 2026-10-01 | Atlas Robot’s New Hand May Outperform Humanlike Designs | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/robust-robot-hand) |
 | 2026-10-01 | Boston Dynamics drops pinkie on new humanoid hand | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/) |
-| 2026-09-25 | Video Friday: Life’s Better With a Little Robot Goose | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-goose-household-robots) |
 
 ## Robotics News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-23 | Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/video-friday-rubiks-cube-robot) |
 | 2026-10-22 | Dream Labs raises $90M and launches Dream API | Robotics Business Review | [link](https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/) |
 | 2026-10-21 | AGCO to deploy Agility Digit humanoid in Kansas factory | Robotics Business Review | [link](https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/) |
 | 2026-10-21 | A guide to Day 2 of RoboBusiness 2026 | Robotics Business Review | [link](https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/) |
@@ -44,11 +45,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-20 | RoboBusiness rebrands as Robotics Summit & Expo West | Robotics Business Review | [link](https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/) |
 | 2026-10-20 | 2027 TRR50 Robotics Innovation Awards open nominations | Robotics Business Review | [link](https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/) |
 | 2026-10-20 | Reservoir launches new agricultural robotics incubator for Washington growers | Robotics Business Review | [link](https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/) |
-| 2026-10-19 | The Robot I Didn’t Expect to Build | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/agility-robotics-digit-5-redesign) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-23 | Hackaday Podcast Episode 392: Microscopes, Drones, and Other DIY Things | Hackaday | [link](https://hackaday.com/2026/10/23/hackaday-podcast-episode-392-microscopes-drones-and-other-diy-things/) |
+| 2026-10-23 | The MSX Gets A New Sound Expansion Cartridge | Hackaday | [link](https://hackaday.com/2026/10/23/the-msx-gets-a-new-sound-expansion-cartridge/) |
+| 2026-10-23 | This Week in Security: Record Patch Tuesday, PHP’s Bad Time, The Oldest Vuln, AI Armies, and More | Hackaday | [link](https://hackaday.com/2026/10/23/this-week-in-security-record-patch-tuesday-phps-bad-time-the-oldest-vuln-ai-armies-and-more/) |
 | 2026-10-23 | When You Can’t Pick Between Electric and Jet Power, This Buggy Has You Covered | Hackaday | [link](https://hackaday.com/2026/10/23/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered/) |
 | 2026-10-23 | DOOM Ported to a $30 Clamp Meter | Hackaday | [link](https://hackaday.com/2026/10/23/doom-ported-to-a-30-clamp-meter/) |
 | 2026-10-23 | Restoring a Soviet ES-4001 Mainframe Control Panel | Hackaday | [link](https://hackaday.com/2026/10/22/restoring-a-soviet-es-4001-mainframe-control-panel/) |
@@ -56,9 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-23 | LILYGO T-Halow P4 – An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6 | CNX Software | [link](https://www.cnx-software.com/2026/10/23/lilygo-t-halow-p4-a-m-2-2280-board-with-esp32-p4-wifi-halow-and-esp32-c6/) |
 | 2026-10-23 | RoboParty RP1 (ROBOTO 01) – A full-stack open-source humanoid robot with up to 30 degrees of freedom | CNX Software | [link](https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/) |
 | 2026-10-23 | Real-Time Sensing Prevents Catastrophic Infrastructure Failures | Embedded.com | [link](https://www.embedded.com/real-time-sensing-prevents-catastrophic-infrastructure-failures/) |
-| 2026-10-23 | Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/) |
-| 2026-10-23 | Babcock, BAE Systems launch Apprenticeship Talent Bridge | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/) |
-| 2026-10-23 | Electronics production growth accelerating, says SI | Electronics Weekly | [link](https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-23 | vinguyen0891/Vivy-R-Robotics-3B-GGUF | 553 | 0 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
+| 2026-10-23 | pollen-robotics/red-cube-blue-box_pi05_step10000 | 0 | 0 | [link](https://huggingface.co/pollen-robotics/red-cube-blue-box_pi05_step10000) |
+| 2026-10-23 | IsaacZhy/VideoCoT-RoboTwin | 0 | 0 | [link](https://huggingface.co/IsaacZhy/VideoCoT-RoboTwin) |
+| 2026-10-23 | pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best | 0 | 0 | [link](https://huggingface.co/pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best) |
+| 2026-10-23 | pollen-robotics/red-cube-blue-box-30fps_diffusion_v2 | 0 | 0 | [link](https://huggingface.co/pollen-robotics/red-cube-blue-box-30fps_diffusion_v2) |
 | 2026-10-23 | SimpleJev/JevAny-Robotics-4B-LoRA | 29 | 0 | [link](https://huggingface.co/SimpleJev/JevAny-Robotics-4B-LoRA) |
 | 2026-10-23 | pollen-robotics/red-cube-blue-box_pi05_best | 0 | 0 | [link](https://huggingface.co/pollen-robotics/red-cube-blue-box_pi05_best) |
 | 2026-10-23 | hggforget/lingbotvla-robotwin-aug-sft-100k | 0 | 0 | [link](https://huggingface.co/hggforget/lingbotvla-robotwin-aug-sft-100k) |
 | 2026-10-23 | hggforget/lingbotvla-robotwin-clean-sft | 0 | 2 | [link](https://huggingface.co/hggforget/lingbotvla-robotwin-clean-sft) |
 | 2026-10-23 | Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA | 22 | 0 | [link](https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA) |
-| 2026-10-23 | NFHH/lingbot-robotwin-strong-scratch22k-cont8k-6k | 0 | 0 | [link](https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k-cont8k-6k) |
-| 2026-10-23 | InternRobotics/InternW0-RoboTwin-clean | 4 | 3 | [link](https://huggingface.co/InternRobotics/InternW0-RoboTwin-clean) |
-| 2026-10-23 | vinguyen0891/Vivy-R-Robotics-3B-GGUF | 553 | 0 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
-| 2026-10-23 | NFHH/lingbot-robotwin-strong-scratch22k-cont8k | 0 | 0 | [link](https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k-cont8k) |
-| 2026-10-23 | NFHH/lingbot-robotwin-strong-scratch22k | 0 | 0 | [link](https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29140 | Python | 11656.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3705 | Python | 1482.1 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 29260 | Python | 11704.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3707 | Python | 1482.9 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1530 | Rust | 612.1 | [link](https://github.com/copper-project/copper-rs) |
 | Edgenesis/shifu | 1437 | Go | 574.9 | [link](https://github.com/Edgenesis/shifu) |
 | mosaico-labs/mosaico | 1088 | Python | 435.3 | [link](https://github.com/mosaico-labs/mosaico) |
 | robocurve/inspect-robots | 700 | Python | 280.1 | [link](https://github.com/robocurve/inspect-robots) |
-| autonomous-ai/lampOS | 488 | Python | 195.3 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 63984 | Python | 25593.7 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 22668 | Python | 9067.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17464 | Java | 6985.7 | [link](https://github.com/questdb/questdb) |
+| autonomous-ai/lampOS | 489 | Python | 195.7 | [link](https://github.com/autonomous-ai/lampOS) |
+| commaai/openpilot | 63988 | Python | 25595.3 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 22710 | Python | 9084.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17465 | Java | 6986.1 | [link](https://github.com/questdb/questdb) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -114,7 +114,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMmlMZWN3VW1HeWR6dXNPcGlXeWtUc0FWdWxCYl9ZN0tTTDhEckR5OTBockE2MVdzWWw3SHBSMkI0R3VpYTdfS0FCSEctUzFCQldvQWY5V0RqUQ?oc=5) |
 | 2026-10-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUlmbVJseC1CTzFMWVZrWmFhUEJJRUFpVmRYeFJETV9WM3J0LU1SWG5tOVlqMmE3MjgyQktkYnFZYkNoYTI4VXNnVm5CVmxGSDQwLXlUUVBrM2c5dmFmRkVoc1dSMVRxSmx2X3h4NXo5d184R2x4QnJJblVMSUVXSmlrZF9PSklka2NCd19uWlhycWkwZ3ZQM1hDRFRnY2czZ2lXNDB6RQ?oc=5) |
 | 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnFORlllUzZhSFlWU3VTMTZ1VjF0djNnVE1GNFAyUmZKdFRmREF4WWdvNGlEanZ4V3dod0FzaGQyM1Y0allYOVRkYjJCMDVJV085SlhLb3k1ZFlRSUxTUU9qc3pSU1Vpa0x5RlJXM3dUaEhzNERoYlltb3hwMURvNW5DUWpYcDVfNWxIT2Ytb2FwbERDS0doZEdRc2dnd0I1TW9ub0lYQlVLdWt2VVd6V3JkSWFKMFRVQVNz?oc=5) |
-| 2026-10-19 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDFHUDVuZVo2SGJoemE0dW9DMElPTWxJMzBIWWpzM3VnbDlKdEdhbl91NHJvQlJ1djhfQm1yRkhpUjFocEpkeE9SelllY3A1eTJ4YmxlaHYzWERSczFQR2M5SUtRNlU4Q1dXeGN4Qy1kcDVibHBzQkJYTnFnTHd6bTk5b1NkeXNrMkJXRTV4dHFwanlKSHU4?oc=5) |
+| 2026-10-17 | Apptronik |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFN6OWhpOTlBNWtvOVcyZmR2YjM1RlA5OHdZaXJLeVlMd1QwVzdqUGZLTG9QR0hUTkJQRFFNLTJET3F6NG50enp2aUtKaEtaZ1dRYWhLd1BFRTFaaDZuMjZnV3hYNVZROHNoWWJMSEpDTFMxRFlaNlZ4UUhQSHNaTk5jd09TVnZPUzJGbWdib2VrakFkS3VSMkVoSkVyQlBnR0k1TEJGSjJTMThm?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

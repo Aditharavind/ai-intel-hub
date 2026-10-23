@@ -1,10 +1,31 @@
 [
   {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "source": "OpenAI",
+    "date": "2026-10-23",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+  },
+  {
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "source": "OpenAI",
     "date": "2026-10-23",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "source": "Hugging Face",
+    "date": "2026-10-23",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "summary": ""
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "source": "Hugging Face",
+    "date": "2026-10-23",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "summary": ""
   },
   {
     "title": "Build more responsive apps with the Decisions API",
@@ -32,13 +53,6 @@
     "source": "Hugging Face",
     "date": "2026-10-22",
     "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "summary": ""
-  },
-  {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "source": "Hugging Face",
-    "date": "2026-10-22",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
     "summary": ""
   },
   {
@@ -98,13 +112,6 @@
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
   },
   {
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "source": "OpenAI",
-    "date": "2026-10-21",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
-  },
-  {
     "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
     "source": "Hugging Face",
     "date": "2026-10-21",
@@ -158,13 +165,6 @@
     "source": "Hugging Face",
     "date": "2026-10-19",
     "url": "https://huggingface.co/blog/hf-torchneuron",
-    "summary": ""
-  },
-  {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "source": "Hugging Face",
-    "date": "2026-10-16",
-    "url": "https://huggingface.co/blog/reflection-beam",
     "summary": ""
   },
   {

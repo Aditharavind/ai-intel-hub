@@ -1,5 +1,50 @@
 [
   {
+    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "downloads": 553,
+    "likes": 0,
+    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "date": "2026-10-23",
+    "keyword": "robotics",
+    "score": 166.0
+  },
+  {
+    "model": "pollen-robotics/red-cube-blue-box_pi05_step10000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box_pi05_step10000",
+    "date": "2026-10-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "IsaacZhy/VideoCoT-RoboTwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/IsaacZhy/VideoCoT-RoboTwin",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best",
+    "date": "2026-10-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box-30fps_diffusion_v2",
+    "date": "2026-10-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "SimpleJev/JevAny-Robotics-4B-LoRA",
     "downloads": 29,
     "likes": 0,
@@ -63,40 +108,13 @@
     "score": 1.9
   },
   {
-    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "downloads": 553,
-    "likes": 0,
-    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "date": "2026-10-23",
-    "keyword": "robotics",
-    "score": 166.0
-  },
-  {
-    "model": "NFHH/lingbot-robotwin-strong-scratch22k-cont8k",
+    "model": "vladlen-beilik/ltx-2.3-runpod",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k-cont8k",
+    "url": "https://huggingface.co/vladlen-beilik/ltx-2.3-runpod",
     "date": "2026-10-23",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "NFHH/lingbot-robotwin-strong-scratch22k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k",
-    "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "NFHH/lingbot-robotwin-strong-main40k-10k",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-main40k-10k",
-    "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 0.3
   },
   {
     "model": "dddddsds31341/vla-adapter-pick_balls-150k",
@@ -216,6 +234,15 @@
     "score": 0.1
   },
   {
+    "model": "amirsh1376/umi-arena-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/amirsh1376/umi-arena-policy",
+    "date": "2026-10-23",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "WoojongKim/smolvla_policy_omy_gelsight_env1_task1_test3",
     "downloads": 0,
     "likes": 0,
@@ -258,24 +285,6 @@
     "url": "https://huggingface.co/Justicate/my_pi0_5_policy",
     "date": "2026-10-23",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "northstar-robotics-ai/failure-recovery",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/northstar-robotics-ai/failure-recovery",
-    "date": "2026-10-22",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "jasonren-ai2/g1-vla-finetune-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jasonren-ai2/g1-vla-finetune-checkpoints",
-    "date": "2026-10-22",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -351,13 +360,13 @@
     "score": 1.9
   },
   {
-    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v3-step4000",
-    "downloads": 4,
+    "model": "northstar-robotics-ai/failure-recovery",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v3-step4000",
+    "url": "https://huggingface.co/northstar-robotics-ai/failure-recovery",
     "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 1.3
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion-best",
@@ -441,15 +450,6 @@
     "score": 4.0
   },
   {
-    "model": "jinyoonok/interactive-robotics_lab3_act-pick-doll",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/jinyoonok/interactive-robotics_lab3_act-pick-doll",
-    "date": "2026-10-21",
-    "keyword": "robotics",
-    "score": 3.1
-  },
-  {
     "model": "YongYong/cis6280-stack-world-models",
     "downloads": 0,
     "likes": 0,
@@ -529,24 +529,6 @@
     "date": "2026-10-20",
     "keyword": "embodied",
     "score": 7.3
-  },
-  {
-    "model": "RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80_full",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/RoboticsCollectiveAachen/smolvla_piper_hex_bolt_insertion_80_full",
-    "date": "2026-10-20",
-    "keyword": "robotics",
-    "score": 6.1
-  },
-  {
-    "model": "csusupergear/needed_checkpoints_robotics_repa",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/csusupergear/needed_checkpoints_robotics_repa",
-    "date": "2026-10-20",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "mradermacher/EmbodiedBrain-7B-GGUF",
