@@ -1,5 +1,19 @@
 [
   {
+    "title": "When You Can’t Pick Between Electric and Jet Power, This Buggy Has You Covered",
+    "source": "Hackaday",
+    "date": "2026-10-23",
+    "url": "https://hackaday.com/2026/10/23/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered/",
+    "summary": "<div><img alt=\"Rear view of the sand rail whizzing by.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/turbine-hybrid-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Technically, what [Macona] built with a surplus Solar T-62 turbine is not a dune buggy, but a sand rail, but it does have the delightfully rare combination of electric and <a class=\"read-more\" href=\"https://hackaday.com/2026/10/23/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered/\">&#8230;read more</a>"
+  },
+  {
+    "title": "DOOM Ported to a $30 Clamp Meter",
+    "source": "Hackaday",
+    "date": "2026-10-23",
+    "url": "https://hackaday.com/2026/10/23/doom-ported-to-a-30-clamp-meter/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Playing-DOOM-running-on-a-multimeter-with-32KB-of-RAM-6-29-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>DOOM. Boil it, mash it, stick it in a stew, it&#8217;s the game that runs on anything and everything. Now, the classic shooter is running on a rather unlikely target—a <a class=\"read-more\" href=\"https://hackaday.com/2026/10/23/doom-ported-to-a-30-clamp-meter/\">&#8230;read more</a>"
+  },
+  {
     "title": "Restoring a Soviet ES-4001 Mainframe Control Panel",
     "source": "Hackaday",
     "date": "2026-10-23",
@@ -14,6 +28,13 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"572\" src=\"https://hackaday.com/wp-content/uploads/2026/10/cold-battery-main.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the major limits of mass-produced batteries is the electrolyte. From lead-acid to lithium ion, there&#8217;s some temperature where the electrolyte will freeze and cause all sorts of problems, <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/nasa-batteries-survive-extreme-cold-and-heat/\">&#8230;read more</a>"
   },
   {
+    "title": "LILYGO T-Halow P4 – An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6",
+    "source": "CNX Software",
+    "date": "2026-10-23",
+    "url": "https://www.cnx-software.com/2026/10/23/lilygo-t-halow-p4-a-m-2-2280-board-with-esp32-p4-wifi-halow-and-esp32-c6/",
+    "summary": "<div><img alt=\"LILYGO T Halow P4\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/LILYGO-T-Halow-P4-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>LILYGO T-Halow P4 is a compact M.2 development board that combines an ESP32-P4 MCU, an ESP32-C6 wireless co-processor, and a Taixin TX-AH WiFi HaLow module for long-range wireless connectivity. The board measures just 80 x 22mm (M.2 2280) and uses an M.2 B-key connector to expose GPIO pins and other interfaces for integration into custom carrier boards. It also supports MIPI CSI cameras and MIPI DSI displays, along with hardware H.264 video encoding at up to 1080p30, making it suitable for compact IoT gateways, remote cameras, and industrial monitoring applications. LILYGO T-Halow P4 specifications: SoC – Espressif Systems ESP32-P4NRW32X  CPU Dual-core RISC-V @ 400 MHz with AI instruction extensions and single-precision FPU Single-core RISC-V LP (low-power) MCU @ up to 40 MHz GPU – 2D Pixel Processing Accelerator (PPA) VPU – H.264 and JPEG codec support Memory – 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB TCM, 32MB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/23/lilygo-t-halow-p4-a-m-2-2280-board-with-esp32-p4-wifi-halow-and-esp32-c6/\">LILYGO T-Halow P4 &#8211; An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "RoboParty RP1 (ROBOTO 01) – A full-stack open-source humanoid robot with up to 30 degrees of freedom",
     "source": "CNX Software",
     "date": "2026-10-23",
@@ -21,18 +42,39 @@
     "summary": "<div><img alt=\"RoboParty RP1(ROBOTO 01), an open source humanoid robot\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/RoboParty-RP1ROBOTO-01-an-open-source-humanoid-robot-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Shanghai-based RoboParty has introduced the RP1 (ROBOTO 01), an open-source humanoid robot designed for robotics research, embodied AI development, and motion-control experiments. The robot is available in two configurations: the standard RP1 with 24 active degrees of freedom (DoF) and the RP1 Pro with 30 DoF. The robot stands 1.35 meters (~4.43 feet) tall and is built around a Rockchip RK3588 processor, with the Pro model adding an Allwinner A733 processor and an NVIDIA Jetson Orin NX development computing module. Other features include in-house ROMOMO joint actuators with up to 160 N·m peak torque, interchangeable head modules, optional dexterous hands, and a 10Ah battery rated for up to three hours of operation. A separate 480MHz MCU handles real-time motion control, while a dual-voltage battery system supports hot-swapping without shutting down the robot. RoboParty RP1 specifications: Computing RP1 – Rockchip RK3588 processor with a 6 TOPS NPU, 8GB LPDDR4x RAM, and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/\">RoboParty RP1 (ROBOTO 01) &#8211; A full-stack open-source humanoid robot with up to 30 degrees of freedom</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Real-Time Sensing Prevents Catastrophic Infrastructure Failures",
+    "source": "Embedded.com",
+    "date": "2026-10-23",
+    "url": "https://www.embedded.com/real-time-sensing-prevents-catastrophic-infrastructure-failures/",
+    "summary": "<p>Cooling failures remain the second-leading cause of data center outages. Downtime is now more costly than hardware loss, making early detection critical. The ability to detect leaks at the source and over wide areas via telemetry will vastly improve uptime. Compatibility with newer cooling fluid variants is essential, but legacy conductometric sensing falls short. The ability to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/real-time-sensing-prevents-catastrophic-infrastructure-failures/\">Real-Time Sensing Prevents Catastrophic Infrastructure Failures</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+    "source": "Electronics Weekly",
+    "date": "2026-10-23",
+    "url": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+    "summary": "<p>Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/\">Vector&#8217;s Rust-based IEEE 11073 SDC stack qualifies for medical devices</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+    "source": "Electronics Weekly",
+    "date": "2026-10-23",
+    "url": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+    "summary": "<p>Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/\">Babcock, BAE Systems launch Apprenticeship Talent Bridge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Electronics production growth accelerating, says SI",
     "source": "Electronics Weekly",
     "date": "2026-10-23",
     "url": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-    "summary": "<p>Growth in electronics production has been accelerating in 2026, says Semiconductor  Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/\">Electronics production growth accelerating, says SI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/\">Electronics production growth accelerating, says SI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "The AI Race, by imec",
     "source": "Electronics Weekly",
     "date": "2026-10-23",
     "url": "https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/",
-    "summary": "<p>“The AI race is often framed as a race for bigger models, faster chips and larger datacentres, &#8211; that framing is outdated,” says Patrick Vandenameele (pictured), CEO of imec, “the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/\">The AI Race, by imec</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>“The AI race is often framed as a race for bigger models, faster chips and larger datacentres, &#8211; that framing is outdated,” says Patrick Vandenameele (pictured below), CEO of imec, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/\">The AI Race, by imec</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Washington takes stake in fusion company",
@@ -63,6 +105,20 @@
     "summary": "<p>&#160; Apple is expected to take a 25% share of the 2026 foldables market despite shipping its first foldable this week, says Counterpoint Research. Nonetheless Samsung is expected to remain [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/apple-to-take-25-of-foldables-market-2026-10/\">Apple To Take 25% Of 2026 Foldables Market</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "ESP32 Jump Scares with The Haunted Box #ElectronicHalloween",
+    "source": "Adafruit",
+    "date": "2026-10-23",
+    "url": "https://blog.adafruit.com/2026/10/23/esp32-jump-scares-with-the-haunted-box-electronichalloween/",
+    "summary": "Cytron Technologies posted up this guide for a haunted box using the Maker ESP32 board. A PIR sensor detects when someone passes by and the LEDs and servo motor (literally)  jump into action. Music from a nearby laptop adds extra chills. &#160; The Haunted Box is a motion-activated Halloween project developed using the Maker ESP32. [&#8230;]"
+  },
+  {
+    "title": "Happy Mole Day 2026! NMDF Molar Cup #MoleDay @nationalmoleday",
+    "source": "Adafruit",
+    "date": "2026-10-23",
+    "url": "https://blog.adafruit.com/2026/10/23/happy-mole-day-2026-nmdf-molar-cup-moleday-nationalmoleday/",
+    "summary": "&#160; We love the chance to celebrate significant numbers. This punny holiday celebrates the mighty mole – One mole contains exactly 6.02214076×1023 elementary entities (approximately 602 sextillion or 602 billion times a trillion)[*], hence the celebration today! (starting at 6:02 am 10/23) &#160; More from Mole.org: Celebrated annually on October 23 from 6:02 a.m. to [&#8230;]"
+  },
+  {
     "title": "Raspberry Pi 5 Case – Pimoroni NVMe Base + Noctua 40×10mm Fan #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-23",
@@ -89,20 +145,6 @@
     "date": "2026-10-22",
     "url": "https://hackaday.com/2026/10/22/keeping-old-wi-fi-radios-alive-with-stream-conversion/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/itsthabigolboondogglah.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are plenty of Wi-Fi radios out there that were built over the last two decades or so. However, many older models are now becoming less useful because many internet <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/keeping-old-wi-fi-radios-alive-with-stream-conversion/\">&#8230;read more</a>"
-  },
-  {
-    "title": "KiCad… In The Browser?",
-    "source": "Hackaday",
-    "date": "2026-10-22",
-    "url": "https://hackaday.com/2026/10/22/kicad-in-the-browser/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-161936-e1792560000590.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>KiCad is a useful tool for designing printed circuit boards, but it&#8217;s of no use to you if you can&#8217;t install it on the computer you&#8217;re on. To get around <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/kicad-in-the-browser/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Japan Launches Mission to Study Martian Moon",
-    "source": "Hackaday",
-    "date": "2026-10-22",
-    "url": "https://hackaday.com/2026/10/22/japan-launches-mission-to-study-martian-moon/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/marsmoons_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Humanity has been sending robotic explorers to Mars since the 1970s, and for our efforts we&#8217;ve been rewarded with not only incredible imagery of the Red Planet&#8217;s magnificent desolation, but <a class=\"read-more\" href=\"https://hackaday.com/2026/10/22/japan-launches-mission-to-study-martian-moon/\">&#8230;read more</a>"
   },
   {
     "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
@@ -145,20 +187,6 @@
     "date": "2026-10-22",
     "url": "https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/",
     "summary": "<p>Industrial automation is increasingly becoming a strategic priority for manufacturers, with robotics, AI and connected production systems promising productivity, flexibility and resilience, writes Payam Pajoohi of PHYTEC. Despite this, adopting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/\">Why embedded engineering is becoming a bottleneck for industrial automation </a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Hydrogen truck for Dakar Rally",
-    "source": "Electronics Weekly",
-    "date": "2026-10-22",
-    "url": "https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/",
-    "summary": "<p>Toyota is to enter a hydrogen-powered truck (pictured with driver Dania Akeel) in the January 2027 Dakar Rally. The truck is a hydrogen fuel cell version of the ICE Hilux [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/\">Hydrogen truck for Dakar Rally</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Flapping Airplanes raises $1bn",
-    "source": "Electronics Weekly",
-    "date": "2026-10-22",
-    "url": "https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/",
-    "summary": "<p>Flapping Airplanes, a one year-old San Francisco AI neolab, has raised $1 billion at a $6 billion valuation before it has put a product on the market. ‘Neolab’ denotes an [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/\">Flapping Airplanes raises $1bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "#3DThursday #3DPrinting",
@@ -222,20 +250,6 @@
     "date": "2026-10-22",
     "url": "https://blog.adafruit.com/2026/10/22/clamp-holder-six-up-workbench-clamp-storage-3dthursday-3dprinting/",
     "summary": "A free holder for storing clamps near a workbench. Mounts to a surface with double-sided tape. The clamp grips the holder while stored. Keeps clamps out of the way while staying within quick reach. Listed file is a 6-up plate: 0.2mm layer, 2 walls, 15% infill, ~42 min, 19g PLA. CC BY-SA 4.0 (commercial use [&#8230;]"
-  },
-  {
-    "title": "Gridfinity Precision Tool Holder #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-22",
-    "url": "https://blog.adafruit.com/2026/10/22/gridfinity-precision-tool-holder-3dthursday-3dprinting/",
-    "summary": "PrintMeister shares: A custom Gridfinity box with dedicated spaces for precision measuring tools: precision angle (square), tape measure in the center, protractor. Base follows the standard Gridfinity grid and is compatible with other Gridfinity boxes. Suits small to medium-sized tools. 0.2mm layer, 2 walls, 10% infill, ~2.9h, 89g PLA, 1 plate. CC BY-NC-SA 4.0. Rotates [&#8230;]"
-  },
-  {
-    "title": "3D Hangouts – USB Desk Hub, Holiday Wreath and Caroline",
-    "source": "Adafruit",
-    "date": "2026-10-22",
-    "url": "https://blog.adafruit.com/2026/10/22/3d-hangouts-usb-desk-hub-holiday-wreath-and-caroline/",
-    "summary": "3D Hangouts – USB Desk Hub, Holiday Wreath and Caroline https://youtube.com/live/_yM1B3QA7ok?feature=share This week @adafruit Noe is showcasing his guide for his built-in USB hub for the Ikea MITTZON desk. Pedro is working on a new project inspired by the Apple HomeView. Checking out this week’s Timelapse Tuesday model of Caroline. USB hub for Ikea Mittzon [&#8230;]"
   },
   {
     "title": "STMicroelectronics adds MasterGaN7 devices to integrated high-efficiency power family",
@@ -406,24 +420,10 @@
     "summary": "<div><img alt=\"XIAO IPS Display Series\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/09/XIAO-IPS-Display-Series-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio has introduced the XIAO IPS touch display series, a family of six compact development boards built around the XIAO ESP32-S3 Plus or XIAO nRF52840 Plus MCU, with 0.96-inch, 1.14-inch, and 1.47-inch IPS color displays. All six boards include a 6-axis IMU, a PDM digital microphone, user buttons, and LiPo battery support. The larger 1.47-inch version adds capacitive touch and a microSD card slot, whereas the 1.14-inch model includes a Grove I2C connector for connecting external sensors. The ESP32-S3 versions support Wi-Fi and Bluetooth LE connectivity, while the nRF52840 models focus on lower-power Bluetooth LE applications. The boards are designed for portable dashboards, smart home controllers, wearable devices, sensor monitoring, and other small IoT projects. XIAO IPS Display Series specifications: Wireless board (one or the other) XIAO nRF52840 Plus Wireless MCU –  Nordic nRF52840 Arm Cortex-M4F microcontroller @ up to 64 MHz with 1 MB flash, 256 KB SRAM, Bluetooth 5.0, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/\">Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-10-16",
-    "url": "https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/",
-    "summary": "<div><img alt=\"Xerxes Pi 2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Xerxes-Pi-2026-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After a successful campaign for Xerxes Pi back in 2025, Rapid Analysis has returned with a Xerxes Home Lab ecosystem that includes the Xerxes Pi 2026 and Xerxes Nano carrier board. The upgrade includes M.2 NVMe storage support on the bottom of the board, an I2S Qwiic connector for digital audio, and added debug and boot jumper pins for easier headless deployment. Designed for home labs, edge AI developers, and small businesses, the Xerxes Pi 2026 supports Raspberry Pi CM4/CM5 and other CM modules, Gigabit Ethernet, optional PoE+, and CSI/HDMI expansion. The larger Xerxes Nano supports NVIDIA Jetson Orin Nano and Turing RK1 modules, adding M.2 PCIe, OCuLink, and SPI/UART connectivity. Both boards support active cooling and compact 1U rack installations. Xerxes Pi 2026 Xerxes Pi 2026 specifications: Supported SoMs – Raspberry Pi CM4, CM5, and compatible alternatives via 2x 100-pin high-density mezzanine connectors Storage M.2 M-key PCIe Gen 2 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/\">Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-10-16",
     "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/",
     "summary": "<p>Here's a roundup of this week's must-read articles. We cover the latest developments on designing edge AI for real-time systems, solving the edge computing energy problem, PCIe 6.0 high-radix switches for AI data centers, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. [...]</p>\n<p>The post <a href=\"https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights/\">Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Elektrobit and Microchip Simplify AUTOSAR Integration",
-    "source": "Embedded.com",
-    "date": "2026-10-16",
-    "url": "https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration/",
-    "summary": "<p>Elektrobit and Microchip Technology have announced a collaboration to simplify AUTOSAR-based software development for automotive manufacturers and Tier 1 suppliers using Microchip's automotive processor platforms. The initiative combines Elektrobit's automotive software, development tools, and automation capabilities with Microchip's hardware to reduce integration effort, mitigate development risks, and accelerate time to market for software-defined vehicles. As [...]</p>\n<p>The post <a href=\"https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration/\">Elektrobit and Microchip Simplify AUTOSAR Integration</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
