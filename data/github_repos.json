@@ -1,23 +1,23 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 29508,
+    "stars": 29519,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-10-24",
     "topic": "embodied-ai",
-    "score": 11803.3
+    "score": 11807.7
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3718,
+    "stars": 3719,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-10-24",
     "topic": "physical-ai",
-    "score": 1487.3
+    "score": 1487.7
   },
   {
     "repo": "copper-project/copper-rs",
@@ -71,43 +71,43 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 83758,
+    "stars": 83760,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-10-24",
     "topic": "robotics",
-    "score": 33503.3
+    "score": 33504.1
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 63985,
+    "stars": 63987,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-10-24",
     "topic": "robotics",
-    "score": 25594.1
+    "score": 25594.9
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30788,
+    "stars": 30790,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-10-24",
     "topic": "robotics",
-    "score": 12315.3
+    "score": 12316.1
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 22907,
+    "stars": 22925,
     "language": "Python",
     "description": "Give your agent CAD superpowers.",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-10-24",
     "topic": "robotics",
-    "score": 9162.9
+    "score": 9170.1
   },
   {
     "repo": "questdb/questdb",
@@ -131,23 +131,33 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 15854,
+    "stars": 15856,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-10-24",
     "topic": "robotics",
-    "score": 6341.7
+    "score": 6342.5
   },
   {
     "repo": "dora-rs/dora",
-    "stars": 4037,
+    "stars": 4038,
     "language": "Rust",
     "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
     "url": "https://github.com/dora-rs/dora",
     "date": "2026-10-24",
     "topic": "embodied-ai",
-    "score": 1614.9
+    "score": 1615.3
+  },
+  {
+    "repo": "flashrt-project/FlashRT",
+    "stars": 755,
+    "language": "C++",
+    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
+    "url": "https://github.com/flashrt-project/FlashRT",
+    "date": "2026-10-24",
+    "topic": "vla",
+    "score": 302.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -181,23 +191,23 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8511,
+    "stars": 8512,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-10-24",
     "topic": "world-model",
-    "score": 3404.5
+    "score": 3404.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7335,
+    "stars": 7337,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-10-24",
     "topic": "world-model",
-    "score": 2934.1
+    "score": 2934.9
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -291,13 +301,13 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 16197,
+    "stars": 16199,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-10-23",
     "topic": "robotics",
-    "score": 6478.9
+    "score": 6479.7
   },
   {
     "repo": "RLinf/RLinf",
@@ -328,16 +338,6 @@
     "date": "2026-10-23",
     "topic": "embodied-ai",
     "score": 1190.1
-  },
-  {
-    "repo": "flashrt-project/FlashRT",
-    "stars": 755,
-    "language": "C++",
-    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-    "url": "https://github.com/flashrt-project/FlashRT",
-    "date": "2026-10-23",
-    "topic": "vla",
-    "score": 302.1
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -461,13 +461,13 @@
   },
   {
     "repo": "MinghaoFu/lewam",
-    "stars": 325,
+    "stars": 326,
     "language": "Python",
     "description": "LeWAM: End-to-End World and Action Modeling with JEPAs",
     "url": "https://github.com/MinghaoFu/lewam",
     "date": "2026-10-22",
     "topic": "robot-learning",
-    "score": 130.1
+    "score": 130.5
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
@@ -621,13 +621,13 @@
   },
   {
     "repo": "SkyworkAI/Matrix-Game",
-    "stars": 2755,
+    "stars": 2757,
     "language": "Python",
     "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
     "url": "https://github.com/SkyworkAI/Matrix-Game",
     "date": "2026-10-19",
     "topic": "world-model",
-    "score": 1102.1
+    "score": 1102.9
   },
   {
     "repo": "softmata/horus",
@@ -681,13 +681,13 @@
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2433,
+    "stars": 2434,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-10-16",
     "topic": "humanoid",
-    "score": 973.3
+    "score": 973.7
   },
   {
     "repo": "black-forest-labs/flux-action",
