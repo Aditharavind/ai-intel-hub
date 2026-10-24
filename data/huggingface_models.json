@@ -1,5 +1,14 @@
 [
   {
+    "model": "corona314/smolvla_mi_robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/corona314/smolvla_mi_robot",
+    "date": "2026-10-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "pinnacle-robotics/asaptic-trade-llm",
     "downloads": 0,
     "likes": 0,
@@ -99,6 +108,42 @@
     "score": 0.1
   },
   {
+    "model": "ar-mine/lingbot-vla-v2-6b-e5-c3-epoch6-step17178",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ar-mine/lingbot-vla-v2-6b-e5-c3-epoch6-step17178",
+    "date": "2026-10-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ar-mine/lingbot-vla-v2-6b-e5-c3-epoch2-step17180",
+    "downloads": 59,
+    "likes": 0,
+    "url": "https://huggingface.co/ar-mine/lingbot-vla-v2-6b-e5-c3-epoch2-step17180",
+    "date": "2026-10-24",
+    "keyword": "vla",
+    "score": 17.8
+  },
+  {
+    "model": "Harrysunshine/so101-lingbot-vla-v2-40k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Harrysunshine/so101-lingbot-vla-v2-40k",
+    "date": "2026-10-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
+    "date": "2026-10-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Koichi3333/vla-maker-from-cbd",
     "downloads": 0,
     "likes": 0,
@@ -141,6 +186,24 @@
     "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
     "date": "2026-10-24",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v4-step4000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v4-step4000",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v4-step2000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/geonmin-kim/Cosmos3-Edge-Policy-Droid-Mfm-DRobodojo_v4-step2000",
+    "date": "2026-10-24",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -225,15 +288,6 @@
     "score": 0.1
   },
   {
-    "model": "pollen-robotics/red-cube-blue-box_pi05_step10000",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box_pi05_step10000",
-    "date": "2026-10-23",
-    "keyword": "robotics",
-    "score": 5.2
-  },
-  {
     "model": "ryanhoangt/ra-vla-official-assets",
     "downloads": 0,
     "likes": 0,
@@ -259,42 +313,6 @@
     "date": "2026-10-23",
     "keyword": "vla",
     "score": 22.0
-  },
-  {
-    "model": "lerobot/FineART-VLA-subtask-midtrained",
-    "downloads": 76,
-    "likes": 1,
-    "url": "https://huggingface.co/lerobot/FineART-VLA-subtask-midtrained",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 23.1
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-pick_balls-140k",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-140k",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 4.3
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-pick_balls-130k",
-    "downloads": 17,
-    "likes": 1,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-130k",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 5.4
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-pick_balls-120k",
-    "downloads": 14,
-    "likes": 1,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-120k",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 4.5
   },
   {
     "model": "jadidbourbaki/shared-cache-world-model",
@@ -333,22 +351,13 @@
     "score": 6.4
   },
   {
-    "model": "Kiran03M/act_so101_policy",
-    "downloads": 28,
+    "model": "pollen-robotics/red-cube-blue-box_pi05_step10000",
+    "downloads": 17,
     "likes": 0,
-    "url": "https://huggingface.co/Kiran03M/act_so101_policy",
+    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box_pi05_step10000",
     "date": "2026-10-23",
-    "keyword": "policy",
-    "score": 8.5
-  },
-  {
-    "model": "Yewy/mahjong_mat_pickup_lekiwi_cl_hover_v2n_policy",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/Yewy/mahjong_mat_pickup_lekiwi_cl_hover_v2n_policy",
-    "date": "2026-10-23",
-    "keyword": "policy",
-    "score": 6.1
+    "keyword": "robotics",
+    "score": 5.2
   },
   {
     "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best",

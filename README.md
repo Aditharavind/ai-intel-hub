@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-24 16:18 UTC
+Last Updated: 2026-10-24 19:06 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-24 | That Weird 7-Pin S-Video Port on Old Laptops | Hackaday | [link](https://hackaday.com/2026/10/24/that-weird-7-pin-s-video-port-on-old-laptops/) |
 | 2026-10-24 | Making for Others | Hackaday | [link](https://hackaday.com/2026/10/24/making-for-others/) |
 | 2026-10-24 | Watch VCF Southwest in Retrotastic SGI-Edited Footage | Hackaday | [link](https://hackaday.com/2026/10/24/watch-vcf-southwest-in-retrotastic-sgi-edited-footage/) |
 | 2026-10-24 | A Walkie Talkie Interface For Claude | Hackaday | [link](https://hackaday.com/2026/10/24/a-walkie-talkie-interface-for-claude/) |
 | 2026-10-24 | Using an Unmodded GBA as a Music Synth | Hackaday | [link](https://hackaday.com/2026/10/23/using-an-unmodded-gba-as-a-music-synth/) |
 | 2026-10-24 | RepRapMicron Uses Fibre Optics To Print Tiny Benchy in Resin | Hackaday | [link](https://hackaday.com/2026/10/23/reprapmicron-uses-fibre-optics-to-print-tiny-benchy-in-resin/) |
 | 2026-10-24 | ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC | CNX Software | [link](https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc/) |
+| 2026-10-24 | ESP32-Powered Talking Smoke Pumpkin #ElectronicHalloween | Adafruit | [link](https://blog.adafruit.com/2026/10/24/esp32-powered-talking-smoke-pumpkin-electronichalloween/) |
+| 2026-10-24 | Sound Reactive Paper Lanterns with LedFx | Adafruit | [link](https://blog.adafruit.com/2026/10/24/sound-reactive-paper-lanterns-with-ledfx-2/) |
 | 2026-10-24 | GitHub – ankur608/ArduinoUnoQ_AdafruitTouch | Adafruit | [link](https://blog.adafruit.com/2026/10/24/github-ankur608-arduinounoq_adafruittouch/) |
-| 2026-10-24 | The Hidden Speakers of Cirque du Soleil’s “O” | Adafruit | [link](https://blog.adafruit.com/2026/10/24/the-hidden-speakers-of-cirque-du-soleils-o/) |
-| 2026-10-24 | Reverse engineering a commercial spatial audio effect | Adafruit | [link](https://blog.adafruit.com/2026/10/24/reverse-engineering-a-commercial-spatial-audio-effect/) |
-| 2026-10-24 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/10/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-24-2/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-24 | corona314/smolvla_mi_robot | 0 | 0 | [link](https://huggingface.co/corona314/smolvla_mi_robot) |
 | 2026-10-24 | pinnacle-robotics/asaptic-trade-llm | 0 | 0 | [link](https://huggingface.co/pinnacle-robotics/asaptic-trade-llm) |
 | 2026-10-24 | Owlsnet/lingbot-vla-v2-robotwin-clean50-b384-7500 | 0 | 0 | [link](https://huggingface.co/Owlsnet/lingbot-vla-v2-robotwin-clean50-b384-7500) |
 | 2026-10-24 | Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA | 37 | 0 | [link](https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA) |
@@ -86,12 +87,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-24 | renbin1/pi05-robotwin-arx-x5-four-tasks-1000-30000 | 0 | 0 | [link](https://huggingface.co/renbin1/pi05-robotwin-arx-x5-four-tasks-1000-30000) |
 | 2026-10-24 | x-square-robot/wall-oss-1.0-lite-robodojo | 0 | 0 | [link](https://huggingface.co/x-square-robot/wall-oss-1.0-lite-robodojo) |
 | 2026-10-24 | isthathuman/RoboTwin-DIF-checkpoints-5000 | 0 | 0 | [link](https://huggingface.co/isthathuman/RoboTwin-DIF-checkpoints-5000) |
-| 2026-10-24 | northstar-robotics-ai/failure-recovery | 0 | 0 | [link](https://huggingface.co/northstar-robotics-ai/failure-recovery) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29483 | Python | 11793.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29508 | Python | 11803.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 | NVIDIA/skills | 3718 | Python | 1487.3 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1529 | Rust | 611.7 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 1087 | Python | 434.9 | [link](https://github.com/mosaico-labs/mosaico) |
@@ -99,8 +99,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | autonomous-ai/lampOS | 493 | Python | 197.3 | [link](https://github.com/autonomous-ai/lampOS) |
 | awslabs/awsome-distributed-ai | 490 | Shell | 196.1 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | Developer-Y/cs-video-courses | 83758 |  | 33503.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63987 | Python | 25594.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 22892 | Python | 9156.9 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63985 | Python | 25594.1 | [link](https://github.com/commaai/openpilot) |
+| AtsushiSakai/PythonRobotics | 30788 | Python | 12315.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -109,16 +109,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-23 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXA4NGZ5cFV0S2E5U2hNRk4tZ0piay1jWWhScjJ0bWRPQllrcDRZUzFNamdHc0tGZF9NOFFpQnZXQ0c0SjZuaVhKQV82MXFRRnJZUVV0a2l1OTZLaGVoZHNQNVlfMGwzXzNWY0pTYTQ5ZlRRc2tSNnNUc3pPbFcyU0xTLXdJNlhYOE1odjk0QWtEc2FBTUctazRRWXNKcHl4Sm1LUEpKdWxlQU55c0staTJrYkNLYXlQREpHdG5wcEhmemxQTGc?oc=5) |
 | 2026-10-23 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPY195TlJCNGgyM3QyMXFhWDVnNmdTVFVHaUJRYkMxOGd0bGdESXQ1Q3V5WFhNdDJEakNESUNqd2xKZDBGZnBsZDlDOEF5TUxPZGxzalNSZ043akc3S09sNzhqbmZTSHRVZ25yTVJmUzBlYWpjZ3NpM3o0RU1JUVJueTVld0tiMk1xYlRqbkdMbk1SVmh3djhxay1nd29udjNZYTJteG9feE93RnFvNzRTTmhUc3Zmcnc?oc=5) |
 | 2026-10-23 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU1VMnk4dzJSR2tfU2pCRUZtdVBybkp6cjBYZGp5Y0FXRzJVYjBSTThTRlE1R2dRbVBUdmdRem1Cb1RXRlo1Y1FyY3oxZmlpNGdBSnhSYXczYTRabVBQQkc5RFdTNzJCYnBCVmNCcjZ2ZXlZbWFMRi1rMEJhVnZWNFFrcXpwTUp3SEptY1BYeEdzeG53SHQ2TUwyQQ?oc=5) |
+| 2026-10-22 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG9oN29xeXdwaDlhelI2UmprZXgzWGlzelNQLTRrRExRWmlDOXJucFB3ZnhLSDFiYy1ENG5lNVlFell4cExpNVRDM3ZIRWVXSnFOMUpDQjNDOGQ4emNndzg0Um8wOVp2X3BKRTg3akJsdTRXeEJ0UmRHQWdSOW5qUFRmb2dkRjFxU0hkdTBZU3hiaTlBc2pJT3duTXo?oc=5) |
 | 2026-10-22 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBDM3JXeXU1OTUyMVBtT2pyalhOb0NpQ2NrYzdUM200blRycENBM1llODcwMG9UR0lEWTJ2b2JnUzZpY1Z4TWJ0bkVubjVESU16WDB5d3JycGdGaXRjZWo5dGF5ZXJCWEZIVzdiTm9QdmFSWjVzT1NxNUZkNnJnVDU1bUt2cHZTajl2ZDlReE9HRmxTQkgzejQ5aTI1NVF3UEY2SGNXdGM?oc=5) |
 | 2026-10-22 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ25PdEVSOXJKN3VoWGFkeTlDU3YwVXZoMnJmcFBYcHFKeERTd1ByVVJid3A2S3B3bjAyb2hqSjY4QWFuZ1NWbFFfZFNVTUZEVERMOURyZEh4a1U2WFB5dUNkSzVwdjdrZHd6Q1ZHLS1LUVMzeTJuVXVWNFljMUFoemtnU0diSHEwUV9XcVZxUHQ0cTBiRjFnRzU4NnZIZ2kwVVh6TXBHREZJTjhablM3T3QwNnVNVkxBTXNfUmZ6M2hsb1NWY2l6WUJCc0k2dk9oN0FrZW55Y3RzTDBzWTFEc1pDaTV3R0xjU0E?oc=5) |
 | 2026-10-22 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXY1VndOZHFHeEM1ZVBMd2MwVHdjWWpJMTJOX010eUNnQmw3ZkkteUpwNUdxMzBzTl96RVh1a0dzaXRkb0w5Y280VWJ4bWxUc1lONGYzY3NPUHdRM3FXLUFuOHE0MzM2WWdUZzEzUVhHLWhYOFZNcmFUekpnektaUEtxcnJzQmYzMGw3Si1QQ0UzT19qeXFCR1Z2Y3dkMXBYTkpCaUE5aG01Y243ZC04MVhSWGtMblA3SVlJTlEtVENtWmU4X1VsTUppNlJvX1dqZC1R?oc=5) |
 | 2026-10-21 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1LaDBZdDRWSFNfYjRsMVUtWlVTVXNxSER2SExIYXc4Y2w3dmpxd0R4QTBKY1I5RjktblV4VnIwalZKdTVJWmxULVVWVklXanFOSG9GMmdZU0NfVVNUZC1hdWZmMWwxTkpqekw3ZnZIRmZ5RV9sY0E?oc=5) |
 | 2026-10-20 | Boston Dynamics |  |  | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzlsQ2wtb3U1WkpHamZ6b25uSDVtWHFnVXJia0NFWVAyQm0yOVpaeXVtcFJVeGZNYTFWdk9QVUdOSE9sNi1DekFONlBpQlFKY290V0wtd2dnaDdyZTAtVEFkVjAtTVdNRTdtLVFVM1FxTThfU0F4VERfNmtyOGw1MVQxcWhtVjNEd2xoYkVqOA?oc=5) |
-| 2026-10-19 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMmlMZWN3VW1HeWR6dXNPcGlXeWtUc0FWdWxCYl9ZN0tTTDhEckR5OTBockE2MVdzWWw3SHBSMkI0R3VpYTdfS0FCSEctUzFCQldvQWY5V0RqUQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-24 | 'A flight should not come at the expense of someone’s back' - IO+ | vision language action startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSGgxZmpVZld2WUpId0NlMmpXdElMV3BMelY0dnNBNWFJNm9PZ3B0YVJvV1BvS19ObVdLeVlzRE11OUVoaDVhTnhrZHRWTDZyeV8zZ05JaDVoQ3BUSll1c3g3TVhVSzRzMzZjZWR1R3Q3WTBxVUR3bXlHX3FQWFo5VEljVjRkYW1udl9N?oc=5) |
 | 2026-10-23 | UnternehmerTUM, Microsoft, Infineon and NVIDIA launch Physical AI Accelerator for EMEA startups - New Electronics | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNTFpWDZGcXkyNFlLOEo5WGs2OXAzS1diMUlTR1Z3dU5NUEpPaC1zaUswczRqRVJTX3dGVFdrWGVSSGlTWnNZMnh4ODE2VFpZU3d3RTZWQkMwOVg3SUZhS3pMVnpjSndyVnFTcmduREp0Nm9NWDhNZ0Y0QTU5V3IzVXEzdENEREU1Y2JxN1Z0eEtEMWlUZTNyY1dGTmdhMk8xSG5qSHB4VUtVcHhOMmFGOGRyXzd3MEt0bFloZVFNbGNfT3EyeHh2NkRzWF9fajlXazFHNjVB?oc=5) |
 | 2026-10-23 | Tractian Hits $1.4B as 4 Physical AI Startups Raise $240M - FourWeekMBA | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHE4SHh3STB6YUR2T09zS0F3ZWd1SVY4SVhFMVdKYnpfdzVSbGVrX3pQQUxTRnhWQWd0b2dxbE1VdXZrMWxNX0ltVENLMUhNRk1MdDUzcWZYNTVmaE93LVpULW5uVmZLV3lDbmRzeUZsS1I4NDREODlWblpTOHRmZ1BGWXNfVG1qSENR?oc=5) |
 | 2026-10-23 | AtechX start-up Bellboy Robotics continues successful development of Physical AI at NVIDIA GTC Berlin - ASSETPHYSICS | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRTNrMm9MR0xfenB6OWlwRi1hTGNyZzZUakduUWFpMXpfZTdtT0ZMajJ0QzN2cHpVbXdmTGlydEtDSVFfR0J5TnhvdDZhbTlUeFNIWUNSMjdDYmt2OHc2Umw0MnlIUTJ5MFVHbDRnc2tiUTNSM2lTaUpUT3N0V3FEUVdsU1JteC1WdURaTjI3alZDU0lQSzhKeHRSQU9fb2xjM2pScXpYckJoRkhqdElkVE52UmFoYU83TldBT3BZOFN3elltVDd5RU9TdkwyTjZwSi1Z?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-22 | Infineon names winners of humanoid robotics startup challenge - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEMxUC11RFRIWmtFUjhfb05qTEdRZERGWGFtRzR3SE5waGpOVTdaWjg4c0ZmQXRIazBreXd5MGJQN09CeEdQNURxMlN1bTZQZGtZenZ6YlNSam5XWDkxMlo1VUo4Zi1sVGFKYlAzWTNwTHlNa25sam1RUXZWdlhkZzRJWmVrck1ac3pwQk94Wm9qYUJIdGFOR1lid0xDZWlpMGRpSmdZU3hndmNXSnNjUTRrTXdmVzZqQUE?oc=5) |
 | 2026-10-20 | Reservoir Farms expands to Pacific Northwest to accelerate physical AI - AgFunderNews | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2pMRFFMOWVCT3FwdU4yWC1MWjlZM2R0MkMzdU83LWNnTDk1b3ZONjREQTZqM2RtQk93a05MZ3pvQ1hrS3A0N2hpaHBZU1dIUkE1Vm0zZi1KV2hKczQ1d3E5NVJIcDczLTZ0UmhGalhJbG5oUnlyNTZaUVEwaVg1bjV6em16YlR0WFBNdWNXZnhqQUZqdFJKeklqZTJMUVp4RzhLZFVuYnhUZTFNVTlXNTlqNV9rVzdi?oc=5) |
 | 2026-10-20 | Eka Robotics Hits $1.45B Valuation With Physical AI Breakthrough - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU215ckJmWmNHQmRtLUVQLXZfUVNncG9UQmFEcGZxWEVKQVRNYmk4UnhzMUJGLXpRRU5QX01vcWkwZXJmR3dZeWptYWxJV2t1a3oyUXFwOEFscnRqU2o4a1RTSzBJdlpDeTd6X25LU0xZZ0duUkY4QkZsbU0zaWt2MThIV3ZTakhGdTFBc2tXclpxS1dLd2ExRk5uT2I?oc=5) |
-| 2026-10-20 | Eka is worth $1.45B thanks to a physical AI model that has experts raving - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
