@@ -1,5 +1,12 @@
 [
   {
+    "title": "Making for Others",
+    "source": "Hackaday",
+    "date": "2026-10-24",
+    "url": "https://hackaday.com/2026/10/24/making-for-others/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2023/08/Collaboration01_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the nicest things about the Hackaday community, and the open-source hardware community at large, is the incredible generosity of one hacker to another. But it’s not purely altruism <a class=\"read-more\" href=\"https://hackaday.com/2026/10/24/making-for-others/\">&#8230;read more</a>"
+  },
+  {
     "title": "Watch VCF Southwest in Retrotastic SGI-Edited Footage",
     "source": "Hackaday",
     "date": "2026-10-24",
@@ -35,6 +42,27 @@
     "summary": "<div><img alt=\"Zotac ZBOX PRO CM5 PICO\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Zotac-ZBOX-PRO-CM5-PICO-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ZOTAC ZBOX PRO CM5-PICO is a compact fanless industrial mini PC built around the Raspberry Pi Compute Module 5 (CM5) with up to 16 GB LPDDR4x memory, optional WiFi 5 and Bluetooth 5.0 wireless connectivity. The mini PC measures 114.8 x 76 x 31.3 mm and features two 4K HDMI outputs, Gigabit Ethernet, and M.2 expansion for NVMe storage or AI accelerators, along with an internal 40-pin GPIO header, camera interfaces, and a wide 5V to 20V DC input for industrial automation, digital signage, and IoT gateway applications. All I/O ports are placed on a single side to simplify cable management and stacking. ZOTAC ZBOX PRO CM5-PICO specifications: SoM – Raspberry Pi Compute Module 5 (CM5) SoC – Broadcom BCM2712 CPU – Quad-core Arm Cortex-A76 @ 2.4 GHz GPU &#8211; VideoCore VII @ 800 MHz with H.265 hardware video decoding Memory &#8211; 2GB, 4GB, 8GB, or 16GB LPDDR4x RAM Storage [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc/\">ZOTAC ZBOX PRO CM5-PICO &#8211; A compact Raspberry Pi CM5-based fanless industrial mini PC </a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "GitHub – ankur608/ArduinoUnoQ_AdafruitTouch",
+    "source": "Adafruit",
+    "date": "2026-10-24",
+    "url": "https://blog.adafruit.com/2026/10/24/github-ankur608-arduinounoq_adafruittouch/",
+    "summary": "Developer ankur608 has published an open source Arduino library on GitHub for using the Adafruit 2.8&#8243; TFT Touch Shield v2 with Capacitive Touch (PID 1947) on the Arduino UNO Q, which runs an STM32U585 core. The shield carries its SPI lines on the 6-pin ICSP header rather than pins 11 through 13. On the UNO [&#8230;]"
+  },
+  {
+    "title": "The Hidden Speakers of Cirque du Soleil’s “O”",
+    "source": "Adafruit",
+    "date": "2026-10-24",
+    "url": "https://blog.adafruit.com/2026/10/24/the-hidden-speakers-of-cirque-du-soleils-o/",
+    "summary": "Matt Obernesser, head of audio for Cirque du Soleil’s O, takes Dallas Taylor on a sound tour. This one&#8217;s for the audio folks!"
+  },
+  {
+    "title": "Reverse engineering a commercial spatial audio effect",
+    "source": "Adafruit",
+    "date": "2026-10-24",
+    "url": "https://blog.adafruit.com/2026/10/24/reverse-engineering-a-commercial-spatial-audio-effect/",
+    "summary": "Austin Shijo wanted a Linux version of a Windows audio effect that pushed music out of the head and made it feel less pressed against the ears. Writing on epestr.com, he describes first trying to rebuild the effect by hand with PipeWire, HRTF databases and an LLM as a sounding board. The MIT KEMAR set [&#8230;]"
+  },
+  {
     "title": "The Python on Microcontrollers Newsletter: subscribe for free",
     "source": "Adafruit",
     "date": "2026-10-24",
@@ -61,13 +89,6 @@
     "date": "2026-10-23",
     "url": "https://hackaday.com/2026/10/23/reconstructing-the-ancient-chinese-storm-of-crows-weapon/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"459\" src=\"https://hackaday.com/wp-content/uploads/2026/10/multi-missile_crossbow_launcher_tods_workshop_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Chinese had been using large crossbows &#8211; akin to Greek and Roman ballistae &#8211; for warfare for many of the same reasons that European armies loved them. Their single, <a class=\"read-more\" href=\"https://hackaday.com/2026/10/23/reconstructing-the-ancient-chinese-storm-of-crows-weapon/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Running a Philips CD-i Off USB-C",
-    "source": "Hackaday",
-    "date": "2026-10-23",
-    "url": "https://hackaday.com/2026/10/23/running-a-philips-cd-i-off-usb-c/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/Running-the-Philips-CD-i-off-USB-C.-because-why-not_-14-54-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Philips CD-i is a console with many shortcomings, and those include the power supply. For whatever reason, the engineering team decided it should use an 8P8C connector just like <a class=\"read-more\" href=\"https://hackaday.com/2026/10/23/running-a-philips-cd-i-off-usb-c/\">&#8230;read more</a>"
   },
   {
     "title": "LILYGO T-Halow P4 – An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6",
@@ -217,13 +238,6 @@
     "summary": "&#160; We love the chance to celebrate significant numbers. This punny holiday celebrates the mighty mole – One mole contains exactly 6.02214076×1023 elementary entities (approximately 602 sextillion or 602 billion times a trillion)[*], hence the celebration today! (starting at 6:02 am 10/23) &#160; More from Mole.org: Celebrated annually on October 23 from 6:02 a.m. to [&#8230;]"
   },
   {
-    "title": "Raspberry Pi 5 Case – Pimoroni NVMe Base + Noctua 40×10mm Fan #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-23",
-    "url": "https://blog.adafruit.com/2026/10/22/raspberry-pi-5-case-pimoroni-nvme-base-noctua-40x10mm-fan-3dthursday-3dprinting/",
-    "summary": "user_258400175 shares: A Pi 5 case for the Pimoroni NVMe Base (M.2 SSD) + a Noctua 40×10mm 5Vdc fan. Two versions share the same lid: one with M3 threaded inserts (Ruthex RX-M3×5.7 brass), one that uses M3 screws directly without inserts. Both use M3 countersunk screws. Includes a PDF guide (Raspberry Pi5 Case.pdf) linked on [&#8230;]"
-  },
-  {
     "title": "Navitas Unveils Next-Generation Ultra-High-Voltage SiC Power Module to Advance Energy and Grid Infrastructure Efficiency",
     "source": "EE Journal",
     "date": "2026-10-23",
@@ -285,20 +299,6 @@
     "date": "2026-10-22",
     "url": "https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development/",
     "summary": "<p>Deploying an AI model on edge hardware involves much more than generating application code. The model needs to be compressed or quantized to fit available memory, compiled for a specific processor, integrated with a runtime, and tested for latency, power consumption, and accuracy. Developers must also make the software work with the surrounding embedded components [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development/\">How Agentic AI Accelerates Edge AI Software Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "#3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-22",
-    "url": "https://blog.adafruit.com/2026/10/22/3dthursday-3dprinting-6/",
-    "summary": "Shared by m@ on MakerWorld: Add cozy holiday glow and charm to your space with this unique Christmas Light Bulb Tea Light! It&#8217;s inspired by classic holiday bulbs and scaled up to make the perfect LED tea light! They make for a great display on the mantel, a bookshelf, table centerpiece, or even as an [&#8230;]"
-  },
-  {
-    "title": "Meshed Christmas Ornaments – Tea Light Compatible Shadows #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-10-22",
-    "url": "https://blog.adafruit.com/2026/10/22/meshed-christmas-ornaments-tea-light-compatible-shadows-3dthursday-3dprinting/",
-    "summary": "Maxx_Design shares: Meshed Christmas tree ornaments. A light placed inside casts shadows and creates a mood effect. Fits tea lights up to ~40mm diameter × 52mm height (designer says &#8216;electric tea light&#8217; — battery-powered). Alternative Christmas intro pick — hold for Nov batches as ramp builds. By Maxx Design download the files on: https://makerworld.com/en/models/777746-meshed-christmas-ornaments-tea-light-compatible Every [&#8230;]"
   },
   {
     "title": "STMicroelectronics adds MasterGaN7 devices to integrated high-efficiency power family",

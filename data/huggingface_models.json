@@ -1,12 +1,30 @@
 [
   {
-    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "downloads": 727,
+    "model": "pinnacle-robotics/asaptic-trade-llm",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "url": "https://huggingface.co/pinnacle-robotics/asaptic-trade-llm",
     "date": "2026-10-24",
     "keyword": "robotics",
-    "score": 218.2
+    "score": 0.1
+  },
+  {
+    "model": "Owlsnet/lingbot-vla-v2-robotwin-clean50-b384-7500",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Owlsnet/lingbot-vla-v2-robotwin-clean50-b384-7500",
+    "date": "2026-10-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "downloads": 37,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "date": "2026-10-24",
+    "keyword": "robot",
+    "score": 11.2
   },
   {
     "model": "vinguyen0891/Vivy-R-Robotics-Micro-Edge",
@@ -18,6 +36,15 @@
     "score": 0.1
   },
   {
+    "model": "vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "downloads": 727,
+    "likes": 0,
+    "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
+    "date": "2026-10-24",
+    "keyword": "robotics",
+    "score": 218.2
+  },
+  {
     "model": "DannyJun/horizonbridge-robotwin-no-m-100k-20261024",
     "downloads": 0,
     "likes": 0,
@@ -25,15 +52,6 @@
     "date": "2026-10-24",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "downloads": 37,
-    "likes": 0,
-    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "date": "2026-10-24",
-    "keyword": "robot",
-    "score": 11.2
   },
   {
     "model": "renbin1/pi05-robotwin-arx-x5-four-tasks-1000-30000",
@@ -126,10 +144,37 @@
     "score": 0.1
   },
   {
+    "model": "chipnlp/libero-state-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/chipnlp/libero-state-policy",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "yaditya/cheese-smolvla-v2-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yaditya/cheese-smolvla-v2-policy",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "gavinlaw/setground-question-policy",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "HoonheeCho/policy-ckpt-1011",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HoonheeCho/policy-ckpt-1011",
     "date": "2026-10-24",
     "keyword": "policy",
     "score": 0.1
@@ -187,24 +232,6 @@
     "date": "2026-10-23",
     "keyword": "robotics",
     "score": 5.2
-  },
-  {
-    "model": "IsaacZhy/VideoCoT-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/IsaacZhy/VideoCoT-RoboTwin",
-    "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best",
-    "date": "2026-10-23",
-    "keyword": "robotics",
-    "score": 4.9
   },
   {
     "model": "ryanhoangt/ra-vla-official-assets",
@@ -270,15 +297,6 @@
     "score": 4.5
   },
   {
-    "model": "dddddsds31341/vla-adapter-pick_balls-110k",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-110k",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 5.2
-  },
-  {
     "model": "jadidbourbaki/shared-cache-world-model",
     "downloads": 0,
     "likes": 0,
@@ -333,13 +351,13 @@
     "score": 6.1
   },
   {
-    "model": "Justicate/my_pi0_5_policy",
-    "downloads": 0,
+    "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best",
+    "downloads": 16,
     "likes": 0,
-    "url": "https://huggingface.co/Justicate/my_pi0_5_policy",
+    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box-30fps_diffusion_v2-best",
     "date": "2026-10-23",
-    "keyword": "policy",
-    "score": 0.1
+    "keyword": "robotics",
+    "score": 4.9
   },
   {
     "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion_v2",
@@ -376,24 +394,6 @@
     "date": "2026-10-22",
     "keyword": "navigation",
     "score": 0.1
-  },
-  {
-    "model": "HoonheeCho/policy-ckpt-1011",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/HoonheeCho/policy-ckpt-1011",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "NeuramateInc/GR00T-LAPA-POLICY",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/NeuramateInc/GR00T-LAPA-POLICY",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 3.7
   },
   {
     "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion-best",
@@ -457,15 +457,6 @@
     "date": "2026-10-21",
     "keyword": "robotics",
     "score": 2.8
-  },
-  {
-    "model": "pinnacle-robotics/bilingual-low-altitude-procurement-safety-retriever",
-    "downloads": 95,
-    "likes": 0,
-    "url": "https://huggingface.co/pinnacle-robotics/bilingual-low-altitude-procurement-safety-retriever",
-    "date": "2026-10-21",
-    "keyword": "robotics",
-    "score": 28.6
   },
   {
     "model": "Delaviz/whose-world-does-the-model-know",
