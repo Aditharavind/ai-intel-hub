@@ -1,11 +1,11 @@
 [
   {
-    "model": "northstar-robotics-ai/failure-recovery",
+    "model": "isthathuman/RoboTwin-DIF-checkpoints-5000",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/northstar-robotics-ai/failure-recovery",
-    "date": "2026-10-23",
-    "keyword": "robotics",
+    "url": "https://huggingface.co/isthathuman/RoboTwin-DIF-checkpoints-5000",
+    "date": "2026-10-24",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -13,9 +13,45 @@
     "downloads": 553,
     "likes": 0,
     "url": "https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF",
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "keyword": "robotics",
     "score": 166.0
+  },
+  {
+    "model": "northstar-robotics-ai/failure-recovery",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/northstar-robotics-ai/failure-recovery",
+    "date": "2026-10-24",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "gavinlaw/setground-question-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "QuixoteH/umi-arena-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "sparrow-decider/sparrow-nano-robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/sparrow-decider/sparrow-nano-robot",
+    "date": "2026-10-23",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "pollen-robotics/red-cube-blue-box_pi05_step10000",
@@ -88,24 +124,6 @@
     "date": "2026-10-23",
     "keyword": "robot",
     "score": 0.5
-  },
-  {
-    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 6.7
-  },
-  {
-    "model": "NFHH/lingbot-robotwin-strong-scratch22k-cont8k-6k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NFHH/lingbot-robotwin-strong-scratch22k-cont8k-6k",
-    "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "mim-chess-vlas/jr-pnp-b-100p-static-fourstage__pi__05",
@@ -234,15 +252,6 @@
     "score": 0.1
   },
   {
-    "model": "gavinlaw/setground-question-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
-    "date": "2026-10-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "amirsh1376/umi-arena-policy",
     "downloads": 0,
     "likes": 0,
@@ -256,15 +265,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/WoojongKim/smolvla_policy_omy_gelsight_env1_task1_test3",
-    "date": "2026-10-23",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "QuixoteH/umi-arena-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
     "date": "2026-10-23",
     "keyword": "policy",
     "score": 0.1

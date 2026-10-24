@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-23 23:38 UTC
+Generated: 2026-10-24 02:03 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-10-23 23:38 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83749 | 33499.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63987 | 25594.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44730 | 17892.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 83748 | 33499.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63986 | 25594.5 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44731 | 17892.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30779 | 12311.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29339 | 11735.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29363 | 11745.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -42,7 +42,7 @@ Generated: 2026-10-23 23:38 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-23 | UnternehmerTUM, Microsoft, Infineon and NVIDIA launch Physical AI Accelerator for EMEA startups - New Electronics | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNTFpWDZGcXkyNFlLOEo5WGs2OXAzS1diMUlTR1Z3dU5NUEpPaC1zaUswczRqRVJTX3dGVFdrWGVSSGlTWnNZMnh4ODE2VFpZU3d3RTZWQkMwOVg3SUZhS3pMVnpjSndyVnFTcmduREp0Nm9NWDhNZ0Y0QTU5V3IzVXEzdENEREU1Y2JxN1Z0eEtEMWlUZTNyY1dGTmdhMk8xSG5qSHB4VUtVcHhOMmFGOGRyXzd3MEt0bFloZVFNbGNfT3EyeHh2NkRzWF9fajlXazFHNjVB?oc=5) |
+| 2026-10-23 | Tractian Hits $1.4B as 4 Physical AI Startups Raise $240M - FourWeekMBA | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHE4SHh3STB6YUR2T09zS0F3ZWd1SVY4SVhFMVdKYnpfdzVSbGVrX3pQQUxTRnhWQWd0b2dxbE1VdXZrMWxNX0ltVENLMUhNRk1MdDUzcWZYNTVmaE93LVpULW5uVmZLV3lDbmRzeUZsS1I4NDREODlWblpTOHRmZ1BGWXNfVG1qSENR?oc=5) |
+| 2026-10-23 | AtechX start-up Bellboy Robotics continues successful development of Physical AI at NVIDIA GTC Berlin - ASSETPHYSICS | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRTNrMm9MR0xfenB6OWlwRi1hTGNyZzZUakduUWFpMXpfZTdtT0ZMajJ0QzN2cHpVbXdmTGlydEtDSVFfR0J5TnhvdDZhbTlUeFNIWUNSMjdDYmt2OHc2Umw0MnlIUTJ5MFVHbDRnc2tiUTNSM2lTaUpUT3N0V3FEUVdsU1JteC1WdURaTjI3alZDU0lQSzhKeHRSQU9fb2xjM2pScXpYckJoRkhqdElkVE52UmFoYU83TldBT3BZOFN3elltVDd5RU9TdkwyTjZwSi1Z?oc=5) |
+| 2026-10-23 | Nirva Announces $25M in Funding for AI Pendant That Listens Only to Its Wearer - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWZnMUdzYzdqcVBDbkJ0TVpCcVF5NkpUYVN3ODRtX2N5WkxXV1M5M3RITnVSWUI0TzNPUkZBMFVjMHJHSzdBOTJGa1NydHhHYUh3SktNVXZHYlZjSE9SZEJSblM4eU1HRTRXQm1iSUFwTWVpb3RFdkNWU2hSZUF3V3dDWWdVbkF5QjQ5WUF6eXFFc08zTXpTX1haeXNNdnN6RkxSb0V4M21FbHpZU2tZdVdFV3dYQQ?oc=5) |
 | 2026-10-22 | Exclusive: Physical AI Startup Tractian Becomes a Unicorn - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGNHSzF3MEg1c2hKZ1dPekJoYWNHVk1mOUp1R2xtZjRfRWxoRmhteXRadjdSWjlDUDZtR2FSRjViTmJxYWZCMHVvaEFPMWY1N0ZQUHl2Y3I1VlEwQUtaX1h3LUpKczhmWXlBWE9STE9Od29kck5vMm5NRks0LWZuQUFWQm9Ya3c1bi1Sc2VSUEZ3QXJtMEs0M1N1SQ?oc=5) |
-| 2026-10-22 | Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI startup Enact Intelligence exits stealth with €26.68 million - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ25PdEVSOXJKN3VoWGFkeTlDU3YwVXZoMnJmcFBYcHFKeERTd1ByVVJid3A2S3B3bjAyb2hqSjY4QWFuZ1NWbFFfZFNVTUZEVERMOURyZEh4a1U2WFB5dUNkSzVwdjdrZHd6Q1ZHLS1LUVMzeTJuVXVWNFljMUFoemtnU0diSHEwUV9XcVZxUHQ0cTBiRjFnRzU4NnZIZ2kwVVh6TXBHREZJTjhablM3T3QwNnVNVkxBTXNfUmZ6M2hsb1NWY2l6WUJCc0k2dk9oN0FrZW55Y3RzTDBzWTFEc1pDaTV3R0xjU0E?oc=5) |
-| 2026-10-22 | Physical AI company Enact Intelligence emerges from stealth with $30m pre-seed funding - Startupticker | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBDM3JXeXU1OTUyMVBtT2pyalhOb0NpQ2NrYzdUM200blRycENBM1llODcwMG9UR0lEWTJ2b2JnUzZpY1Z4TWJ0bkVubjVESU16WDB5d3JycGdGaXRjZWo5dGF5ZXJCWEZIVzdiTm9QdmFSWjVzT1NxNUZkNnJnVDU1bUt2cHZTajl2ZDlReE9HRmxTQkgzejQ5aTI1NVF3UEY2SGNXdGM?oc=5) |
-| 2026-10-22 | Humanoid Robot Startup Noetix Files For A Hong Kong IPO - Finimize | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1ZhblM0RHA3dWJtRnZLY21FSVFBeFZudEkwYzlMNy1TY1FvMGUwbHdxUEt5aWtPalNYMk5kbFNYcG91NG1Yd045bjUzUmlPV2E3S1E3QTg3Y0h5WTY1eGhpMG9DLWFhSUpZanVPVW54QWdSZHQtZGdVUmRRd3lBT0JnaTktSnl5aGRwTw?oc=5) |
