@@ -1,5 +1,32 @@
 [
   {
+    "model": "renbin1/pi05-robotwin-arx-x5-four-tasks-1000-30000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/renbin1/pi05-robotwin-arx-x5-four-tasks-1000-30000",
+    "date": "2026-10-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "x-square-robot/wall-oss-1.0-lite-robodojo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/x-square-robot/wall-oss-1.0-lite-robodojo",
+    "date": "2026-10-24",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "downloads": 22,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "date": "2026-10-24",
+    "keyword": "robot",
+    "score": 6.7
+  },
+  {
     "model": "isthathuman/RoboTwin-DIF-checkpoints-5000",
     "downloads": 0,
     "likes": 0,
@@ -25,6 +52,60 @@
     "date": "2026-10-24",
     "keyword": "robotics",
     "score": 0.1
+  },
+  {
+    "model": "Koichi3333/vla-maker-from-cbd",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Koichi3333/vla-maker-from-cbd",
+    "date": "2026-10-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladlen-beilik/ltx-2.3-runpod",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlen-beilik/ltx-2.3-runpod",
+    "date": "2026-10-24",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mradermacher/PhysicalAI-reason-VLA-GGUF",
+    "downloads": 5,
+    "likes": 0,
+    "url": "https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-GGUF",
+    "date": "2026-10-24",
+    "keyword": "physical ai",
+    "score": 1.6
+  },
+  {
+    "model": "YongYong/cis6280-stack-world-models-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
+    "date": "2026-10-24",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "nvidia/Cosmos3-Nano-Policy-DROID",
+    "downloads": 1429,
+    "likes": 40,
+    "url": "https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 436.8
+  },
+  {
+    "model": "nvidia/Cosmos3-Edge-Policy-DROID",
+    "downloads": 1877,
+    "likes": 15,
+    "url": "https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID",
+    "date": "2026-10-24",
+    "keyword": "policy",
+    "score": 566.2
   },
   {
     "model": "gavinlaw/setground-question-policy",
@@ -99,33 +180,6 @@
     "score": 8.8
   },
   {
-    "model": "pollen-robotics/red-cube-blue-box_pi05_best",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box_pi05_best",
-    "date": "2026-10-23",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "hggforget/lingbotvla-robotwin-aug-sft-100k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hggforget/lingbotvla-robotwin-aug-sft-100k",
-    "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "hggforget/lingbotvla-robotwin-clean-sft",
-    "downloads": 0,
-    "likes": 2,
-    "url": "https://huggingface.co/hggforget/lingbotvla-robotwin-clean-sft",
-    "date": "2026-10-23",
-    "keyword": "robot",
-    "score": 0.5
-  },
-  {
     "model": "mim-chess-vlas/jr-pnp-b-100p-static-fourstage__pi__05",
     "downloads": 0,
     "likes": 0,
@@ -139,15 +193,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/ryanhoangt/ra-vla-official-assets",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladlen-beilik/ltx-2.3-runpod",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlen-beilik/ltx-2.3-runpod",
     "date": "2026-10-23",
     "keyword": "vla",
     "score": 0.1
@@ -216,24 +261,6 @@
     "score": 3.7
   },
   {
-    "model": "dddddsds31341/vla-adapter-pick_balls-100k",
-    "downloads": 11,
-    "likes": 1,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-100k",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 3.6
-  },
-  {
-    "model": "dddddsds31341/vla-adapter-pick_balls-90k",
-    "downloads": 11,
-    "likes": 1,
-    "url": "https://huggingface.co/dddddsds31341/vla-adapter-pick_balls-90k",
-    "date": "2026-10-23",
-    "keyword": "vla",
-    "score": 3.6
-  },
-  {
     "model": "jadidbourbaki/shared-cache-world-model",
     "downloads": 0,
     "likes": 0,
@@ -297,6 +324,15 @@
     "score": 0.1
   },
   {
+    "model": "pollen-robotics/red-cube-blue-box_pi05_best",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pollen-robotics/red-cube-blue-box_pi05_best",
+    "date": "2026-10-23",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
     "downloads": 63,
     "likes": 0,
@@ -340,24 +376,6 @@
     "date": "2026-10-22",
     "keyword": "policy",
     "score": 2.5
-  },
-  {
-    "model": "at237299966/ODE_policy_euler_sidehead_open_drawer_multimodal_merged",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/at237299966/ODE_policy_euler_sidehead_open_drawer_multimodal_merged",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "WoojongKim/smolvla_policy_omy_env1_task1_test2",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/WoojongKim/smolvla_policy_omy_env1_task1_test2",
-    "date": "2026-10-22",
-    "keyword": "policy",
-    "score": 3.1
   },
   {
     "model": "pollen-robotics/red-cube-blue-box-30fps_diffusion-best",
@@ -439,15 +457,6 @@
     "date": "2026-10-21",
     "keyword": "robotics",
     "score": 4.0
-  },
-  {
-    "model": "YongYong/cis6280-stack-world-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models",
-    "date": "2026-10-20",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "Delaviz/whose-world-does-the-model-know",
@@ -709,15 +718,6 @@
     "date": "2026-10-08",
     "keyword": "physical ai",
     "score": 0.3
-  },
-  {
-    "model": "mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
-    "downloads": 253,
-    "likes": 1,
-    "url": "https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-MetaAction-GGUF",
-    "date": "2026-10-07",
-    "keyword": "physical ai",
-    "score": 76.2
   },
   {
     "model": "Gigglingface/BAGEL-7B-MoT-navigation-points",
