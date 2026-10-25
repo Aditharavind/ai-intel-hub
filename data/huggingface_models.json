@@ -9,13 +9,13 @@
     "score": 0.1
   },
   {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
-    "downloads": 15,
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-estimated",
+    "downloads": 4,
     "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-estimated",
     "date": "2026-10-25",
     "keyword": "robot",
-    "score": 4.6
+    "score": 1.3
   },
   {
     "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
@@ -25,6 +25,15 @@
     "date": "2026-10-25",
     "keyword": "robot",
     "score": 14.2
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "downloads": 15,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "date": "2026-10-25",
+    "keyword": "robot",
+    "score": 4.6
   },
   {
     "model": "Niguel/Robot-X5",
@@ -52,15 +61,6 @@
     "date": "2026-10-25",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-estimated",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-estimated",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 1.3
   },
   {
     "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-legacy-estimated",
@@ -342,6 +342,15 @@
     "score": 0.1
   },
   {
+    "model": "fabono/act_policy_open",
+    "downloads": 19,
+    "likes": 0,
+    "url": "https://huggingface.co/fabono/act_policy_open",
+    "date": "2026-10-25",
+    "keyword": "policy",
+    "score": 5.8
+  },
+  {
     "model": "fabono/act_policy",
     "downloads": 38,
     "likes": 0,
@@ -427,15 +436,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/yaditya/toppings-quadrants-policy",
-    "date": "2026-10-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "yaditya/toppings-smolvla-multitask-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yaditya/toppings-smolvla-multitask-policy",
     "date": "2026-10-25",
     "keyword": "policy",
     "score": 0.1

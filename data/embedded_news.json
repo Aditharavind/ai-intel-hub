@@ -56,6 +56,13 @@
     "summary": "<div><img alt=\"Deki demo on LILYGO T-Display S3 Touch\" class=\"attachment-medium size-medium wp-post-image\" height=\"375\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Deki-demo-on-LILYGO-T-Display-S3-Touch-720x375.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Deki Engine is an open-source modular C++ engine with a Unity-style visual editor for embedded devices, currently optimized for ESP32 platforms such as LilyGO T-Deck Plus, T-Display S3 AMOLED, and soon Elecrow CrowPanel Advanced 7&#8243; ESP32-P4. The editor is available for Windows and Linux with a compiler for the 2D graphics engine, and everything is released under an Apache 2.0 license on GitHub. The project also works on desktop through SDL3, which may be convenient during development. Some of the highlights of the Deki Engine project: Workflow Build scenes visually (sprites, text, particles, tilemaps, state machines, tweens) Pick a board in the editor&#8217;s Build panel Flash it. The project also runs on desktop through SDL3, or headless with no renderer Performance &#8211; 60 FPS on ESP32-S3 (See demo video below) Package-based solution Hardware packages LilyGO T-Deck Plus with support for display, touch, keyboard, trackball, SD card, GPS and LoRa (SX1262) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/\">Deki Engine &#8211; ESP32 gets an open source Unity-style editor and C++ 2D game engine</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "ESP-NOW Walkie Talkies",
+    "source": "Adafruit",
+    "date": "2026-10-25",
+    "url": "https://blog.adafruit.com/2026/10/25/esp-now-walkie-talkies/",
+    "summary": "Ditch the smart phone and communicate with your buddy by building this set of walkie talkies! A Feather ESP32-S3 Reverse TFT runs Arduino code that uses the ESP-NOW wireless protocol to send and receive I2S audio packets, up to 10 seconds each. The w.FL antenna adds extra range to communicate at longer distances indoors or [&#8230;]"
+  },
+  {
     "title": "Local Wikipedia",
     "source": "Adafruit",
     "date": "2026-10-25",
@@ -138,13 +145,6 @@
     "date": "2026-10-24",
     "url": "https://blog.adafruit.com/2026/10/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-24-2/",
     "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
-  },
-  {
-    "title": "Adafruit New Products this Week",
-    "source": "Adafruit",
-    "date": "2026-10-24",
-    "url": "https://blog.adafruit.com/2026/10/23/adafruit-new-products-this-week-4/",
-    "summary": "We&#8217;ve got the New nEw NEW for you right here This week we debut 2 New Products. Visit www.adafruit.com/new for more info. Adafruit RV-8803 High Accuracy Real Time Clock Breakout Board &#8211; STEMMA QT / Qwiic Adafruit Metro ESP32-P4 Hydra &#8211; with 16 MB PSRAM &#8211; v1 Chipset"
   },
   {
     "title": "LILYGO T-Halow P4 – An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6",
