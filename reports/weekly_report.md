@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-25 05:24 UTC
+Generated: 2026-10-25 10:12 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-25 05:24 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83763 | 33505.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63988 | 25595.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44736 | 17894.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30794 | 12317.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29550 | 11820.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83765 | 33506.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63990 | 25596.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44738 | 17895.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30798 | 12319.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29571 | 11828.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| vinguyen0891/Vivy-R-Robotics-3B-GGUF | 727 | 218.2 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
-| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 695 | 208.6 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
-| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 686 | 205.9 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
-| mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 462 | 138.7 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
-| mradermacher/EmbodiedBrain-7B-GGUF | 240 | 72.3 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
+| vinguyen0891/Vivy-R-Robotics-3B-GGUF | 852 | 255.7 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
+| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 711 | 213.4 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 701 | 210.4 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
+| mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 463 | 139.0 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
+| mradermacher/EmbodiedBrain-7B-GGUF | 242 | 72.9 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
