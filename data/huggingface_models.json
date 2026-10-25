@@ -9,6 +9,33 @@
     "score": 0.1
   },
   {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "downloads": 15,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "date": "2026-10-25",
+    "keyword": "robot",
+    "score": 4.6
+  },
+  {
+    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "downloads": 47,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "date": "2026-10-25",
+    "keyword": "robot",
+    "score": 14.2
+  },
+  {
+    "model": "Niguel/Robot-X5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Niguel/Robot-X5",
+    "date": "2026-10-25",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0",
     "downloads": 0,
     "likes": 0,
@@ -25,15 +52,6 @@
     "date": "2026-10-25",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 4.6
   },
   {
     "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-estimated",
@@ -90,22 +108,31 @@
     "score": 0.1
   },
   {
-    "model": "hggforget/lingbotvla-robotwin-aug-sft-100k",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/hggforget/lingbotvla-robotwin-aug-sft-100k",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "karthy124/lingbot-vla-v2-robotwin-clean50-v6",
+    "model": "SuNya558/lingbot-vla-80k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/karthy124/lingbot-vla-v2-robotwin-clean50-v6",
+    "url": "https://huggingface.co/SuNya558/lingbot-vla-80k",
     "date": "2026-10-25",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
+    "date": "2026-10-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
+    "downloads": 15,
+    "likes": 0,
+    "url": "https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
+    "date": "2026-10-25",
+    "keyword": "vla",
+    "score": 4.6
   },
   {
     "model": "prehj/faster-vla-speed-module",
@@ -144,10 +171,10 @@
     "score": 0.3
   },
   {
-    "model": "Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
+    "model": "karthy124/lingbot-vla-v2-robotwin-clean50-v6",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
+    "url": "https://huggingface.co/karthy124/lingbot-vla-v2-robotwin-clean50-v6",
     "date": "2026-10-25",
     "keyword": "vla",
     "score": 0.1
@@ -306,6 +333,15 @@
     "score": 0.1
   },
   {
+    "model": "gavinlaw/setground-question-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-25",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "fabono/act_policy",
     "downloads": 38,
     "likes": 0,
@@ -355,15 +391,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/yaditya/qual-final-fft-policy",
-    "date": "2026-10-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "gavinlaw/setground-question-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
     "date": "2026-10-25",
     "keyword": "policy",
     "score": 0.1
@@ -421,24 +448,6 @@
     "date": "2026-10-24",
     "keyword": "vla",
     "score": 2.8
-  },
-  {
-    "model": "mim-chess-vlas/jr-pnp-b-100p-static-fourstage__pi__05",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/jr-pnp-b-100p-static-fourstage__pi__05",
-    "date": "2026-10-24",
-    "keyword": "vla",
-    "score": 2.8
-  },
-  {
-    "model": "ar-mine/lingbot-vla-v2-6b-e5-c3-epoch6-step17178",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/ar-mine/lingbot-vla-v2-6b-e5-c3-epoch6-step17178",
-    "date": "2026-10-24",
-    "keyword": "vla",
-    "score": 5.5
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",

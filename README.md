@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-25 17:54 UTC
+Last Updated: 2026-10-25 20:02 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-25 | A 3D Printed Marble Clock, but it’s Scrolling Text | Hackaday | [link](https://hackaday.com/2026/10/25/a-3d-printed-marble-clock-but-its-scrolling-text/) |
 | 2026-10-25 | Mesh Network Telephony Over Bluetooth on Android Phones | Hackaday | [link](https://hackaday.com/2026/10/25/mesh-network-telephony-over-bluetooth-on-android-phones/) |
 | 2026-10-25 | Simple, Reliable RF Remote Control | Hackaday | [link](https://hackaday.com/2026/10/25/simple-reliable-rf-remote-control/) |
 | 2026-10-25 | Meshtastic Pet Tracking | Hackaday | [link](https://hackaday.com/2026/10/25/meshtastic-pet-tracking/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-25 | Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine | CNX Software | [link](https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/) |
 | 2026-10-25 | Local Wikipedia | Adafruit | [link](https://blog.adafruit.com/2026/10/25/local-wikipedia/) |
 | 2026-10-25 | Adafruit Weekly Editorial Round-Up: CircuitPython 11.0.0-alpha.2, Halloween Gift Guide Sale, & more | Adafruit | [link](https://blog.adafruit.com/2026/10/25/adafruit-weekly-editorial-round-up-circuitpython-11-0-0-alpha-2-halloween-gift-guide-sale-more/) |
-| 2026-10-25 | Building Passive Headphones | Adafruit | [link](https://blog.adafruit.com/2026/10/25/building-passive-headphones/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -78,29 +78,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
 | 2026-10-25 | Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k | 0 | 0 | [link](https://huggingface.co/Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k) |
+| 2026-10-25 | RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source | 15 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source) |
+| 2026-10-25 | Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA | 47 | 0 | [link](https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA) |
+| 2026-10-25 | Niguel/Robot-X5 | 0 | 0 | [link](https://huggingface.co/Niguel/Robot-X5) |
 | 2026-10-25 | RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0) |
 | 2026-10-25 | RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt) |
-| 2026-10-25 | RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source | 15 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source) |
 | 2026-10-25 | RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-estimated | 4 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-estimated) |
 | 2026-10-25 | RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-legacy-estimated | 6 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-legacy-estimated) |
 | 2026-10-25 | renbin1/pi05-robotwin-arx-x5-four-tasks-1000-15000 | 0 | 0 | [link](https://huggingface.co/renbin1/pi05-robotwin-arx-x5-four-tasks-1000-15000) |
 | 2026-10-25 | mjleee/gr00t-n1.7-robotwin-90-k4-recap | 0 | 0 | [link](https://huggingface.co/mjleee/gr00t-n1.7-robotwin-90-k4-recap) |
-| 2026-10-25 | n4chi/team6-robotpizzeria-smolvla-cheese-v3 | 0 | 0 | [link](https://huggingface.co/n4chi/team6-robotpizzeria-smolvla-cheese-v3) |
-| 2026-10-25 | RainyBot/SemWAM-SVAE-RoboTwin-v7 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-SVAE-RoboTwin-v7) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29601 | Python | 11840.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3731 | Python | 1492.5 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 29615 | Python | 11846.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3733 | Python | 1493.3 | [link](https://github.com/NVIDIA/skills) |
 | autonomous-ai/lampOS | 496 | Python | 198.5 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 63990 | Python | 25596.1 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 23080 | Python | 9232.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| commaai/openpilot | 63991 | Python | 25596.5 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 23102 | Python | 9240.9 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17472 | Java | 6988.9 | [link](https://github.com/questdb/questdb) |
 | TianxingChen/Embodied-AI-Guide | 16658 |  | 6663.3 | [link](https://github.com/TianxingChen/Embodied-AI-Guide) |
 | zauberzeug/nicegui | 16314 | Python | 6525.7 | [link](https://github.com/zauberzeug/nicegui) |
 | ArduPilot/ardupilot | 16214 | C++ | 6485.7 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 15872 | C++ | 6348.9 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 15874 | C++ | 6349.7 | [link](https://github.com/google-deepmind/mujoco) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -126,8 +126,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-22 | Exclusive: Physical AI Startup Tractian Becomes a Unicorn - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGNHSzF3MEg1c2hKZ1dPekJoYWNHVk1mOUp1R2xtZjRfRWxoRmhteXRadjdSWjlDUDZtR2FSRjViTmJxYWZCMHVvaEFPMWY1N0ZQUHl2Y3I1VlEwQUtaX1h3LUpKczhmWXlBWE9STE9Od29kck5vMm5NRks0LWZuQUFWQm9Ya3c1bi1Sc2VSUEZ3QXJtMEs0M1N1SQ?oc=5) |
 | 2026-10-22 | Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI startup Enact Intelligence exits stealth with €26.68 million - EU-Startups | physical ai startup | [link](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ25PdEVSOXJKN3VoWGFkeTlDU3YwVXZoMnJmcFBYcHFKeERTd1ByVVJid3A2S3B3bjAyb2hqSjY4QWFuZ1NWbFFfZFNVTUZEVERMOURyZEh4a1U2WFB5dUNkSzVwdjdrZHd6Q1ZHLS1LUVMzeTJuVXVWNFljMUFoemtnU0diSHEwUV9XcVZxUHQ0cTBiRjFnRzU4NnZIZ2kwVVh6TXBHREZJTjhablM3T3QwNnVNVkxBTXNfUmZ6M2hsb1NWY2l6WUJCc0k2dk9oN0FrZW55Y3RzTDBzWTFEc1pDaTV3R0xjU0E?oc=5) |
 | 2026-10-22 | Physical AI company Enact Intelligence emerges from stealth with $30m pre-seed funding - Startupticker.ch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBDM3JXeXU1OTUyMVBtT2pyalhOb0NpQ2NrYzdUM200blRycENBM1llODcwMG9UR0lEWTJ2b2JnUzZpY1Z4TWJ0bkVubjVESU16WDB5d3JycGdGaXRjZWo5dGF5ZXJCWEZIVzdiTm9QdmFSWjVzT1NxNUZkNnJnVDU1bUt2cHZTajl2ZDlReE9HRmxTQkgzejQ5aTI1NVF3UEY2SGNXdGM?oc=5) |
-| 2026-10-22 | Humanoid Robot Startup Noetix Files For A Hong Kong IPO - Finimize | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1ZhblM0RHA3dWJtRnZLY21FSVFBeFZudEkwYzlMNy1TY1FvMGUwbHdxUEt5aWtPalNYMk5kbFNYcG91NG1Yd045bjUzUmlPV2E3S1E3QTg3Y0h5WTY1eGhpMG9DLWFhSUpZanVPVW54QWdSZHQtZGdVUmRRd3lBT0JnaTktSnl5aGRwTw?oc=5) |
 | 2026-10-22 | Infineon names winners of humanoid robotics startup challenge - Robotics & Automation News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEMxUC11RFRIWmtFUjhfb05qTEdRZERGWGFtRzR3SE5waGpOVTdaWjg4c0ZmQXRIazBreXd5MGJQN09CeEdQNURxMlN1bTZQZGtZenZ6YlNSam5XWDkxMlo1VUo4Zi1sVGFKYlAzWTNwTHlNa25sam1RUXZWdlhkZzRJWmVrck1ac3pwQk94Wm9qYUJIdGFOR1lid0xDZWlpMGRpSmdZU3hndmNXSnNjUTRrTXdmVzZqQUE?oc=5) |
+| 2026-10-22 | Humanoid Robot Startup Noetix Files For A Hong Kong IPO - Finimize | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1ZhblM0RHA3dWJtRnZLY21FSVFBeFZudEkwYzlMNy1TY1FvMGUwbHdxUEt5aWtPalNYMk5kbFNYcG91NG1Yd045bjUzUmlPV2E3S1E3QTg3Y0h5WTY1eGhpMG9DLWFhSUpZanVPVW54QWdSZHQtZGdVUmRRd3lBT0JnaTktSnl5aGRwTw?oc=5) |
 | 2026-10-20 | Eka is worth $1.45B thanks to a physical AI model that has experts raving - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5) |
 
 ## Jobs
