@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-24 22:00 UTC
+Generated: 2026-10-25 00:36 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,29 +14,29 @@ Generated: 2026-10-24 22:00 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83760 | 33504.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 83761 | 33504.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 63987 | 25594.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44735 | 17894.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30790 | 12316.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29519 | 11807.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29527 | 11810.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| nvidia/Cosmos3-Nano-Policy-DROID | 1229 | 376.8 | [link](https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID) |
 | vinguyen0891/Vivy-R-Robotics-3B-GGUF | 727 | 218.2 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
 | EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 695 | 208.6 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
 | EPFL-LARA/lean-world-model-qwen3-4b-grpo | 686 | 205.9 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
 | mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 462 | 138.7 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
+| mradermacher/EmbodiedBrain-7B-GGUF | 240 | 72.3 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-10-24 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaG5DYWhzS3VrNW1yMTFqNHVKWmdYQ1VLcGZqOUtuZ0h1elU3RVVSSEQ0aWJtTW5LRW9idVlHVFlrcEtiNklkMkxtem1VcXFOZU96TFhIRVF1SXl3WWZ2UGdraEdaQW54VTJYd01CZk1qdnRBY2pPc01HRjRNdkVlRnpGWWlxdlJvUUE2eGFrUXBZYi01QlNaX0xEaUlFblh2WVNLaGgwSS1iVWZUWXd3bEdIbkQ3Ml85SnBucld3eDNDN0ZJZUZPTEplUTdnZ1V4Z0EyOV9mR25oaDDSAeABQVVfeXFMUDJneGdFQWJicVVSQnNJN085VUlOR1JkNU9mQ2w3VTVoQmlQY1QwRmRldWZONDgwQWs3em95akNkMy1UOHMzMFd2M1EzRklQd1ltV3BrQ1F1NHplY1BsZm5qYlpZTjFCdEQ2Zi1xa09JeWgwTVVXOEZ0Vm02YjZTWTFNVUxJa2NHNi1pRWo1OTFEaVprb3JXVjNqRVJQYkVUYThwdzAxdERvUzZDYU1TdEk1QzcxT1BGZTZlcmRVYjlJaFBkOE9sS1NDU05XaUNwVDNiYzJMZnpQMzBPNTlSQ04?oc=5) |
 | 2026-10-23 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXA4NGZ5cFV0S2E5U2hNRk4tZ0piay1jWWhScjJ0bWRPQllrcDRZUzFNamdHc0tGZF9NOFFpQnZXQ0c0SjZuaVhKQV82MXFRRnJZUVV0a2l1OTZLaGVoZHNQNVlfMGwzXzNWY0pTYTQ5ZlRRc2tSNnNUc3pPbFcyU0xTLXdJNlhYOE1odjk0QWtEc2FBTUctazRRWXNKcHl4Sm1LUEpKdWxlQU55c0staTJrYkNLYXlQREpHdG5wcEhmemxQTGc?oc=5) |
 | 2026-10-23 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPY195TlJCNGgyM3QyMXFhWDVnNmdTVFVHaUJRYkMxOGd0bGdESXQ1Q3V5WFhNdDJEakNESUNqd2xKZDBGZnBsZDlDOEF5TUxPZGxzalNSZ043akc3S09sNzhqbmZTSHRVZ25yTVJmUzBlYWpjZ3NpM3o0RU1JUVJueTVld0tiMk1xYlRqbkdMbk1SVmh3djhxay1nd29udjNZYTJteG9feE93RnFvNzRTTmhUc3Zmcnc?oc=5) |
 | 2026-10-23 | Unitree |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU1VMnk4dzJSR2tfU2pCRUZtdVBybkp6cjBYZGp5Y0FXRzJVYjBSTThTRlE1R2dRbVBUdmdRem1Cb1RXRlo1Y1FyY3oxZmlpNGdBSnhSYXczYTRabVBQQkc5RFdTNzJCYnBCVmNCcjZ2ZXlZbWFMRi1rMEJhVnZWNFFrcXpwTUp3SEptY1BYeEdzeG53SHQ2TUwyQQ?oc=5) |
 | 2026-10-22 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG9oN29xeXdwaDlhelI2UmprZXgzWGlzelNQLTRrRExRWmlDOXJucFB3ZnhLSDFiYy1ENG5lNVlFell4cExpNVRDM3ZIRWVXSnFOMUpDQjNDOGQ4emNndzg0Um8wOVp2X3BKRTg3akJsdTRXeEJ0UmRHQWdSOW5qUFRmb2dkRjFxU0hkdTBZU3hiaTlBc2pJT3duTXo?oc=5) |
-| 2026-10-22 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBDM3JXeXU1OTUyMVBtT2pyalhOb0NpQ2NrYzdUM200blRycENBM1llODcwMG9UR0lEWTJ2b2JnUzZpY1Z4TWJ0bkVubjVESU16WDB5d3JycGdGaXRjZWo5dGF5ZXJCWEZIVzdiTm9QdmFSWjVzT1NxNUZkNnJnVDU1bUt2cHZTajl2ZDlReE9HRmxTQkgzejQ5aTI1NVF3UEY2SGNXdGM?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
