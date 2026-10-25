@@ -1,5 +1,19 @@
 [
   {
+    "title": "Simple, Reliable RF Remote Control",
+    "source": "Hackaday",
+    "date": "2026-10-25",
+    "url": "https://hackaday.com/2026/10/25/simple-reliable-rf-remote-control/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/rf-remote-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Some of the first remote controls available to consumers used sound, visible light, or even just wires to communicate with their parent device. It was many years between these first <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/simple-reliable-rf-remote-control/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Meshtastic Pet Tracking",
+    "source": "Hackaday",
+    "date": "2026-10-25",
+    "url": "https://hackaday.com/2026/10/25/meshtastic-pet-tracking/",
+    "summary": "<div><img alt=\"Four black plastic devices, two with a black, stubby antenna, sit on a blue cutting mat with white guidelines. There is also a PCB and a couple grey-ish clips in the assortment. One of the devices is open, showing another PCB with various components including a GPS antenna and LoRa radio. A silhouette of a dog is screen printed next to the text &quot;LIA&quot; on the PCBs, and the same text and image is present in the shell of the device in the top center.\" class=\"attachment-large size-large wp-post-image\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2026/10/LIA-Open-Source-Meshtastic-LoRa-Pet-Tracker.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most commercial pet trackers require a subscription or network connection to function. [Jon G Aguado] wanted a better way and designed LIA, a Meshtastic collar tracker. LIA uses a custom <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/meshtastic-pet-tracking/\">&#8230;read more</a>"
+  },
+  {
     "title": "An Analog TV Station For Anyone",
     "source": "Hackaday",
     "date": "2026-10-25",
@@ -28,6 +42,20 @@
     "summary": "<div><img alt=\"Deki demo on LILYGO T-Display S3 Touch\" class=\"attachment-medium size-medium wp-post-image\" height=\"375\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Deki-demo-on-LILYGO-T-Display-S3-Touch-720x375.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Deki Engine is an open-source modular C++ engine with a Unity-style visual editor for embedded devices, currently optimized for ESP32 platforms such as LilyGO T-Deck Plus, T-Display S3 AMOLED, and soon Elecrow CrowPanel Advanced 7&#8243; ESP32-P4. The editor is available for Windows and Linux with a compiler for the 2D graphics engine, and everything is released under an Apache 2.0 license on GitHub. The project also works on desktop through SDL3, which may be convenient during development. Some of the highlights of the Deki Engine project: Workflow Build scenes visually (sprites, text, particles, tilemaps, state machines, tweens) Pick a board in the editor&#8217;s Build panel Flash it. The project also runs on desktop through SDL3, or headless with no renderer Performance &#8211; 60 FPS on ESP32-S3 (See demo video below) Package-based solution Hardware packages LilyGO T-Deck Plus with support for display, touch, keyboard, trackball, SD card, GPS and LoRa (SX1262) [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/\">Deki Engine &#8211; ESP32 gets an open source Unity-style editor and C++ 2D game engine</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Building Passive Headphones",
+    "source": "Adafruit",
+    "date": "2026-10-25",
+    "url": "https://blog.adafruit.com/2026/10/25/building-passive-headphones/",
+    "summary": "YouTuber Paul Lagier designed and built 3D printed passive headphones to enable easy repairs if anything breaks. The design combines 3D-printed ear cups, TPU seals, an adjustable headband and interchangeable side panels. In this video, I’ll show you how I designed the parts in Shapr3D, put together the electronics and turned everything into a working [&#8230;]"
+  },
+  {
+    "title": "Eye of Sauron: long-range hidden spy camera detection and positioning with inbuilt memory EM radiation",
+    "source": "Adafruit",
+    "date": "2026-10-25",
+    "url": "https://blog.adafruit.com/2026/10/25/eye-of-sauron-long-range-hidden-spy-camera-detection-and-positioning-with-inbuilt-memory-em-radiation/",
+    "summary": "Researchers from Hunan University, UC San Diego, and Michigan State University presented ESauron at USENIX Security &#8217;24, a system that finds hidden spy cameras by listening for the electromagnetic radiation their memory gives off. The idea rests on something every camera has to do. Raw images get encoded and compressed before they are sent anywhere [&#8230;]"
+  },
+  {
     "title": "The Slurptop is Both Drool Worthy and Practical",
     "source": "Hackaday",
     "date": "2026-10-24",
@@ -40,20 +68,6 @@
     "date": "2026-10-24",
     "url": "https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/meatloaf_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days we take high-speed networking for granted, but it can be difficult to get vintage computers talking to modern machines. To help solve this problem [jaime] came up with <a class=\"read-more\" href=\"https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/\">&#8230;read more</a>"
-  },
-  {
-    "title": "That Weird 7-Pin S-Video Port on Old Laptops",
-    "source": "Hackaday",
-    "date": "2026-10-24",
-    "url": "https://hackaday.com/2026/10/24/that-weird-7-pin-s-video-port-on-old-laptops/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"464\" src=\"https://hackaday.com/wp-content/uploads/2026/10/7-pin_s-video-connector_laptops_vwestlife_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Even though laptops from around the early 2000s came with just about every conceivable port on them, they still would often feature a somewhat unusual combined video output port. While <a class=\"read-more\" href=\"https://hackaday.com/2026/10/24/that-weird-7-pin-s-video-port-on-old-laptops/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Making for Others",
-    "source": "Hackaday",
-    "date": "2026-10-24",
-    "url": "https://hackaday.com/2026/10/24/making-for-others/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2023/08/Collaboration01_featured.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the nicest things about the Hackaday community, and the open-source hardware community at large, is the incredible generosity of one hacker to another. But it’s not purely altruism <a class=\"read-more\" href=\"https://hackaday.com/2026/10/24/making-for-others/\">&#8230;read more</a>"
   },
   {
     "title": "ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC",
@@ -229,20 +243,6 @@
     "date": "2026-10-23",
     "url": "https://blog.adafruit.com/2026/10/23/self-hosted-game-vault/",
     "summary": "Store your game collection with this self-hosted vault from botchris. Check out the repo. If you have played on PC and consoles for a while, your games are scattered: Steam, Epic, GOG, Battle.net, the EA app, Ubisoft Connect, Xbox, PlayStation, a pile of Humble Bundle keys you never redeemed, and shelves of discs. Before buying [&#8230;]"
-  },
-  {
-    "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
-    "source": "Adafruit",
-    "date": "2026-10-23",
-    "url": "https://blog.adafruit.com/2026/10/23/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4-3-3-2/",
-    "summary": "﻿ ﻿ ﻿ Are you subscribed to the Adafruit Youtube channel? If you&#8217;re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. [&#8230;]"
-  },
-  {
-    "title": "Automatic Mechanical Watch Winder #AdafruitLearnSystem",
-    "source": "Adafruit",
-    "date": "2026-10-23",
-    "url": "https://blog.adafruit.com/2026/10/23/automatic-mechanical-watch-winder-adafruitlearnsystem/",
-    "summary": "Autowinding mechanical watches are wonderful, they stay wound simply by wearing them. But what happens when you don&#8217;t wear it for a couple of days? It runs out of power as the mainspring fully unwinds. This means you need to re-set the time (and possibly the day/date) before wearing it again. But no more! This [&#8230;]"
   },
   {
     "title": "Navitas Unveils Next-Generation Ultra-High-Voltage SiC Power Module to Advance Energy and Grid Infrastructure Efficiency",
