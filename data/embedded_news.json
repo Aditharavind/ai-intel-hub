@@ -1,5 +1,26 @@
 [
   {
+    "title": "Renesas RX74M and RX74N – 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process",
+    "source": "CNX Software",
+    "date": "2026-10-26",
+    "url": "https://www.cnx-software.com/2026/10/26/renesas-rx74m-and-rx74n-600mhz-industrial-mcus-with-rxv3e-core-embedded-mram-22nm-process/",
+    "summary": "<div><img alt=\"Renesas RX74M and RX74N 600MHz MCUs with 22nm process and MRAM\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Renesas-RX74M-and-RX74N-600MHz-MCUs-with-22nm-process-and-MRAM-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas has introduced the RX74M and RX74N, two new 32-bit RX family MCUs built on a 22nm process with embedded MRAM. Both MCUs integrate a 600MHz RXv3e core and are designed for industrial automation, motor control, robotics, and energy management applications. The MCUs feature up to 1MB of code MRAM, 1.5MB SRAM, and 256KB of zero-wait-state local RAM for real-time processing. The RX74M adds an integrated EtherCAT slave controller, dual Gigabit Ethernet MACs with TSN support, and an Ethernet switch for industrial networking, while the RX74N offers a single Gigabit Ethernet interface for general industrial applications. Other features include CAN FD, USB 2.0, I3C, high-resolution PWM timers, and hardware-based security with Renesas Protect Zone. Renesas RX74M and RX74N specifications: MCU – 32-bit RXv3e core clocked at 300/480/600MHz Up to 3,604 CoreMark at 600MHz Single- and double-precision floating-point support Trigonometric function accelerator Register bank save function for faster interrupt response 32KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/26/renesas-rx74m-and-rx74n-600mhz-industrial-mcus-with-rxv3e-core-embedded-mram-22nm-process/\">Renesas RX74M and RX74N &#8211; 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/25/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-25/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "Hackaday Links: October 25, 2026",
+    "source": "Hackaday",
+    "date": "2026-10-25",
+    "url": "https://hackaday.com/2026/10/25/hackaday-links-october-25-2026/",
+    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Some disappointing, but perhaps not entirely unsurprising news this week out of Denmark &#8212; after announcing last year that they would transition away from Microsoft&#8217;s proprietary software, the realities of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/hackaday-links-october-25-2026/\">&#8230;read more</a>"
+  },
+  {
     "title": "A 3D Printed Marble Clock, but it’s Scrolling Text",
     "source": "Hackaday",
     "date": "2026-10-25",
@@ -40,13 +61,6 @@
     "date": "2026-10-25",
     "url": "https://hackaday.com/2026/10/24/pushing-bluetooth-out-to-12-kilometers/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/long-range-bluetooth-feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Bluetooth is a short-range protocol that&#8217;s great for peripherals and finding your keys, but it&#8217;s limited range is mainly a product of how it&#8217;s usually implemented. A recent video from <a class=\"read-more\" href=\"https://hackaday.com/2026/10/24/pushing-bluetooth-out-to-12-kilometers/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Remembering the Weirdest Nintendo DSi Accessory",
-    "source": "Hackaday",
-    "date": "2026-10-25",
-    "url": "https://hackaday.com/2026/10/24/remembering-the-weirdest-nintendo-dsi-accessory/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/What-if-the-DSi-Camera-was-good_-0-1-screenshot-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Nintendo DSi was released in November 2008, and boasted a new feature not formerly seen on the brand&#8217;s handhelds—it had two cameras, inside and outside. It let the console <a class=\"read-more\" href=\"https://hackaday.com/2026/10/24/remembering-the-weirdest-nintendo-dsi-accessory/\">&#8230;read more</a>"
   },
   {
     "title": "Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine",
@@ -138,13 +152,6 @@
     "date": "2026-10-24",
     "url": "https://blog.adafruit.com/2026/10/24/reverse-engineering-a-commercial-spatial-audio-effect/",
     "summary": "Austin Shijo wanted a Linux version of a Windows audio effect that pushed music out of the head and made it feel less pressed against the ears. Writing on epestr.com, he describes first trying to rebuild the effect by hand with PipeWire, HRTF databases and an LLM as a sounding board. The MIT KEMAR set [&#8230;]"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-    "source": "Adafruit",
-    "date": "2026-10-24",
-    "url": "https://blog.adafruit.com/2026/10/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-24-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "LILYGO T-Halow P4 – An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6",
@@ -404,13 +411,6 @@
     "date": "2026-10-19",
     "url": "https://www.cnx-software.com/2026/10/19/biostar-biwcl-pat-a-3-5-inch-industrial-wildcat-lake-sbc-with-dual-2-5gbe-triple-display-support/",
     "summary": "<div><img alt=\"BIWCL PAT industrial motherboard\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/BIWCL-PAT-industrial-motherboard-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BIOSTAR BIWCL-PAT is a 3.5-inch industrial SBC built around the Intel Core Series 3 &#8220;Wildcat Lake&#8221; SoC family, ranging from the Core 3 304 to the Core 7 360. The board supports up to 64GB DDR5-6400 memory, three independent displays, and dual 2.5GbE networking. It also features three M.2 slots for NVMe storage, Wi-Fi/Bluetooth, and 4G/5G cellular connectivity, along with USB 3.2 ports, four serial interfaces, and an 8-bit digital I/O header. The compact 148 x 102mm form factor makes it suitable for industrial automation, edge computing, AIoT, human-machine interfaces (HMI), and POS/kiosk applications. BIOSTAR BIWCL-PAT specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 penta-core CPU with 1x P core @ 1.5 GHz / 4.3 GHz (Turbo) and 4x LPE cores, 1-core Intel Xe3 Graphics @ 2.3 GHz; TDP: 15W Intel Core 3 305 hexa-core CPU with 2x P cores @ 1.5 GHz / 4.3 GHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/19/biostar-biwcl-pat-a-3-5-inch-industrial-wildcat-lake-sbc-with-dual-2-5gbe-triple-display-support/\">BIOSTAR BIWCL-PAT &#8211; A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost",
-    "source": "CNX Software",
-    "date": "2026-10-19",
-    "url": "https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/",
-    "summary": "<div><img alt=\"Axera AX8860 products\" class=\"attachment-medium size-medium wp-post-image\" height=\"654\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Axera-AX8860-products-720x654.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Axera AX8860P is a new 16-core Cortex-A55 SoC with up to 128 TOPS/256 TOPS (FP4) NPU, 256-bit LPDDR5/5X memory, and PCIe 5.0 connectivity, aiming to power desktop AI solutions competing with NVIDIA DGX Spark at a fraction of the cost. Dr. Qiu Xiaoxin, founder and CEO of Axera, unveiled the new AX8860/AX8860P processor a few days ago at the China International Industrial Fair, along with upcoming products from Sipeed and Radxa. Axera AX8860P key features and specifications: CPU &#8211; 16x Arm Cortex-A55 processor AI &#8211; Up to 256 TOPS VPU &#8211; 64-channel decode, 16-channel encode Memory &#8211; Up to 128GB 256-bit LPDDR5x with 273GB/s bandwidth Interconnect &#8211; PCIe 5.0 + AXLink (C2C) cascading with 80% efficiency for multi-chip cards and systems Power Consumption &#8211; About 40 Watts under load Package &#8211; 78 × 78 mm module Process &#8211; 6nm The AX8860P SoC is said to support vLLM, SGLang, PyTorch, ONNX, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/\">Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
