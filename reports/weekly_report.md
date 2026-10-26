@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-26 05:29 UTC
+Generated: 2026-10-26 11:38 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,35 +14,35 @@ Generated: 2026-10-26 05:29 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83768 | 33507.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63993 | 25597.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44740 | 17896.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30805 | 12322.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29642 | 11856.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83770 | 33508.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 63998 | 25599.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44742 | 17896.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30809 | 12323.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29667 | 11866.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| vinguyen0891/Vivy-R-Robotics-3B-GGUF | 852 | 255.7 | [link](https://huggingface.co/vinguyen0891/Vivy-R-Robotics-3B-GGUF) |
-| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 711 | 213.4 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 739 | 221.8 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
 | mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 463 | 139.0 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
-| mradermacher/EmbodiedBrain-7B-GGUF | 242 | 72.9 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
-| pinnacle-robotics/asaptic-trade-llm | 219 | 65.8 | [link](https://huggingface.co/pinnacle-robotics/asaptic-trade-llm) |
+| mradermacher/EmbodiedBrain-7B-GGUF | 244 | 73.5 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
+| zxyty/physicalai-qwen3-14b | 244 | 73.3 | [link](https://huggingface.co/zxyty/physicalai-qwen3-14b) |
+| mradermacher/PhysicalAI-reason-VLA-GGUF | 196 | 58.9 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-GGUF) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-10-26 | Unitree |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGp3Z1JWMS1NYVNOR1NCczB3RXlxV1hSMkQ2WVV1dXlka0FSUnZNZ3hGNzN3QUJNdnJSdy1zaHhxa2JCc2Q3OHJSckJlTk1RUWtRZlFfTzdySjl3YUw2QjRuY2VxOFduWVowR2I5clRnUHgzS1ZNOHVJenBlQTBNUGUydlkxMGhpdXF3YUM1Vng5V0gwLWo4NjNhLXJPMURfZHFpR1Jn?oc=5) |
+| 2026-10-26 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pS29SWXlxclB2aVgwUl9pNi1kdTBVQ2VsOEdGcEdBVkIxVUVXNC1ORTVtTnZlampQUG1lX004MFhXYTZDNzlZZU8yejY1TVU5Wlk5SA?oc=5) |
 | 2026-10-24 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaG5DYWhzS3VrNW1yMTFqNHVKWmdYQ1VLcGZqOUtuZ0h1elU3RVVSSEQ0aWJtTW5LRW9idVlHVFlrcEtiNklkMkxtem1VcXFOZU96TFhIRVF1SXl3WWZ2UGdraEdaQW54VTJYd01CZk1qdnRBY2pPc01HRjRNdkVlRnpGWWlxdlJvUUE2eGFrUXBZYi01QlNaX0xEaUlFblh2WVNLaGgwSS1iVWZUWXd3bEdIbkQ3Ml85SnBucld3eDNDN0ZJZUZPTEplUTdnZ1V4Z0EyOV9mR25oaDDSAeABQVVfeXFMUDJneGdFQWJicVVSQnNJN085VUlOR1JkNU9mQ2w3VTVoQmlQY1QwRmRldWZONDgwQWs3em95akNkMy1UOHMzMFd2M1EzRklQd1ltV3BrQ1F1NHplY1BsZm5qYlpZTjFCdEQ2Zi1xa09JeWgwTVVXOEZ0Vm02YjZTWTFNVUxJa2NHNi1pRWo1OTFEaVprb3JXVjNqRVJQYkVUYThwdzAxdERvUzZDYU1TdEk1QzcxT1BGZTZlcmRVYjlJaFBkOE9sS1NDU05XaUNwVDNiYzJMZnpQMzBPNTlSQ04?oc=5) |
 | 2026-10-23 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXA4NGZ5cFV0S2E5U2hNRk4tZ0piay1jWWhScjJ0bWRPQllrcDRZUzFNamdHc0tGZF9NOFFpQnZXQ0c0SjZuaVhKQV82MXFRRnJZUVV0a2l1OTZLaGVoZHNQNVlfMGwzXzNWY0pTYTQ5ZlRRc2tSNnNUc3pPbFcyU0xTLXdJNlhYOE1odjk0QWtEc2FBTUctazRRWXNKcHl4Sm1LUEpKdWxlQU55c0staTJrYkNLYXlQREpHdG5wcEhmemxQTGc?oc=5) |
 | 2026-10-23 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPY195TlJCNGgyM3QyMXFhWDVnNmdTVFVHaUJRYkMxOGd0bGdESXQ1Q3V5WFhNdDJEakNESUNqd2xKZDBGZnBsZDlDOEF5TUxPZGxzalNSZ043akc3S09sNzhqbmZTSHRVZ25yTVJmUzBlYWpjZ3NpM3o0RU1JUVJueTVld0tiMk1xYlRqbkdMbk1SVmh3djhxay1nd29udjNZYTJteG9feE93RnFvNzRTTmhUc3Zmcnc?oc=5) |
-| 2026-10-23 | Unitree |  | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU1VMnk4dzJSR2tfU2pCRUZtdVBybkp6cjBYZGp5Y0FXRzJVYjBSTThTRlE1R2dRbVBUdmdRem1Cb1RXRlo1Y1FyY3oxZmlpNGdBSnhSYXczYTRabVBQQkc5RFdTNzJCYnBCVmNCcjZ2ZXlZbWFMRi1rMEJhVnZWNFFrcXpwTUp3SEptY1BYeEdzeG53SHQ2TUwyQQ?oc=5) |
-| 2026-10-22 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzBDM3JXeXU1OTUyMVBtT2pyalhOb0NpQ2NrYzdUM200blRycENBM1llODcwMG9UR0lEWTJ2b2JnUzZpY1Z4TWJ0bkVubjVESU16WDB5d3JycGdGaXRjZWo5dGF5ZXJCWEZIVzdiTm9QdmFSWjVzT1NxNUZkNnJnVDU1bUt2cHZTajl2ZDlReE9HRmxTQkgzejQ5aTI1NVF3UEY2SGNXdGM?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-26 | US startup Formic raises $50 million to scale Physical AI - Evertiq | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjFqZDA4RkZHS2w1MGZqLWlFUk9NOVNqc3plSUlhaEM2blhISG4za2dGTVM4NTZxUDYzVG5pcmRua1pQSVpDTjlhYndEcy1RSVhpZXlNZ25EZzhBRmZiQjVyaTY2eDI4OV9JTk9oQldUZnJKY2VVbUFzT2FGM2dWWml2NEpBdXdkMUNmU3dpQnA0d2ZIcW5B?oc=5) |
-| 2026-10-23 | 5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjBHRlNQcXp6N0haWkE4bWttYnJyV1ZvSTNvZEhpMnh2N3N1bGNtdzY2RmlqSjltV1ZGSWY1LVIzbnFXa3d3dGxnZ2psQm9PX3Q1c3VXNm1STjdnWXdmX2J3X3N1ckFpcVNoWVRtd3VSWUoySkQ3X3BrMmswVmZZdGxTSXZzb3RUUV9MR01JTldnLWw3?oc=5) |
-| 2026-10-23 | UnternehmerTUM, Microsoft, Infineon and NVIDIA launch Physical AI Accelerator for EMEA startups - New Electronics | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNTFpWDZGcXkyNFlLOEo5WGs2OXAzS1diMUlTR1Z3dU5NUEpPaC1zaUswczRqRVJTX3dGVFdrWGVSSGlTWnNZMnh4ODE2VFpZU3d3RTZWQkMwOVg3SUZhS3pMVnpjSndyVnFTcmduREp0Nm9NWDhNZ0Y0QTU5V3IzVXEzdENEREU1Y2JxN1Z0eEtEMWlUZTNyY1dGTmdhMk8xSG5qSHB4VUtVcHhOMmFGOGRyXzd3MEt0bFloZVFNbGNfT3EyeHh2NkRzWF9fajlXazFHNjVB?oc=5) |
-| 2026-10-23 | AtechX start-up Bellboy Robotics continues successful development of Physical AI at NVIDIA GTC Berlin - ASSETPHYSICS | physical ai startup | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRTNrMm9MR0xfenB6OWlwRi1hTGNyZzZUakduUWFpMXpfZTdtT0ZMajJ0QzN2cHpVbXdmTGlydEtDSVFfR0J5TnhvdDZhbTlUeFNIWUNSMjdDYmt2OHc2Umw0MnlIUTJ5MFVHbDRnc2tiUTNSM2lTaUpUT3N0V3FEUVdsU1JteC1WdURaTjI3alZDU0lQSzhKeHRSQU9fb2xjM2pScXpYckJoRkhqdElkVE52UmFoYU83TldBT3BZOFN3elltVDd5RU9TdkwyTjZwSi1Z?oc=5) |
-| 2026-10-22 | Exclusive: Physical AI Startup Tractian Becomes a Unicorn - The Information | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGNHSzF3MEg1c2hKZ1dPekJoYWNHVk1mOUp1R2xtZjRfRWxoRmhteXRadjdSWjlDUDZtR2FSRjViTmJxYWZCMHVvaEFPMWY1N0ZQUHl2Y3I1VlEwQUtaX1h3LUpKczhmWXlBWE9STE9Od29kck5vMm5NRks0LWZuQUFWQm9Ya3c1bi1Sc2VSUEZ3QXJtMEs0M1N1SQ?oc=5) |
+| 2026-10-26 | Pronto founder Anjali Sardana launches US-based physical AI startup Provision Labs - Moneycontrol.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2xRZ0NsTWFhUkxUMEZXVGFWUGM0WGxscEpSd3VDSzFMaU9XRUtSdjc0U0xiN2d6SEhkLVJyM19LcXZCYWk3Vk0xRV80MUtTUkRlT0hVM2hfRXk2WmlnMFE1REczanhuZUZ3VGpsUHN1elhRYzNBUWl2TnJqZG1xRC1xVURmeERQU09xZ2dZcVpXbXdqeE85Tk1hT2NFb3lDTm96T2F2SG5aM3pLZzdObnpERFlaNXJiZUpZQVdZV2lIUHNIQ21LWW1pejNLUWV2UnNVa0lHNnBwcUM0UGh4Y9IB5gFBVV95cUxNcEJQMkVQVWtOZkNtWHJIeUlWM2pRUHFZaFNjd2Y1RU8xTnN6a3BFVHZmMUpYNTgxTUdrYWFlQ1RhMnU5SDZza0x1RURqcjRxMk9mVWVfSFNHUHZKeVVtODNwS2JpOUZkRlVrcUpIN3BTSTJ1V1dfZHFjaGhQV2pMM3hvbUNJby1mSW1FWlROaVNxLU50ZUJzSjh3WlFzd3ZKVHhnNkszb1NxUE82RFBRU1hxRmhqZmowa2pVSUxwazVWbmNWdy15LWpnbUxFOTFWY3NDNFB2RmNrNWxMVVB6TzJ2MWV4QQ?oc=5) |
+| 2026-10-26 | Pronto founder Anjali Sardana sets up US-based physical AI venture Provision Labs - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcFVvMmdWdXEyZnB1UW91OWFnay0ySjlTVE9vV2lXN0w2LTA0VFRTOERXQlZwLWZ2c20xekF1ZGpKZkZBQWlnekhDWHRjMkJ6Y0Rsek1hRFNUd05LMy1FUGUxLWtBMWh3R3RONUVDSXdRcDdaMjJISy10YzJ1cFpjZFBxam9yMWpCaUlCUzBjbzlqSERfTVplQ0JOa28yTEdLbnlENFhvYWlDUks3bDNCSWxyc3dmUzlPb1N3MTRrbDVOQng2dTBxLWRUMkMyeUpMXzY1bng1emRpbHZVOTI0WmZaTdIB6AFBVV95cUxPeEh4Ui1oaktJdUZYQ2tYTFFWZ2pLajlnMmlrMi10WmxMZ0dLX0dLOGNnNUtBYXFYSWtRQTREbG52YzJ2Z1pzbTZTRzJFTU1QLWpkbm9nQkdqYXhBN1VCWjR5c3lrV3pqU0NpTEItZDl5c011blc3QjJiTExqMldUM2ZCTzB3cTZYcHZDZnZhcEluSTNxOTFSOHQ4RFhkcXd0dWJmVDA3MF9wQm9oTWJqWEVNTjRLWUQwN3haNkM4WG1OVVFTN2lyb0xIMVRkREE1Q01DeU5rWWo1UnZYYUZoUUhzcWhoUUpY?oc=5) |
+| 2026-10-26 | Pronto Founder Anjali Sardana Sets Up US-Based Physical AI Venture Provision Labs - CIOL | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1pYc0hUTGRPbkpJM25hWC1pQVFlU3FqbE1Hd3dEMjJpY1pxUDBkVXd3QUJsbXVTZXpSVjdUemdIVDY0OWxDM1dSVzdySUV5eHBmV0JWbm82cGloeUhPS1o0S2V3NGtEUVh0aGkyYzdwS1ZHdllsR2JwMnlTajQxTHkxRUVOTnBDVG1NM1JkWFF1a3lVaG9LOE1Hd9IBmwFBVV95cUxQY1pYc0hUTGRPbkpJM25hWC1pQVFlU3FqbE1Hd3dEMjJpY1pxUDBkVXd3QUJsbXVTZXpSVjdUemdIVDY0OWxDM1dSVzdySUV5eHBmV0JWbm82cGloeUhPS1o0S2V3NGtEUVh0aGkyYzdwS1ZHdllsR2JwMnlTajQxTHkxRUVOTnBDVG1NM1JkWFF1a3lVaG9LOE1Hdw?oc=5) |
+| 2026-10-26 | When the Code Fails, Burn Incense: China’s AI Startups Turn to the Gods - RADII | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTFBzNjdBNEpSR04yaElZSnhGeTY0NXZydlMtMjNSNGd6NVhTb1pFS0pSZUdMdUFZQWNVQ3l6aW1Sa0hldHNnU096Ni1lM2VkWVZKV3RibnQ4bVpuNGFzLXpkeWtlY3cyM0NnZXkxMUpodjQ?oc=5) |

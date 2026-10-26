@@ -1,5 +1,19 @@
 [
   {
+    "title": "Hiding Virtualization From Other Software",
+    "source": "Hackaday",
+    "date": "2026-10-26",
+    "url": "https://hackaday.com/2026/10/26/hiding-virtualization-from-other-software/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2017/10/computers.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The Kernel-based Virtual Machine (KVM) allows Linux systems to function as hypervisors without needing any extra software, but VMs created with it don&#8217;t behave exactly like real hardware does. Sometimes <a class=\"read-more\" href=\"https://hackaday.com/2026/10/26/hiding-virtualization-from-other-software/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Hairy Armor For Combat Robot? It’s Not Terrible!",
+    "source": "Hackaday",
+    "date": "2026-10-26",
+    "url": "https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/I-made-a-HAIRY-combat-robot-in-48hrs-26-38-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Angus] of Maker&#8217;s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a <a class=\"read-more\" href=\"https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/\">&#8230;read more</a>"
+  },
+  {
     "title": "Building a Swashplate-less Helicoper Rotor",
     "source": "Hackaday",
     "date": "2026-10-26",
@@ -14,18 +28,18 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"501\" src=\"https://hackaday.com/wp-content/uploads/2026/10/tmdc_mosfet_seok_young_min_et_al_science_2026.jpg?w=701\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"701\" /></div>In the world of silicon semiconductors, the process of creating transistors and similar structures involves various rounds of modifications and additions in order to create the requisite functional layers. A <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/transforming-a-tungsten-ditelluride-monolayer-into-a-transistor/\">&#8230;read more</a>"
   },
   {
+    "title": "Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",
+    "source": "CNX Software",
+    "date": "2026-10-26",
+    "url": "https://www.cnx-software.com/2026/10/26/adafruit-metro-esp32-p4-hydra-an-arduino-uno-shaped-esp32-p4-esp32-c6-board-with-wifi-6-mipi-interfaces/",
+    "summary": "<div><img alt=\"Adafruit Metro ESP32 P4 Hydra with 16 MB PSRAM v1 Chipset\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Adafruit-Metro-ESP32-P4-Hydra-with-16-MB-PSRAM-v1-Chipset-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Adafruit has launched the Metro ESP32-P4 Hydra, an Arduino UNO-shaped development board with ESP32-P4, 16MB PSRAM, and 16MB NOR flash, and an ESP32-C6 for WiFi 6, Bluetooth 5.3 LE, Thread, and Zigbee connectivity. Other features include Raspberry Pi-compatible MIPI DSI and CSI interfaces, a USB 2.0 High-Speed host port, a microSD card slot, and Arduino UNO expansion headers. The board also includes a STEMMA QT connector, LiPo battery charging, and multiple power input options, making it suitable for HMI, camera, and IoT applications. Adafruit Metro ESP32-P4 Hydra specifications: Microcontroller – Espressif Systems ESP32-P4 (v1 chipset) CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 360 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 16MB PSRAM GPU [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/26/adafruit-metro-esp32-p4-hydra-an-arduino-uno-shaped-esp32-p4-esp32-c6-board-with-wifi-6-mipi-interfaces/\">Adafruit Metro ESP32-P4 Hydra &#8211; An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Renesas RX74M and RX74N – 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process",
     "source": "CNX Software",
     "date": "2026-10-26",
     "url": "https://www.cnx-software.com/2026/10/26/renesas-rx74m-and-rx74n-600mhz-industrial-mcus-with-rxv3e-core-embedded-mram-22nm-process/",
     "summary": "<div><img alt=\"Renesas RX74M and RX74N 600MHz MCUs with 22nm process and MRAM\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Renesas-RX74M-and-RX74N-600MHz-MCUs-with-22nm-process-and-MRAM-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas has introduced the RX74M and RX74N, two new 32-bit RX family MCUs built on a 22nm process with embedded MRAM. Both MCUs integrate a 600MHz RXv3e core and are designed for industrial automation, motor control, robotics, and energy management applications. The MCUs feature up to 1MB of code MRAM, 1.5MB SRAM, and 256KB of zero-wait-state local RAM for real-time processing. The RX74M adds an integrated EtherCAT slave controller, dual Gigabit Ethernet MACs with TSN support, and an Ethernet switch for industrial networking, while the RX74N offers a single Gigabit Ethernet interface for general industrial applications. Other features include CAN FD, USB 2.0, I3C, high-resolution PWM timers, and hardware-based security with Renesas Protect Zone. Renesas RX74M and RX74N specifications: MCU – 32-bit RXv3e core clocked at 300/480/600MHz Up to 3,604 CoreMark at 600MHz Single- and double-precision floating-point support Trigonometric function accelerator Register bank save function for faster interrupt response 32KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/26/renesas-rx74m-and-rx74n-600mhz-industrial-mcus-with-rxv3e-core-embedded-mram-22nm-process/\">Renesas RX74M and RX74N &#8211; 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Ed Gets Handy",
-    "source": "Electronics Weekly",
-    "date": "2026-10-26",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-the-handyman-2026-10/",
-    "summary": "<p>Humanoid robots are supposed to be the NBT and the thing holding up their commercial deployment is hands, Ed confides to his diary. Robotic hands tend to either be strong [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-the-handyman-2026-10/\">Ed Gets Handy</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "The Python on Microcontrollers Newsletter: subscribe for free",
@@ -54,20 +68,6 @@
     "date": "2026-10-25",
     "url": "https://hackaday.com/2026/10/25/mesh-network-telephony-over-bluetooth-on-android-phones/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"412\" src=\"https://hackaday.com/wp-content/uploads/2026/10/MeshLive-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Telephony is a bit of a mixed bag. On the one hand, being able to talk to people in far off places is kind of neat, at least in theory. <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/mesh-network-telephony-over-bluetooth-on-android-phones/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Simple, Reliable RF Remote Control",
-    "source": "Hackaday",
-    "date": "2026-10-25",
-    "url": "https://hackaday.com/2026/10/25/simple-reliable-rf-remote-control/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/rf-remote-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Some of the first remote controls available to consumers used sound, visible light, or even just wires to communicate with their parent device. It was many years between these first <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/simple-reliable-rf-remote-control/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Meshtastic Pet Tracking",
-    "source": "Hackaday",
-    "date": "2026-10-25",
-    "url": "https://hackaday.com/2026/10/25/meshtastic-pet-tracking/",
-    "summary": "<div><img alt=\"Four black plastic devices, two with a black, stubby antenna, sit on a blue cutting mat with white guidelines. There is also a PCB and a couple grey-ish clips in the assortment. One of the devices is open, showing another PCB with various components including a GPS antenna and LoRa radio. A silhouette of a dog is screen printed next to the text &quot;LIA&quot; on the PCBs, and the same text and image is present in the shell of the device in the top center.\" class=\"attachment-large size-large wp-post-image\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2026/10/LIA-Open-Source-Meshtastic-LoRa-Pet-Tracker.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most commercial pet trackers require a subscription or network connection to function. [Jon G Aguado] wanted a better way and designed LIA, a Meshtastic collar tracker. LIA uses a custom <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/meshtastic-pet-tracking/\">&#8230;read more</a>"
   },
   {
     "title": "Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine",
@@ -189,104 +189,6 @@
     "summary": "<p>Cooling failures remain the second-leading cause of data center outages. Downtime is now more costly than hardware loss, making early detection critical. The ability to detect leaks at the source and over wide areas via telemetry will vastly improve uptime. Compatibility with newer cooling fluid variants is essential, but legacy conductometric sensing falls short. The ability to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/real-time-sensing-prevents-catastrophic-infrastructure-failures/\">Real-Time Sensing Prevents Catastrophic Infrastructure Failures</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-    "summary": "<p>Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/\">Most Read &#8211; xMCUs, NVHBM base dies, Qualcomm layoffs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Space Tech Expo Europe to say farewell to Bremen",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-    "summary": "<p>Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/\">Space Tech Expo Europe to say farewell to Bremen</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Soft Switching Or Hard?",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-    "summary": "<p>28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/\">Soft Switching Or Hard?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-    "summary": "<p>Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/\">Vector&#8217;s Rust-based IEEE 11073 SDC stack qualifies for medical devices</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-    "summary": "<p>Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/\">Babcock, BAE Systems launch Apprenticeship Talent Bridge</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Electronics production growth accelerating, says SI",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-    "summary": "<p>Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/\">Electronics production growth accelerating, says SI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "The AI Race, by imec",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/",
-    "summary": "<p>“The AI race is often framed as a race for bigger models, faster chips and larger datacentres, &#8211; that framing is outdated,” says Patrick Vandenameele (pictured below), CEO of imec, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/\">The AI Race, by imec</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Washington takes stake in fusion company",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/news/business/washington-takes-stake-in-fusion-company-2026-10/",
-    "summary": "<p>The US government has taken a share in fusion energy company Helios in return for a $175 million Chips Act grant. The grant comes with an additional private investment of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/washington-takes-stake-in-fusion-company-2026-10/\">Washington takes stake in fusion company</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Mouser signs ControlByWeb",
-    "source": "Electronics Weekly",
-    "date": "2026-10-23",
-    "url": "https://www.electronicsweekly.com/news/business/mouser-signs-controlbyweb-2026-10/",
-    "summary": "<p>Mouser has signed a new global distribution agreement with ControlByWeb, a manufacturer of industrial IoT controllers for remote monitoring, control and data acquisition. The platform has optional cloud and cellular [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mouser-signs-controlbyweb-2026-10/\">Mouser signs ControlByWeb</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Navitas Unveils Next-Generation Ultra-High-Voltage SiC Power Module to Advance Energy and Grid Infrastructure Efficiency",
-    "source": "EE Journal",
-    "date": "2026-10-23",
-    "url": "https://www.eejournal.com/industry_news/navitas-unveils-next-generation-ultra-high-voltage-sic-power-module-to-advance-energy-and-grid-infrastructure-efficiency/",
-    "summary": "Navitas Semiconductor (Nasdaq: NVTS), a leader in next-generation power semiconductors and power delivery solutions, pioneering GaN, high-voltage and ultra-high-voltage SiC, and IVR technologies, today announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure. The new G4H08MT23GB4 2300 V full-bridge module family uses the industry-standard SiCPAK™ form factor and has a [&#8230;]"
-  },
-  {
-    "title": "Darveen Unveils DPC-1210 21.5-Inch Industrial Panel PC with Intel® Core™ Ultra 5 Processors for Edge AI Applications",
-    "source": "EE Journal",
-    "date": "2026-10-23",
-    "url": "https://www.eejournal.com/industry_news/darveen-unveils-dpc-1210-21-5-inch-industrial-panel-pc-with-intel-core-ultra-5-processors-for-edge-ai-applications/",
-    "summary": "Darveen, a global leader in industrial computing, today announced the launch of the DPC-1210 Industrial Panel PC, powered by the latest Intel® Core™ Ultra 5 125H/U series processors (Meteor Lake). Combining AI-ready computing, a bright 21.5-inch projected capacitive touchscreen, and an advanced copper heat pipe cooling system built for extended, stable operation, the DPC-1210 is [&#8230;]"
-  },
-  {
-    "title": "TDK presents robust and easy-to-mount NTC systems for demanding industrial applications with voltages up to 4000 V",
-    "source": "EE Journal",
-    "date": "2026-10-23",
-    "url": "https://www.eejournal.com/industry_news/tdk-presents-robust-and-easy-to-mount-ntc-systems-for-demanding-industrial-applications-with-voltages-up-to-4000-v/",
-    "summary": "TDK Corporation (TSE: 6762) announces the expansion of its NTC temperature sensor portfolio with the M704 (ordering code: B57704M0103A001) and M705 (ordering code: B57705M0103A001) series, engineered for reliable temperature measurement in high-voltage environments. With voltage ratings of up to 4000 V (AC) for the M704 and 2500 V (AC) for the M705, these probe assemblies enable safe and [&#8230;]"
-  },
-  {
-    "title": "MicroVision Begins Commercial Production of MOVIA(TM) Pro for Superior Short-Range Sensing and Onboard Perception, Enabling Physical AI at the Edge",
-    "source": "EE Journal",
-    "date": "2026-10-23",
-    "url": "https://www.eejournal.com/industry_news/microvision-begins-commercial-production-of-moviatm-pro-for-superior-short-range-sensing-and-onboard-perception-enabling-physical-ai-at-the-edge/",
-    "summary": "MicroVision, Inc. (NASDAQ: MVIS), a leader in advanced perception solutions for industrial, security and defense, intelligent infrastructure, and automotive applications, today announced the much-anticipated commercial production launch of MOVIA™ Pro, shipping sensors to meet customer demand. MOVIA Pro is the company’s next-generation short-range lidar sensor uniquely engineered to deliver differentiated sensing performance and onboard perception [&#8230;]"
-  },
-  {
-    "title": "Inside Silicon Quantum Computing’s Atomic Precision",
-    "source": "EE Journal",
-    "date": "2026-10-23",
-    "url": "https://www.eejournal.com/fish_fry/inside-silicon-quantum-computings-atomic-precision/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"255\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/AD-102326-300x255.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />﻿ This week we’re diving deep into the world of atomic-scale manufacturing and quantum engineering with Dr. Ludwik Kranz, Head of Quantum Engineering at Silicon Quantum Computing (SQC). Ludwik and I chat about how SQC is engineering quantum processors at the atomic scale, how to measure quantum computing progress beyond qubit count, and what applications [&#8230;]"
-  },
-  {
     "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
     "source": "CNX Software",
     "date": "2026-10-22",
@@ -313,41 +215,6 @@
     "date": "2026-10-22",
     "url": "https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development/",
     "summary": "<p>Deploying an AI model on edge hardware involves much more than generating application code. The model needs to be compressed or quantized to fit available memory, compiled for a specific processor, integrated with a runtime, and tested for latency, power consumption, and accuracy. Developers must also make the software work with the surrounding embedded components [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development/\">How Agentic AI Accelerates Edge AI Software Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "STMicroelectronics adds MasterGaN7 devices to integrated high-efficiency power family",
-    "source": "EE Journal",
-    "date": "2026-10-22",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family/",
-    "summary": "STMicroelectronics has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode GaN transistors with 6A maximum current rating. The new series helps designers boost efficiency and power density in applications such as power adapters, chargers, industrial lighting equipment, and solar microinverters. MasterGaN7 connects the two 650V GaN transistors in half-bridge [&#8230;]"
-  },
-  {
-    "title": "Robotiq Launches the 2FC Physical AI Gripper",
-    "source": "EE Journal",
-    "date": "2026-10-22",
-    "url": "https://www.eejournal.com/industry_news/robotiq-launches-the-2fc-physical-ai-gripper/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/Robotiq_2FC_physical_AI_gripper_1-300x300.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" /> Robotiq today launched the 2FC physical AI gripper, a production-ready adaptive gripper with tactile sensing and embedded intelligence, helping robots learn from physical interaction and act reliably on what they learn, from the lab to production. Pre-orders open today, with shipping in Q1 2027. Physical AI has a blind spot: touch The industry is investing heavily [&#8230;]"
-  },
-  {
-    "title": "TDK introduces compact Y1 safety capacitors for operations up to 500 V (AC) and +125 °C",
-    "source": "EE Journal",
-    "date": "2026-10-22",
-    "url": "https://www.eejournal.com/industry_news/tdk-introduces-compact-y1-safety-capacitors-for-operations-up-to-500-v-ac-and-125-c/",
-    "summary": "TDK Corporation (TSE: 6762) has introduced the compact B3201*A5/B5/C5 series of Y1 safety capacitors designed to suppress EMI in demanding automotive and industrial applications. The metallized polypropylene (MKP) film capacitors are rated for AC voltages of 500 V and DC voltages of up to 1500 V. Featuring a maximum operating temperature of up to +125 °C (with derating), they combine [&#8230;]"
-  },
-  {
-    "title": "ODVA Specifies ix Industrial® as a New Ethernet/IP Interface",
-    "source": "EE Journal",
-    "date": "2026-10-22",
-    "url": "https://www.eejournal.com/industry_news/odva-specifies-ix-industrial-as-a-new-ethernet-ip-interface/",
-    "summary": "The ODVA (Open DeviceNet Vendor Association) has officially specified the compact, industrial-grade ix Industrial® mating interface for Ethernet/IP network applications. This completes the standardization and referencing process for the smaller, more rugged alternative to the classic RJ45 connector. In addition to Ethernet/IP, the ix Industrial is already integrated into leading industry standards including PROFINET, CC-Link IE [&#8230;]"
-  },
-  {
-    "title": "The Rising Tide of Haptic Interfaces",
-    "source": "EE Journal",
-    "date": "2026-10-22",
-    "url": "https://www.eejournal.com/article/the-rising-tide-of-haptic-interfaces/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"149\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0529-image-for-home-page-titan-haptics-300x149.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />I have a feeling that we’ll be hearing (and feeling) a lot about haptics in the not-so-distant future. With this in mind, it behooves us to prepare ourselves for the onslaught to come. Let’s start with the word “haptic” itself, which comes from the Ancient Greek haptikos, meaning &#8220;able to come into contact with&#8221; or [&#8230;]"
   },
   {
     "title": "ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation",
@@ -404,13 +271,6 @@
     "date": "2026-10-19",
     "url": "https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/",
     "summary": "<div><img alt=\"Linux 7.3\" class=\"attachment-medium size-medium wp-post-image\" height=\"450\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Linux-7.3-720x450.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Linus Torvalds announced the release of Linux 7.3 on LKML last Sunday: It&#8217;s Sunday afternoon, and this week I somehow kept my wits together long enough to keep track of the day of the week, so the release isn&#8217;t randomly delayed. Will wonders never cease? Anyway, nothing very special seems to have happened this last week, so as expected the final 7.3 is out, and thus tomorrow the merge window for 7.4 opens. Except I&#8217;m on my annual family vacation, so instead of merging anything first thing in the morning, I&#8217;ll spend most of the day on a boat and under water. I&#8217;ll get back to merging in the afternoon, but I expect my schedule to be a bit unusual for a while. I hope I can still complete the merge window in the usual two weeks, but it may be that I&#8217;ll end up with an extra week of merging [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/\">Linux 7.3 release &#8211; Main Changes, Arm, RISC-V, and MIPS architectures</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "BIOSTAR BIWCL-PAT – A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support",
-    "source": "CNX Software",
-    "date": "2026-10-19",
-    "url": "https://www.cnx-software.com/2026/10/19/biostar-biwcl-pat-a-3-5-inch-industrial-wildcat-lake-sbc-with-dual-2-5gbe-triple-display-support/",
-    "summary": "<div><img alt=\"BIWCL PAT industrial motherboard\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/BIWCL-PAT-industrial-motherboard-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BIOSTAR BIWCL-PAT is a 3.5-inch industrial SBC built around the Intel Core Series 3 &#8220;Wildcat Lake&#8221; SoC family, ranging from the Core 3 304 to the Core 7 360. The board supports up to 64GB DDR5-6400 memory, three independent displays, and dual 2.5GbE networking. It also features three M.2 slots for NVMe storage, Wi-Fi/Bluetooth, and 4G/5G cellular connectivity, along with USB 3.2 ports, four serial interfaces, and an 8-bit digital I/O header. The compact 148 x 102mm form factor makes it suitable for industrial automation, edge computing, AIoT, human-machine interfaces (HMI), and POS/kiosk applications. BIOSTAR BIWCL-PAT specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 penta-core CPU with 1x P core @ 1.5 GHz / 4.3 GHz (Turbo) and 4x LPE cores, 1-core Intel Xe3 Graphics @ 2.3 GHz; TDP: 15W Intel Core 3 305 hexa-core CPU with 2x P cores @ 1.5 GHz / 4.3 GHz [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/19/biostar-biwcl-pat-a-3-5-inch-industrial-wildcat-lake-sbc-with-dual-2-5gbe-triple-display-support/\">BIOSTAR BIWCL-PAT &#8211; A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
