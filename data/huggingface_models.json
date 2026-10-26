@@ -1,12 +1,21 @@
 [
   {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
-    "downloads": 38,
+    "model": "Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "url": "https://huggingface.co/Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k",
     "date": "2026-10-26",
     "keyword": "robot",
-    "score": 11.5
+    "score": 0.1
+  },
+  {
+    "model": "oucliuyang/GAWM-S-RoboTwin2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/oucliuyang/GAWM-S-RoboTwin2",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "miniFranka/agentic-wam-posttrain-robotwin-suit",
@@ -18,13 +27,31 @@
     "score": 0.1
   },
   {
-    "model": "Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k",
+    "model": "xiaochengsky/lingbot-vla-v2-robotwin-hf-aug-20k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k",
+    "url": "https://huggingface.co/xiaochengsky/lingbot-vla-v2-robotwin-hf-aug-20k",
+    "date": "2026-10-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
+    "downloads": 7,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
     "date": "2026-10-26",
     "keyword": "robot",
-    "score": 0.1
+    "score": 2.2
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "downloads": 38,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 11.5
   },
   {
     "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
@@ -81,30 +108,57 @@
     "score": 0.3
   },
   {
-    "model": "wjwjwjwj/gr00t-n1.7-robotwin-move_can_pot-cosmos-aug",
+    "model": "matteuscruz/vla-g1-hpc",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-move_can_pot-cosmos-aug",
+    "url": "https://huggingface.co/matteuscruz/vla-g1-hpc",
     "date": "2026-10-26",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "wjwjwjwj/gr00t-n1.7-robotwin-adjust_bottle-cosmos-aug",
+    "model": "twanghcmut/lingbot-vla-v2-so101-left-arm-multitask",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-adjust_bottle-cosmos-aug",
+    "url": "https://huggingface.co/twanghcmut/lingbot-vla-v2-so101-left-arm-multitask",
     "date": "2026-10-26",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "biyotteu/cosmos3-nano-robotwin",
+    "model": "RocheL/vlatest",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/biyotteu/cosmos3-nano-robotwin",
+    "url": "https://huggingface.co/RocheL/vlatest",
     "date": "2026-10-26",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaodong/LingBot-VLA-2-PKUAI4S-PengLab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaodong/LingBot-VLA-2-PKUAI4S-PengLab",
+    "date": "2026-10-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SuNya558/lingbot-vla-80k",
+    "downloads": 4,
+    "likes": 0,
+    "url": "https://huggingface.co/SuNya558/lingbot-vla-80k",
+    "date": "2026-10-26",
+    "keyword": "vla",
+    "score": 1.3
+  },
+  {
+    "model": "EarsMan/smol_vla_candy_project",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/EarsMan/smol_vla_candy_project",
+    "date": "2026-10-26",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -126,15 +180,6 @@
     "score": 0.1
   },
   {
-    "model": "RocheL/vlatest",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RocheL/vlatest",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "xiaochengsky/lingbot-vla-v2-robotwin-hf-aug-25k",
     "downloads": 0,
     "likes": 0,
@@ -144,21 +189,21 @@
     "score": 0.1
   },
   {
-    "model": "SuNya558/lingbot-vla-80k",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/SuNya558/lingbot-vla-80k",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 1.3
-  },
-  {
     "model": "mkun2/physical-ai-relief-delivery",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mkun2/physical-ai-relief-delivery",
     "date": "2026-10-26",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "Kkbo123/mc-policy-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Kkbo123/mc-policy-checkpoints",
+    "date": "2026-10-26",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -333,51 +378,6 @@
     "score": 6.7
   },
   {
-    "model": "prehj/faster-vla-speed-module",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/prehj/faster-vla-speed-module",
-    "date": "2026-10-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "akbro23/tactile-vla-builtin_64tok",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/akbro23/tactile-vla-builtin_64tok",
-    "date": "2026-10-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "andrei-vlad/ABTCM-AI-1EG-50M_open-source",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/andrei-vlad/ABTCM-AI-1EG-50M_open-source",
-    "date": "2026-10-25",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
-    "model": "karthy124/lingbot-vla-v2-robotwin-clean50-v6",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/karthy124/lingbot-vla-v2-robotwin-clean50-v6",
-    "date": "2026-10-25",
-    "keyword": "vla",
-    "score": 6.4
-  },
-  {
-    "model": "Owlsnet/lingbot-vla-v2-robotwin-clean50-b384-12500",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Owlsnet/lingbot-vla-v2-robotwin-clean50-b384-12500",
-    "date": "2026-10-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "JahaoZhang/Bipartite-World-Modeling",
     "downloads": 4,
     "likes": 0,
@@ -434,11 +434,11 @@
   {
     "model": "zxyty/physicalai-qwen3-14b",
     "downloads": 244,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/zxyty/physicalai-qwen3-14b",
     "date": "2026-10-25",
     "keyword": "physical ai",
-    "score": 73.3
+    "score": 73.5
   },
   {
     "model": "zxyty/physicalai-hunyuanvideo-foley",
@@ -556,15 +556,6 @@
     "date": "2026-10-25",
     "keyword": "policy",
     "score": 3.7
-  },
-  {
-    "model": "yaditya/toppings-quads-aditya-policy",
-    "downloads": 14,
-    "likes": 0,
-    "url": "https://huggingface.co/yaditya/toppings-quads-aditya-policy",
-    "date": "2026-10-25",
-    "keyword": "policy",
-    "score": 4.3
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",

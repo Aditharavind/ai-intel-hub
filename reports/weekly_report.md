@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-26 11:38 UTC
+Generated: 2026-10-26 17:41 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,19 +14,19 @@ Generated: 2026-10-26 11:38 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83770 | 33508.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63998 | 25599.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44742 | 17896.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30809 | 12323.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29667 | 11866.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 83771 | 33508.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64000 | 25600.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44737 | 17894.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30810 | 12324.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29683 | 11873.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 739 | 221.8 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
 | mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 463 | 139.0 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
+| zxyty/physicalai-qwen3-14b | 244 | 73.5 | [link](https://huggingface.co/zxyty/physicalai-qwen3-14b) |
 | mradermacher/EmbodiedBrain-7B-GGUF | 244 | 73.5 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
-| zxyty/physicalai-qwen3-14b | 244 | 73.3 | [link](https://huggingface.co/zxyty/physicalai-qwen3-14b) |
 | mradermacher/PhysicalAI-reason-VLA-GGUF | 196 | 58.9 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-GGUF) |
 
 ## Top Funding Rounds
@@ -42,7 +42,7 @@ Generated: 2026-10-26 11:38 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-26 | US startup Formic raises $50 million to scale Physical AI - Evertiq | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjFqZDA4RkZHS2w1MGZqLWlFUk9NOVNqc3plSUlhaEM2blhISG4za2dGTVM4NTZxUDYzVG5pcmRua1pQSVpDTjlhYndEcy1RSVhpZXlNZ25EZzhBRmZiQjVyaTY2eDI4OV9JTk9oQldUZnJKY2VVbUFzT2FGM2dWWml2NEpBdXdkMUNmU3dpQnA0d2ZIcW5B?oc=5) |
+| 2026-10-26 | Pronto founder Anjali Sardana sets up physical AI venture Provision Labs in US - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiswFBVV95cUxOejZ1clU0aTNCNnhsZ0F4cHVLbGVKTzJBR3B0NHRnT0lvckZLbGV2elJJR2VIb2VvTUxxSnI0WXJwZzJXbi1DVDltclhGVHlwUTZCOGZweHNYMWxNYkJQZF9oQjBXRHItQWVCY21jT1ZHUVd1LVl2VG9mVWNFVFdISVNkZEY0dXR0NFJxWDJYb0pIcmRveXpQRThidjNLTmI0UU9mM0ZfMHc3bXk1OWk5dWloQdIBswFBVV95cUxOejZ1clU0aTNCNnhsZ0F4cHVLbGVKTzJBR3B0NHRnT0lvckZLbGV2elJJR2VIb2VvTUxxSnI0WXJwZzJXbi1DVDltclhGVHlwUTZCOGZweHNYMWxNYkJQZF9oQjBXRHItQWVCY21jT1ZHUVd1LVl2VG9mVWNFVFdISVNkZEY0dXR0NFJxWDJYb0pIcmRveXpQRThidjNLTmI0UU9mM0ZfMHc3bXk1OWk5dWloQQ?oc=5) |
 | 2026-10-26 | Pronto founder Anjali Sardana launches US-based physical AI startup Provision Labs - Moneycontrol.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2xRZ0NsTWFhUkxUMEZXVGFWUGM0WGxscEpSd3VDSzFMaU9XRUtSdjc0U0xiN2d6SEhkLVJyM19LcXZCYWk3Vk0xRV80MUtTUkRlT0hVM2hfRXk2WmlnMFE1REczanhuZUZ3VGpsUHN1elhRYzNBUWl2TnJqZG1xRC1xVURmeERQU09xZ2dZcVpXbXdqeE85Tk1hT2NFb3lDTm96T2F2SG5aM3pLZzdObnpERFlaNXJiZUpZQVdZV2lIUHNIQ21LWW1pejNLUWV2UnNVa0lHNnBwcUM0UGh4Y9IB5gFBVV95cUxNcEJQMkVQVWtOZkNtWHJIeUlWM2pRUHFZaFNjd2Y1RU8xTnN6a3BFVHZmMUpYNTgxTUdrYWFlQ1RhMnU5SDZza0x1RURqcjRxMk9mVWVfSFNHUHZKeVVtODNwS2JpOUZkRlVrcUpIN3BTSTJ1V1dfZHFjaGhQV2pMM3hvbUNJby1mSW1FWlROaVNxLU50ZUJzSjh3WlFzd3ZKVHhnNkszb1NxUE82RFBRU1hxRmhqZmowa2pVSUxwazVWbmNWdy15LWpnbUxFOTFWY3NDNFB2RmNrNWxMVVB6TzJ2MWV4QQ?oc=5) |
 | 2026-10-26 | Pronto founder Anjali Sardana sets up US-based physical AI venture Provision Labs - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcFVvMmdWdXEyZnB1UW91OWFnay0ySjlTVE9vV2lXN0w2LTA0VFRTOERXQlZwLWZ2c20xekF1ZGpKZkZBQWlnekhDWHRjMkJ6Y0Rsek1hRFNUd05LMy1FUGUxLWtBMWh3R3RONUVDSXdRcDdaMjJISy10YzJ1cFpjZFBxam9yMWpCaUlCUzBjbzlqSERfTVplQ0JOa28yTEdLbnlENFhvYWlDUks3bDNCSWxyc3dmUzlPb1N3MTRrbDVOQng2dTBxLWRUMkMyeUpMXzY1bng1emRpbHZVOTI0WmZaTdIB6AFBVV95cUxPeEh4Ui1oaktJdUZYQ2tYTFFWZ2pLajlnMmlrMi10WmxMZ0dLX0dLOGNnNUtBYXFYSWtRQTREbG52YzJ2Z1pzbTZTRzJFTU1QLWpkbm9nQkdqYXhBN1VCWjR5c3lrV3pqU0NpTEItZDl5c011blc3QjJiTExqMldUM2ZCTzB3cTZYcHZDZnZhcEluSTNxOTFSOHQ4RFhkcXd0dWJmVDA3MF9wQm9oTWJqWEVNTjRLWUQwN3haNkM4WG1OVVFTN2lyb0xIMVRkREE1Q01DeU5rWWo1UnZYYUZoUUhzcWhoUUpY?oc=5) |
-| 2026-10-26 | Pronto Founder Anjali Sardana Sets Up US-Based Physical AI Venture Provision Labs - CIOL | physical ai startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1pYc0hUTGRPbkpJM25hWC1pQVFlU3FqbE1Hd3dEMjJpY1pxUDBkVXd3QUJsbXVTZXpSVjdUemdIVDY0OWxDM1dSVzdySUV5eHBmV0JWbm82cGloeUhPS1o0S2V3NGtEUVh0aGkyYzdwS1ZHdllsR2JwMnlTajQxTHkxRUVOTnBDVG1NM1JkWFF1a3lVaG9LOE1Hd9IBmwFBVV95cUxQY1pYc0hUTGRPbkpJM25hWC1pQVFlU3FqbE1Hd3dEMjJpY1pxUDBkVXd3QUJsbXVTZXpSVjdUemdIVDY0OWxDM1dSVzdySUV5eHBmV0JWbm82cGloeUhPS1o0S2V3NGtEUVh0aGkyYzdwS1ZHdllsR2JwMnlTajQxTHkxRUVOTnBDVG1NM1JkWFF1a3lVaG9LOE1Hdw?oc=5) |
 | 2026-10-26 | When the Code Fails, Burn Incense: China’s AI Startups Turn to the Gods - RADII | embodied ai startup | [link](https://news.google.com/rss/articles/CBMicEFVX3lxTFBzNjdBNEpSR04yaElZSnhGeTY0NXZydlMtMjNSNGd6NVhTb1pFS0pSZUdMdUFZQWNVQ3l6aW1Sa0hldHNnU096Ni1lM2VkWVZKV3RibnQ4bVpuNGFzLXpkeWtlY3cyM0NnZXkxMUpodjQ?oc=5) |
