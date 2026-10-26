@@ -1,5 +1,12 @@
 [
   {
+    "title": "Practice Japanese on an Inkplate 4Tempera eInk Device",
+    "source": "Hackaday",
+    "date": "2026-10-26",
+    "url": "https://hackaday.com/2026/10/26/practice-japanese-on-an-inkplate-4tempera-eink-device/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"432\" src=\"https://hackaday.com/wp-content/uploads/2026/10/enkiplate_epaper_virpo_peter_hraska_github.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Learning a new natural language can be a daunting proposition at the best of times, with repetition and immersion generally considered to be the best ways to build up not <a class=\"read-more\" href=\"https://hackaday.com/2026/10/26/practice-japanese-on-an-inkplate-4tempera-eink-device/\">&#8230;read more</a>"
+  },
+  {
     "title": "Arduino Engine Runs Many Games",
     "source": "Hackaday",
     "date": "2026-10-26",
@@ -42,13 +49,6 @@
     "summary": "<div><img alt=\"A 3D-printed propeller is shown mounted on a motor on a triangular test stand. Each corner has a load cell, and wires run from it to the right.\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/10/helicopter_propeller.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A helicopter blade uses a swash plate and a set of linkages to change the angle of the blades. Not only does it vary the collective pitch to increase or <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/building-a-swashplate-less-helicoper-rotor/\">&#8230;read more</a>"
   },
   {
-    "title": "Transforming a Tungsten Ditelluride Monolayer into a Transistor",
-    "source": "Hackaday",
-    "date": "2026-10-26",
-    "url": "https://hackaday.com/2026/10/25/transforming-a-tungsten-ditelluride-monolayer-into-a-transistor/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"501\" src=\"https://hackaday.com/wp-content/uploads/2026/10/tmdc_mosfet_seok_young_min_et_al_science_2026.jpg?w=701\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"701\" /></div>In the world of silicon semiconductors, the process of creating transistors and similar structures involves various rounds of modifications and additions in order to create the requisite functional layers. A <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/transforming-a-tungsten-ditelluride-monolayer-into-a-transistor/\">&#8230;read more</a>"
-  },
-  {
     "title": "Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",
     "source": "CNX Software",
     "date": "2026-10-26",
@@ -63,6 +63,13 @@
     "summary": "<div><img alt=\"Renesas RX74M and RX74N 600MHz MCUs with 22nm process and MRAM\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Renesas-RX74M-and-RX74N-600MHz-MCUs-with-22nm-process-and-MRAM-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas has introduced the RX74M and RX74N, two new 32-bit RX family MCUs built on a 22nm process with embedded MRAM. Both MCUs integrate a 600MHz RXv3e core and are designed for industrial automation, motor control, robotics, and energy management applications. The MCUs feature up to 1MB of code MRAM, 1.5MB SRAM, and 256KB of zero-wait-state local RAM for real-time processing. The RX74M adds an integrated EtherCAT slave controller, dual Gigabit Ethernet MACs with TSN support, and an Ethernet switch for industrial networking, while the RX74N offers a single Gigabit Ethernet interface for general industrial applications. Other features include CAN FD, USB 2.0, I3C, high-resolution PWM timers, and hardware-based security with Renesas Protect Zone. Renesas RX74M and RX74N specifications: MCU – 32-bit RXv3e core clocked at 300/480/600MHz Up to 3,604 CoreMark at 600MHz Single- and double-precision floating-point support Trigonometric function accelerator Register bank save function for faster interrupt response 32KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/26/renesas-rx74m-and-rx74n-600mhz-industrial-mcus-with-rxv3e-core-embedded-mram-22nm-process/\">Renesas RX74M and RX74N &#8211; 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Cadence Launches Maestro AI Models for Chip and System Design",
+    "source": "Embedded.com",
+    "date": "2026-10-26",
+    "url": "https://www.embedded.com/cadence-launches-maestro-ai-models-for-chip-and-system-design/",
+    "summary": "<p>Cadence Design Systems Inc. has introduced the Maestro AI Model Portfolio, a collection of domain-specialized artificial intelligence models designed to power agentic workflows across semiconductor and system design. The portfolio integrates specialized models with Cadence AI Super Agents, electronic design automation (EDA) and system design automation (SDA) tools, and reinforcement learning (RL) to improve engineering [...]</p>\n<p>The post <a href=\"https://www.embedded.com/cadence-launches-maestro-ai-models-for-chip-and-system-design/\">Cadence Launches Maestro AI Models for Chip and System Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Streamlined Development Platforms Are Now Critical to Edge AI Deployment",
     "source": "Embedded.com",
     "date": "2026-10-26",
@@ -70,88 +77,165 @@
     "summary": "<p>Streamlining development platforms has become a trend in the embedded industry, as the demand for deploying larger AI and machine-learning (ML) models at the edge increases development complexity, time, and, thereby, cost. The architectural diversity of embedded edge devices means that models must be converted, quantized or otherwise optimized, compiled for the target runtime, and [...]</p>\n<p>The post <a href=\"https://www.embedded.com/streamlined-development-platforms-are-now-critical-to-edge-ai-deployment/\">Streamlined Development Platforms Are Now Critical to Edge AI Deployment</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "USB-C Magnetic Connect hardware and compatibility",
-    "source": "Adafruit",
+    "title": "Tearing down the Apple iPhone Duo",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/usb-c-magnetic-connect-hardware-and-compatibility/",
-    "summary": "The Labs Web Team at LTT Labs took a close look at Microsoft&#8217;s Magnetic Connect, announced October 7th as a feature of the Surface Laptop Ultra. It is a magnetic breakaway charging connection built into a USB-C port. When the Magnetic Connect cable is not attached, the port works as a full USB4 40 Gbps [&#8230;]"
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/consumer-electronics/tearing-down-the-apple-iphone-duo-2026-10/",
+    "summary": "<p>Apple will take 25% of the Foldable Smartphone market in 2026, according to Counterpoint Research. But how repairable will the iPhone Duo prove to be?</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/consumer-electronics/tearing-down-the-apple-iphone-duo-2026-10/\">Tearing down the Apple iPhone Duo</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Over half a million records of open data on repair",
-    "source": "Adafruit",
+    "title": "The Elusive AI Killer App",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/over-half-a-million-records-of-open-data-on-repair/",
-    "summary": "Neil Mather, writing at openrepair.org, has announced the 2026 release of the Open Repair Alliance dataset, timed for Repair Day. The dataset now holds over half a million records of repair attempts logged at community repair events worldwide, including Repair Cafes, Fixit Clinics and Restart Parties. The electrical and electronics portion grew from 305,649 records [&#8230;]"
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-elusive-ai-killer-app-2026-10/",
+    "summary": "<p>A note from a partner in Apollo Global Management who is also the company’s Chief Economist, Torsten Slok (pictured) reinforces the flaw in the AI proposition: Where’s the killer app? [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-elusive-ai-killer-app-2026-10/\">The Elusive AI Killer App</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "The Adafruit Metro ESP32-P4 Hydra is an Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",
-    "source": "Adafruit",
+    "title": "KOA Speer heat shock resistors feature metal glaze resistance film",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/the-adafruit-metro-esp32-p4-hydra-is-an-arduino-uno-shaped-esp32-p4-esp32-c6-board-with-wifi-6-mipi-interfaces/",
-    "summary": "Debashis Das writes at CNX Software about the Adafruit Metro ESP32-P4 Hydra, an Arduino UNO-shaped board built around the ESP32-P4 with 16MB of PSRAM and 16MB of NOR flash. An ESP32-C6 handles WiFi 6, Bluetooth 5.3 LE, Thread, and Zigbee. The MIPI DSI and CSI connectors use the Raspberry Pi 22-pin format with two data [&#8230;]"
+    "url": "https://www.electronicsweekly.com/news/products/passives/koa-speer-heat-shock-resistors-feature-metal-glaze-resistance-film-2026-10/",
+    "summary": "<p>A new family of heat shock resistors from KOA Speer Electronics feature a metal glaze resistance film to provide improved high heat and weather resistance. The RK73B-AT resistors also feature [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/passives/koa-speer-heat-shock-resistors-feature-metal-glaze-resistance-film-2026-10/\">KOA Speer heat shock resistors feature metal glaze resistance film</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "REA: Reverse engineer anything",
-    "source": "Adafruit",
+    "title": "CScale exits stealth mode with $145m funding for gigawatt-scale AI",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/rea-reverse-engineer-anything/",
-    "summary": "REA is a tool set that lets a coding agent inspect software and answer questions about how it works. It installs with npx rea-agents@latest setup and connects to an existing agent. The agent can then read a program&#8217;s code, watch it run, and use what it finds to explain or rebuild a feature. Two worked [&#8230;]"
+    "url": "https://www.electronicsweekly.com/news/products/connectors/cscale-exits-stealth-with-145m-funding-for-gigawatt-scale-ai-2026-10/",
+    "summary": "<p>CScale, a Palo Alto startup for optical interconnects, has exited stealth mode with the announcement of $145 million in Series C funding. Nvidia and Intel Capital were among the investors. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/cscale-exits-stealth-with-145m-funding-for-gigawatt-scale-ai-2026-10/\">CScale exits stealth mode with $145m funding for gigawatt-scale AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Learn Guide Update: ARISS SSTV on Fruit Jam",
-    "source": "Adafruit",
+    "title": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/learn-guide-update-ariss-sstv-on-fruit-jam/",
-    "summary": "The Fruit Jam is now ARISS certified. The ARISS SSTV event series 34 &#8220;ARISS Hardware&#8221; recently ended and I was able to capture some really nice photos during the event using the Fruit Jam SSTV receiver. The ARISS SSTV page in the learn guide has been updated. A new gallery contains the best of the photos [&#8230;]"
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-apprenticeships-flapping-airplanes-sar-satellites-2026-10/",
+    "summary": "<p>What caught our eye this last week? The launch of the Apprenticeship Talent Bridge, the Flapping Airplanes startup story, and Iceye continuing to expand its SAR satellite constellation...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-apprenticeships-flapping-airplanes-sar-satellites-2026-10/\">What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "AI-assisted PCB design for KiCAD 10 using MCP",
-    "source": "Adafruit",
+    "title": "Government to set up Biosecurity Lab for biological AI threats",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/ai-assisted-pcb-design-for-kicad-10-using-mcp/",
-    "summary": "Konnect, from developer mixelpixx on GitHub, is a native KiCad 10 plugin that lets Claude or another LLM work on schematics and boards through the Model Context Protocol. It ships as a single Rust binary, 20 to 25 MB installed from a roughly 9 MB download, with nothing else to install or version-match. It exposes [&#8230;]"
+    "url": "https://www.electronicsweekly.com/news/business/government-to-set-up-biosecurity-lab-for-ai-threats-2026-10/",
+    "summary": "<p>The government is to invest £100m in an AI Biosecurity Lab (AIBL) to counter biological risks posed by AI. Anthropic and OpenAI will contribute £200m in compute and model credits. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/government-to-set-up-biosecurity-lab-for-ai-threats-2026-10/\">Government to set up Biosecurity Lab for biological AI threats</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Putting Linux on my RTX Spark laptop because I don’t have a Microsoft account",
-    "source": "Adafruit",
+    "title": "Anti-matter particle trapped in Illinois cage",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/putting-linux-on-my-rtx-spark-laptop-because-i-dont-have-a-microsoft-account/",
-    "summary": "Josephine Pfeiffer, an Arch Linux package maintainer, wrote on josie.lol about getting Arch Linux ARM running on an ASUS ProArt P16 H7607BA-SE033W, the 128 GB configuration with 6,144 CUDA cores. The laptop ships with Windows-only official support. NVIDIA&#8217;s kernel work for Ubuntu gave her a starting point. On top of that she fixed the ACPI [&#8230;]"
+    "url": "https://www.electronicsweekly.com/news/business/anti-matter-particle-trapped-in-cage-2026-10/",
+    "summary": "<p>Northwestern University physicists have trapped a particle of anti-matter in a cage (pictured) and are preparing to take measurements of its properties and compare them with the properties of matter. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/anti-matter-particle-trapped-in-cage-2026-10/\">Anti-matter particle trapped in Illinois cage</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Coffee Edition: a newspaper my printer prints while I sleep",
-    "source": "Adafruit",
+    "title": "Atomera and IQE hook up to advance RF GaN",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/coffee-edition-a-newspaper-my-printer-prints-while-i-sleep/",
-    "summary": "Erol Sen built a system that prints a two-page newspaper on his home printer every morning, and he wrote it up on erolsen.dev. A Claude routine writes the issue in the cloud at 05:15. GitHub Actions lays it out and checks it. A Raspberry Pi Pico 2 W on the WiFi sends it to the [&#8230;]"
+    "url": "https://www.electronicsweekly.com/news/business/atomera-and-iqe-hook-up-for-rf-gan-2026-10/",
+    "summary": "<p>Atomera, a semiconductor transistor materials and technology licensing company, has entered into a Joint Development Agreement (JDA) with IQE to bring high-performance, cost-effective RF GaN to market. The collaboration leverages [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/atomera-and-iqe-hook-up-for-rf-gan-2026-10/\">Atomera and IQE hook up to advance RF GaN</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "A simplified Arduino library for Espressif Matter endpoints on ESP32",
-    "source": "Adafruit",
+    "title": "Lab-grown muscles power robots",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/a-simplified-arduino-library-for-espressif-matter-endpoints-on-esp32/",
-    "summary": "EasyMatter is an Arduino C++11 wrapper by thegraywaver, published on GitHub, that sits on top of Espressif&#8217;s official Arduino Matter endpoints. It does not implement Matter itself and does not invent endpoint types. The current code targets the original ESP32-WROOM-32 with the Espressif Arduino-ESP32 Matter build. Set config.deviceType before begin(), and the library creates the [&#8230;]"
+    "url": "https://www.electronicsweekly.com/news/business/lab-grown-muscles-power-robots-2026-10/",
+    "summary": "<p>Lab-grown skeletal muscle tissue can contract, but the movement is often so slight that it is barely visible. This poses a problem for biohybrid robots designed to move using living [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lab-grown-muscles-power-robots-2026-10/\">Lab-grown muscles power robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out",
-    "source": "Adafruit",
+    "title": "Server CPUs to grow 30% in 2026 and 40% in 2027",
+    "source": "Electronics Weekly",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/python-3-15-2-3-14-10-3-13-18-3-12-16-and-3-11-18-are-out/",
-    "summary": "Hugo van Kemenade announced expedited security releases of Python on the Python Insider blog, covering 3.15, 3.14, 3.13, 3.12 and 3.11. The releases address the compromised eMudhra intermediate CA keys. Those keys are now blocked by the ssl module as a last resort against their use. Normal uses of pip, including upgrading pip itself, are [&#8230;]"
+    "url": "https://www.electronicsweekly.com/news/business/30-growth-in-server-cpus-in-2026-and-40-in-2027-2026-10/",
+    "summary": "<p>Server CPU shipments are projected to increase 31% y-o-y in 2026. In 2027 continued growth in AI inference demand and rising adoption of agentic AI services are expected to drive [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/30-growth-in-server-cpus-in-2026-and-40-in-2027-2026-10/\">Server CPUs to grow 30% in 2026 and 40% in 2027</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "title": "A wakeboarding winch build log",
     "source": "Adafruit",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-26/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/26/a-wakeboarding-winch-build-log/",
+    "summary": "Gal, writing at Mare &#38; Gal Electronics, documented an electric drum winch built to tow a wakeboarder. The 12 kW motor and the 24S10P battery pack, about 100 V charged, were pulled from a scrapped Awake board. The frame, drum, belt drive, rope guide, electronics and firmware are all his own work. The drum core [&#8230;]"
   },
   {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "title": "GitHub – ankur608/ArduinoUnoQ_AdafruitTouch",
     "source": "Adafruit",
     "date": "2026-10-26",
-    "url": "https://blog.adafruit.com/2026/10/25/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-25/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/26/github-ankur608-arduinounoq_adafruittouch-2/",
+    "summary": "ankur608 published an Arduino library on GitHub for using the Adafruit 2.8&#8243; TFT Touch Shield v2 with capacitive touch (PID 1947) on the Arduino UNO Q, specifically the arduino_uno_q_stm32u585xx core. The shield routes SPI through the 6-pin ICSP header rather than pins 11 through 13. On the UNO Q&#8217;s STM32U585, those land on MOSI 23, [&#8230;]"
+  },
+  {
+    "title": "EInk launches latest version of color ePaper platform E Ink Kaleido 4",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/eink-launches-latest-version-of-color-epaper-platform-e-ink-kaleido-4/",
+    "summary": "E Ink announced Kaleido 4, the newest generation of its color ePaper platform, in a press release from Billerica, Massachusetts. Compared to the previous generation, Kaleido 4 doubles color gamut volume to more than 40K, raises white reflectance by 15%, and improves contrast by 50%. New algorithms push video playback to 18 frames per second. [&#8230;]"
+  },
+  {
+    "title": "A pixel art fish tank for the Interstate 75 matrix LED controller for two panel displays",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/a-pixel-art-fish-tank-for-the-interstate-75-matrix-led-controller-for-two-panel-displays/",
+    "summary": "NickyMoo has published an animated pixel art aquarium on GitHub that runs on the Pimoroni Interstate 75 W (RP2350) and drives two 64 x 64 HUB75 panels side by side for a 128 x 64 scene. It needs no internet, no account, and no network code. The tank holds resident fish and visitors, jellyfish, a [&#8230;]"
+  },
+  {
+    "title": "keybytes: a truly modular keyboard",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/keybytes-a-truly-modular-keyboard/",
+    "summary": "Nathan, @NotARoomba on GitHub, designed Keybytes, a keyboard where each key is its own board. Everything was designed in KiCad. There are two board types, both 1u at 19.05mm x 19.05mm. The Keybit holds one Cherry MX switch and a CH32V003 microcontroller. Pogo pins on all four sides carry 3.3V, ground and I2C, so a [&#8230;]"
+  },
+  {
+    "title": "Making 1,750 programmable PCB badges for Canada’s biggest hackathon",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/making-1750-programmable-pcb-badges-for-canadas-biggest-hackathon/",
+    "summary": "Nick Ficara, writing at va3ndf.com, documented how his team replaced the cardstock name tag at Hack the North with a programmable circuit board. Each badge carries an ESP32, a color screen, buttons, an NFC reader, a WS2812B LED and two AA cells. A Lua runtime, a browser-based code editor and an on-device shell let attendees [&#8230;]"
+  },
+  {
+    "title": "The Lightbulb Computer: reimagining spatial & ambient computing",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/the-lightbulb-computer-reimagining-spatial-ambient-computing/",
+    "summary": "A design project published at lightbulbcomputer.com proposes an alternative to smart glasses and headsets: a speculative device called the Lightbulb Computer. It combines a projector with computer vision in the shape of a large light bulb, so it can screw into any Edison socket in a wall or ceiling, or sit in a portable lamp [&#8230;]"
+  },
+  {
+    "title": "Amateur astronomer harnesses AI to find a possible hidden exoplanet",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/",
+    "summary": "Adam Kovac, writing for Scientific American, reports on an amateur astronomer who used AI agents to pull a possible exoplanet out of public NASA data. Pavel Rabtsevich, a product manager based in Spain, ran a custom machine learning setup over more than 126,000 target stars observed by the Transiting Exoplanet Survey Satellite. It flagged TIC [&#8230;]"
+  },
+  {
+    "title": "An Atari Steeplechase arcade cabinet restoration",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/an-atari-steeplechase-arcade-cabinet-restoration/",
+    "summary": "Tony at The Arcade Blogger has posted a follow-up on an Atari Steeplechase cabinet he pulled out of a condemned building in France during a group rescue trip with other arcade collectors. The machine is the Atari Europe version, which uses a different cabinet shape than the more angular USA release. Tony cleaned it up [&#8230;]"
+  },
+  {
+    "title": "ESP_MOVIE: Movie playback library for ESP32 series",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/esp_movie-movie-playback-library-for-esp32-series/",
+    "summary": "Tomino Shun has published ESP_MOVIE on GitHub, a movie playback library for the ESP32 series. It plays Motion JPEG video from AVI files along with MP3 audio. The library drives displays over an Intel 8080 8-bit parallel interface using DMA transfer. SPI is not supported. Color formats are RGB565 and BGR565. A handful of display [&#8230;]"
+  },
+  {
+    "title": "Boar BBS: a telnet and SSH bulletin board with mail, boards, chat and door games",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/boar-bbs-a-telnet-and-ssh-bulletin-board-with-mail-boards-chat-and-door-games/",
+    "summary": "BBS Developer rh1tech has published Boar BBS on GitHub, a bulletin board system that callers reach over telnet or SSH. It has ANSI color, CP437 block art, hotkey menus, private mail, public message boards, live chat, door games and a oneliner wall, along with sysop tools. Boar is written in Go and builds to a [&#8230;]"
+  },
+  {
+    "title": "Implementation of the HDA Link interface on RP2040",
+    "source": "Adafruit",
+    "date": "2026-10-26",
+    "url": "https://blog.adafruit.com/2026/10/26/implementation-of-the-hda-link-interface-on-rp2040/",
+    "summary": "A post on habr.com documents an RP2040 driving an Intel High Definition Audio codec directly, with no chipset and no FPGA. HDA, also called Azalia, uses four wires and supports up to 15 channels in and 15 out, well past the two in, two out that I²S usually gives you. The hard part is timing. [&#8230;]"
+  },
+  {
+    "title": "Data Centers: Sensirion Sensor Solutions — Sensirion and Mouser Electronics",
+    "source": "EE Journal",
+    "date": "2026-10-26",
+    "url": "https://www.eejournal.com/chalk_talks/data-centers-sensirion-sensor-solutions-sensirion-and-mouser-electronics/",
+    "summary": "In this episode of Chalk Talk, Sebastian Schnoz from Sensirion and Amelia Dalton explore the challenges facing data center operations; from thermal management and energy efficiency to environmental monitoring, leak detection, and battery safety. They also investigate how Sensirion helps data center designers monitor critical conditions, identify problems earlier, and make more informed decisions. Click [&#8230;]"
   },
   {
     "title": "TASKING Launches Industry’s First Single-Vendor Unified Toolchain for the NXP S32K5 Automotive MCU Family",
@@ -259,13 +343,6 @@
     "summary": "MicroVision, Inc. (NASDAQ: MVIS), a leader in advanced perception solutions for industrial, security and defense, intelligent infrastructure, and automotive applications, today announced the much-anticipated commercial production launch of MOVIA™ Pro, shipping sensors to meet customer demand. MOVIA Pro is the company’s next-generation short-range lidar sensor uniquely engineered to deliver differentiated sensing performance and onboard perception [&#8230;]"
   },
   {
-    "title": "Inside Silicon Quantum Computing’s Atomic Precision",
-    "source": "EE Journal",
-    "date": "2026-10-23",
-    "url": "https://www.eejournal.com/fish_fry/inside-silicon-quantum-computings-atomic-precision/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"255\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/AD-102326-300x255.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />﻿ This week we’re diving deep into the world of atomic-scale manufacturing and quantum engineering with Dr. Ludwik Kranz, Head of Quantum Engineering at Silicon Quantum Computing (SQC). Ludwik and I chat about how SQC is engineering quantum processors at the atomic scale, how to measure quantum computing progress beyond qubit count, and what applications [&#8230;]"
-  },
-  {
     "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
     "source": "CNX Software",
     "date": "2026-10-22",
@@ -348,12 +425,5 @@
     "date": "2026-10-19",
     "url": "https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/",
     "summary": "<div><img alt=\"Linux 7.3\" class=\"attachment-medium size-medium wp-post-image\" height=\"450\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Linux-7.3-720x450.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Linus Torvalds announced the release of Linux 7.3 on LKML last Sunday: It&#8217;s Sunday afternoon, and this week I somehow kept my wits together long enough to keep track of the day of the week, so the release isn&#8217;t randomly delayed. Will wonders never cease? Anyway, nothing very special seems to have happened this last week, so as expected the final 7.3 is out, and thus tomorrow the merge window for 7.4 opens. Except I&#8217;m on my annual family vacation, so instead of merging anything first thing in the morning, I&#8217;ll spend most of the day on a boat and under water. I&#8217;ll get back to merging in the afternoon, but I expect my schedule to be a bit unusual for a while. I hope I can still complete the merge window in the usual two weeks, but it may be that I&#8217;ll end up with an extra week of merging [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/\">Linux 7.3 release &#8211; Main Changes, Arm, RISC-V, and MIPS architectures</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
-    "source": "Embedded.com",
-    "date": "2026-10-19",
-    "url": "https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production/",
-    "summary": "<p>Seco has moved its Modular Vision 10.1 MX95 industrial human-machine interface (HMI) platform into mass production, making it available to original equipment manufacturers (OEMs) and system integrators developing new industrial interfaces or upgrading existing machine designs. Based on NXP's i.MX 95 applications processor, the platform integrates computing, display, industrial connectivity, and software into a single [...]</p>\n<p>The post <a href=\"https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production/\">Seco Modular Vision 10.1 MX95 Enters Mass Production</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]

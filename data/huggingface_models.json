@@ -1,5 +1,41 @@
 [
   {
+    "model": "yujiepan/minicpm-robot-track-tiny-random",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yujiepan/minicpm-robot-track-tiny-random",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tiny-random/minicpm-robot-track",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tiny-random/minicpm-robot-track",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "yujiepan/minicpm-robot-manip-tiny-random",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yujiepan/minicpm-robot-manip-tiny-random",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "tiny-random/minicpm-robot-manip",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tiny-random/minicpm-robot-manip",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k",
     "downloads": 0,
     "likes": 0,
@@ -72,40 +108,40 @@
     "score": 0.1
   },
   {
-    "model": "NFHH/lingbot-robotwin-s22k8k-v3uni-5k",
+    "model": "siliconperception/vla",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/NFHH/lingbot-robotwin-s22k8k-v3uni-5k",
+    "url": "https://huggingface.co/siliconperception/vla",
     "date": "2026-10-26",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "wjwjwjwj/gr00t-n1.7-robotwin-pick_dual_bottles-cosmos-aug",
+    "model": "ib-007/vlarm_act_t1_v3_scene_noise10",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-pick_dual_bottles-cosmos-aug",
+    "url": "https://huggingface.co/ib-007/vlarm_act_t1_v3_scene_noise10",
     "date": "2026-10-26",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "wjwjwjwj/gr00t-n1.7-robotwin-shake_bottle-cosmos-aug",
+    "model": "ib-007/vlarm_act_t1_v3_aux",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-shake_bottle-cosmos-aug",
+    "url": "https://huggingface.co/ib-007/vlarm_act_t1_v3_aux",
     "date": "2026-10-26",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "wjwjwjwj/gr00t-n1.7-robotwin-rotate_qrcode-cosmos-aug",
+    "model": "Aitugan/tactile-vla-pi05-prefix64-seed1001-25k",
     "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-rotate_qrcode-cosmos-aug",
+    "likes": 0,
+    "url": "https://huggingface.co/Aitugan/tactile-vla-pi05-prefix64-seed1001-25k",
     "date": "2026-10-26",
-    "keyword": "robot",
-    "score": 0.3
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "matteuscruz/vla-g1-hpc",
@@ -171,24 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "xiaochengsky/lingbot-vla-v2-robotwin-hf-aug-25k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/xiaochengsky/lingbot-vla-v2-robotwin-hf-aug-25k",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "mkun2/physical-ai-relief-delivery",
     "downloads": 0,
     "likes": 0,
@@ -198,10 +216,28 @@
     "score": 0.1
   },
   {
+    "model": "Kkbo123/mc-policy-checkpoints-2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Kkbo123/mc-policy-checkpoints-2",
+    "date": "2026-10-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Kkbo123/mc-policy-checkpoints",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Kkbo123/mc-policy-checkpoints",
+    "date": "2026-10-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "QuixoteH/umi-arena-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
     "date": "2026-10-26",
     "keyword": "policy",
     "score": 0.1
@@ -229,15 +265,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Jycccc111/Go-Policy",
-    "date": "2026-10-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "QuixoteH/umi-arena-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
     "date": "2026-10-26",
     "keyword": "policy",
     "score": 0.1
@@ -358,24 +385,6 @@
     "date": "2026-10-26",
     "keyword": "robotics",
     "score": 11.8
-  },
-  {
-    "model": "Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
-    "date": "2026-10-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
-    "date": "2026-10-25",
-    "keyword": "vla",
-    "score": 6.7
   },
   {
     "model": "JahaoZhang/Bipartite-World-Modeling",
@@ -549,15 +558,6 @@
     "score": 0.1
   },
   {
-    "model": "yaditya/qual-final-fft-policy",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/yaditya/qual-final-fft-policy",
-    "date": "2026-10-25",
-    "keyword": "policy",
-    "score": 3.7
-  },
-  {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
     "downloads": 75,
     "likes": 0,
@@ -639,10 +639,10 @@
     "score": 6.1
   },
   {
-    "model": "Delaviz/whose-world-does-the-model-know",
+    "model": "ayeshad/whose-world-does-the-model-know",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Delaviz/whose-world-does-the-model-know",
+    "url": "https://huggingface.co/ayeshad/whose-world-does-the-model-know",
     "date": "2026-10-20",
     "keyword": "world model",
     "score": 0.1
