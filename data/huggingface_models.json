@@ -1,20 +1,128 @@
 [
   {
-    "model": "game-plus/qwen3.5-4b-gameworld-sft-policyonly-final",
+    "model": "EthanWang2747/lingbot-radeon-robotwin",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/game-plus/qwen3.5-4b-gameworld-sft-policyonly-final",
+    "url": "https://huggingface.co/EthanWang2747/lingbot-radeon-robotwin",
     "date": "2026-10-26",
-    "keyword": "policy",
+    "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "AetherLabs-AI/RobotAgentBench-InternVLA-A1.5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/AetherLabs-AI/RobotAgentBench-InternVLA-A1.5",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "xiaochengsky/lingbot-vla-v2-robotwin-hf-aug-25k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/xiaochengsky/lingbot-vla-v2-robotwin-hf-aug-25k",
+    "date": "2026-10-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "downloads": 47,
+    "likes": 0,
+    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 14.2
   },
   {
     "model": "Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Chand0320/pi05-robotwin-pick-dual-bottles-pace-fullft-30k",
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b256_16k_h48e24",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b256_16k_h48e24",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b256_16k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b256_16k",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
+    "date": "2026-10-26",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SuNya558/lingbot-vla-80k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SuNya558/lingbot-vla-80k",
+    "date": "2026-10-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mkun2/physical-ai-relief-delivery",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mkun2/physical-ai-relief-delivery",
+    "date": "2026-10-26",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "QuixoteH/umi-arena-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
+    "date": "2026-10-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Jycccc111/Go-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jycccc111/Go-Policy",
+    "date": "2026-10-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "game-plus/qwen3.5-4b-gameworld-sft-policyonly-final",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/game-plus/qwen3.5-4b-gameworld-sft-policyonly-final",
+    "date": "2026-10-26",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -25,15 +133,6 @@
     "date": "2026-10-25",
     "keyword": "robot",
     "score": 1.3
-  },
-  {
-    "model": "Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "downloads": 47,
-    "likes": 0,
-    "url": "https://huggingface.co/Xiaodong/lingbotvla-robotwin-clean-sft-20k-PICA",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 14.2
   },
   {
     "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-flexpi-source",
@@ -51,78 +150,6 @@
     "url": "https://huggingface.co/Niguel/Robot-X5",
     "date": "2026-10-25",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-legacy-estimated",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261023-A-legacy-estimated",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
-    "model": "renbin1/pi05-robotwin-arx-x5-four-tasks-1000-15000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/renbin1/pi05-robotwin-arx-x5-four-tasks-1000-15000",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "mjleee/gr00t-n1.7-robotwin-90-k4-recap",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mjleee/gr00t-n1.7-robotwin-90-k4-recap",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "n4chi/team6-robotpizzeria-smolvla-cheese-v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/n4chi/team6-robotpizzeria-smolvla-cheese-v3",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-SVAE-RoboTwin-v7",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-SVAE-RoboTwin-v7",
-    "date": "2026-10-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "SuNya558/lingbot-vla-80k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SuNya558/lingbot-vla-80k",
-    "date": "2026-10-25",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -378,15 +405,6 @@
     "score": 0.1
   },
   {
-    "model": "QuixoteH/umi-arena-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
-    "date": "2026-10-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "policyengine/policyengine-uk-data-private",
     "downloads": 0,
     "likes": 0,
@@ -430,24 +448,6 @@
     "date": "2026-10-25",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "ZitaoXu/toppings-smolvla-multitask-Fix-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ZitaoXu/toppings-smolvla-multitask-Fix-policy",
-    "date": "2026-10-25",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Harrysunshine/so101-lingbot-vla-v2-40k",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/Harrysunshine/so101-lingbot-vla-v2-40k",
-    "date": "2026-10-24",
-    "keyword": "vla",
-    "score": 2.8
   },
   {
     "model": "frankmorales2020/topo-cbp-world-model-3d",
@@ -630,15 +630,6 @@
     "score": 5.5
   },
   {
-    "model": "masterset-ai/PhysicalEye-Decide-35B",
-    "downloads": 102,
-    "likes": 2,
-    "url": "https://huggingface.co/masterset-ai/PhysicalEye-Decide-35B",
-    "date": "2026-10-21",
-    "keyword": "physical ai",
-    "score": 31.1
-  },
-  {
     "model": "L7-Robotics/pi05_so101_camera_setting_2026Oct_redcube_whitebowl_polarbear_greentray_v1",
     "downloads": 10,
     "likes": 0,
@@ -659,11 +650,11 @@
   {
     "model": "jepa-world-models/h-jepa",
     "downloads": 0,
-    "likes": 11,
+    "likes": 12,
     "url": "https://huggingface.co/jepa-world-models/h-jepa",
     "date": "2026-10-20",
     "keyword": "world model",
-    "score": 2.3
+    "score": 2.5
   },
   {
     "model": "JiaxinGe/pacman_braidthin_forward_v4_shorttrap_only_kinf_world_model",
