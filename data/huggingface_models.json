@@ -108,6 +108,24 @@
     "score": 0.1
   },
   {
+    "model": "vladimir94/dory-1.0-4b-ane-coreml",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladimir94/dory-1.0-4b-ane-coreml",
+    "date": "2026-10-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "pepijn223/hy-vla-umi-grabette-5epochs",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pepijn223/hy-vla-umi-grabette-5epochs",
+    "date": "2026-10-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Najongs/vla-recipe-ckpts",
     "downloads": 0,
     "likes": 0,
@@ -151,6 +169,15 @@
     "date": "2026-10-27",
     "keyword": "vla",
     "score": 7.0
+  },
+  {
+    "model": "YongYong/cis6280-stack-world-models-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
+    "date": "2026-10-27",
+    "keyword": "world model",
+    "score": 0.1
   },
   {
     "model": "jiahaozhang6/tri-world-model",
@@ -216,12 +243,12 @@
     "score": 0.1
   },
   {
-    "model": "Kkbo123/mc-policy-checkpoints",
+    "model": "navigation07/semi-signals-detector-a",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Kkbo123/mc-policy-checkpoints",
+    "url": "https://huggingface.co/navigation07/semi-signals-detector-a",
     "date": "2026-10-27",
-    "keyword": "policy",
+    "keyword": "navigation",
     "score": 0.1
   },
   {
@@ -229,6 +256,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-27",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Kkbo123/mc-policy-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Kkbo123/mc-policy-checkpoints",
     "date": "2026-10-27",
     "keyword": "policy",
     "score": 0.1
@@ -364,24 +400,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Aitugan/tactile-vla-pi05-prefix64-seed1001-25k",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "twanghcmut/lingbot-vla-v2-so101-left-arm-multitask",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/twanghcmut/lingbot-vla-v2-so101-left-arm-multitask",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "RocheL/vlatest",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RocheL/vlatest",
     "date": "2026-10-26",
     "keyword": "vla",
     "score": 0.1
@@ -592,15 +610,6 @@
     "date": "2026-10-24",
     "keyword": "world model",
     "score": 22.9
-  },
-  {
-    "model": "YongYong/cis6280-stack-world-models-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
-    "date": "2026-10-24",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "jadidbourbaki/shared-cache-world-model",
@@ -844,14 +853,5 @@
     "date": "2026-09-15",
     "keyword": "navigation",
     "score": 0.7
-  },
-  {
-    "model": "sukixp/vt-navigation-llama-3b",
-    "downloads": 20,
-    "likes": 1,
-    "url": "https://huggingface.co/sukixp/vt-navigation-llama-3b",
-    "date": "2026-09-11",
-    "keyword": "navigation",
-    "score": 6.3
   }
 ]
