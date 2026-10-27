@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-26 21:57 UTC
+Generated: 2026-10-27 00:59 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -15,19 +15,19 @@ Generated: 2026-10-26 21:57 UTC
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 83773 | 33509.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64000 | 25600.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 64001 | 25600.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44735 | 17894.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30807 | 12322.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29686 | 11874.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30808 | 12323.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29688 | 11875.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 739 | 221.8 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
 | mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 463 | 139.0 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
 | zxyty/physicalai-qwen3-14b | 244 | 73.5 | [link](https://huggingface.co/zxyty/physicalai-qwen3-14b) |
 | mradermacher/EmbodiedBrain-7B-GGUF | 244 | 73.5 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
 | mradermacher/PhysicalAI-reason-VLA-GGUF | 196 | 58.9 | [link](https://huggingface.co/mradermacher/PhysicalAI-reason-VLA-GGUF) |
+| mradermacher/EmbodiedBrain-32B-GGUF | 162 | 48.7 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-32B-GGUF) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -36,7 +36,7 @@ Generated: 2026-10-26 21:57 UTC
 | 2026-10-26 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmt1SjdaTHRXZTZjNWo4VG4wLUxjRllUV2ZFQzlpQl91aTIyb1Q3bzZ2LXB2LUNjTUhkZW92Nmt4YVZuOFg3X3QwWktMc1NPd3VLV2NzMHVSUkJjOXRfQ2pfNERPM000MWJHdzJ5Qm0weWNYT2pPdVppbmZxNjNnTXltLTdJYnZQY01oVjNuVXNRTGNydUFUaTlBNnJxb2FnbDV0NnV2cTlmY2R6Y1FaT2RYWUlObjhEMTRr?oc=5) |
 | 2026-10-26 | Unitree |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGp3Z1JWMS1NYVNOR1NCczB3RXlxV1hSMkQ2WVV1dXlka0FSUnZNZ3hGNzN3QUJNdnJSdy1zaHhxa2JCc2Q3OHJSckJlTk1RUWtRZlFfTzdySjl3YUw2QjRuY2VxOFduWVowR2I5clRnUHgzS1ZNOHVJenBlQTBNUGUydlkxMGhpdXF3YUM1Vng5V0gwLWo4NjNhLXJPMURfZHFpR1Jn?oc=5) |
 | 2026-10-26 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pS29SWXlxclB2aVgwUl9pNi1kdTBVQ2VsOEdGcEdBVkIxVUVXNC1ORTVtTnZlampQUG1lX004MFhXYTZDNzlZZU8yejY1TVU5Wlk5SA?oc=5) |
-| 2026-10-24 | Unitree |  | [link](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaG5DYWhzS3VrNW1yMTFqNHVKWmdYQ1VLcGZqOUtuZ0h1elU3RVVSSEQ0aWJtTW5LRW9idVlHVFlrcEtiNklkMkxtem1VcXFOZU96TFhIRVF1SXl3WWZ2UGdraEdaQW54VTJYd01CZk1qdnRBY2pPc01HRjRNdkVlRnpGWWlxdlJvUUE2eGFrUXBZYi01QlNaX0xEaUlFblh2WVNLaGgwSS1iVWZUWXd3bEdIbkQ3Ml85SnBucld3eDNDN0ZJZUZPTEplUTdnZ1V4Z0EyOV9mR25oaDDSAeABQVVfeXFMUDJneGdFQWJicVVSQnNJN085VUlOR1JkNU9mQ2w3VTVoQmlQY1QwRmRldWZONDgwQWs3em95akNkMy1UOHMzMFd2M1EzRklQd1ltV3BrQ1F1NHplY1BsZm5qYlpZTjFCdEQ2Zi1xa09JeWgwTVVXOEZ0Vm02YjZTWTFNVUxJa2NHNi1pRWo1OTFEaVprb3JXVjNqRVJQYkVUYThwdzAxdERvUzZDYU1TdEk1QzcxT1BGZTZlcmRVYjlJaFBkOE9sS1NDU05XaUNwVDNiYzJMZnpQMzBPNTlSQ04?oc=5) |
+| 2026-10-23 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXA4NGZ5cFV0S2E5U2hNRk4tZ0piay1jWWhScjJ0bWRPQllrcDRZUzFNamdHc0tGZF9NOFFpQnZXQ0c0SjZuaVhKQV82MXFRRnJZUVV0a2l1OTZLaGVoZHNQNVlfMGwzXzNWY0pTYTQ5ZlRRc2tSNnNUc3pPbFcyU0xTLXdJNlhYOE1odjk0QWtEc2FBTUctazRRWXNKcHl4Sm1LUEpKdWxlQU55c0staTJrYkNLYXlQREpHdG5wcEhmemxQTGc?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

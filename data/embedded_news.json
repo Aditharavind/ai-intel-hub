@@ -1,5 +1,19 @@
 [
   {
+    "title": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications",
+    "source": "CNX Software",
+    "date": "2026-10-27",
+    "url": "https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/",
+    "summary": "<div><img alt=\"MYIR MYC-JR3576 system-on-module\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/MYIR-JR3576-system-on-module-720x432.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MYIR MYC-JR3576 is a SMARC 2.2 system-on-module (SoM) powered by a Rockchip RK3576/RK3576J octa-core Cortex-A72/A53 SoC with a 6 TOPS NPU designed for Edge AI applications. It features up to  8GB LPDDR5, up to 64GB eMMC flash, an optional WiFI 6E and Bluetooth 5.4 module, and exposes all I/Os through a 314-pin MXM connector as defined in the SMARC 2.2 standard. The company says it&#8217;s the socketed counterpart to its LGA-packaged MYC-LR3576 (43 x 45 mm) module introduced in 2024, so the same processor is now available in both solder-down and standard form factors from MYiR. MYC-JR3576 &#8211; Rockchip RK3576 SMARC 2.2 module MYIR MYC-JR3576 specifications: SoC – Rockchip RK3576 (commercial) or RK3576J (industrial) CPU 4x Cortex-A72 cores @ 2.2GHz, four Cortex-A53 cores @ 1.8GHz Arm Cortex-M0 MCU at 400MHz GPU – ARM Mali-G52 MC3 GPU with support for OpenGL ES 1.1, 2.0 and 3.2, OpenCL up to 2.0 and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/\">Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Enable Resizable BAR on Unsupported Motherboards",
+    "source": "Hackaday",
+    "date": "2026-10-26",
+    "url": "https://hackaday.com/2026/10/26/enable-resizable-bar-on-unsupported-motherboards/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"459\" src=\"https://hackaday.com/wp-content/uploads/2026/10/arc-rebar_fix_rod_burlamaqui_github.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Recently [Rod Burlamaqui] released the arc-rebar project on GitHub, enabling Intel GPUs to work significantly more efficiently if the system&#8217;s mainboard does not support resizable BAR. It does require a <a class=\"read-more\" href=\"https://hackaday.com/2026/10/26/enable-resizable-bar-on-unsupported-motherboards/\">&#8230;read more</a>"
+  },
+  {
     "title": "Practice Japanese on an Inkplate 4Tempera eInk Device",
     "source": "Hackaday",
     "date": "2026-10-26",
@@ -40,13 +54,6 @@
     "date": "2026-10-26",
     "url": "https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/I-made-a-HAIRY-combat-robot-in-48hrs-26-38-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Angus] of Maker&#8217;s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a <a class=\"read-more\" href=\"https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Building a Swashplate-less Helicoper Rotor",
-    "source": "Hackaday",
-    "date": "2026-10-26",
-    "url": "https://hackaday.com/2026/10/25/building-a-swashplate-less-helicoper-rotor/",
-    "summary": "<div><img alt=\"A 3D-printed propeller is shown mounted on a motor on a triangular test stand. Each corner has a load cell, and wires run from it to the right.\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/10/helicopter_propeller.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>A helicopter blade uses a swash plate and a set of linkages to change the angle of the blades. Not only does it vary the collective pitch to increase or <a class=\"read-more\" href=\"https://hackaday.com/2026/10/25/building-a-swashplate-less-helicoper-rotor/\">&#8230;read more</a>"
   },
   {
     "title": "Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",
@@ -418,12 +425,5 @@
     "date": "2026-10-20",
     "url": "https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/",
     "summary": "<p>Synaptics Inc. has claimed a new class of microcontrollers (MCUs), the xMCU, for multimodal edge AI. Announced at its annual tech day, the new Astra SR200 series combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM. It was designed to enable device-native and real-time experiences that combine modalities such as voice, vision, audio, [...]</p>\n<p>The post <a href=\"https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform/\">Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures",
-    "source": "CNX Software",
-    "date": "2026-10-19",
-    "url": "https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/",
-    "summary": "<div><img alt=\"Linux 7.3\" class=\"attachment-medium size-medium wp-post-image\" height=\"450\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Linux-7.3-720x450.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Linus Torvalds announced the release of Linux 7.3 on LKML last Sunday: It&#8217;s Sunday afternoon, and this week I somehow kept my wits together long enough to keep track of the day of the week, so the release isn&#8217;t randomly delayed. Will wonders never cease? Anyway, nothing very special seems to have happened this last week, so as expected the final 7.3 is out, and thus tomorrow the merge window for 7.4 opens. Except I&#8217;m on my annual family vacation, so instead of merging anything first thing in the morning, I&#8217;ll spend most of the day on a boat and under water. I&#8217;ll get back to merging in the afternoon, but I expect my schedule to be a bit unusual for a while. I hope I can still complete the merge window in the usual two weeks, but it may be that I&#8217;ll end up with an extra week of merging [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/\">Linux 7.3 release &#8211; Main Changes, Arm, RISC-V, and MIPS architectures</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   }
 ]
