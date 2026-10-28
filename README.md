@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-28 00:47 UTC
+Last Updated: 2026-10-28 06:23 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,72 +49,72 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-28 | Hacking a Marine Radio Dish | Hackaday | [link](https://hackaday.com/2026/10/27/hacking-a-marine-radio-dish/) |
+| 2026-10-28 | Airborne Particle Monitoring, the BIG way | Hackaday | [link](https://hackaday.com/2026/10/27/airborne-particle-monitoring-the-big-way/) |
 | 2026-10-28 | Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/) |
+| 2026-10-28 | Anduril and Qualcomm hook up for ruggedised laptop | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/a-duel-and-qualcomm-hook-up-for-ruggedised-laptop-2026-10/) |
+| 2026-10-28 | Lam and Imec pursue 3-D integration | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/lam-and-imec-pursue-3-d-integration-2026-10/) |
+| 2026-10-28 | Japan argues Emissions vs Net Zero | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/japan-argues-emissions-vs-net-zero-2026-10/) |
+| 2026-10-28 | Infineon  to put €1.1bn into GaN fab | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-to-put-e1-1bn-into-gan-fab-2026-10/) |
+| 2026-10-28 | Panasonic adds to EVP series of tactile switches | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/panasonic-adds-to-evp-series-of-tactile-switches-2026-10/) |
+| 2026-10-28 | Top Ten Q2 EV Vendors | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-q2-ev-vendors-2-2026-10/) |
 | 2026-10-27 | How a Single University Project Started Everything | Hackaday | [link](https://hackaday.com/2026/10/27/how-a-single-university-project-started-everything/) |
-| 2026-10-27 | 2026 Retrocomputing Challenge: Explore Space with a Credit Card Reader | Hackaday | [link](https://hackaday.com/2026/10/27/2026-retrocomputing-challenge-explore-space-with-a-credit-card-reader/) |
-| 2026-10-27 | Where Did Your Mouse Come From? | Hackaday | [link](https://hackaday.com/2026/10/27/where-did-your-mouse-come-from/) |
-| 2026-10-27 | How Bad Is That Bridge: A Government Database | Hackaday | [link](https://hackaday.com/2026/10/27/how-bad-is-that-bridge-a-government-database/) |
-| 2026-10-27 | SIMD-accelerated Machine Vision on an ESP32-S3 | Hackaday | [link](https://hackaday.com/2026/10/27/simd-accelerated-machine-vision-on-an-esp32-s3/) |
-| 2026-10-27 | ESP32 Rotary Display Makes Ideal Timer | Hackaday | [link](https://hackaday.com/2026/10/27/esp32-rotary-display-makes-ideal-timer/) |
-| 2026-10-27 | The Oldest Windows App To Still Run On WIndows 11 | Hackaday | [link](https://hackaday.com/2026/10/26/the-oldest-windows-app-to-still-run-on-windows-11/) |
-| 2026-10-27 | Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os | CNX Software | [link](https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o/) |
-| 2026-10-27 | Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications | CNX Software | [link](https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-26 | Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling | [link](https://arxiv.org/pdf/2610.35866v1) |
-| 2026-10-26 | Learning Force-Reactive Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2610.35862v1) |
-| 2026-10-26 | Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization | [link](https://arxiv.org/pdf/2610.35852v1) |
-| 2026-10-26 | Nonprehensile Robotic Catching Using Virtual Constraints | [link](https://arxiv.org/pdf/2610.35851v1) |
-| 2026-10-26 | OSWAM: An Effective World Action Model with One-Step Action Generation | [link](https://arxiv.org/pdf/2610.35850v1) |
-| 2026-10-26 | Work Agents: Systems, Capabilities, and Optimization | [link](https://arxiv.org/pdf/2610.35845v1) |
-| 2026-10-26 | Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy | [link](https://arxiv.org/pdf/2610.35832v1) |
-| 2026-10-26 | Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent | [link](https://arxiv.org/pdf/2610.35817v1) |
-| 2026-10-26 | World Model for Energy Efficiency Maximization in Dynamic Metasurface Antennas | [link](https://arxiv.org/pdf/2610.35813v1) |
-| 2026-10-26 | Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution | [link](https://arxiv.org/pdf/2610.35733v1) |
+| 2026-10-27 | ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning | [link](https://arxiv.org/pdf/2610.37666v1) |
+| 2026-10-27 | Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals? | [link](https://arxiv.org/pdf/2610.37662v1) |
+| 2026-10-27 | Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well | [link](https://arxiv.org/pdf/2610.37652v1) |
+| 2026-10-27 | Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video | [link](https://arxiv.org/pdf/2610.37619v1) |
+| 2026-10-27 | RESPLE2: Inertial-Informed Recursive Non-Uniform Spline Estimation for Multi-Sensor Odometry with Global Refinement | [link](https://arxiv.org/pdf/2610.37602v1) |
+| 2026-10-27 | Understanding the limits of latent world models | [link](https://arxiv.org/pdf/2610.37588v1) |
+| 2026-10-27 | Timestral | [link](https://arxiv.org/pdf/2610.37585v1) |
+| 2026-10-27 | EgoThumb: A Vision-Driven Supernumerary Robotic Thumb for Autonomous Grasp and Holding Assistance | [link](https://arxiv.org/pdf/2610.37582v1) |
+| 2026-10-27 | Learning Visuomotor Quadrotor Flight Through Dynamic Narrow Gaps via Differentiable Simulation | [link](https://arxiv.org/pdf/2610.37557v1) |
+| 2026-10-27 | Kinematic Constraint-Referenced Evaluation for Articulated Object Manipulation | [link](https://arxiv.org/pdf/2610.37550v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-28 | jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000) |
+| 2026-10-28 | Efficient-Large-Model/LongLive2.0-Robot-L | 0 | 0 | [link](https://huggingface.co/Efficient-Large-Model/LongLive2.0-Robot-L) |
+| 2026-10-28 | RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2 | 0 | 1 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2) |
+| 2026-10-28 | SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_ACT_500k | 0 | 0 | [link](https://huggingface.co/SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_ACT_500k) |
+| 2026-10-28 | yangluvu/scene-adaptive-VLA | 0 | 0 | [link](https://huggingface.co/yangluvu/scene-adaptive-VLA) |
+| 2026-10-28 | siliconperception/vla | 0 | 0 | [link](https://huggingface.co/siliconperception/vla) |
 | 2026-10-28 | kinster/IMLE-VLA | 0 | 0 | [link](https://huggingface.co/kinster/IMLE-VLA) |
 | 2026-10-28 | YongYong/cis6280-stack-world-models-v2 | 0 | 0 | [link](https://huggingface.co/YongYong/cis6280-stack-world-models-v2) |
 | 2026-10-28 | dummy033485/multi-agent-rl-navigation | 0 | 0 | [link](https://huggingface.co/dummy033485/multi-agent-rl-navigation) |
-| 2026-10-28 | changhaowang/chronos-policy | 0 | 1 | [link](https://huggingface.co/changhaowang/chronos-policy) |
 | 2026-10-28 | gavinlaw/setground-question-policy | 0 | 0 | [link](https://huggingface.co/gavinlaw/setground-question-policy) |
-| 2026-10-27 | yujiepan/minicpm-robot-track-tiny-random | 7 | 0 | [link](https://huggingface.co/yujiepan/minicpm-robot-track-tiny-random) |
-| 2026-10-27 | tiny-random/minicpm-robot-track | 6 | 0 | [link](https://huggingface.co/tiny-random/minicpm-robot-track) |
-| 2026-10-27 | yujiepan/minicpm-robot-manip-tiny-random | 6 | 0 | [link](https://huggingface.co/yujiepan/minicpm-robot-manip-tiny-random) |
-| 2026-10-27 | tiny-random/minicpm-robot-manip | 8 | 0 | [link](https://huggingface.co/tiny-random/minicpm-robot-manip) |
-| 2026-10-27 | Chand0320/pi05-robotwin-put-object-cabinet-pace-fullft-8k | 0 | 0 | [link](https://huggingface.co/Chand0320/pi05-robotwin-put-object-cabinet-pace-fullft-8k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
+| harvard-edge/cs249r_book | 29712 | Python | 11884.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3768 | Python | 1507.3 | [link](https://github.com/NVIDIA/skills) |
 | autonomous-ai/lampOS | 500 | Python | 200.1 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 64001 | Python | 25600.5 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 23575 | Python | 9430.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| deeplethe/utopia | 8574 | Rust | 3429.7 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 7388 | Python | 2955.3 | [link](https://github.com/vllm-project/vllm-omni) |
-| ROBOTIS-GIT/ai_worker | 201 | C++ | 80.5 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
-| isaac-sim/IsaacLab | 8496 | Python | 3398.5 | [link](https://github.com/isaac-sim/IsaacLab) |
-| harvard-edge/cs249r_book | 29706 | Python | 11882.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3763 | Python | 1505.3 | [link](https://github.com/NVIDIA/skills) |
-| copper-project/copper-rs | 1530 | Rust | 612.1 | [link](https://github.com/copper-project/copper-rs) |
+| awslabs/awsome-distributed-ai | 491 | Shell | 196.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| commaai/openpilot | 64003 | Python | 25601.3 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 23653 | Python | 9461.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17477 | Java | 6990.9 | [link](https://github.com/questdb/questdb) |
+| dora-rs/dora | 4044 | Rust | 1617.7 | [link](https://github.com/dora-rs/dora) |
+| sou350121/VLA-Handbook | 741 | HTML | 296.5 | [link](https://github.com/sou350121/VLA-Handbook) |
+| baidu-baige/LoongForge | 733 | Python | 293.3 | [link](https://github.com/baidu-baige/LoongForge) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTBjSFdhRjUyX1lRVzVQRjZYeHdMRFVlQWcwQWNCaC1IUnZ3Q1VYdEk5cXRIVkRxU0E3a1Q5Z3lGR0VBNzFONVNVVVA5c3o2SUl3OFk2LWtlZFVxcDVjczB3Rm9ORlJ5RmpRMWE3RkowLVdFSDB1d3pIM3YtZDVVTGtYUzJEZjlEbU1ka2FqRkhOQTg?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1tb3RIc1dRb3E2Z3ZHV2R2ZzRpRGNBR0ljY0hCRk01cnFpMERTcFhGRDZOWkhwTzNoRjdidDJVWW1EOU9Ra2RBQUZDWkpXakJpZVEzR25Bamh1M0stRGxnTjhqbG9VQkNHaWlOQWdtM05IejY1RjRjb1pPbXdfWTNFSUQ?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
+| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjFNNlVwd0RkU04yXzhacDRFVzlGNzIxTmE1Mkg5WHZTNjN0ellNcXBCanhBWHpieTlLTVdxeEIzWWhVckFYNzlFVDV5ZDBHTTVOd0lySWhhZTU4NHdFQVVDTlJMQ1NqclJqd1NsWGQ4bFlWQzNaWFlLOUpLNk1zMnZTY2NyaG00cEM4OG5pa3dhM0VhcFJkQU5Nc2pqdWZKbzZOWndaR1BSd1dmS2V4Y0ZqTmdoM0hEUmRMTEk3eU5GSEtEdVE?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVHJSRE9iRmZBR1FRalhLdHUwa3pScnAyS19yZElBWi1kLXFPZ240Yk9pYWdhaC1lNkdzTmtDaGJzVDIxazFHUXA3dmJGeVYwVWE3QWtCb3B0bVcwRnR5TlFDcmJZLXV4eVQ2a0VscjdYeEN0Z00yYnRUQlJwRllXMmp0c1dNZjE5Q1dfN2ExaXdYNHBZa1pXTTR1dTRsbEY0Q2lxeHdjUERkaGI2NE1iNDJCeWZtajlObXVwLURnVDdobk9uSmtDd29sSXFWcFBKdVdtdTFCT2ctYmRac0tKdWxndm9ObnZIbjNR?oc=5) |
 | 2026-10-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzExa21nVlotckFkbFBJYnFGeU5QLVd1MFJxODVBT21ZWXpPQ2V1ajgzRFFvOUNBdkI0WVNoWjdZNXkydW5TS2hKa21XT0FvRkdXeHBnU2plUDZuLXNNUGNaODZpSy1LR01SWkJEaXlwOEJOSUhIMXowQ1V4MXd3aUJYaFJjQVA4d3JMZUY1dVVWZFdrNEltb0stR3RWVzJMb3NDNkt4ejNENDhzekRqbDlqNUZOX0RKWm85U01oblZDeXpaN0JLTXdXRjBjQVUyemRj?oc=5) |
 | 2026-10-26 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFRlenRxV3pXTkdHaW50MzhMLXB6c0hJUGl1bDdfS1U0VmJLbVBzTDg3ejg5VlhUMUlTMXBuV1pTN20wdTIyOGRPbTNjcEJGT2s0QjNPeWl0UGw3cFAtd0NYd0xBdzA5RWQ2X3FVcTh0Z21VX0V2cUhMRWpiLWduWUI4WEo0ejhhc1RqanZ3TG9ON1ZVWHZ3YkxPNDlhTmtPMUZXcE9LUmc4M19SMm9GNWQ1ZmVsajVnQkNv?oc=5) |
 | 2026-10-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGp3Z1JWMS1NYVNOR1NCczB3RXlxV1hSMkQ2WVV1dXlka0FSUnZNZ3hGNzN3QUJNdnJSdy1zaHhxa2JCc2Q3OHJSckJlTk1RUWtRZlFfTzdySjl3YUw2QjRuY2VxOFduWVowR2I5clRnUHgzS1ZNOHVJenBlQTBNUGUydlkxMGhpdXF3YUM1Vng5V0gwLWo4NjNhLXJPMURfZHFpR1Jn?oc=5) |
 | 2026-10-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmt1SjdaTHRXZTZjNWo4VG4wLUxjRllUV2ZFQzlpQl91aTIyb1Q3bzZ2LXB2LUNjTUhkZW92Nmt4YVZuOFg3X3QwWktMc1NPd3VLV2NzMHVSUkJjOXRfQ2pfNERPM000MWJHdzJ5Qm0weWNYT2pPdVppbmZxNjNnTXltLTdJYnZQY01oVjNuVXNRTGNydUFUaTlBNnJxb2FnbDV0NnV2cTlmY2R6Y1FaT2RYWUlObjhEMTRr?oc=5) |
-| 2026-10-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pS29SWXlxclB2aVgwUl9pNi1kdTBVQ2VsOEdGcEdBVkIxVUVXNC1ORTVtTnZlampQUG1lX004MFhXYTZDNzlZZU8yejY1TVU5Wlk5SA?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

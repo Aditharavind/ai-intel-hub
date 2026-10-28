@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-28 00:47 UTC
+Generated: 2026-10-28 06:23 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-26 | Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling | [link](https://arxiv.org/pdf/2610.35866v1) |
-| 2026-10-26 | Learning Force-Reactive Humanoid Loco-Manipulation | [link](https://arxiv.org/pdf/2610.35862v1) |
-| 2026-10-26 | Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization | [link](https://arxiv.org/pdf/2610.35852v1) |
-| 2026-10-26 | Nonprehensile Robotic Catching Using Virtual Constraints | [link](https://arxiv.org/pdf/2610.35851v1) |
-| 2026-10-26 | OSWAM: An Effective World Action Model with One-Step Action Generation | [link](https://arxiv.org/pdf/2610.35850v1) |
+| 2026-10-27 | ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning | [link](https://arxiv.org/pdf/2610.37666v1) |
+| 2026-10-27 | Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals? | [link](https://arxiv.org/pdf/2610.37662v1) |
+| 2026-10-27 | Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well | [link](https://arxiv.org/pdf/2610.37652v1) |
+| 2026-10-27 | Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video | [link](https://arxiv.org/pdf/2610.37619v1) |
+| 2026-10-27 | RESPLE2: Inertial-Informed Recursive Non-Uniform Spline Estimation for Multi-Sensor Odometry with Global Refinement | [link](https://arxiv.org/pdf/2610.37602v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83783 | 33513.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64001 | 25600.5 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83794 | 33517.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64003 | 25601.3 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44740 | 17896.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30812 | 12324.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29706 | 11882.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30815 | 12326.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29712 | 11884.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,17 +26,17 @@ Generated: 2026-10-28 00:47 UTC
 | mradermacher/EmbodiedBrain-7B-GGUF | 254 | 76.5 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
 | VladHong/Spark-X2.6-4B-2GB-GGUF | 222 | 66.7 | [link](https://huggingface.co/VladHong/Spark-X2.6-4B-2GB-GGUF) |
 | mradermacher/EmbodiedBrain-32B-GGUF | 171 | 51.4 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-32B-GGUF) |
-| nvidia/Cosmos3-H-Embodied-Nano | 153 | 46.4 | [link](https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano) |
+| nvidia/Cosmos3-H-Embodied-Nano | 153 | 46.6 | [link](https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano) |
 | frankmorales2020/topo-cbp-world-model-3d | 76 | 22.9 | [link](https://huggingface.co/frankmorales2020/topo-cbp-world-model-3d) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-10-28 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTBjSFdhRjUyX1lRVzVQRjZYeHdMRFVlQWcwQWNCaC1IUnZ3Q1VYdEk5cXRIVkRxU0E3a1Q5Z3lGR0VBNzFONVNVVVA5c3o2SUl3OFk2LWtlZFVxcDVjczB3Rm9ORlJ5RmpRMWE3RkowLVdFSDB1d3pIM3YtZDVVTGtYUzJEZjlEbU1ka2FqRkhOQTg?oc=5) |
 | 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5) |
 | 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1tb3RIc1dRb3E2Z3ZHV2R2ZzRpRGNBR0ljY0hCRk01cnFpMERTcFhGRDZOWkhwTzNoRjdidDJVWW1EOU9Ra2RBQUZDWkpXakJpZVEzR25Bamh1M0stRGxnTjhqbG9VQkNHaWlOQWdtM05IejY1RjRjb1pPbXdfWTNFSUQ?oc=5) |
-| 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
+| 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjFNNlVwd0RkU04yXzhacDRFVzlGNzIxTmE1Mkg5WHZTNjN0ellNcXBCanhBWHpieTlLTVdxeEIzWWhVckFYNzlFVDV5ZDBHTTVOd0lySWhhZTU4NHdFQVVDTlJMQ1NqclJqd1NsWGQ4bFlWQzNaWFlLOUpLNk1zMnZTY2NyaG00cEM4OG5pa3dhM0VhcFJkQU5Nc2pqdWZKbzZOWndaR1BSd1dmS2V4Y0ZqTmdoM0hEUmRMTEk3eU5GSEtEdVE?oc=5) |
 | 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
-| 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVHJSRE9iRmZBR1FRalhLdHUwa3pScnAyS19yZElBWi1kLXFPZ240Yk9pYWdhaC1lNkdzTmtDaGJzVDIxazFHUXA3dmJGeVYwVWE3QWtCb3B0bVcwRnR5TlFDcmJZLXV4eVQ2a0VscjdYeEN0Z00yYnRUQlJwRllXMmp0c1dNZjE5Q1dfN2ExaXdYNHBZa1pXTTR1dTRsbEY0Q2lxeHdjUERkaGI2NE1iNDJCeWZtajlObXVwLURnVDdobk9uSmtDd29sSXFWcFBKdVdtdTFCT2ctYmRac0tKdWxndm9ObnZIbjNR?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

@@ -1,5 +1,59 @@
 [
   {
+    "model": "jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000",
+    "date": "2026-10-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Efficient-Large-Model/LongLive2.0-Robot-L",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Efficient-Large-Model/LongLive2.0-Robot-L",
+    "date": "2026-10-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2",
+    "date": "2026-10-28",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_ACT_500k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_ACT_500k",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "yangluvu/scene-adaptive-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yangluvu/scene-adaptive-VLA",
+    "date": "2026-10-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "siliconperception/vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/siliconperception/vla",
+    "date": "2026-10-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "kinster/IMLE-VLA",
     "downloads": 0,
     "likes": 0,
@@ -27,15 +81,6 @@
     "score": 0.1
   },
   {
-    "model": "changhaowang/chronos-policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/changhaowang/chronos-policy",
-    "date": "2026-10-28",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
     "model": "gavinlaw/setground-question-policy",
     "downloads": 0,
     "likes": 0,
@@ -43,6 +88,42 @@
     "date": "2026-10-28",
     "keyword": "policy",
     "score": 0.1
+  },
+  {
+    "model": "QuixoteH/umi-arena-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/QuixoteH/umi-arena-policy",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Hurricane1/tabletop-policy-a",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Hurricane1/tabletop-policy-a",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "LindsayCC/cube_v1_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LindsayCC/cube_v1_policy",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "changhaowang/chronos-policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/changhaowang/chronos-policy",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.3
   },
   {
     "model": "yujiepan/minicpm-robot-track-tiny-random",
@@ -124,33 +205,6 @@
     "date": "2026-10-27",
     "keyword": "robot",
     "score": 8.8
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2",
-    "date": "2026-10-27",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-OneWay-flexpi-gt-svae-dvae-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-OneWay-flexpi-gt-svae-dvae-v1",
-    "date": "2026-10-27",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261026-RGBAux-flexpi-gt-svae-dvae-v1",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261026-RGBAux-flexpi-gt-svae-dvae-v1",
-    "date": "2026-10-27",
-    "keyword": "robot",
-    "score": 3.1
   },
   {
     "model": "Najongs/VLANeXt-ckpts",
@@ -340,69 +394,6 @@
     "date": "2026-10-27",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "LindsayCC/oct26_policy",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/LindsayCC/oct26_policy",
-    "date": "2026-10-27",
-    "keyword": "policy",
-    "score": 2.5
-  },
-  {
-    "model": "Jycccc111/Go-Policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Jycccc111/Go-Policy",
-    "date": "2026-10-27",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yewy/mahjong_mat_pickup_jitter_v3_v3b_policy",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/Yewy/mahjong_mat_pickup_jitter_v3_v3b_policy",
-    "date": "2026-10-27",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
-    "model": "NagaYu/warden-policy-pack",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NagaYu/warden-policy-pack",
-    "date": "2026-10-27",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ib-007/vlarm_act_t1_v3_aux0",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/ib-007/vlarm_act_t1_v3_aux0",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 6.1
-  },
-  {
-    "model": "siliconperception/vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/siliconperception/vla",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "ib-007/vlarm_act_t1_v3_scene_noise10",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/ib-007/vlarm_act_t1_v3_scene_noise10",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 7.6
   },
   {
     "model": "GOVINDFROM/surgical-world-model",
@@ -713,11 +704,11 @@
   {
     "model": "nvidia/Cosmos3-H-Embodied-Nano",
     "downloads": 153,
-    "likes": 2,
+    "likes": 3,
     "url": "https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano",
     "date": "2026-10-20",
     "keyword": "embodied",
-    "score": 46.4
+    "score": 46.6
   },
   {
     "model": "smiriva1988ph/survey-embodied-ai",
