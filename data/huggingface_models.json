@@ -1,5 +1,86 @@
 [
   {
+    "model": "kinster/IMLE-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/kinster/IMLE-VLA",
+    "date": "2026-10-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "YongYong/cis6280-stack-world-models-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
+    "date": "2026-10-28",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "dummy033485/multi-agent-rl-navigation",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dummy033485/multi-agent-rl-navigation",
+    "date": "2026-10-28",
+    "keyword": "navigation",
+    "score": 0.1
+  },
+  {
+    "model": "changhaowang/chronos-policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/changhaowang/chronos-policy",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "gavinlaw/setground-question-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "yujiepan/minicpm-robot-track-tiny-random",
+    "downloads": 7,
+    "likes": 0,
+    "url": "https://huggingface.co/yujiepan/minicpm-robot-track-tiny-random",
+    "date": "2026-10-27",
+    "keyword": "robot",
+    "score": 2.2
+  },
+  {
+    "model": "tiny-random/minicpm-robot-track",
+    "downloads": 6,
+    "likes": 0,
+    "url": "https://huggingface.co/tiny-random/minicpm-robot-track",
+    "date": "2026-10-27",
+    "keyword": "robot",
+    "score": 1.9
+  },
+  {
+    "model": "yujiepan/minicpm-robot-manip-tiny-random",
+    "downloads": 6,
+    "likes": 0,
+    "url": "https://huggingface.co/yujiepan/minicpm-robot-manip-tiny-random",
+    "date": "2026-10-27",
+    "keyword": "robot",
+    "score": 1.9
+  },
+  {
+    "model": "tiny-random/minicpm-robot-manip",
+    "downloads": 8,
+    "likes": 0,
+    "url": "https://huggingface.co/tiny-random/minicpm-robot-manip",
+    "date": "2026-10-27",
+    "keyword": "robot",
+    "score": 2.5
+  },
+  {
     "model": "Chand0320/pi05-robotwin-put-object-cabinet-pace-fullft-8k",
     "downloads": 0,
     "likes": 0,
@@ -72,39 +153,12 @@
     "score": 3.1
   },
   {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261026-A-flexpi-gt-svae-dvae-aug-v2",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261026-A-flexpi-gt-svae-dvae-aug-v2",
-    "date": "2026-10-27",
-    "keyword": "robot",
-    "score": 4.0
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0",
-    "downloads": 5,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0",
-    "date": "2026-10-27",
-    "keyword": "robot",
-    "score": 1.6
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt",
-    "date": "2026-10-27",
-    "keyword": "robot",
-    "score": 5.2
-  },
-  {
-    "model": "Nico-robot/microduck-tug-of-war",
+    "model": "Najongs/VLANeXt-ckpts",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Nico-robot/microduck-tug-of-war",
+    "url": "https://huggingface.co/Najongs/VLANeXt-ckpts",
     "date": "2026-10-27",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -171,15 +225,6 @@
     "score": 7.0
   },
   {
-    "model": "YongYong/cis6280-stack-world-models-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
-    "date": "2026-10-27",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "jiahaozhang6/tri-world-model",
     "downloads": 0,
     "likes": 0,
@@ -240,24 +285,6 @@
     "url": "https://huggingface.co/zxyty/physicalai-trellis2-4b",
     "date": "2026-10-27",
     "keyword": "physical ai",
-    "score": 0.1
-  },
-  {
-    "model": "navigation07/semi-signals-detector-a",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/navigation07/semi-signals-detector-a",
-    "date": "2026-10-27",
-    "keyword": "navigation",
-    "score": 0.1
-  },
-  {
-    "model": "gavinlaw/setground-question-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
-    "date": "2026-10-27",
-    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -351,15 +378,6 @@
     "score": 0.1
   },
   {
-    "model": "amlink/so101-diffusion-policy-resnet18-baseline",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/amlink/so101-diffusion-policy-resnet18-baseline",
-    "date": "2026-10-27",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "ib-007/vlarm_act_t1_v3_aux0",
     "downloads": 20,
     "likes": 0,
@@ -385,24 +403,6 @@
     "date": "2026-10-26",
     "keyword": "vla",
     "score": 7.6
-  },
-  {
-    "model": "ib-007/vlarm_act_t1_v3_aux",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/ib-007/vlarm_act_t1_v3_aux",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 8.2
-  },
-  {
-    "model": "Aitugan/tactile-vla-pi05-prefix64-seed1001-25k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Aitugan/tactile-vla-pi05-prefix64-seed1001-25k",
-    "date": "2026-10-26",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "GOVINDFROM/surgical-world-model",

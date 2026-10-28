@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-27 21:01 UTC
+Generated: 2026-10-28 00:47 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-10-27 21:01 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 83777 | 33510.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 63999 | 25599.7 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 83783 | 33513.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64001 | 25600.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44740 | 17896.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30812 | 12324.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29704 | 11881.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29706 | 11882.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -33,8 +33,8 @@ Generated: 2026-10-27 21:01 UTC
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
 | 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5) |
-| 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
 | 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1tb3RIc1dRb3E2Z3ZHV2R2ZzRpRGNBR0ljY0hCRk01cnFpMERTcFhGRDZOWkhwTzNoRjdidDJVWW1EOU9Ra2RBQUZDWkpXakJpZVEzR25Bamh1M0stRGxnTjhqbG9VQkNHaWlOQWdtM05IejY1RjRjb1pPbXdfWTNFSUQ?oc=5) |
+| 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
 | 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
 | 2026-10-27 | Physical Intelligence |  | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVHJSRE9iRmZBR1FRalhLdHUwa3pScnAyS19yZElBWi1kLXFPZ240Yk9pYWdhaC1lNkdzTmtDaGJzVDIxazFHUXA3dmJGeVYwVWE3QWtCb3B0bVcwRnR5TlFDcmJZLXV4eVQ2a0VscjdYeEN0Z00yYnRUQlJwRllXMmp0c1dNZjE5Q1dfN2ExaXdYNHBZa1pXTTR1dTRsbEY0Q2lxeHdjUERkaGI2NE1iNDJCeWZtajlObXVwLURnVDdobk9uSmtDd29sSXFWcFBKdVdtdTFCT2ctYmRac0tKdWxndm9ObnZIbjNR?oc=5) |
 
@@ -43,6 +43,6 @@ Generated: 2026-10-27 21:01 UTC
 | --- | --- | --- | --- |
 | 2026-10-27 | Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlV5TmZCQmFNWFl6UEpMakVNNWVTVUpkNzdqcDk4U2xnWTVadDdTWkRFbG1nbTRzM1luYzEzNnVQbVZxWDNwVFhMWGVuLUloNFFPS0Q0Wkxqd3VlSFI5U3o2NnV4amNjOGctbm55NTltUEpyYVJ1NGcyM0s1Y0R5QWtweDBpYVJRY1dWMTV0TnppdjJYdmJYdWdwRDM2eV90NjZJ?oc=5) |
 | 2026-10-27 | Physical Intelligence is in talks to double its valuation to $20 billion - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
-| 2026-10-27 | Asia Poised to Play Bigger Role in Physical AI as Investors Eye Manufacturing, Data - ACROFAN USA | physical ai startup | [link](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QLTVTY285V0YzTi1LTlhweElHWS05WWRIbk1VUDRWN2poWTNyNldIUkxiR21MakFydDMxRUNObzVteV9MdGJyX1JlcS1PWkdWbVZKT2FSZTBMSzhQ?oc=5) |
+| 2026-10-27 | Japan’s KDDI Launches Elyza Robotics With $190M Physical AI Investment Plan - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0dRQnlxX25lNjhfUFhTdHFsaWJkX2tialdCVEk0X1hUd0d2QWE2VWR0RXpLVkJsV2JOOFhWRTFndWUzR2JNc0dJSWY1NC1rbGlOdmhmY0tYbmxObnNiTXlBVEdmTU9fYW03RzdoWWtMVlFIVmVaUmIzVVF0eC1hYjlvVG5BUzJ3RHdvMnhjUjdTS2JpUVFuMWNpM0tKUE1SaktiQ29zZkVjZ0N4SlhQSg?oc=5) |
 | 2026-10-27 | Top Robotics And Physical AI Startups In The US To Watch In 2027 - TechRound | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYm9lT29KMTNnRVpMcEpyOXJPMUVsUXJyWFNKWEY1ZnEwbkNndTZnUUd5Y2Z3RFoyY29Ra0ItN0d0clBCN2FCT0JRVkc1b2V2SEY5d2RKdWJPemE3UEQ2ZXFWVndRVW5CSVp4bFA1SUxkQkNxOVViLS1pWXl5ZEJ0TzlsUkR6Z2FHRTUyb1NWclBxVi1hdS1IUTV1RkJzNGc?oc=5) |
-| 2026-10-27 | Physical AI needs strict safety boundaries and interpretability: TorqueAGI founder Ashutosh Saxena - The Economic Times | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAJBVV95cUxNc0Jtb3RRUmhzdndhLVdKSkplVFJHWEw4U1ZTMVBER1FfdEFyS3kzMHAwMlpBVUtVZDRSTUdKXzlzTmk4WllUUldOQnVhMHRGMjVleHYwQjBFOGpUZ1FNREtwMi1nQWNRMUF0cldXNVR0TTlDbE8yczBHdnZCcjBlM21Bc0hLbmVyMFVOV1FvQ210elJqc0R1RFhpTVF1cU9iWUtvZWZKLTZtQU9aQVFibTBWQ1Z2TWtVaUVWYVVfTzE3WnN1c2VpTndYYTFKNnI5eVhlRWhwSHZ5V3NLdjJzNkZGRjkwM0ZvT1BMRHYyRFBvSHZXYVh2WjNEMUp5Y015SGJlTkFFb29oSWlOUWtMMVkwY0R2R1pi?oc=5) |
+| 2026-10-27 | Asia Poised to Play Bigger Role in Physical AI as Investors Eye Manufacturing, Data - The Malaysian Reserve | physical ai startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlh3SU9SMFJFT0J3MDJHRzZ3NVBpQWFsdktkdERaYTJ2SG84aHNDZHBST1puekVBLTFGVmxUX1o1QlBLV3RWdWlNaG95bGpXTGhpbEdFMndGY1RsM2dFNi1xS2owMVpZbkhGcTA0cHVDZWJFT0dUcVBtdWM0blVKTUFBNkp6cVR5SXozdjF0OGRxX1FtSFVReTBNTU8yR3RyV3lDdk1QWG5XVTkzRjBWWlJTYmdqTXJiWGVQeTY2d3cxY0dp?oc=5) |
