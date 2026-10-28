@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-28 06:23 UTC
+Last Updated: 2026-10-28 13:37 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-28 | Legora is building the agentic operating system for legal work | OpenAI | [link](https://openai.com/index/legora-agentic-operating-system-for-legal-work) |
 | 2026-10-27 | Retell uses OpenAI models to help power 100M monthly calls | OpenAI | [link](https://openai.com/index/retell-ai) |
 | 2026-10-27 | OpenAI expands partnership with Oracle to bring its apps to ChatGPT | OpenAI | [link](https://openai.com/index/oracle-apps-in-chatgpt) |
 | 2026-10-27 | How Check Point accelerates vulnerability research with Daybreak | OpenAI | [link](https://openai.com/index/check-point-daybreak) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-26 | Working with academic communities to build scientific understanding | OpenAI | [link](https://openai.com/index/building-scientific-understanding-with-academic-communities) |
 | 2026-10-26 | GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases | OpenAI | [link](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) |
 | 2026-10-26 | ChatGPT’s expanding world of work | OpenAI | [link](https://openai.com/index/chatgpt-expanding-world-of-work) |
-| 2026-10-26 | How Fanatics and OpenAI streamline the fan experience | OpenAI | [link](https://openai.com/index/fanatics-streamline-fan-experience) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-28 | Emulate the 486 in Your Browser | Hackaday | [link](https://hackaday.com/2026/10/28/emulate-the-486-in-your-browser/) |
+| 2026-10-28 | SLAM Navigation For an Arduino Powered Car | Hackaday | [link](https://hackaday.com/2026/10/28/slam-navigation-for-an-arduino-powered-car/) |
 | 2026-10-28 | Hacking a Marine Radio Dish | Hackaday | [link](https://hackaday.com/2026/10/27/hacking-a-marine-radio-dish/) |
 | 2026-10-28 | Airborne Particle Monitoring, the BIG way | Hackaday | [link](https://hackaday.com/2026/10/27/airborne-particle-monitoring-the-big-way/) |
+| 2026-10-28 | LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity | CNX Software | [link](https://www.cnx-software.com/2026/10/28/lilygo-t-display-k230-risc-v-ai-dev-kit-features-amoled-lora-and-an-optional-keyboard/) |
 | 2026-10-28 | Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/) |
+| 2026-10-28 | Microchip adds LX-820 Quartz Oscillator to L-Series for LEO apps | Electronics Weekly | [link](https://www.electronicsweekly.com/market-sectors/military-aerospace-electronics/microchip-adds-lx-820-quartz-oscillator-to-l-series-for-leo-apps-2026-10/) |
 | 2026-10-28 | Anduril and Qualcomm hook up for ruggedised laptop | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/a-duel-and-qualcomm-hook-up-for-ruggedised-laptop-2026-10/) |
 | 2026-10-28 | Lam and Imec pursue 3-D integration | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/lam-and-imec-pursue-3-d-integration-2026-10/) |
 | 2026-10-28 | Japan argues Emissions vs Net Zero | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/japan-argues-emissions-vs-net-zero-2026-10/) |
-| 2026-10-28 | Infineon  to put €1.1bn into GaN fab | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/infineon-to-put-e1-1bn-into-gan-fab-2026-10/) |
-| 2026-10-28 | Panasonic adds to EVP series of tactile switches | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/panasonic-adds-to-evp-series-of-tactile-switches-2026-10/) |
-| 2026-10-28 | Top Ten Q2 EV Vendors | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-q2-ev-vendors-2-2026-10/) |
-| 2026-10-27 | How a Single University Project Started Everything | Hackaday | [link](https://hackaday.com/2026/10/27/how-a-single-university-project-started-everything/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,54 +77,54 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-28 | X-EraAI/e05-robotwin | 0 | 0 | [link](https://huggingface.co/X-EraAI/e05-robotwin) |
+| 2026-10-28 | yanshi-robotics/g1-29dof-turn | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/g1-29dof-turn) |
+| 2026-10-28 | codyjcai/roboeval-robotrainerxr-act-first-20261028 | 0 | 0 | [link](https://huggingface.co/codyjcai/roboeval-robotrainerxr-act-first-20261028) |
+| 2026-10-28 | RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2 | 5 | 1 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2) |
+| 2026-10-28 | RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-OneWay-flexpi-gt-svae-dvae-v1 | 11 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-OneWay-flexpi-gt-svae-dvae-v1) |
+| 2026-10-28 | arunos728/cosmos3-robotwin-ae-ssched-b64-60k | 0 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-ae-ssched-b64-60k) |
+| 2026-10-28 | polarisai-robots/bento_ur7e_fineart_v1 | 0 | 0 | [link](https://huggingface.co/polarisai-robots/bento_ur7e_fineart_v1) |
+| 2026-10-28 | 3CTeam/robotwin_dump_bin_bigbin_stage2_fsdp2_gb64_1k_model_only_official20 | 0 | 0 | [link](https://huggingface.co/3CTeam/robotwin_dump_bin_bigbin_stage2_fsdp2_gb64_1k_model_only_official20) |
 | 2026-10-28 | jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000) |
 | 2026-10-28 | Efficient-Large-Model/LongLive2.0-Robot-L | 0 | 0 | [link](https://huggingface.co/Efficient-Large-Model/LongLive2.0-Robot-L) |
-| 2026-10-28 | RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2 | 0 | 1 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2) |
-| 2026-10-28 | SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_ACT_500k | 0 | 0 | [link](https://huggingface.co/SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_ACT_500k) |
-| 2026-10-28 | yangluvu/scene-adaptive-VLA | 0 | 0 | [link](https://huggingface.co/yangluvu/scene-adaptive-VLA) |
-| 2026-10-28 | siliconperception/vla | 0 | 0 | [link](https://huggingface.co/siliconperception/vla) |
-| 2026-10-28 | kinster/IMLE-VLA | 0 | 0 | [link](https://huggingface.co/kinster/IMLE-VLA) |
-| 2026-10-28 | YongYong/cis6280-stack-world-models-v2 | 0 | 0 | [link](https://huggingface.co/YongYong/cis6280-stack-world-models-v2) |
-| 2026-10-28 | dummy033485/multi-agent-rl-navigation | 0 | 0 | [link](https://huggingface.co/dummy033485/multi-agent-rl-navigation) |
-| 2026-10-28 | gavinlaw/setground-question-policy | 0 | 0 | [link](https://huggingface.co/gavinlaw/setground-question-policy) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29712 | Python | 11884.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3768 | Python | 1507.3 | [link](https://github.com/NVIDIA/skills) |
-| autonomous-ai/lampOS | 500 | Python | 200.1 | [link](https://github.com/autonomous-ai/lampOS) |
-| awslabs/awsome-distributed-ai | 491 | Shell | 196.5 | [link](https://github.com/awslabs/awsome-distributed-ai) |
+| harvard-edge/cs249r_book | 29715 | Python | 11886.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3772 | Python | 1508.9 | [link](https://github.com/NVIDIA/skills) |
+| mosaico-labs/mosaico | 1094 | Python | 437.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| autonomous-ai/lampOS | 507 | Python | 202.9 | [link](https://github.com/autonomous-ai/lampOS) |
+| awslabs/awsome-distributed-ai | 492 | Shell | 196.9 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 64003 | Python | 25601.3 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 23653 | Python | 9461.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17477 | Java | 6990.9 | [link](https://github.com/questdb/questdb) |
-| dora-rs/dora | 4044 | Rust | 1617.7 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 741 | HTML | 296.5 | [link](https://github.com/sou350121/VLA-Handbook) |
-| baidu-baige/LoongForge | 733 | Python | 293.3 | [link](https://github.com/baidu-baige/LoongForge) |
+| NaiboWang/EasySpider | 44747 | JavaScript | 17898.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| earthtojake/text-to-cad | 23775 | Python | 9510.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17476 | Java | 6990.5 | [link](https://github.com/questdb/questdb) |
+| zauberzeug/nicegui | 16322 | Python | 6528.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHFoUUpIVlhhMUhGcHdKckhfVUI1bTZzT1c4MVBId3B2NUxyRzZvUGNQRmxGcTJuZDZGejZ3eWZhS1hRcVNEWW9CSlpPWVlqZXBlY0dVdkFqcWlzcDVadVFMQ3ZQUVZNUlJlbmtybjYtY2dxVEk2ZG0tODFqWm4td2o5X3lQQUplQl9QX2xja3pNVmdkclBoenpvelEyRUFLc2hzZ1BIUEtDZDN3SEpOaXdpdTU?oc=5) |
+| 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hbk8za1lJTDdXeDZBVE1UTGo1ODZ0SEszb1I0djFuUUtJNnhtUmszb2IzS1ZSMUtqQzV4aGZCdDE4WDhBZkcycEFIUmpWRnhBYkQ3aDVCOXlSYkcxcnFCaGVjLWJtblNpb2lxOGVXazdCTkZlY2c?oc=5) |
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTBjSFdhRjUyX1lRVzVQRjZYeHdMRFVlQWcwQWNCaC1IUnZ3Q1VYdEk5cXRIVkRxU0E3a1Q5Z3lGR0VBNzFONVNVVVA5c3o2SUl3OFk2LWtlZFVxcDVjczB3Rm9ORlJ5RmpRMWE3RkowLVdFSDB1d3pIM3YtZDVVTGtYUzJEZjlEbU1ka2FqRkhOQTg?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZmdHTUlRdjRDV2dWcXRBVkZHMlBqdGo0SDhJS0ZXLWVrZ3JMcklibDluYUIwamRtbDZ5bHBBekQtZ2hXTVFRLUNka2txUmNfNUlnR1BtbHZ3MjlIQjZRNnRBeWdZdUtyeXF2MUZJZmo0OUgwc3ZOZ3FDVTdwODF3RmJiaEQ2aXVja1RpVm5pdnBvTXYzZXRsOXBvcGNHNldKamFLT0hJTGZEX2syVFlfVzZzMDByUktTYWhaRlk2QXlyUjZMVVdEZWRlaWk0YXBvVEZtUm0wQUFnV2RkOEdUXzNQRUpoUmVfeFFRYzcyeUM?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnREaU94Y3N2ejdhQlAxYURoOFduWHRLUFJrZmJPWW1wOGlvT2tWb0lwcDJ6d3FvTXR0d2R3S1pwX3RIaHVfRUV0WVEwYW1vMEU2bDRrWmoxWGhYSGEwa2ZtQXhHSjhXbDBBLWhfRzVHMVl1OXc2TEc4dG9odE5lUnlFVklCazZCcUhxSy1Ua08zajhScE9PZnFQNVh5bE5yc3dMQ3lEaVRmaGY1cndXZnNYUEdlZw?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1tb3RIc1dRb3E2Z3ZHV2R2ZzRpRGNBR0ljY0hCRk01cnFpMERTcFhGRDZOWkhwTzNoRjdidDJVWW1EOU9Ra2RBQUZDWkpXakJpZVEzR25Bamh1M0stRGxnTjhqbG9VQkNHaWlOQWdtM05IejY1RjRjb1pPbXdfWTNFSUQ?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjFNNlVwd0RkU04yXzhacDRFVzlGNzIxTmE1Mkg5WHZTNjN0ellNcXBCanhBWHpieTlLTVdxeEIzWWhVckFYNzlFVDV5ZDBHTTVOd0lySWhhZTU4NHdFQVVDTlJMQ1NqclJqd1NsWGQ4bFlWQzNaWFlLOUpLNk1zMnZTY2NyaG00cEM4OG5pa3dhM0VhcFJkQU5Nc2pqdWZKbzZOWndaR1BSd1dmS2V4Y0ZqTmdoM0hEUmRMTEk3eU5GSEtEdVE?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVHJSRE9iRmZBR1FRalhLdHUwa3pScnAyS19yZElBWi1kLXFPZ240Yk9pYWdhaC1lNkdzTmtDaGJzVDIxazFHUXA3dmJGeVYwVWE3QWtCb3B0bVcwRnR5TlFDcmJZLXV4eVQ2a0VscjdYeEN0Z00yYnRUQlJwRllXMmp0c1dNZjE5Q1dfN2ExaXdYNHBZa1pXTTR1dTRsbEY0Q2lxeHdjUERkaGI2NE1iNDJCeWZtajlObXVwLURnVDdobk9uSmtDd29sSXFWcFBKdVdtdTFCT2ctYmRac0tKdWxndm9ObnZIbjNR?oc=5) |
-| 2026-10-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzExa21nVlotckFkbFBJYnFGeU5QLVd1MFJxODVBT21ZWXpPQ2V1ajgzRFFvOUNBdkI0WVNoWjdZNXkydW5TS2hKa21XT0FvRkdXeHBnU2plUDZuLXNNUGNaODZpSy1LR01SWkJEaXlwOEJOSUhIMXowQ1V4MXd3aUJYaFJjQVA4d3JMZUY1dVVWZFdrNEltb0stR3RWVzJMb3NDNkt4ejNENDhzekRqbDlqNUZOX0RKWm85U01oblZDeXpaN0JLTXdXRjBjQVUyemRj?oc=5) |
-| 2026-10-26 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFRlenRxV3pXTkdHaW50MzhMLXB6c0hJUGl1bDdfS1U0VmJLbVBzTDg3ejg5VlhUMUlTMXBuV1pTN20wdTIyOGRPbTNjcEJGT2s0QjNPeWl0UGw3cFAtd0NYd0xBdzA5RWQ2X3FVcTh0Z21VX0V2cUhMRWpiLWduWUI4WEo0ejhhc1RqanZ3TG9ON1ZVWHZ3YkxPNDlhTmtPMUZXcE9LUmc4M19SMm9GNWQ1ZmVsajVnQkNv?oc=5) |
-| 2026-10-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGp3Z1JWMS1NYVNOR1NCczB3RXlxV1hSMkQ2WVV1dXlka0FSUnZNZ3hGNzN3QUJNdnJSdy1zaHhxa2JCc2Q3OHJSckJlTk1RUWtRZlFfTzdySjl3YUw2QjRuY2VxOFduWVowR2I5clRnUHgzS1ZNOHVJenBlQTBNUGUydlkxMGhpdXF3YUM1Vng5V0gwLWo4NjNhLXJPMURfZHFpR1Jn?oc=5) |
-| 2026-10-26 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmt1SjdaTHRXZTZjNWo4VG4wLUxjRllUV2ZFQzlpQl91aTIyb1Q3bzZ2LXB2LUNjTUhkZW92Nmt4YVZuOFg3X3QwWktMc1NPd3VLV2NzMHVSUkJjOXRfQ2pfNERPM000MWJHdzJ5Qm0weWNYT2pPdVppbmZxNjNnTXltLTdJYnZQY01oVjNuVXNRTGNydUFUaTlBNnJxb2FnbDV0NnV2cTlmY2R6Y1FaT2RYWUlObjhEMTRr?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-10-28 | China Physical AI Roundup: Unitree Earnings, AgiBot Robot Launch, XPeng Robotaxi Update, Plus Funding & Xiaomi's New Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZmdHTUlRdjRDV2dWcXRBVkZHMlBqdGo0SDhJS0ZXLWVrZ3JMcklibDluYUIwamRtbDZ5bHBBekQtZ2hXTVFRLUNka2txUmNfNUlnR1BtbHZ3MjlIQjZRNnRBeWdZdUtyeXF2MUZJZmo0OUgwc3ZOZ3FDVTdwODF3RmJiaEQ2aXVja1RpVm5pdnBvTXYzZXRsOXBvcGNHNldKamFLT0hJTGZEX2syVFlfVzZzMDByUktTYWhaRlk2QXlyUjZMVVdEZWRlaWk0YXBvVEZtUm0wQUFnV2RkOEdUXzNQRUpoUmVfeFFRYzcyeUM?oc=5) |
+| 2026-10-28 | Pronto Founder Anjali Sardana Introduces Physical AI Venture Provision Labs - BW Disrupt | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNTRQYkFwVjVFRkdyOHRoMzBzYnlBSUJFVk42aWRBTldaQ0M1TWw1bWVwbDFZN3pTNjRPcTJtVlZacW85cXdYOGh6NDR6QVY4RjNsVXlfREZHajFXUDd4Nnk4MktBUjlSQVNYOVhfQlhEd1ByUFkwYkZ1REVDR2dmTUtyZm5mTHJyT0Y1VndpalNSTEY3ZzdNR2ZkaFktQWx5M01OWkR6Y3htNElkRGo4bDdWeU8tUQ?oc=5) |
+| 2026-10-28 | Singapore launches new program for startups to drive development of embodied AI solutions in construction sector - TNGlobal | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWlrWEl6SFI1TnYzMmVvbjE3Q0hQYy1hOGJMbTdJZWZvejlzRzR5YkFjcldUWWtpd0xsME94VVJIbk00ekYtcDhYd2U3Zm9aMGs1emlqT1R1QWtJdnN0eW5NVVU0V1Z6RHNyMkFSQlJfVDZjWTBVY2FPYms3dnhZMDBxVTVva2JzcWdEVG1vVUhvMUpPcXV3Zks3TldCTEJWa1FQRjhOLWZGZVR4Z29UYWFJcmZDakdRN0lEOC16NXRTV3JJRkFZQ2szaWF1STBVWUpObVFkRlI0cEI3N0dJVW5uTlBfd0E?oc=5) |
 | 2026-10-27 | Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlV5TmZCQmFNWFl6UEpMakVNNWVTVUpkNzdqcDk4U2xnWTVadDdTWkRFbG1nbTRzM1luYzEzNnVQbVZxWDNwVFhMWGVuLUloNFFPS0Q0Wkxqd3VlSFI5U3o2NnV4amNjOGctbm55NTltUEpyYVJ1NGcyM0s1Y0R5QWtweDBpYVJRY1dWMTV0TnppdjJYdmJYdWdwRDM2eV90NjZJ?oc=5) |
 | 2026-10-27 | Physical Intelligence is in talks to double its valuation to $20 billion - Startup Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
-| 2026-10-27 | Japan’s KDDI Launches Elyza Robotics With $190M Physical AI Investment Plan - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0dRQnlxX25lNjhfUFhTdHFsaWJkX2tialdCVEk0X1hUd0d2QWE2VWR0RXpLVkJsV2JOOFhWRTFndWUzR2JNc0dJSWY1NC1rbGlOdmhmY0tYbmxObnNiTXlBVEdmTU9fYW03RzdoWWtMVlFIVmVaUmIzVVF0eC1hYjlvVG5BUzJ3RHdvMnhjUjdTS2JpUVFuMWNpM0tKUE1SaktiQ29zZkVjZ0N4SlhQSg?oc=5) |
-| 2026-10-27 | Top Robotics And Physical AI Startups In The US To Watch In 2027 - TechRound | physical ai startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYm9lT29KMTNnRVpMcEpyOXJPMUVsUXJyWFNKWEY1ZnEwbkNndTZnUUd5Y2Z3RFoyY29Ra0ItN0d0clBCN2FCT0JRVkc1b2V2SEY5d2RKdWJPemE3UEQ2ZXFWVndRVW5CSVp4bFA1SUxkQkNxOVViLS1pWXl5ZEJ0TzlsUkR6Z2FHRTUyb1NWclBxVi1hdS1IUTV1RkJzNGc?oc=5) |
-| 2026-10-27 | Asia Poised to Play Bigger Role in Physical AI as Investors Eye Manufacturing, Data - The Malaysian Reserve | physical ai startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlh3SU9SMFJFT0J3MDJHRzZ3NVBpQWFsdktkdERaYTJ2SG84aHNDZHBST1puekVBLTFGVmxUX1o1QlBLV3RWdWlNaG95bGpXTGhpbEdFMndGY1RsM2dFNi1xS2owMVpZbkhGcTA0cHVDZWJFT0dUcVBtdWM0blVKTUFBNkp6cVR5SXozdjF0OGRxX1FtSFVReTBNTU8yR3RyV3lDdk1QWG5XVTkzRjBWWlJTYmdqTXJiWGVQeTY2d3cxY0dp?oc=5) |
-| 2026-10-27 | Building the Real World Farm Lab for Physical AI｜Road to Autonomy - finance.biggo.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KZUI3MHAxZGRsa3RFX19yZks3OTh2enllVDFkMmp5dUFjMENPRHMyYmNZNU1yMnVvUDlCM1h0YzNIM2NETzczdjRPU2hrX3Zldmo1eXJUYVY1cDZUQ3RR?oc=5) |
+| 2026-10-27 | An 11-person startup raised $40 million to challenge robotics' data-hungry giants - Business Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjB2SG9VZUt0LVctTXpQU2Jod0t6a3BFbGZuNFJicGVQT1BJdWlUbzZuYnRuOHE1UWxKS2lUcVlVY2w0SVU2bWtXakNyMVRXZDBOYkxwUm1xanY4QTZPRnI5VFJfNzVhYWQ4aW4xUEdaeWh5RVVON1Y3VElxWk1NT2djZVBDSU8tU0hJeUtmZUM2YjB1elhiV1cwM0JhZ1IzX3FCN2tKZ0cxNzgz?oc=5) |
 | 2026-10-26 | US startup Formic raises $50 million to scale Physical AI - Evertiq | physical ai startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjFqZDA4RkZHS2w1MGZqLWlFUk9NOVNqc3plSUlhaEM2blhISG4za2dGTVM4NTZxUDYzVG5pcmRua1pQSVpDTjlhYndEcy1RSVhpZXlNZ25EZzhBRmZiQjVyaTY2eDI4OV9JTk9oQldUZnJKY2VVbUFzT2FGM2dWWml2NEpBdXdkMUNmU3dpQnA0d2ZIcW5B?oc=5) |
 | 2026-10-26 | Pronto Founder Anjali Sardana Sets Up Physical AI Venture Provision Labs In US - Inc42 | physical ai startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxPUEhTLUJCY2tqRHhBeEtuOXRZdXRrNG9TS21lVkhSckpBWnJWOVNwVjIxMW9IbHloWjFoMEx1QTJySWdnQzBmM0hDX0pqbndfX1JDY1FnaHJncUk4S3QyeTcwY3pOdkdwaDRaZ0xBM21MWDRJR1ZrdkF6U0ZNS3B0OGRVemtTU3NKWnh1YVYtbXhSOVhHaThobnFPcVNJSFJxbVVyLQ?oc=5) |
 | 2026-10-26 | Pronto founder Anjali Sardana launches US-based physical AI startup Provision Labs - Moneycontrol.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2xRZ0NsTWFhUkxUMEZXVGFWUGM0WGxscEpSd3VDSzFMaU9XRUtSdjc0U0xiN2d6SEhkLVJyM19LcXZCYWk3Vk0xRV80MUtTUkRlT0hVM2hfRXk2WmlnMFE1REczanhuZUZ3VGpsUHN1elhRYzNBUWl2TnJqZG1xRC1xVURmeERQU09xZ2dZcVpXbXdqeE85Tk1hT2NFb3lDTm96T2F2SG5aM3pLZzdObnpERFlaNXJiZUpZQVdZV2lIUHNIQ21LWW1pejNLUWV2UnNVa0lHNnBwcUM0UGh4Y9IB5gFBVV95cUxNcEJQMkVQVWtOZkNtWHJIeUlWM2pRUHFZaFNjd2Y1RU8xTnN6a3BFVHZmMUpYNTgxTUdrYWFlQ1RhMnU5SDZza0x1RURqcjRxMk9mVWVfSFNHUHZKeVVtODNwS2JpOUZkRlVrcUpIN3BTSTJ1V1dfZHFjaGhQV2pMM3hvbUNJby1mSW1FWlROaVNxLU50ZUJzSjh3WlFzd3ZKVHhnNkszb1NxUE82RFBRU1hxRmhqZmowa2pVSUxwazVWbmNWdy15LWpnbUxFOTFWY3NDNFB2RmNrNWxMVVB6TzJ2MWV4QQ?oc=5) |
