@@ -1,5 +1,32 @@
 [
   {
+    "model": "codyjcai/roboeval-robotrainerxr-act-first-20261028",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/codyjcai/roboeval-robotrainerxr-act-first-20261028",
+    "date": "2026-10-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_scratch_ema",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_scratch_ema",
+    "date": "2026-10-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_scratch",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_scratch",
+    "date": "2026-10-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "3CTeam/robotwin_place_a2b_left_stage2_fsdp2_gb64_1k_model_only",
     "downloads": 0,
     "likes": 0,
@@ -33,15 +60,6 @@
     "url": "https://huggingface.co/yanshi-robotics/g1-29dof-turn",
     "date": "2026-10-28",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "codyjcai/roboeval-robotrainerxr-act-first-20261028",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/codyjcai/roboeval-robotrainerxr-act-first-20261028",
-    "date": "2026-10-28",
-    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -90,21 +108,66 @@
     "score": 0.1
   },
   {
-    "model": "jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000",
+    "model": "mim-chess-vlas/train_800_dense__bbox__separate_channel__sim__all_cameras__live__groot__seed_0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/jungwook2358/wam-openarm-h2rb-naive-robotonly-hawor-v1-50k-ckpt50000",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__separate_channel__sim__all_cameras__live__groot__seed_0",
     "date": "2026-10-28",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "Efficient-Large-Model/LongLive2.0-Robot-L",
+    "model": "vladimir94/lfm3-omni-2b-ane-coreml",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Efficient-Large-Model/LongLive2.0-Robot-L",
+    "url": "https://huggingface.co/vladimir94/lfm3-omni-2b-ane-coreml",
     "date": "2026-10-28",
-    "keyword": "robot",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__bbox__blur__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__bbox__blur__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-10-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__mask__blackout__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__blackout__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-10-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__mask__blur__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__blur__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-10-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__point__separate_channel__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__point__separate_channel__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-10-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__mask__separate_channel__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__separate_channel__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-10-28",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -121,15 +184,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__bbox__blackout__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-10-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "vladimir94/lfm3-omni-2b-ane-coreml",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladimir94/lfm3-omni-2b-ane-coreml",
     "date": "2026-10-28",
     "keyword": "vla",
     "score": 0.1
@@ -162,57 +216,21 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_sparse__mask__blackout__sim__all_cameras__live__groot__seed_0",
+    "model": "YongYong/cis6280-stack-world-models-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__blackout__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
     "date": "2026-10-28",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_sparse__mask__blur__sim__all_cameras__live__groot__seed_0",
+    "model": "FloSewn/worldmodels-racecar",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__blur__sim__all_cameras__live__groot__seed_0",
+    "url": "https://huggingface.co/FloSewn/worldmodels-racecar",
     "date": "2026-10-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "pepijn223/hy-vla-umi-grabette-texture-3epochs",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/pepijn223/hy-vla-umi-grabette-texture-3epochs",
-    "date": "2026-10-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
-    "downloads": 39,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
-    "date": "2026-10-28",
-    "keyword": "policy",
-    "score": 11.8
-  },
-  {
-    "model": "negi4650/vla-slmnegi",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/negi4650/vla-slmnegi",
-    "date": "2026-10-28",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_SmolVLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_SmolVLA",
-    "date": "2026-10-28",
-    "keyword": "policy",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -220,15 +238,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/jadidbourbaki/context-compaction-world-models",
-    "date": "2026-10-28",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "YongYong/cis6280-stack-world-models-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
     "date": "2026-10-28",
     "keyword": "world model",
     "score": 0.1
@@ -297,6 +306,15 @@
     "score": 0.1
   },
   {
+    "model": "SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
+    "downloads": 39,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_24.09.2026_200eps_Pi0_expert_policy",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 11.8
+  },
+  {
     "model": "namiciro/record-otedama-act-policy",
     "downloads": 0,
     "likes": 0,
@@ -310,6 +328,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_SmolVLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_23.10.2026_400eps_policy_SmolVLA",
     "date": "2026-10-28",
     "keyword": "policy",
     "score": 0.1
@@ -688,15 +715,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/JiaxinGe/pacman_braidthin_forward_v3_mixed_kinf_world_model",
-    "date": "2026-10-20",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "JiaxinGe/pacman_braidthin_forward_v2_cutoff50_kinf_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JiaxinGe/pacman_braidthin_forward_v2_cutoff50_kinf_world_model",
     "date": "2026-10-20",
     "keyword": "world model",
     "score": 0.1
