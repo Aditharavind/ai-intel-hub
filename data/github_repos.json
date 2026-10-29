@@ -1,13 +1,13 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 29724,
+    "stars": 29727,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-10-29",
     "topic": "embodied-ai",
-    "score": 11889.7
+    "score": 11890.9
   },
   {
     "repo": "NVIDIA/skills",
@@ -20,14 +20,34 @@
     "score": 1511.3
   },
   {
+    "repo": "mosaico-labs/mosaico",
+    "stars": 1096,
+    "language": "Python",
+    "description": "Mosaico - The data platform for Physical AI",
+    "url": "https://github.com/mosaico-labs/mosaico",
+    "date": "2026-10-29",
+    "topic": "physical-ai",
+    "score": 438.5
+  },
+  {
+    "repo": "robocurve/inspect-robots",
+    "stars": 718,
+    "language": "Python",
+    "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
+    "url": "https://github.com/robocurve/inspect-robots",
+    "date": "2026-10-29",
+    "topic": "vla",
+    "score": 287.3
+  },
+  {
     "repo": "autonomous-ai/lampOS",
-    "stars": 510,
+    "stars": 514,
     "language": "Python",
     "description": "The open-source operating system for physical AI.",
     "url": "https://github.com/autonomous-ai/lampOS",
     "date": "2026-10-29",
     "topic": "physical-ai",
-    "score": 204.1
+    "score": 205.7
   },
   {
     "repo": "awslabs/awsome-distributed-ai",
@@ -40,84 +60,154 @@
     "score": 196.9
   },
   {
+    "repo": "commaai/openpilot",
+    "stars": 64005,
+    "language": "Python",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "url": "https://github.com/commaai/openpilot",
+    "date": "2026-10-29",
+    "topic": "robotics",
+    "score": 25602.1
+  },
+  {
     "repo": "earthtojake/text-to-cad",
-    "stars": 23913,
+    "stars": 23995,
     "language": "Python",
     "description": "Design physical products with AI",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-10-29",
     "topic": "robotics",
-    "score": 9565.3
+    "score": 9598.1
   },
   {
     "repo": "questdb/questdb",
-    "stars": 17478,
+    "stars": 17480,
     "language": "Java",
     "description": "QuestDB is a high performance, open-source, time-series database",
     "url": "https://github.com/questdb/questdb",
     "date": "2026-10-29",
     "topic": "robotics",
-    "score": 6991.3
+    "score": 6992.1
+  },
+  {
+    "repo": "zauberzeug/nicegui",
+    "stars": 16326,
+    "language": "Python",
+    "description": "Create web-based user interfaces with Python. The nice way.",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "date": "2026-10-29",
+    "topic": "robotics",
+    "score": 6530.5
+  },
+  {
+    "repo": "google-deepmind/mujoco",
+    "stars": 15958,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-10-29",
+    "topic": "robotics",
+    "score": 6383.3
   },
   {
     "repo": "datawhalechina/every-embodied",
-    "stars": 4270,
-    "language": "Python",
+    "stars": 4283,
+    "language": "Jupyter Notebook",
     "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
     "url": "https://github.com/datawhalechina/every-embodied",
     "date": "2026-10-29",
     "topic": "embodied-ai",
-    "score": 1708.1
+    "score": 1713.3
+  },
+  {
+    "repo": "huangjunsen0406/py-xiaozhi",
+    "stars": 3538,
+    "language": "Python",
+    "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
+    "url": "https://github.com/huangjunsen0406/py-xiaozhi",
+    "date": "2026-10-29",
+    "topic": "embodied-ai",
+    "score": 1415.3
+  },
+  {
+    "repo": "PhyAgentOS/PhyAgentOS-core",
+    "stars": 2986,
+    "language": "Python",
+    "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
+    "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
+    "date": "2026-10-29",
+    "topic": "embodied-ai",
+    "score": 1194.5
+  },
+  {
+    "repo": "OpenDCAI/OpenWorldLib",
+    "stars": 888,
+    "language": "Python",
+    "description": "Unified Codebase for Advanced World Models.",
+    "url": "https://github.com/OpenDCAI/OpenWorldLib",
+    "date": "2026-10-29",
+    "topic": "world-model",
+    "score": 355.3
+  },
+  {
+    "repo": "baidu-baige/LoongForge",
+    "stars": 755,
+    "language": "Python",
+    "description": "A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.  Supports  Pi0.5, GR00T-N1.7, FastWAM, Cosmos3, DreamZero, DeepSeek-V4,  GLM-5.3, Kimi-K3 and more.",
+    "url": "https://github.com/baidu-baige/LoongForge",
+    "date": "2026-10-29",
+    "topic": "vla",
+    "score": 302.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
-    "stars": 744,
+    "stars": 747,
     "language": "HTML",
     "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
     "url": "https://github.com/sou350121/VLA-Handbook",
     "date": "2026-10-29",
     "topic": "robot-learning",
-    "score": 297.7
+    "score": 298.9
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8602,
+    "stars": 8607,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-10-29",
     "topic": "world-model",
-    "score": 3440.9
+    "score": 3442.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7399,
+    "stars": 7406,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-10-29",
     "topic": "world-model",
-    "score": 2959.7
+    "score": 2962.5
   },
   {
     "repo": "SkyworkAI/Matrix-Game",
-    "stars": 2804,
+    "stars": 2806,
     "language": "Python",
     "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
     "url": "https://github.com/SkyworkAI/Matrix-Game",
     "date": "2026-10-29",
     "topic": "world-model",
-    "score": 1121.7
+    "score": 1122.5
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 697,
+    "stars": 698,
     "language": "C++",
     "description": "人机仿真（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-10-29",
     "topic": "humanoid",
-    "score": 278.9
+    "score": 279.3
   },
   {
     "repo": "ROBOTIS-GIT/ai_worker",
@@ -131,13 +221,33 @@
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8511,
+    "stars": 8515,
     "language": "Python",
     "description": "Unified framework for robot learning with multi-physics/renderer support",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-10-29",
     "topic": "robot-learning",
-    "score": 3404.5
+    "score": 3406.1
+  },
+  {
+    "repo": "MinghaoFu/lewam",
+    "stars": 345,
+    "language": "Python",
+    "description": "LeWAM: End-to-End World and Action Modeling with JEPAs",
+    "url": "https://github.com/MinghaoFu/lewam",
+    "date": "2026-10-29",
+    "topic": "robot-learning",
+    "score": 138.1
+  },
+  {
+    "repo": "Hebbian-Robotics/hflow",
+    "stars": 304,
+    "language": "Python",
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "date": "2026-10-29",
+    "topic": "lerobot",
+    "score": 121.7
   },
   {
     "repo": "DexForce/EmbodiChain",
@@ -160,74 +270,34 @@
     "score": 2.9
   },
   {
-    "repo": "mosaico-labs/mosaico",
-    "stars": 1095,
-    "language": "Python",
-    "description": "Mosaico - The data platform for Physical AI",
-    "url": "https://github.com/mosaico-labs/mosaico",
-    "date": "2026-10-28",
-    "topic": "physical-ai",
-    "score": 438.1
-  },
-  {
-    "repo": "commaai/openpilot",
-    "stars": 64007,
-    "language": "Python",
-    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "url": "https://github.com/commaai/openpilot",
-    "date": "2026-10-28",
-    "topic": "robotics",
-    "score": 25602.9
-  },
-  {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44752,
+    "stars": 44750,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-10-28",
     "topic": "robotics",
-    "score": 17900.9
-  },
-  {
-    "repo": "zauberzeug/nicegui",
-    "stars": 16324,
-    "language": "Python",
-    "description": "Create web-based user interfaces with Python. The nice way.",
-    "url": "https://github.com/zauberzeug/nicegui",
-    "date": "2026-10-28",
-    "topic": "robotics",
-    "score": 6529.7
+    "score": 17900.1
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 16259,
+    "stars": 16262,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-10-28",
     "topic": "robotics",
-    "score": 6503.7
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 15953,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-10-28",
-    "topic": "robotics",
-    "score": 6381.3
+    "score": 6504.9
   },
   {
     "repo": "RLinf/RLinf",
-    "stars": 5541,
+    "stars": 5546,
     "language": "Python",
     "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
     "url": "https://github.com/RLinf/RLinf",
     "date": "2026-10-28",
     "topic": "embodied-ai",
-    "score": 2216.5
+    "score": 2218.5
   },
   {
     "repo": "dora-rs/dora",
@@ -240,16 +310,6 @@
     "score": 1618.5
   },
   {
-    "repo": "huangjunsen0406/py-xiaozhi",
-    "stars": 3536,
-    "language": "Python",
-    "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
-    "url": "https://github.com/huangjunsen0406/py-xiaozhi",
-    "date": "2026-10-28",
-    "topic": "embodied-ai",
-    "score": 1414.5
-  },
-  {
     "repo": "flashrt-project/FlashRT",
     "stars": 768,
     "language": "C++",
@@ -258,16 +318,6 @@
     "date": "2026-10-28",
     "topic": "vla",
     "score": 307.3
-  },
-  {
-    "repo": "baidu-baige/LoongForge",
-    "stars": 746,
-    "language": "Python",
-    "description": "A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.  Supports  Pi0.5, GR00T-N1.7, FastWAM, Cosmos3, DreamZero, DeepSeek-V4,  GLM-5.3, Kimi-K3 and more.",
-    "url": "https://github.com/baidu-baige/LoongForge",
-    "date": "2026-10-28",
-    "topic": "vla",
-    "score": 298.5
   },
   {
     "repo": "worldbench/awesome-vla-for-ad",
@@ -281,63 +331,43 @@
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 487,
+    "stars": 488,
     "language": "HTML",
     "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
     "url": "https://github.com/luohongk/Embodied-AI-Daily",
     "date": "2026-10-28",
     "topic": "vla",
-    "score": 194.9
+    "score": 195.3
   },
   {
     "repo": "NVlabs/ProtoMotions",
-    "stars": 2446,
+    "stars": 2450,
     "language": "Python",
     "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
     "url": "https://github.com/NVlabs/ProtoMotions",
     "date": "2026-10-28",
     "topic": "humanoid",
-    "score": 978.5
+    "score": 980.1
   },
   {
     "repo": "LambdaHumanoid/openlambda",
-    "stars": 116,
+    "stars": 121,
     "language": "Python",
     "description": "λ_0: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
     "url": "https://github.com/LambdaHumanoid/openlambda",
     "date": "2026-10-28",
     "topic": "humanoid",
-    "score": 46.5
+    "score": 48.5
   },
   {
     "repo": "robocasa/robocasa",
-    "stars": 1848,
+    "stars": 1849,
     "language": "Python",
     "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
     "url": "https://github.com/robocasa/robocasa",
     "date": "2026-10-28",
     "topic": "robot-learning",
-    "score": 739.3
-  },
-  {
-    "repo": "MinghaoFu/lewam",
-    "stars": 344,
-    "language": "Python",
-    "description": "LeWAM: End-to-End World and Action Modeling with JEPAs",
-    "url": "https://github.com/MinghaoFu/lewam",
-    "date": "2026-10-28",
-    "topic": "robot-learning",
-    "score": 137.7
-  },
-  {
-    "repo": "Hebbian-Robotics/hflow",
-    "stars": 304,
-    "language": "Python",
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "date": "2026-10-28",
-    "topic": "lerobot",
-    "score": 121.7
+    "score": 739.7
   },
   {
     "repo": "rokbenko/quackd",
@@ -371,43 +401,23 @@
   },
   {
     "repo": "copper-project/copper-rs",
-    "stars": 1531,
+    "stars": 1532,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
     "date": "2026-10-27",
     "topic": "physical-ai",
-    "score": 612.5
-  },
-  {
-    "repo": "robocurve/inspect-robots",
-    "stars": 717,
-    "language": "Python",
-    "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
-    "url": "https://github.com/robocurve/inspect-robots",
-    "date": "2026-10-27",
-    "topic": "vla",
-    "score": 286.9
+    "score": 612.9
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 84171,
+    "stars": 84203,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-10-27",
     "topic": "robotics",
-    "score": 33668.5
-  },
-  {
-    "repo": "PhyAgentOS/PhyAgentOS-core",
-    "stars": 2985,
-    "language": "Python",
-    "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
-    "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
-    "date": "2026-10-27",
-    "topic": "embodied-ai",
-    "score": 1194.1
+    "score": 33681.3
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -451,33 +461,33 @@
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30820,
+    "stars": 30821,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-10-26",
     "topic": "robotics",
-    "score": 12328.1
+    "score": 12328.5
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3504,
+    "stars": 3505,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-10-26",
     "topic": "embodied-ai",
-    "score": 1401.7
+    "score": 1402.1
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 2955,
+    "stars": 2956,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-10-26",
     "topic": "robot-learning",
-    "score": 1182.1
+    "score": 1182.5
   },
   {
     "repo": "leofan90/Awesome-World-Models",
@@ -491,13 +501,13 @@
   },
   {
     "repo": "RealXiaoze/humanoid-motion-intelligence",
-    "stars": 685,
+    "stars": 687,
     "language": "",
     "description": "人形机器人运动智能论文、开源项目、产业与求职知识库",
     "url": "https://github.com/RealXiaoze/humanoid-motion-intelligence",
     "date": "2026-10-26",
     "topic": "robot-learning",
-    "score": 274.1
+    "score": 274.9
   },
   {
     "repo": "softmata/horus",
@@ -511,43 +521,43 @@
   },
   {
     "repo": "reality-opened/openreality",
-    "stars": 507,
+    "stars": 515,
     "language": "Python",
     "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
     "url": "https://github.com/reality-opened/openreality",
     "date": "2026-10-26",
     "topic": "lerobot",
-    "score": 202.9
+    "score": 206.1
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",
-    "stars": 16739,
+    "stars": 16752,
     "language": "",
     "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
     "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
     "date": "2026-10-25",
     "topic": "embodied-ai",
-    "score": 6695.7
+    "score": 6700.9
   },
   {
     "repo": "PetoiCamp/OpenCatEsp32-Quadruped-Robot",
-    "stars": 521,
+    "stars": 522,
     "language": "C++",
     "description": "An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.",
     "url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot",
     "date": "2026-10-24",
     "topic": "physical-ai",
-    "score": 208.5
+    "score": 208.9
   },
   {
     "repo": "thu-ml/Causal-Forcing",
-    "stars": 1015,
+    "stars": 1016,
     "language": "Python",
     "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
     "url": "https://github.com/thu-ml/Causal-Forcing",
     "date": "2026-10-24",
     "topic": "world-model",
-    "score": 406.1
+    "score": 406.5
   },
   {
     "repo": "Adyansh04/grove-g1",
@@ -591,13 +601,13 @@
   },
   {
     "repo": "dexmal/dexbotic",
-    "stars": 3230,
+    "stars": 3232,
     "language": "Python",
     "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox",
     "url": "https://github.com/dexmal/dexbotic",
     "date": "2026-10-22",
     "topic": "vla",
-    "score": 1292.1
+    "score": 1292.9
   },
   {
     "repo": "Tsinghua-MARS-Lab/OMG",
@@ -611,13 +621,13 @@
   },
   {
     "repo": "Source-Robotics/PAROL6-Desktop-robot-arm",
-    "stars": 3413,
+    "stars": 3414,
     "language": "HTML",
     "description": "BOM, STL files and instructions for PAROL6 3D printed robot arm",
     "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
     "date": "2026-10-22",
     "topic": "lerobot",
-    "score": 1365.3
+    "score": 1365.7
   },
   {
     "repo": "cerul-ai/cerul",
@@ -631,33 +641,33 @@
   },
   {
     "repo": "HCPLab-SYSU/Embodied_AI_Paper_List",
-    "stars": 2189,
+    "stars": 2190,
     "language": "",
     "description": "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI",
     "url": "https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List",
     "date": "2026-10-21",
     "topic": "embodied-ai",
-    "score": 875.7
+    "score": 876.1
   },
   {
     "repo": "LeCAR-Lab/BFM-Zero",
-    "stars": 829,
+    "stars": 830,
     "language": "Python",
     "description": "BFM_Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning",
     "url": "https://github.com/LeCAR-Lab/BFM-Zero",
     "date": "2026-10-21",
     "topic": "humanoid",
-    "score": 331.7
+    "score": 332.1
   },
   {
     "repo": "NVlabs/alpasim",
-    "stars": 1282,
+    "stars": 1283,
     "language": "Python",
     "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies",
     "url": "https://github.com/NVlabs/alpasim",
     "date": "2026-10-20",
     "topic": "physical-ai",
-    "score": 512.9
+    "score": 513.3
   },
   {
     "repo": "dexmal/opendm",
@@ -668,16 +678,6 @@
     "date": "2026-10-20",
     "topic": "vla",
     "score": 899.3
-  },
-  {
-    "repo": "OpenDCAI/OpenWorldLib",
-    "stars": 888,
-    "language": "Python",
-    "description": "Unified Codebase for Advanced World Models.",
-    "url": "https://github.com/OpenDCAI/OpenWorldLib",
-    "date": "2026-10-20",
-    "topic": "world-model",
-    "score": 355.3
   },
   {
     "repo": "nicklashansen/tdmpc2",
@@ -751,13 +751,13 @@
   },
   {
     "repo": "groundingpi/GroundingPI",
-    "stars": 233,
+    "stars": 237,
     "language": "Python",
     "description": "A 4B grounding foundation model for physical intelligence. Unifies detection, referring, pointing, OCR, GUI, and layout grounding, achieving SOTA overall across 34 benchmarks and improving robot generalization and data efficiency in controlled evaluations.",
     "url": "https://github.com/groundingpi/GroundingPI",
     "date": "2026-10-14",
     "topic": "robot-learning",
-    "score": 93.3
+    "score": 94.9
   },
   {
     "repo": "RobotecAI/rai",

@@ -1,10 +1,31 @@
 [
   {
+    "title": "Magnetic Lock Opens By Magic",
+    "source": "Hackaday",
+    "date": "2026-10-29",
+    "url": "https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/hall.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Over on IEEE Spectrum, [Stephen Cass] has a project that would probably have seemed like a magic a few centuries ago. Imagine a box that uses a magnetic device to <a class=\"read-more\" href=\"https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/\">&#8230;read more</a>"
+  },
+  {
+    "title": "2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System",
+    "source": "Hackaday",
+    "date": "2026-10-29",
+    "url": "https://hackaday.com/2026/10/28/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/risc-v-gaming-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although once little more than an academic endeavor, the RISC-V architecture is slowly supplanting applications that would have normally gone to ARM. Even a few microcontrollers have chips running this <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system/\">&#8230;read more</a>"
+  },
+  {
     "title": "Battery Prototype Uses Superextensive Quantum Effects to Charge Faster",
     "source": "Hackaday",
     "date": "2026-10-29",
     "url": "https://hackaday.com/2026/10/28/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"369\" src=\"https://hackaday.com/wp-content/uploads/2026/08/superextensive_battery_cell_kieran_hymas_et_al_2026.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the term &#8216;quantum battery&#8217; is a bit of a vague term, the cell that [Kieran Hymas] et al. demonstrate in a recent paper does seem to suggest that it <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster/\">&#8230;read more</a>"
+  },
+  {
+    "title": "$2600 LattePanda Sigma 2 single board server features 180 TOPS Intel Core Ultra X7 358H SoC for local AI applications",
+    "source": "CNX Software",
+    "date": "2026-10-29",
+    "url": "https://www.cnx-software.com/2026/10/29/2600-lattepanda-sigma-2-single-board-server-features-180-tops-intel-core-ultra-x7-358h-soc-for-local-ai-applications/",
+    "summary": "<div><img alt=\"LattePanda Sigma 2\" class=\"attachment-medium size-medium wp-post-image\" height=\"552\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/LattePanda-Sigma-2-720x552.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The LattePanda Sigma 2 is a compact single board server/computer powered by an Intel Core Ultra X7 358H Panther Lake-H processor with Intel Arc B390 graphics and a 50 TOPS NPU delivering up to 180 TOPS of combined performance for local AI workloads. The board features up to 64GB of LPDDR5X-8533 RAM, three M.2 M-Key slots, one M.2 E-Key slot, and an OCuLink port for storage, wireless, and accelerator expansion, as well as two Thunderbolt 4 ports, dual 10GbE, USB 3.2 Gen 2 and USB 2.0 ports, and HDMI 2.1, DisplayPort 2.1, and eDP 1.5 display interfaces. Key Specifications SoC &#8211; Intel Core Ultra X7 Processor 358H CPU – 16-core (4P + 8E + 4LPE) @ 1.9/1.5/1.5 GHz (base frequency), 4.8/3.5/3.5 GHz (Turbo frequency) Cache – 18 MB Intel Smart Cache GPU – 12-core Intel Arc B390 GPU @ 2.5 GHz up to 122 TOPS (INT8) AI accelerator – 50 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/29/2600-lattepanda-sigma-2-single-board-server-features-180-tops-intel-core-ultra-x7-358h-soc-for-local-ai-applications/\">$2600 LattePanda Sigma 2 single board server features 180 TOPS Intel Core Ultra X7 358H SoC for local AI applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "BeagleConnect QuadESC 4-channel BLDC motor controller uses TI’s AM13E23019-based Torque module",
@@ -14,11 +35,81 @@
     "summary": "<div><img alt=\"BeagleConnect QuadESC Carrier and BeagleConnect Torque SoM\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/BeagleConnect-QuadESC-Carrier-and-BeagleConnect-Torque-SoM-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source 4-channel BLDC motor controller/carrier board built around the BeagleConnect Torque SoM. The SoM features TI&#8217;s 200 MHz AM13E23019 Arm Cortex-M33 microcontroller with a trigonometric math unit (TMU) and a TinyEngine neural-network accelerator for edge AI applications. The QuadESC carrier board supports four three-phase BLDC motor outputs, twelve current and twelve voltage sensing channels, four temperature sensors, and battery voltage monitoring. It also includes an eight-pin flight controller connector with DShot, telemetry, and current reporting signals, along with SWD debugging, a buzzer connector, and onboard power regulation. BeagleConnect Torque SoM The Torque SoM can also be integrated with custom carrier boards for robotics, motor control, and CAN-connected applications. It provides the processing, sensing, and communication interfaces, while external hardware supplies the motor power . Specifications: Main MCU– Texas Instruments AM13E23019 CPU core &#8211; Arm Cortex-M33 MCU @ 200 MHz with FPU Memory &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/\">BeagleConnect QuadESC 4-channel BLDC motor controller uses TI&#8217;s AM13E23019-based Torque module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "“Reassuringly boring” budget",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/",
+    "summary": "<p>“Reassuringly boring “ was one judgment on yesterday’s budget, meaning that it didn’t upset the bond market. £18 million has been allocated for a new UK advanced chip design Academy [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/\">“Reassuringly boring” budget</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "onsemi rumoured to be in talks to acquire Ferric",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/",
+    "summary": "<p>onsemi is in talks to acquire Ferric, a 16 year-old New York-based semiconductor startup for close to $1 billion, reports The Information. Ferric specialises in integrated voltage regulators (IVRs) and  [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/\">onsemi rumoured to be in talks to acquire Ferric</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Seoul Viosys producing white LEDs without rare earths",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/",
+    "summary": "<p>Seoul Semiconductor and its affiliate Seoul Viosys have begun mass production of WICOP 3 &#8211; an LED which emits white light without using rare earths. White LEDs have depended on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/\">Seoul Viosys producing white LEDs without rare earths</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "PCB industry succumbing to ‘semiconducterisation’",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/",
+    "summary": "<p>The PCB industry closed 2025 at about $88 billion in revenue, and a conservative forecast puts it at $140 billion by 2031, following an 8.1% CAGR. That headline figure averages [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/\">PCB industry succumbing to ‘semiconducterisation’</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Toshiba in mass production of entry-class M4H Group  MCUs",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/news/business/toshiba-in-mass-production-of-entry-class-m4h-group-mcus-2026-10/",
+    "summary": "<p>Toshiba has started mass production of three Entry-Class M4H Group  MCUs  for system control in consumer and industrial equipment. The MCUs are designed for consumer products such as air conditioners [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/toshiba-in-mass-production-of-entry-class-m4h-group-mcus-2026-10/\">Toshiba in mass production of entry-class M4H Group  MCUs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Netflix revenue shrinking but operating margin and subscribers increasing",
     "source": "Electronics Weekly",
     "date": "2026-10-29",
     "url": "https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/",
     "summary": "<p>  &#160; While subscriber additions have been growing steadily, Netflix&#8217;s revenue growth is slowing. In 2026 to-date, revenue was up 13.7% YoY, compared with 15.9% for the full year 2025 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/\">Netflix revenue shrinking but operating margin and subscribers increasing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Kitchen Gridfinity Measuring Cups and Spoons – Hilbert Top Texture #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/kitchen-gridfinity-measuring-cups-and-spoons-hilbert-top-texture-3dthursday-3dprinting/",
+    "summary": "enzo_dog shares: Two Gridfinity-compatible bins that keep measuring cups and spoons organized — each with a dedicated spot. Default &#8216;Hilbert&#8217; top-layer texture can be changed in the slicer. Larger container fits measuring cups up to 92mm (3.6&#8243;) diameter; smaller container fits measuring spoons up to 21.5mm (0.84&#8243;) diameter. Prep-cooking essential — great Thanksgiving-week pick for [&#8230;]"
+  },
+  {
+    "title": "RAK19003 Meshtastic 1×18650 Weather Resistant Case #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/rak19003-meshtastic-1x18650-weather-resistant-case-3dthursday-3dprinting/",
+    "summary": "juergen_ shares: A LoRa/Meshtastic case for the RAK Wisblock 19003 that uses one 18650 battery. Modified/remixed from DeMeshe Node&#8217;s 19007 case. Compatible with the RAK 19003 only (tags also mention 19007 but description limits to 19003). Includes a small SMA-port guard protecting the antenna plug. 0.2mm layers, 3 walls, 10% infill, ~2.2h, 47g PETG, 1 [&#8230;]"
+  },
+  {
+    "title": "Kitchen Gridfinity Modular Knife Block – 3 Slots#3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/kitchen-gridfinity-modular-knife-block-3-slots3dthursday-3dprinting/",
+    "summary": "enzo_dog shares: Modular Gridfinity knife holders — mix and match 36 block sizes for different blade heights/lengths, plus two handle rest styles and spacer pieces for custom layouts. Customize directly on MakerWorld. 36-plate set: blocks with 3 regular slots, 2&#215;1 to 2&#215;6 length, 3u to 8u tall. Legacy Set (4 blocks): Large (2&#215;6×8u), Medium (2&#215;4×7u), [&#8230;]"
+  },
+  {
+    "title": "From the mail bag…",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/from-the-mail-bag-811/",
+    "summary": "From the mail bag! ong time customer here. (maybe a decade? certainly not as long as some, i’m sure) i just wanted to send an “we appreciate you!” message (the royal “you”, obviously. all the named and unnamed folks that make, and have made, adafruit possible) i have learned SO VERY much in that time [&#8230;]"
+  },
+  {
+    "title": "Mini-LED-Christmas-Tree Tealight #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/mini-led-christmas-tree-tealight-3dthursday-3dprinting/",
+    "summary": "Allpa_112 shares: A small Christmas tree for a shelf, windowsill, or desk. Base fits over an LED tealight so the tree glows and flickers in the dark. Base designed for a 36×18mm tealight (also versions for 37.2×18.4mm, 37×20mm, and 40×23mm; designer takes requests). Tree is printed in spiral vase mode — quick to print. Base [&#8230;]"
   },
   {
     "title": "Hacking the Modern Tamagotchi With UART",
@@ -47,20 +138,6 @@
     "date": "2026-10-28",
     "url": "https://hackaday.com/2026/10/28/turning-an-old-phones-motherboard-into-an-rc-plane-controller/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"465\" src=\"https://hackaday.com/wp-content/uploads/2026/10/old_phone_remote_control_mountain_ds_lab_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Upcycling smartphones makes a lot of sense, especially since they contain so many components that remain useful long after their desirability as a smartphone has faded. In the case of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/turning-an-old-phones-motherboard-into-an-rc-plane-controller/\">&#8230;read more</a>"
-  },
-  {
-    "title": "JPEG-XL Is Back On The Menu",
-    "source": "Hackaday",
-    "date": "2026-10-28",
-    "url": "https://hackaday.com/2026/10/28/jpeg-xl-is-back-on-the-menu/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"342\" src=\"https://hackaday.com/wp-content/uploads/2026/10/jxl_logo.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Many of the image formats we&#8217;re familiar with have been around for decades. We all know JPEG and PNG like the back of our hands, and GIF even had a <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/jpeg-xl-is-back-on-the-menu/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Emulate the 486 in Your Browser",
-    "source": "Hackaday",
-    "date": "2026-10-28",
-    "url": "https://hackaday.com/2026/10/28/emulate-the-486-in-your-browser/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/crt-monitor-e1793155369528.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>You might fondly remember the days of the Intel 486, but you probably don&#8217;t have one on your desk anymore. If you&#8217;d like to emulate that classic hardware, you can <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/emulate-the-486-in-your-browser/\">&#8230;read more</a>"
   },
   {
     "title": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity",
@@ -119,41 +196,6 @@
     "summary": "<p>Yesterday, Anduril  and Qualcomm said they had developed a prototype of a ruggedised laptop assembled in the US with 90% of its components sourced in the US. They call it [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/a-duel-and-qualcomm-hook-up-for-ruggedised-laptop-2026-10/\">Anduril and Qualcomm hook up for ruggedised laptop</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Lam and Imec pursue 3-D integration",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/news/business/lam-and-imec-pursue-3-d-integration-2026-10/",
-    "summary": "<p>Lam and imec are collaborating to accelerate manufacturing readiness for 3D integration technologies supporting advanced packaging and next-generation memory. By bringing together Lam&#8217;s capabilities in deposition and etch with imec’s [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/lam-and-imec-pursue-3-d-integration-2026-10/\">Lam and Imec pursue 3-D integration</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Japan argues Emissions vs Net Zero",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/news/business/japan-argues-emissions-vs-net-zero-2026-10/",
-    "summary": "<p>Japan, like the UK, is embroiled in the net zero versus economic reality argument. Prime Minister Sanae Takaichi is for trimming subsidies on EVs , funding growth investments and cutting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/japan-argues-emissions-vs-net-zero-2026-10/\">Japan argues Emissions vs Net Zero</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Infineon to put €1.1bn into GaN fab",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-to-put-e1-1bn-into-gan-fab-2026-10/",
-    "summary": "<p>Infineon intends to build the first high-volume 300mm GaN fab by investing around €1.1 billion in its Villach site by 2034. The EU is contributing €319 million towards the cost. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-to-put-e1-1bn-into-gan-fab-2026-10/\">Infineon to put €1.1bn into GaN fab</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Panasonic adds to EVP series of tactile switches",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/news/business/panasonic-adds-to-evp-series-of-tactile-switches-2026-10/",
-    "summary": "<p>Panasonic has expanded its EVP-BD, EVP-0B, EVP-CD, and EVP-BX Series of 6.0mm x 6.0mm SMD top-push, 2-terminal tactile switches with the introduction of the EVP-BX (quiet-type) switch. The new addition [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/panasonic-adds-to-evp-series-of-tactile-switches-2026-10/\">Panasonic adds to EVP series of tactile switches</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Top Ten Q2 EV Vendors",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-q2-ev-vendors-2-2026-10/",
-    "summary": "<p>Thanks to TrendForce for this one &#8211; the top ten EV vendors in Q2: &#160; &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-q2-ev-vendors-2-2026-10/\">Top Ten Q2 EV Vendors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Can AI design a working PCB? @JLCPCB",
     "source": "Adafruit",
     "date": "2026-10-28",
@@ -201,41 +243,6 @@
     "date": "2026-10-28",
     "url": "https://blog.adafruit.com/2026/10/28/the-death-of-flash/",
     "summary": "CultRepo posted a 51 second clip on YouTube about the moment Flash started to disappear from the web. It points to Steve Jobs announcing that the iPhone would not support Adobe Flash, which meant video on iOS had to run through HTML5 instead. That decision pushed companies across the internet to move their video streaming [&#8230;]"
-  },
-  {
-    "title": "Where did your mouse come from?",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/where-did-your-mouse-come-from/",
-    "summary": "Dmitriy Kostiuk gave a talk on the history of the computer mouse, published on media.ccc.de. It traces how pointing devices changed in three areas: how they detect motion, what protocols they speak, and how they fit the hand. The hardware covered starts with early optical mice from Xerox and Mouse Systems, which needed a special [&#8230;]"
-  },
-  {
-    "title": "What is the tolerance of a 0Ω resistor?",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/what-is-the-tolerance-of-a-0%cf%89-resistor/",
-    "summary": "JLCPCB posted a question to its followers on X: what is the tolerance of a 0Ω resistor? The company&#8217;s own parts library lists one as &#8220;0Ω ±1%&#8221;. One percent of zero is zero, so the spec says nothing useful. JLCPCB asked for wrong answers only. The replies ran where you would expect. One person offered [&#8230;]"
-  },
-  {
-    "title": "Practice Japanese on an Inkplate 4Tempera eInk device, open source",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/practice-japanese-on-an-inkplate-4tempera-eink-device-open-source/",
-    "summary": "Peter Hraska built Enkiplate, a Japanese flashcard system for the Soldered Inkplate 4TEMPERA, and published the code and documentation on GitHub. Read the card, tap to reveal the answer, then rate how you did. The scheduler tracks what needs practice. Today&#8217;s temperature range and the next three calendar events sit above the card. No accounts, [&#8230;]"
-  },
-  {
-    "title": "A shapeshifting LED mask for Halloween",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/a-shapeshifting-led-mask-for-halloween/",
-    "summary": "Sam Freeman writing at Make: covers a Halloween mask by Sebastian Staacks of There Oughta Be that swaps faces using LED grids. The mask uses two 128&#215;64 LED matrixes driven by a Raspberry Pi Pico 2 W, mounted to a face shield with magnets, zip ties, and 3D printed brackets. Worn with a black hood, [&#8230;]"
-  },
-  {
-    "title": "Learn ESP-IDF with ESP32: the beginner’s guide (eBook)",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/learn-esp-idf-with-esp32-the-beginners-guide-ebook/",
-    "summary": "Rui Santos and Sara Santos have released a new version of their ESP-IDF eBook on Random Nerd Tutorials. ESP-IDF is Espressif&#8217;s own framework for programming ESP32 chips, built around C and FreeRTOS, with lower level access to peripherals than the Arduino core gives you. The book is a 520 page color PDF split into 8 [&#8230;]"
   },
   {
     "title": "Guide to Axial Fans & Blowers — Same Sky and Mouser Electronics",
@@ -404,13 +411,6 @@
     "date": "2026-10-23",
     "url": "https://www.embedded.com/real-time-sensing-prevents-catastrophic-infrastructure-failures/",
     "summary": "<p>Cooling failures remain the second-leading cause of data center outages. Downtime is now more costly than hardware loss, making early detection critical. The ability to detect leaks at the source and over wide areas via telemetry will vastly improve uptime. Compatibility with newer cooling fluid variants is essential, but legacy conductometric sensing falls short. The ability to [...]</p>\n<p>The post <a href=\"https://www.embedded.com/real-time-sensing-prevents-catastrophic-infrastructure-failures/\">Real-Time Sensing Prevents Catastrophic Infrastructure Failures</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
-    "source": "CNX Software",
-    "date": "2026-10-22",
-    "url": "https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/",
-    "summary": "<div><img alt=\"GL.iNet Mango 2 (GL MG1300) Dual band Mini Travel Router\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/GL.iNet-Mango-2-GL-MG1300-Dual-band-Mini-Travel-Router-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>GL.iNet Mango 2 (GL-MG1300) mini dual-band WiFi 5 travel router is built around the MediaTek MT7621A dual-core processor. It is designed to share hotel WiFi, wired Ethernet, or mobile internet connections with multiple devices. The router measures just 89 x 63 x 15mm and weighs 100 grams. It supports WiFi speeds of up to 400 Mbps on the 2.4 GHz band and 866 Mbps on the 5 GHz band, along with WireGuard VPN speeds of up to 184 Mbps and OpenVPN speeds of up to 95 Mbps with DCO. Other features include dual  Gigabit Ethernet ports, USB 3.0, USB-C power, and others. GL.iNet Mango 2 (GL-MG1300) specifications: Processor – Mediatek MT7621A dual core MIPS 1004Kc processor @ 880Mhz Memory – 128MB DDR3L RAM Storage – 128MB SPI NAND flash + 2MB SPI NOR flash Networking 2x Gigabit Ethernet ports (WAN/LAN) Dual-band 802.11a/b/g/n/ac WiFi 5 2.4 GHz – Up to 400 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/\">GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Socionext, Cadence Advance AI-Driven 3-nm SoC Design",
