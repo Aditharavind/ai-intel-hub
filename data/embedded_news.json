@@ -1,5 +1,19 @@
 [
   {
+    "title": "An Attempt at a Useful Desktop OS For Microcontrollers",
+    "source": "Hackaday",
+    "date": "2026-10-29",
+    "url": "https://hackaday.com/2026/10/29/an-attempt-at-a-useful-desktop-os-for-microcontrollers/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/sylphide-os-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We&#8217;re living at an interesting time here in 2026, when microcontrollers are becoming powerful enough to surpass the capabilities of &#8220;real&#8221; computers from a time when those real computers were <a class=\"read-more\" href=\"https://hackaday.com/2026/10/29/an-attempt-at-a-useful-desktop-os-for-microcontrollers/\">&#8230;read more</a>"
+  },
+  {
+    "title": "2026 Hackaday Supercon: All the Speakers!",
+    "source": "Hackaday",
+    "date": "2026-10-29",
+    "url": "https://hackaday.com/2026/10/29/2026-hackaday-supercon-all-the-speakers/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/09/supercon-x-wide.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We announced our first round of speakers, and then the workshops, and we were going to dribble out updates on the rest of the speakers as they came in, but <a class=\"read-more\" href=\"https://hackaday.com/2026/10/29/2026-hackaday-supercon-all-the-speakers/\">&#8230;read more</a>"
+  },
+  {
     "title": "Robot Picks up Othello",
     "source": "Hackaday",
     "date": "2026-10-29",
@@ -35,13 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/risc-v-gaming-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although once little more than an academic endeavor, the RISC-V architecture is slowly supplanting applications that would have normally gone to ARM. Even a few microcontrollers have chips running this <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system/\">&#8230;read more</a>"
   },
   {
-    "title": "Battery Prototype Uses Superextensive Quantum Effects to Charge Faster",
-    "source": "Hackaday",
-    "date": "2026-10-29",
-    "url": "https://hackaday.com/2026/10/28/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"369\" src=\"https://hackaday.com/wp-content/uploads/2026/08/superextensive_battery_cell_kieran_hymas_et_al_2026.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although the term &#8216;quantum battery&#8217; is a bit of a vague term, the cell that [Kieran Hymas] et al. demonstrate in a recent paper does seem to suggest that it <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster/\">&#8230;read more</a>"
-  },
-  {
     "title": "$2600 LattePanda Sigma 2 single board server features 180 TOPS Intel Core Ultra X7 358H SoC for local AI applications",
     "source": "CNX Software",
     "date": "2026-10-29",
@@ -54,6 +61,13 @@
     "date": "2026-10-29",
     "url": "https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/",
     "summary": "<div><img alt=\"BeagleConnect QuadESC Carrier and BeagleConnect Torque SoM\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/BeagleConnect-QuadESC-Carrier-and-BeagleConnect-Torque-SoM-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source 4-channel BLDC motor controller/carrier board built around the BeagleConnect Torque SoM. The SoM features TI&#8217;s 200 MHz AM13E23019 Arm Cortex-M33 microcontroller with a trigonometric math unit (TMU) and a TinyEngine neural-network accelerator for edge AI applications. The QuadESC carrier board supports four three-phase BLDC motor outputs, twelve current and twelve voltage sensing channels, four temperature sensors, and battery voltage monitoring. It also includes an eight-pin flight controller connector with DShot, telemetry, and current reporting signals, along with SWD debugging, a buzzer connector, and onboard power regulation. BeagleConnect Torque SoM The Torque SoM can also be integrated with custom carrier boards for robotics, motor control, and CAN-connected applications. It provides the processing, sensing, and communication interfaces, while external hardware supplies the motor power. Specifications: Main MCU– Texas Instruments AM13E23019 CPU core &#8211; Arm Cortex-M33 MCU @ 200 MHz with FPU Memory &#8211; 128KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/\">BeagleConnect QuadESC 4-channel BLDC motor controller uses TI&#8217;s AM13E23019-based Torque module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Celus Adds Agentic AI Workflow to Its Electronics Design Assistant",
+    "source": "Embedded.com",
+    "date": "2026-10-29",
+    "url": "https://www.embedded.com/celus-adds-agentic-ai-workflow-to-its-electronics-design-assistant/",
+    "summary": "<p>Celus upgrades its Design Assistant with an #agenticAI workflow that helps hardware #engineers plan the system architecture and component selection before schematic capture. #EmbeddedSystemDesign @Celusio</p>\n<p>The post <a href=\"https://www.embedded.com/celus-adds-agentic-ai-workflow-to-its-electronics-design-assistant/\">Celus Adds Agentic AI Workflow to Its Electronics Design Assistant</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Fable: The Thing That Was Too Good For Its Own Good",
@@ -119,88 +133,88 @@
     "summary": "<p>  &#160; While subscriber additions have been growing steadily, Netflix&#8217;s revenue growth is slowing. In 2026 to-date, revenue was up 13.7% YoY, compared with 15.9% for the full year 2025 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/\">Netflix revenue shrinking but operating margin and subscribers increasing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "ESP32-S3 Pin & Pinless Enclosure #3DThursday #3DPrinting",
+    "title": "Touchscreen shirt shows photos, plays videos, and answers calls",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/esp32-s3-pin-pinless-enclosure-3dthursday-3dprinting/",
-    "summary": "yujixun shares: A protective case for ESP32-S3 development boards (44-pin layout, ESP32-S3-WROOM-1 and N16R8 variants). Supports both PINNED and PINLESS configurations with separate print profiles. Wi-Fi pattern on top for a tech-themed look. Dual USB Type-C port openings. Compact minimalist design — keeps heat dissipation and functionality intact. Pin profile ~39 min / Pinless profile [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/touchscreen-shirt-shows-photos-plays-videos-and-answers-calls/",
+    "summary": "Mack DeGeurin, writing at Popular Science, covered a team at the National University of Singapore College of Design and Engineering that built what it calls the first touchscreen woven into a garment. The display is 96 by 54 pixels and sits on the inner forearm, measuring 6.6 by 4.3 inches. It supports multitouch and 8-bit [&#8230;]"
   },
   {
-    "title": "3D Hangouts – Holiday Wreath, DIY HomeView and Twisty Eyeball",
+    "title": "H.264 is magic (2016)",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/3d-hangouts-holiday-wreath-diy-homeview-and-twisty-eyeball/",
-    "summary": "3D Hangouts – Holiday Wreath, DIY HomeView and Twisty Eyeball https://youtube.com/live/60gsCGmLxzw?feature=share This week @adafruit Noe is showcasing his guide for his lego brick inspired holiday wreath. Pedro is working on a DIY version of the Apple HomeView. Checking out this week’s Timelapse Tuesday model of a twisty eyeball. Learn Guide https://learn.adafruit.com/holiday-brick-wreath NeoPixel JST Breakout https://www.adafruit.com/product/5975 [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/h-264-is-magic-2016/",
+    "summary": "Sid Bala wrote a walkthrough of how H.264 video compression works, published on sidbala.com. He starts with a demonstration: a screen capture of the Apple homepage, 300 frames long, encodes to 175KB as H.264. A single frame of that same video saved as PNG is 1015KB. The post covers the main tricks. Raw 1080p at [&#8230;]"
   },
   {
-    "title": "New Guide! NeoPixel Brick Holiday Wreath",
+    "title": "Send BLE air quality data to Cloudflare D1 with Python",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/new-guide-neopixel-brick-holiday-wreath/",
-    "summary": "Build a holiday inspired wreath that lights up with animated NeoPixel LEDs! This project uses the Adafruit Sparkle Motion Mini, 12 NeoPixel JST breakouts and matching cables so there&#8217;s no soldering required. The 3D printed branches snap together and feature modular pieces that diffuse the LEDs. You can 3D print the parts in different colors [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/send-ble-air-quality-data-to-cloudflare-d1-with-python/",
+    "summary": "sheikh shuhad has posted a tutorial on Hackster.io that moves Bluetooth Low Energy sensor readings into a serverless database. A HibouAir sensor advertises air quality data over BLE. A BleuIO dongle plugged into a computer&#8217;s USB port scans for that specific board ID and passes the advertising data to a Python script over the serial [&#8230;]"
   },
   {
-    "title": "Emacs turns 50",
+    "title": "Will open firmware become the next big trend in electronic music gear?",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/emacs-turns-50/",
-    "summary": "MIT Technology Review marks 50 years of EMACS, one of the first full-screen text editors and still in use today. It grew out of TECO, a text editor Dan Murphy wrote in 1962 for the PDP-1 at MIT, and Carl Mikkelsen&#8217;s Control-R add-on from 1971, which showed edits on video terminals as they happened. In [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/",
+    "summary": "Synthhead at Synthtopia looks at a run of recent announcements that let musicians replace or extend the software running on their hardware. The starting point is the M-Vave FM-1, a low-cost FM synthesizer that drew independent developers writing their own synths, sequencers, and effects for it. M-Vave answered with an official development platform: source code, [&#8230;]"
   },
   {
-    "title": "Twisty Stress-Relief Eyeball #3DThursday #3DPrinting",
+    "title": "ESP32-S3 WiFi bridge for a USB printer",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/twisty-stress-relief-eyeball-3dthursday-3dprinting/",
-    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Twisty Stress-Relief Eyeball By MAX WORKSHOP crealitycloud.com/model-detail/stress-relief-eye-ball-toy Bambu X1C PolyMaker PLA 15hr 19mins X:67 Y:67 Z:60mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 48g 230mm/s Every Thursday is [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/esp32-s3-wifi-bridge-for-a-usb-printer/",
+    "summary": "&#160; MAXXTANG published a project on Hackster.io that puts a USB-only Brother HL-1110 laser printer on a WiFi network using an ESP32-S3. The computer prepares the job with the normal Brother driver and sends it to TCP port 9100. The ESP32-S3 passes the bytes  through its USB Host port to the printer. The board&#8217;s native [&#8230;]"
   },
   {
-    "title": "The “Hatfield” Apple-1 computer achieves $1.15 million at Bonhams New York after bodding war",
+    "title": "Open-source Hermes turns ESP32 into voice assistant",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/the-hatfield-apple-1-computer-achieves-1-15-million-at-bonhams-new-yorkthe-rare-working-apple-1-signed-by-steve-wozniak-and-accompanied-by-a-steve-jobs-signed-letter-more-than-doubled-its-estim/",
-    "summary": "Bonhams reports that the &#8220;Hatfield&#8221; Apple-1 sold for $1.15 million at its History of Science, Technology &#38; Computing sale, which closed on October 14. Two bidders fought over it for 28 minutes. The price is a new world auction record for a commercially sold Apple-1, and more than double the estimate. The machine was built [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/open-source-hermes-turns-esp32-into-voice-assistant/",
+    "summary": "Ananthu Ashok, writing at Open Source For You, covers Hermes, an open source push-to-talk voice assistant that pairs an ESP32 with a Windows PC. The project comes from developer ROHITCRAFTSYT and is released under the MIT license, with firmware, wiring details and setup instructions published. The listed build cost is roughly ₹1,500 to ₹3,000 depending [&#8230;]"
   },
   {
-    "title": "Happy National Cat Day 2026! 🐈 😻🐈‍⬛😻#catsofengineering",
+    "title": "Christmas Ornament Bauble #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/happy-national-cat-day-2026-%f0%9f%90%88-%f0%9f%98%bb%f0%9f%90%88%e2%ac%9b%f0%9f%98%bbcatsofengineering/",
-    "summary": "Happy National Cat Day! All animal friends are great, but here at Adafruit we happen to have a particular fondness for felines who love electronics and engineering, like the cats you see here, from our Cats of Engineering page! Add your cat to the crew or make a project for your cat with help from [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/christmas-ornament-bauble-3dthursday-3dprinting/",
+    "summary": "Shared by Fleetwood on Maker World: These Christmas ornaments use twisted ribs to create a lightweight, flowing shape that changes depending on the viewing angle. The collection includes three different designs: a Single Wave, Double Wave and Double Wave Hollow. Each design is available in several ready-to-print sizes, or can be customized using MakerWorld&#8217;s Parametric [&#8230;]"
   },
   {
-    "title": "The Repair Café start packet for Linux installations",
+    "title": "Cute Autumn Buddies #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/the-repair-cafe-start-packet-for-linux-installations/",
-    "summary": "Repair Café International marked the first anniversary of its Linux Repair Café starter kit on repaircafe.org. The kit is a guide for running sessions where visitors bring an old laptop and leave with Linux Mint installed. One year in, 165 Repair Cafés around the world are doing this. The reason is Windows 10. Microsoft ends [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/cute-autumn-buddies-3dthursday-3dprinting/",
+    "summary": "woodquarter shares: A tiny seasonal collection: pumpkin, pinecone, ghost, mushroom, chestnut, apple, acorn, and maple leaf — each with its own face. Small autumn decorations, gifts, or party favors. Separate monocolor profiles for individual figures (10.6h, 8 plates). Single-color profile (2h, 1 plate). H2C &#8216;all-at-once&#8217; profile (10.6h, 1 plate). No AMS required. Serves both Halloween [&#8230;]"
   },
   {
-    "title": "How a 16th century pirate accidentally spawned a centuries-old math problem",
+    "title": "John Park’s Workshop — LIVE TODAY 10/29/26",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/how-a-16th-century-pirate-accidentally-spawned-a-centuries-old-math-problem/",
-    "summary": "Manon Bischoff, writing for Scientific American, traces a math problem back to a practical shipboard question. Sir Walter Raleigh wanted to know how many cannonballs were in a stack, so he asked his scientific advisor, Thomas Harriot. Harriot found a formula for a square pyramid, then wondered if that stacking was the densest way to [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/john-parks-workshop-live-today-10-29-26/",
+    "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: M-Vave FM-1 Firmware Flasher CircuitPython Parsec Learn Guides Gear Report Tool Tips CAD: Adafruit Circuit Designer Retro Gear Coupon Code and more! The live video will be on Youtube LIVE, [&#8230;]"
   },
   {
-    "title": "Articulated Cute Skeleton #3DThursday #3DPrinting",
+    "title": "Raspberry Pi 5 AI Module Case with Camera Mount – AI HAT All-in-One Setup #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/articulated-cute-skeleton-3dthursday-3dprinting/",
-    "summary": "3dcrabi shares: A flexible, cute skeleton printed all at once — can be posed in many positions. Toy + Halloween decoration. CAREFUL when removing supports. 0.2mm layer, 2 walls, 15% infill, PETG (~36g), ~2.7h, 1 plate. Pure-Halloween flexi pick for the final week — pairs with the Flexi Zombie, Werewolf, and Mythic Skeleton Hand of [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/raspberry-pi-5-ai-module-case-with-camera-mount-ai-hat-all-in-one-setup-3dthursday-3dprinting/",
+    "summary": "A case for a Raspberry Pi 5 with the official AI HAT installed, plus a camera mount on top — an &#8216;all-in-one setup to tinker with the AI Module.&#8217; Great fit for Adafruit&#8217;s Pi + machine-learning audience exploring vision pipelines or on-device AI. Compatible with Bambu A1 mini / P1S / X1 Carbon / others. [&#8230;]"
   },
   {
-    "title": "Christmas Snowflake Ornament #3DThursday #3DPrinting",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/christmas-snowflake-ornament-3dthursday-3dprinting/",
-    "summary": "niro58 shares: A minimalist snowflake Christmas ornament. 0.12mm layer, 2 walls, 15% infill, ~1.4h, 1 plate, 26g PLA. 5.0★ from 1 review. CC BY-NC-SA 4.0. Compatible with Bambu P1S/P1P/X1/A1/H2D lineup. Fast print — a good Christmas-week staple as the ramp continues. By Niro (@niro58) download the files on: https://makerworld.com/en/models/874549-christmas-snowflake-ornament-minimalist Every Thursday is #3dthursday here at [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-29/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
-    "title": "Kitchen Gridfinity Measuring Cups and Spoons – Hilbert Top Texture #3DThursday #3DPrinting",
+    "title": "Autumn Pumpkin Wreath #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/kitchen-gridfinity-measuring-cups-and-spoons-hilbert-top-texture-3dthursday-3dprinting/",
-    "summary": "enzo_dog shares: Two Gridfinity-compatible bins that keep measuring cups and spoons organized — each with a dedicated spot. Default &#8216;Hilbert&#8217; top-layer texture can be changed in the slicer. Larger container fits measuring cups up to 92mm (3.6&#8243;) diameter; smaller container fits measuring spoons up to 21.5mm (0.84&#8243;) diameter. Prep-cooking essential — great Thanksgiving-week pick for [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/10/29/autumn-pumpkin-wreath-3dthursday-3dprinting/",
+    "summary": "lynj shares: A ribbed pumpkin centered in an intertwined branch ring, with layered flowers, maple + oak leaves, wheat, acorns, and buds. Open center. Fall wall decor. Printed in Wood &#038; Matte PLA (just as beautiful only in Matte). Three profiles at 12.4h / 6.7h / 40.6h, each on 1 plate. One listed profile is [&#8230;]"
   },
   {
     "title": "Renesas Expands RL78 Family with Ultra-Low-Power 16-Bit RL78/G21 MCU Optimized for Smart Appliance System Control",
@@ -243,13 +257,6 @@
     "date": "2026-10-29",
     "url": "https://www.eejournal.com/article/ai-based-electronic-design-for-when-failure-is-not-an-option/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0531-image-for-home-page-circuit-mind-300x150.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Artificial intelligence is making its presence felt in just about every corner of electronic design, but there&#8217;s a world of difference between generating a circuit and creating one you can trust. What happens when the stakes are high, the designs are complex, and getting things wrong simply isn&#8217;t an option? In my recent column, No [&#8230;]"
-  },
-  {
-    "title": "Hacking the Modern Tamagotchi With UART",
-    "source": "Hackaday",
-    "date": "2026-10-28",
-    "url": "https://hackaday.com/2026/10/28/hacking-the-modern-tamagotchi-with-uart/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/tamagotchi-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although not technically the first virtual pet, the Tamagotchi handhelds certainly popularized the idea and made it a worldwide phenomenon. In the late 90s it was hard to go out <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/hacking-the-modern-tamagotchi-with-uart/\">&#8230;read more</a>"
   },
   {
     "title": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity",
@@ -418,12 +425,5 @@
     "date": "2026-10-22",
     "url": "https://www.embedded.com/socionext-cadence-advance-ai-driven-3-nm-soc-design/",
     "summary": "<p>Socionext Inc. is expanding its use of agentic artificial intelligence (AI) across system-on-chip (SoC) development, extending AI-driven workflows from front-end design and verification to the physical design of large-scale chips manufactured using advanced process technologies. The initiative includes a collaboration with Cadence Design Systems Inc. and the deployment of its InnoStack AI Super Agent for [...]</p>\n<p>The post <a href=\"https://www.embedded.com/socionext-cadence-advance-ai-driven-3-nm-soc-design/\">Socionext, Cadence Advance AI-Driven 3-nm SoC Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "How Agentic AI Accelerates Edge AI Software Development",
-    "source": "Embedded.com",
-    "date": "2026-10-22",
-    "url": "https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development/",
-    "summary": "<p>Deploying an AI model on edge hardware involves much more than generating application code. The model needs to be compressed or quantized to fit available memory, compiled for a specific processor, integrated with a runtime, and tested for latency, power consumption, and accuracy. Developers must also make the software work with the surrounding embedded components [...]</p>\n<p>The post <a href=\"https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development/\">How Agentic AI Accelerates Edge AI Software Development</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
