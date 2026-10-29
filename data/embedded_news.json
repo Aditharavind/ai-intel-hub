@@ -1,5 +1,26 @@
 [
   {
+    "title": "Robot Picks up Othello",
+    "source": "Hackaday",
+    "date": "2026-10-29",
+    "url": "https://hackaday.com/2026/10/29/robot-picks-up-othello/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/othello.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Experience is a great teacher. Ask [Jeneus], who, in high school, tried to make a program that played Othello. It didn&#8217;t go well. But years later, the idea produced an impressive <a class=\"read-more\" href=\"https://hackaday.com/2026/10/29/robot-picks-up-othello/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Exploring What’s Left of Google’s VR Dreams",
+    "source": "Hackaday",
+    "date": "2026-10-29",
+    "url": "https://hackaday.com/2026/10/29/exploring-whats-left-of-googles-vr-dreams/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/daydream_feat_bright.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>You&#8217;re likely familiar with Google&#8217;s Cardboard, and the legions of cheap virtual reality headsets it spawned. By sticking a smartphone to the wearer&#8217;s head, all these headsets needed were some <a class=\"read-more\" href=\"https://hackaday.com/2026/10/29/exploring-whats-left-of-googles-vr-dreams/\">&#8230;read more</a>"
+  },
+  {
+    "title": "An AI Chatbot for the Apocalypse",
+    "source": "Hackaday",
+    "date": "2026-10-29",
+    "url": "https://hackaday.com/2026/10/29/an-ai-chatbot-for-the-apocalypse/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/shtfai.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>You don&#8217;t have to be a full-on &#8220;prepper&#8221; to at least occasionally wonder what would happen if civilization collapsed. One thing you probably couldn&#8217;t do is go on the Internet <a class=\"read-more\" href=\"https://hackaday.com/2026/10/29/an-ai-chatbot-for-the-apocalypse/\">&#8230;read more</a>"
+  },
+  {
     "title": "Magnetic Lock Opens By Magic",
     "source": "Hackaday",
     "date": "2026-10-29",
@@ -32,35 +53,56 @@
     "source": "CNX Software",
     "date": "2026-10-29",
     "url": "https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/",
-    "summary": "<div><img alt=\"BeagleConnect QuadESC Carrier and BeagleConnect Torque SoM\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/BeagleConnect-QuadESC-Carrier-and-BeagleConnect-Torque-SoM-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source 4-channel BLDC motor controller/carrier board built around the BeagleConnect Torque SoM. The SoM features TI&#8217;s 200 MHz AM13E23019 Arm Cortex-M33 microcontroller with a trigonometric math unit (TMU) and a TinyEngine neural-network accelerator for edge AI applications. The QuadESC carrier board supports four three-phase BLDC motor outputs, twelve current and twelve voltage sensing channels, four temperature sensors, and battery voltage monitoring. It also includes an eight-pin flight controller connector with DShot, telemetry, and current reporting signals, along with SWD debugging, a buzzer connector, and onboard power regulation. BeagleConnect Torque SoM The Torque SoM can also be integrated with custom carrier boards for robotics, motor control, and CAN-connected applications. It provides the processing, sensing, and communication interfaces, while external hardware supplies the motor power . Specifications: Main MCU– Texas Instruments AM13E23019 CPU core &#8211; Arm Cortex-M33 MCU @ 200 MHz with FPU Memory &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/\">BeagleConnect QuadESC 4-channel BLDC motor controller uses TI&#8217;s AM13E23019-based Torque module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"BeagleConnect QuadESC Carrier and BeagleConnect Torque SoM\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/BeagleConnect-QuadESC-Carrier-and-BeagleConnect-Torque-SoM-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source 4-channel BLDC motor controller/carrier board built around the BeagleConnect Torque SoM. The SoM features TI&#8217;s 200 MHz AM13E23019 Arm Cortex-M33 microcontroller with a trigonometric math unit (TMU) and a TinyEngine neural-network accelerator for edge AI applications. The QuadESC carrier board supports four three-phase BLDC motor outputs, twelve current and twelve voltage sensing channels, four temperature sensors, and battery voltage monitoring. It also includes an eight-pin flight controller connector with DShot, telemetry, and current reporting signals, along with SWD debugging, a buzzer connector, and onboard power regulation. BeagleConnect Torque SoM The Torque SoM can also be integrated with custom carrier boards for robotics, motor control, and CAN-connected applications. It provides the processing, sensing, and communication interfaces, while external hardware supplies the motor power. Specifications: Main MCU– Texas Instruments AM13E23019 CPU core &#8211; Arm Cortex-M33 MCU @ 200 MHz with FPU Memory &#8211; 128KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/\">BeagleConnect QuadESC 4-channel BLDC motor controller uses TI&#8217;s AM13E23019-based Torque module</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Fable: The Thing That Was Too Good For Its Own Good",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-thing-that-was-too-good-for-its-own-good-2026-10/",
+    "summary": "<p>27 years ago a university  student looked for a way round having to buy CDs to get single tracks. He coded a programme letting students share tracks stored on their [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-thing-that-was-too-good-for-its-own-good-2026-10/\">Fable: The Thing That Was Too Good For Its Own Good</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "What should a sensor decide before its signal becomes electronic?",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/news/business/what-should-a-sensor-decide-before-its-signal-becomes-electronic-2026-10/",
+    "summary": "<p>A sensing architecture can leave transport, sequencing and bounded local decisions in the fluidic domain before an optical or electrical readout hands a validated state to conventional electronics Operations can [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/what-should-a-sensor-decide-before-its-signal-becomes-electronic-2026-10/\">What should a sensor decide before its signal becomes electronic?</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "ST forecasts $4bn Q4",
+    "source": "Electronics Weekly",
+    "date": "2026-10-29",
+    "url": "https://www.electronicsweekly.com/news/business/st-forecasts-4bn-q4-2026-10/",
+    "summary": "<p>ST reported Q3 revenues of $3.76bn, gross margin of 37.3%, operating income of $367m and net income of $291m and operating income of $429m. Jean-Marc Chery, ST president &#38; CEO, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/st-forecasts-4bn-q4-2026-10/\">ST forecasts $4bn Q4</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "“Reassuringly boring” budget",
     "source": "Electronics Weekly",
     "date": "2026-10-29",
     "url": "https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/",
-    "summary": "<p>“Reassuringly boring “ was one judgment on yesterday’s budget, meaning that it didn’t upset the bond market. £18 million has been allocated for a new UK advanced chip design Academy [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/\">“Reassuringly boring” budget</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>“Reassuringly boring“ was one judgement on yesterday’s budget, meaning that it didn’t upset the bond market. £18m has been allocated for a new UK advanced chip design academy at Edinburgh [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/\">“Reassuringly boring” budget</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "onsemi rumoured to be in talks to acquire Ferric",
+    "title": "Onsemi rumoured to be in talks to acquire Ferric",
     "source": "Electronics Weekly",
     "date": "2026-10-29",
     "url": "https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/",
-    "summary": "<p>onsemi is in talks to acquire Ferric, a 16 year-old New York-based semiconductor startup for close to $1 billion, reports The Information. Ferric specialises in integrated voltage regulators (IVRs) and  [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/\">onsemi rumoured to be in talks to acquire Ferric</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Onsemi is in talks to acquire Ferric, a 16-year-old New York-based semiconductor startup for close to $1bn, reports The Information. Ferric specialises in integrated voltage regulators (IVRs) and  thin-film magnetic [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/\">Onsemi rumoured to be in talks to acquire Ferric</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Seoul Viosys producing white LEDs without rare earths",
+    "title": "Seoul Viosys produces white LEDs without rare earths",
     "source": "Electronics Weekly",
     "date": "2026-10-29",
     "url": "https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/",
-    "summary": "<p>Seoul Semiconductor and its affiliate Seoul Viosys have begun mass production of WICOP 3 &#8211; an LED which emits white light without using rare earths. White LEDs have depended on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/\">Seoul Viosys producing white LEDs without rare earths</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Seoul Semiconductor and its affiliate Seoul Viosys have begun mass production of WICOP 3 &#8211; an LED that emits white light without using rare earths. White LEDs have depended on [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/\">Seoul Viosys produces white LEDs without rare earths</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "PCB industry succumbing to ‘semiconducterisation’",
     "source": "Electronics Weekly",
     "date": "2026-10-29",
     "url": "https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/",
-    "summary": "<p>The PCB industry closed 2025 at about $88 billion in revenue, and a conservative forecast puts it at $140 billion by 2031, following an 8.1% CAGR. That headline figure averages [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/\">PCB industry succumbing to ‘semiconducterisation’</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>The PCB industry closed 2025 at about $88bn in revenue and a conservative forecast puts it at $140bn by 2031, following an 8.1% CAGR. That headline figure averages two industries [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/\">PCB industry succumbing to ‘semiconducterisation’</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Toshiba in mass production of entry-class M4H Group  MCUs",
@@ -77,6 +119,83 @@
     "summary": "<p>  &#160; While subscriber additions have been growing steadily, Netflix&#8217;s revenue growth is slowing. In 2026 to-date, revenue was up 13.7% YoY, compared with 15.9% for the full year 2025 [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/\">Netflix revenue shrinking but operating margin and subscribers increasing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "ESP32-S3 Pin & Pinless Enclosure #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/esp32-s3-pin-pinless-enclosure-3dthursday-3dprinting/",
+    "summary": "yujixun shares: A protective case for ESP32-S3 development boards (44-pin layout, ESP32-S3-WROOM-1 and N16R8 variants). Supports both PINNED and PINLESS configurations with separate print profiles. Wi-Fi pattern on top for a tech-themed look. Dual USB Type-C port openings. Compact minimalist design — keeps heat dissipation and functionality intact. Pin profile ~39 min / Pinless profile [&#8230;]"
+  },
+  {
+    "title": "3D Hangouts – Holiday Wreath, DIY HomeView and Twisty Eyeball",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/3d-hangouts-holiday-wreath-diy-homeview-and-twisty-eyeball/",
+    "summary": "3D Hangouts – Holiday Wreath, DIY HomeView and Twisty Eyeball https://youtube.com/live/60gsCGmLxzw?feature=share This week @adafruit Noe is showcasing his guide for his lego brick inspired holiday wreath. Pedro is working on a DIY version of the Apple HomeView. Checking out this week’s Timelapse Tuesday model of a twisty eyeball. Learn Guide https://learn.adafruit.com/holiday-brick-wreath NeoPixel JST Breakout https://www.adafruit.com/product/5975 [&#8230;]"
+  },
+  {
+    "title": "New Guide! NeoPixel Brick Holiday Wreath",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/new-guide-neopixel-brick-holiday-wreath/",
+    "summary": "Build a holiday inspired wreath that lights up with animated NeoPixel LEDs! This project uses the Adafruit Sparkle Motion Mini, 12 NeoPixel JST breakouts and matching cables so there&#8217;s no soldering required. The 3D printed branches snap together and feature modular pieces that diffuse the LEDs. You can 3D print the parts in different colors [&#8230;]"
+  },
+  {
+    "title": "Emacs turns 50",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/emacs-turns-50/",
+    "summary": "MIT Technology Review marks 50 years of EMACS, one of the first full-screen text editors and still in use today. It grew out of TECO, a text editor Dan Murphy wrote in 1962 for the PDP-1 at MIT, and Carl Mikkelsen&#8217;s Control-R add-on from 1971, which showed edits on video terminals as they happened. In [&#8230;]"
+  },
+  {
+    "title": "Twisty Stress-Relief Eyeball #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/twisty-stress-relief-eyeball-3dthursday-3dprinting/",
+    "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Twisty Stress-Relief Eyeball By MAX WORKSHOP crealitycloud.com/model-detail/stress-relief-eye-ball-toy Bambu X1C PolyMaker PLA 15hr 19mins X:67 Y:67 Z:60mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 48g 230mm/s Every Thursday is [&#8230;]"
+  },
+  {
+    "title": "The “Hatfield” Apple-1 computer achieves $1.15 million at Bonhams New York after bodding war",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/the-hatfield-apple-1-computer-achieves-1-15-million-at-bonhams-new-yorkthe-rare-working-apple-1-signed-by-steve-wozniak-and-accompanied-by-a-steve-jobs-signed-letter-more-than-doubled-its-estim/",
+    "summary": "Bonhams reports that the &#8220;Hatfield&#8221; Apple-1 sold for $1.15 million at its History of Science, Technology &#38; Computing sale, which closed on October 14. Two bidders fought over it for 28 minutes. The price is a new world auction record for a commercially sold Apple-1, and more than double the estimate. The machine was built [&#8230;]"
+  },
+  {
+    "title": "Happy National Cat Day 2026! 🐈 😻🐈‍⬛😻#catsofengineering",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/happy-national-cat-day-2026-%f0%9f%90%88-%f0%9f%98%bb%f0%9f%90%88%e2%ac%9b%f0%9f%98%bbcatsofengineering/",
+    "summary": "Happy National Cat Day! All animal friends are great, but here at Adafruit we happen to have a particular fondness for felines who love electronics and engineering, like the cats you see here, from our Cats of Engineering page! Add your cat to the crew or make a project for your cat with help from [&#8230;]"
+  },
+  {
+    "title": "The Repair Café start packet for Linux installations",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/the-repair-cafe-start-packet-for-linux-installations/",
+    "summary": "Repair Café International marked the first anniversary of its Linux Repair Café starter kit on repaircafe.org. The kit is a guide for running sessions where visitors bring an old laptop and leave with Linux Mint installed. One year in, 165 Repair Cafés around the world are doing this. The reason is Windows 10. Microsoft ends [&#8230;]"
+  },
+  {
+    "title": "How a 16th century pirate accidentally spawned a centuries-old math problem",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/how-a-16th-century-pirate-accidentally-spawned-a-centuries-old-math-problem/",
+    "summary": "Manon Bischoff, writing for Scientific American, traces a math problem back to a practical shipboard question. Sir Walter Raleigh wanted to know how many cannonballs were in a stack, so he asked his scientific advisor, Thomas Harriot. Harriot found a formula for a square pyramid, then wondered if that stacking was the densest way to [&#8230;]"
+  },
+  {
+    "title": "Articulated Cute Skeleton #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/articulated-cute-skeleton-3dthursday-3dprinting/",
+    "summary": "3dcrabi shares: A flexible, cute skeleton printed all at once — can be posed in many positions. Toy + Halloween decoration. CAREFUL when removing supports. 0.2mm layer, 2 walls, 15% infill, PETG (~36g), ~2.7h, 1 plate. Pure-Halloween flexi pick for the final week — pairs with the Flexi Zombie, Werewolf, and Mythic Skeleton Hand of [&#8230;]"
+  },
+  {
+    "title": "Christmas Snowflake Ornament #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-10-29",
+    "url": "https://blog.adafruit.com/2026/10/29/christmas-snowflake-ornament-3dthursday-3dprinting/",
+    "summary": "niro58 shares: A minimalist snowflake Christmas ornament. 0.12mm layer, 2 walls, 15% infill, ~1.4h, 1 plate, 26g PLA. 5.0★ from 1 review. CC BY-NC-SA 4.0. Compatible with Bambu P1S/P1P/X1/A1/H2D lineup. Fast print — a good Christmas-week staple as the ramp continues. By Niro (@niro58) download the files on: https://makerworld.com/en/models/874549-christmas-snowflake-ornament-minimalist Every Thursday is #3dthursday here at [&#8230;]"
+  },
+  {
     "title": "Kitchen Gridfinity Measuring Cups and Spoons – Hilbert Top Texture #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-10-29",
@@ -84,32 +203,46 @@
     "summary": "enzo_dog shares: Two Gridfinity-compatible bins that keep measuring cups and spoons organized — each with a dedicated spot. Default &#8216;Hilbert&#8217; top-layer texture can be changed in the slicer. Larger container fits measuring cups up to 92mm (3.6&#8243;) diameter; smaller container fits measuring spoons up to 21.5mm (0.84&#8243;) diameter. Prep-cooking essential — great Thanksgiving-week pick for [&#8230;]"
   },
   {
-    "title": "RAK19003 Meshtastic 1×18650 Weather Resistant Case #3DThursday #3DPrinting",
-    "source": "Adafruit",
+    "title": "Renesas Expands RL78 Family with Ultra-Low-Power 16-Bit RL78/G21 MCU Optimized for Smart Appliance System Control",
+    "source": "EE Journal",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/rak19003-meshtastic-1x18650-weather-resistant-case-3dthursday-3dprinting/",
-    "summary": "juergen_ shares: A LoRa/Meshtastic case for the RAK Wisblock 19003 that uses one 18650 battery. Modified/remixed from DeMeshe Node&#8217;s 19007 case. Compatible with the RAK 19003 only (tags also mention 19007 but description limits to 19003). Includes a small SMA-port guard protecting the antenna plug. 0.2mm layers, 3 walls, 10% infill, ~2.2h, 47g PETG, 1 [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/renesas-expands-rl78-family-with-ultra-low-power-16-bit-rl78-g21-mcu-optimized-for-smart-appliance-system-control/",
+    "summary": "Extends proven low-power leadership by cutting down power consumption by half, achieving top ULPMark®-PeripheralProfile benchmark scores, and increasing reliability with ±4 kV HBM ESD tolerance. Expands the existing RL78/G23 lineup with expanded touch-key functionality for advanced HMI devices, along with enhanced security.  Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced [&#8230;]"
   },
   {
-    "title": "Kitchen Gridfinity Modular Knife Block – 3 Slots#3DThursday #3DPrinting",
-    "source": "Adafruit",
+    "title": "Advanced Energy Unveils Centra Smart Hub for Improved Temperature Measurement in Next-Generation Semiconductor Tools",
+    "source": "EE Journal",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/kitchen-gridfinity-modular-knife-block-3-slots3dthursday-3dprinting/",
-    "summary": "enzo_dog shares: Modular Gridfinity knife holders — mix and match 36 block sizes for different blade heights/lengths, plus two handle rest styles and spacer pieces for custom layouts. Customize directly on MakerWorld. 36-plate set: blocks with 3 regular slots, 2&#215;1 to 2&#215;6 length, 3u to 8u tall. Legacy Set (4 blocks): Large (2&#215;6×8u), Medium (2&#215;4×7u), [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/advanced-energy-unveils-centra-smart-hub-for-improved-temperature-measurement-in-next-generation-semiconductor-tools/",
+    "summary": "Advanced Energy Industries Inc. (Nasdaq: AEIS), a global leader in highly engineered, precision power conversion, measurement and control solutions, today launched the new Centra™ Smart Hub at SEMICON West in San Francisco. The Centra Smart Hub, combined with Advanced Energy’s new Remote Smart Sensors (RSS), enables more accurate wafer-temperature measurement and real-time temperature control for [&#8230;]"
   },
   {
-    "title": "From the mail bag…",
-    "source": "Adafruit",
+    "title": "TDK launches 1000 V and 1500 V contactors for xEVs, DC fast-charging, and AI data center infrastructure",
+    "source": "EE Journal",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/from-the-mail-bag-811/",
-    "summary": "From the mail bag! ong time customer here. (maybe a decade? certainly not as long as some, i’m sure) i just wanted to send an “we appreciate you!” message (the royal “you”, obviously. all the named and unnamed folks that make, and have made, adafruit possible) i have learned SO VERY much in that time [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/tdk-launches-1000-v-and-1500-v-contactors-for-xevs-dc-fast-charging-and-ai-data-center-infrastructure/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"225\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/261028_TDK_Press-Picture_B_Background_HVC28_HVC29-300x225.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />TDK Corporation (TSE: 6762) has introduced the HVC28 and HVC29 series of gas-filled, high-voltage DC contactors with optional mechanical auxiliary contact. Both series are available with continuous current ratings of 300 A, 400 A, 500 A, and 600 A. The HVC28 is designed primarily for automotive systems with operating DC voltages of up to 1000 V and high short-circuit currents. Meanwhile, [&#8230;]"
   },
   {
-    "title": "Mini-LED-Christmas-Tree Tealight #3DThursday #3DPrinting",
-    "source": "Adafruit",
+    "title": "Hirose Develops Narrow-Width Hybrid FPC-to-Board Connector For Space-constrained Applications",
+    "source": "EE Journal",
     "date": "2026-10-29",
-    "url": "https://blog.adafruit.com/2026/10/29/mini-led-christmas-tree-tealight-3dthursday-3dprinting/",
-    "summary": "Allpa_112 shares: A small Christmas tree for a shelf, windowsill, or desk. Base fits over an LED tealight so the tree glows and flickers in the dark. Base designed for a 36×18mm tealight (also versions for 37.2×18.4mm, 37×20mm, and 40×23mm; designer takes requests). Tree is printed in spiral vase mode — quick to print. Base [&#8230;]"
+    "url": "https://www.eejournal.com/industry_news/hirose-develops-narrow-width-hybrid-fpc-to-board-connector-for-space-constrained-applications/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"253\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/Hirose-BK19-Series-Pr-300x253.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Hirose has expanded its hybrid FPC-to-board connector family with a narrow-width, ultra-low-profile version that enables slimmer, more compact designs for portable devices. Among the world&#8217;s smallest single-row FPC-to-board connectors, the BK19 Series features a 0.3 mm pitch, 0.5 mm stacking height, and 1.2 mm width. The BK19 Series utilizes a fully armored design for enhanced [&#8230;]"
+  },
+  {
+    "title": "Saelig Introduces Euroquartz High Power RF Cavity Filters",
+    "source": "EE Journal",
+    "date": "2026-10-29",
+    "url": "https://www.eejournal.com/industry_news/saelig-introduces-euroquartz-high-power-rf-cavity-filters/",
+    "summary": "Saelig Company, Inc.  has announced the availability of Euroquartz RF Cavity Filters for a variety of specifications, including high-pass, low-pass, band-stop, and notch filters. The filters can be custom tailored for frequency tuning, bandwidth adjustment, attenuation control, mechanical sizing, impedance matching, connector selection, group delay performance, or power capacity. Their physical size and metallic construction allow them [&#8230;]"
+  },
+  {
+    "title": "AI-Based Electronic Design for When Failure Is Not an Option",
+    "source": "EE Journal",
+    "date": "2026-10-29",
+    "url": "https://www.eejournal.com/article/ai-based-electronic-design-for-when-failure-is-not-an-option/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.eejournal.com/wp-content/uploads/2026/10/max-0531-image-for-home-page-circuit-mind-300x150.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />Artificial intelligence is making its presence felt in just about every corner of electronic design, but there&#8217;s a world of difference between generating a circuit and creating one you can trust. What happens when the stakes are high, the designs are complex, and getting things wrong simply isn&#8217;t an option? In my recent column, No [&#8230;]"
   },
   {
     "title": "Hacking the Modern Tamagotchi With UART",
@@ -117,27 +250,6 @@
     "date": "2026-10-28",
     "url": "https://hackaday.com/2026/10/28/hacking-the-modern-tamagotchi-with-uart/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/tamagotchi-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although not technically the first virtual pet, the Tamagotchi handhelds certainly popularized the idea and made it a worldwide phenomenon. In the late 90s it was hard to go out <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/hacking-the-modern-tamagotchi-with-uart/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Does Running an E-Paper Display at 30 FPS Destroy It?",
-    "source": "Hackaday",
-    "date": "2026-10-28",
-    "url": "https://hackaday.com/2026/10/28/does-running-an-e-paper-display-at-30-fps-destroy-it/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"472\" src=\"https://hackaday.com/wp-content/uploads/2026/10/ink_boy_bo_made_it_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although e-paper displays are famous for being low-power and lasting essentially forever if not damaged physically, the recent push to drive even cheaper e-paper displays at a framerate like 30 <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/does-running-an-e-paper-display-at-30-fps-destroy-it/\">&#8230;read more</a>"
-  },
-  {
-    "title": "C64 Keycaps For Everybody",
-    "source": "Hackaday",
-    "date": "2026-10-28",
-    "url": "https://hackaday.com/2026/10/28/c64-keycaps-for-everybody/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/printed-e1793154125931.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>If you&#8217;ve got an MX-style keyboard and want some retro charm, you might like a recent project from [Levente Szabadkai]. It&#8217;s a set of C64-style keycaps that you can print <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/c64-keycaps-for-everybody/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Turning an Old Phone’s Motherboard into an RC Plane Controller",
-    "source": "Hackaday",
-    "date": "2026-10-28",
-    "url": "https://hackaday.com/2026/10/28/turning-an-old-phones-motherboard-into-an-rc-plane-controller/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"465\" src=\"https://hackaday.com/wp-content/uploads/2026/10/old_phone_remote_control_mountain_ds_lab_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Upcycling smartphones makes a lot of sense, especially since they contain so many components that remain useful long after their desirability as a smartphone has faded. In the case of <a class=\"read-more\" href=\"https://hackaday.com/2026/10/28/turning-an-old-phones-motherboard-into-an-rc-plane-controller/\">&#8230;read more</a>"
   },
   {
     "title": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity",
@@ -175,76 +287,6 @@
     "summary": "<p>DigiKey has expanded its DigiKey Standard Product range, which addresses the &#8220;everyday needs of engineers, technicians and makers&#8221;. Its own-label product line now includes a soldering station, an ESD silicone [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/digikey-adds-to-its-standard-product-range-2026-10/\">DigiKey adds to its Standard Product range</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Tesla’s R&D Costs Rising",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/tealas-rd-costs-rising-2026-10/",
-    "summary": "<p>Tesla’s R&#38;D spending is rising significantly faster than its revenue. In Q1 2026, the company&#8217;s R&#38;D-to-revenue ratio reached a new high of 8.7%, up from 3.3% in early 2023. By [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/manuf/tealas-rd-costs-rising-2026-10/\">Tesla’s R&#038;D Costs Rising</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Microchip adds LX-820 Quartz Oscillator to L-Series for LEO apps",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/market-sectors/military-aerospace-electronics/microchip-adds-lx-820-quartz-oscillator-to-l-series-for-leo-apps-2026-10/",
-    "summary": "<p>Microchip is adding the LX-820 Radiation-Tolerant Quartz Oscillator to its L-Series of timing devices. The part is designed for Low Earth Orbit (LEO) and other space applications. The L-Series is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/market-sectors/military-aerospace-electronics/microchip-adds-lx-820-quartz-oscillator-to-l-series-for-leo-apps-2026-10/\">Microchip adds LX-820 Quartz Oscillator to L-Series for LEO apps</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Anduril and Qualcomm hook up for ruggedised laptop",
-    "source": "Electronics Weekly",
-    "date": "2026-10-28",
-    "url": "https://www.electronicsweekly.com/news/business/a-duel-and-qualcomm-hook-up-for-ruggedised-laptop-2026-10/",
-    "summary": "<p>Yesterday, Anduril  and Qualcomm said they had developed a prototype of a ruggedised laptop assembled in the US with 90% of its components sourced in the US. They call it [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/a-duel-and-qualcomm-hook-up-for-ruggedised-laptop-2026-10/\">Anduril and Qualcomm hook up for ruggedised laptop</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Can AI design a working PCB? @JLCPCB",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/can-ai-design-a-working-pcb-jlcpcb/",
-    "summary": "JLCPCB posted on X about a board designed with the help of an AI agent working in KiCad. The builder, who goes by John, used the workflow to produce a GNSS module based on the u-blox MAX-M10S receiver. The finished board measures 25 by 36.5 mm and uses a 4-layer stackup. It was manufactured and [&#8230;]"
-  },
-  {
-    "title": "Reach your ESP32’s web page from anywhere",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/reach-your-esp32s-web-page-from-anywhere/",
-    "summary": "Pinscope has posted a tutorial on hackster.io that makes an ESP32&#8217;s own web page reachable from outside the local network, without a port forward or a VPN. The device opens one outbound connection and gets an HTTPS address, live logs, charted metrics, decoded crash reports and over the air firmware updates. Setup is one ESP-IDF [&#8230;]"
-  },
-  {
-    "title": "MP3 player cassette, version 2",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/mp3-player-cassette-version-2/",
-    "summary": "C Forde built an MP3 player shaped like a cassette tape, and posted the build on Hackster.io. It plays through headphones on its own, or it sits in a cassette deck and feeds audio to the player&#8217;s own head through a tape head mounted in the shell. Version 2 replaces most of the point to [&#8230;]"
-  },
-  {
-    "title": "Encrypted IoT networking via RF24Gateway with nRF24, nRF52x and nRF54x. Coming soon",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/encrypted-iot-networking-via-rf24gateway-with-nrf24-nrf52x-and-nrf54x-coming-soon/",
-    "summary": "TMRh20Projects posted on the Seeed Studio forum about adding encryption to RF24Gateway. The work builds on nrf_to_nrf, a library for direct radio communication on XIAO nRF52840 and nRF54L15 boards. It does not use Bluetooth or Zigbee. It uses the Enhanced ShockBurst (ESB) protocol and direct radio access. The library already included AES/CCM encryption, and that [&#8230;]"
-  },
-  {
-    "title": "The IBM PC 5150, Revision A vs Revision B",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/the-ibm-pc-5150-revision-a-vs-revision-b/",
-    "summary": "Dave Farquhar at The Silicon Underground compares the two versions of the original IBM PC 5150, pegged to the October 27, 1982 date on the Revision B BIOS. The fronts look identical. The back tells you which one you have: Revision B is marked with a B in a circle and has positions for five [&#8230;]"
-  },
-  {
-    "title": "How do touchscreens work?",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/how-do-touchscreens-work-2/",
-    "summary": "Shri Khalpada walks through the two main kinds of touchscreen, with interactive demos, at PerThirtySix. Resistive screens stack two conductive layers with spacer dots between them. The controller puts a voltage slope across one layer and reads the other. Press down and the layers meet at one point, and the voltage read there says how [&#8230;]"
-  },
-  {
-    "title": "The death of Flash",
-    "source": "Adafruit",
-    "date": "2026-10-28",
-    "url": "https://blog.adafruit.com/2026/10/28/the-death-of-flash/",
-    "summary": "CultRepo posted a 51 second clip on YouTube about the moment Flash started to disappear from the web. It points to Steve Jobs announcing that the iPhone would not support Adobe Flash, which meant video on iOS had to run through HTML5 instead. That decision pushed companies across the internet to move their video streaming [&#8230;]"
-  },
-  {
     "title": "Guide to Axial Fans & Blowers — Same Sky and Mouser Electronics",
     "source": "EE Journal",
     "date": "2026-10-28",
@@ -273,20 +315,6 @@
     "summary": "SECO S.p.A. (“SECO” or the “Company”) today announced the launch of Clea 2.0 Agentic Framework, the latest release of its proprietary software framework, that enables the deployment of AI models and applications at the Edge with just one click. Designed for users across the Edge AI value chain — from developers and business users to [&#8230;]"
   },
   {
-    "title": "Qt Group Launches ‘Clate’ to Close the Interface Usability Gap in Industrial UX Design",
-    "source": "EE Journal",
-    "date": "2026-10-28",
-    "url": "https://www.eejournal.com/industry_news/qt-group-launches-clate-to-close-the-interface-usability-gap-in-industrial-ux-design/",
-    "summary": "Today at Qt World Summit 2026, Qt Group (Nasdaq Helsinki: QTCOM) has announced Clate, a purpose-built design tool for designers creating real-world embedded user interfaces. It is built to remove the need to rely on generic web and mobile design tools and give embedded UI/UX designers a no-code, AI-native environment, allowing designers to own the [&#8230;]"
-  },
-  {
-    "title": "Saelig Introduces the Siglent SSG6000A Series 40GHz Microwave Analog Signal Generators",
-    "source": "EE Journal",
-    "date": "2026-10-28",
-    "url": "https://www.eejournal.com/industry_news/saelig-introduces-the-siglent-ssg6000a-series-40ghz-microwave-analog-signal-generators/",
-    "summary": "The SSG6000A series expands Siglent’s signal sources into the high-frequency microwave and millimeter-wave test and measurement markets. Addressing 5G FR2, radar development, satellite communications, and aerospace with advanced modulation features for modern R&#38;D and defense applications, the SSG6000A series provides laboratory-grade performance and signal purity at an attractive pricepoint. Saelig Company, Inc. has announced the launch [&#8230;]"
-  },
-  {
     "title": "Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os",
     "source": "CNX Software",
     "date": "2026-10-27",
@@ -313,34 +341,6 @@
     "date": "2026-10-27",
     "url": "https://www.embedded.com/building-more-with-less-how-to-navigate-the-memory-chip-shortage/",
     "summary": "<p>Every major AI buildout has multiple moving parts, but many operators are running into the same constraint. Demand for high-bandwidth memory (HBM) has outpaced what manufacturers can produce. That supply crunch is now spilling over into the conventional dynamic random access memory (DRAM) chip that every server depends on, and the numbers show how tight [...]</p>\n<p>The post <a href=\"https://www.embedded.com/building-more-with-less-how-to-navigate-the-memory-chip-shortage/\">Building More with Less: How to Navigate the Memory Chip Shortage</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Precision RF Solutions — Samtec and Mouser Electronics",
-    "source": "EE Journal",
-    "date": "2026-10-27",
-    "url": "https://www.eejournal.com/chalk_talks/precision-rf-solutions-samtec-and-mouser-electronics/",
-    "summary": "In this episode of Chalk Talk, Matthew Burns from Samtec and Amelia Dalton investigate Samtec’s robust portfolio of Precision RF solutions. They explore the benefits of these high-density vertical and edge-launch connectors, and specialized compression mounts. We also examine how Samtec supports engineers through prototyping, simulation, and design expertise. Click here for more information about [&#8230;]"
-  },
-  {
-    "title": "NOVOSENSE is latest addition to Anglia’s burgeoning analog and mixed signal devices product portfolio",
-    "source": "EE Journal",
-    "date": "2026-10-27",
-    "url": "https://www.eejournal.com/industry_news/novosense-is-latest-addition-to-anglias-burgeoning-analog-and-mixed-signal-devices-product-portfolio/",
-    "summary": "Anglia Components, one of Europe’s longest-established, independent, authorised distributors of electronic components, has signed a Pan-European franchise agreement with  NOVOSENSE Microelectronics (NOVOSENSE), the Chinese manufacturer of highly robust and reliable analog and mixed signal ICs. Explains John Bowman, Anglia’s Marketing Director: “This agreement is part of our strategy to offer customers alternative solutions to the [&#8230;]"
-  },
-  {
-    "title": "STMicroelectronics introduces first automotive safety combination sensors for mass-market applications",
-    "source": "EE Journal",
-    "date": "2026-10-27",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-introduces-first-automotive-safety-combination-sensors-for-mass-market-applications/",
-    "summary": "Cohesive sensor platform accelerates development of advanced active and passive safety systems First mass-market products launched following the integration of NXP’s sensors division earlier this year STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, has announced a set of automotive sensors that enable vehicle brands to extend advanced [&#8230;]"
-  },
-  {
-    "title": "Power Integrations Unveils 4th Generation of Pioneering CAPZero™ X-Capacitor Discharge IC Family",
-    "source": "EE Journal",
-    "date": "2026-10-27",
-    "url": "https://www.eejournal.com/industry_news/power-integrations-unveils-4th-generation-of-pioneering-capzero-x-capacitor-discharge-ic-family/",
-    "summary": "Power Integrations™ (NASDAQ: POWI), the leader in high-voltage integrated circuits for energy-efficient power conversion, today expanded its industry-leading CAPZero™ family of X-capacitor discharge ICs with the introduction of the CAPZero™-4 device for industrial and consumer applications. Power Integrations pioneered the X-capacitor discharge function, which disengages the energy-consuming discharge resistor in an AC-DC power supply until [&#8230;]"
   },
   {
     "title": "Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",

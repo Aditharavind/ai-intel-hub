@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-29 09:14 UTC
+Generated: 2026-10-29 16:27 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-10-29 09:14 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84203 | 33681.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64005 | 25602.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44750 | 17900.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30821 | 12328.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29727 | 11890.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 84233 | 33693.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64008 | 25603.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44748 | 17899.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30823 | 12329.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29729 | 11891.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| mradermacher/EmbodiedBrain-7B-GGUF | 289 | 87.0 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
-| nvidia/Cosmos3-H-Embodied-Nano | 184 | 55.9 | [link](https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano) |
-| mradermacher/EmbodiedBrain-32B-GGUF | 173 | 52.0 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-32B-GGUF) |
+| mradermacher/EmbodiedBrain-7B-GGUF | 286 | 86.1 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF) |
+| vladimir94/lfm3-omni-2b-ane-coreml | 269 | 80.8 | [link](https://huggingface.co/vladimir94/lfm3-omni-2b-ane-coreml) |
+| mradermacher/EmbodiedBrain-32B-GGUF | 239 | 71.8 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-32B-GGUF) |
+| nvidia/Cosmos3-H-Embodied-Nano | 194 | 58.9 | [link](https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano) |
 | frankmorales2020/topo-cbp-world-model-3d | 88 | 26.5 | [link](https://huggingface.co/frankmorales2020/topo-cbp-world-model-3d) |
-| DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0 | 77 | 23.2 | [link](https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-StackCube-alpha0) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-10-29 09:14 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-10-28 | China Physical AI Roundup: Unitree Earnings, AgiBot Robot Launch, XPeng Robotaxi Update, Plus Funding & Xiaomi's New Hand - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZmdHTUlRdjRDV2dWcXRBVkZHMlBqdGo0SDhJS0ZXLWVrZ3JMcklibDluYUIwamRtbDZ5bHBBekQtZ2hXTVFRLUNka2txUmNfNUlnR1BtbHZ3MjlIQjZRNnRBeWdZdUtyeXF2MUZJZmo0OUgwc3ZOZ3FDVTdwODF3RmJiaEQ2aXVja1RpVm5pdnBvTXYzZXRsOXBvcGNHNldKamFLT0hJTGZEX2syVFlfVzZzMDByUktTYWhaRlk2QXlyUjZMVVdEZWRlaWk0YXBvVEZtUm0wQUFnV2RkOEdUXzNQRUpoUmVfeFFRYzcyeUM?oc=5) |
-| 2026-10-28 | Zero-Revenue Physical Intelligence Valued at $20 Billion as New Funding Round Ignites Robot AI Bubble Debate - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hbk8za1lJTDdXeDZBVE1UTGo1ODZ0SEszb1I0djFuUUtJNnhtUmszb2IzS1ZSMUtqQzV4aGZCdDE4WDhBZkcycEFIUmpWRnhBYkQ3aDVCOXlSYkcxcnFCaGVjLWJtblNpb2lxOGVXazdCTkZlY2c?oc=5) |
+| 2026-10-29 | Physical AI startup Tensrai raises Rs 3.4 Cr in pre-seed round - Entrackr | vision language action startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1FwQS1lRnN4Um9razdrUXFhemN5VTdGRXVRbTFsRjFLdTBfQ3pZbkhybnlvNWN5eVpVSk1Qb2RlMDJuY3N4Z3ZNU1R1UXZNR2JKLXBrM3J1NEFCYTN4eU9tZmFHemRqMndIZjlFRTVUdE5zUmt4V0lSVVFRTHRWc3FjMVdENEo4azJnZ0hxeGdhWlo2aW9lR2I5MEp3cjd2elHSAaIBQVVfeXFMUHNRcEEtZUZzeFJva2s3a1FxYXpjeVU3RkV1UW0xbEYxS3UwX0N6WW5Icm55bzVjeXlaVUpNUG9kZTAybmNzeGd2TVNUdVF2TUdiSi1wazNydTRBQmEzeHlPbWZhR3pkajJ3SGY5RUU1VHROc1JreFdJUlVRUUx0VnNxYzFXRDRKOGsyZ2dIcXhnYVpaNmlvZUdiOTBKd3I3dnpR?oc=5) |
+| 2026-10-29 | French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations - EU-Startups | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXRpN25nUTJZNEYyTXFReU8wX2M5Rml6QnFrbDVKVXlrblNzRG5COTdOZ29zRHRTQmxTZjVfTFdoWUxwOVVNNG01LS1MM3lQWGFxTWF2N3doWDJtb1N3QUdyNjQ5M21ObHhWTi1MdlhfdEk5MVNxb2FLWWJzQnRHTjhhendEb1BuR05QMjh4alZvOWxQUmZzMkFoNmlDS3N4MVhSQW4wQXRWS09zNVB6QUpMaFJZWE5RVVZyYVc4bEV2aURiVWdrazRRbFkyVEVEMi1fTmFOUzNDa251eFE?oc=5) |
 | 2026-10-28 | Singapore launches new program for startups to drive development of embodied AI solutions in construction sector - TNGlobal | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWlrWEl6SFI1TnYzMmVvbjE3Q0hQYy1hOGJMbTdJZWZvejlzRzR5YkFjcldUWWtpd0xsME94VVJIbk00ekYtcDhYd2U3Zm9aMGs1emlqT1R1QWtJdnN0eW5NVVU0V1Z6RHNyMkFSQlJfVDZjWTBVY2FPYms3dnhZMDBxVTVva2JzcWdEVG1vVUhvMUpPcXV3Zks3TldCTEJWa1FQRjhOLWZGZVR4Z29UYWFJcmZDakdRN0lEOC16NXRTV3JJRkFZQ2szaWF1STBVWUpObVFkRlI0cEI3N0dJVW5uTlBfd0E?oc=5) |
 | 2026-10-28 | China unveils 13-foot robot that can lift a cow - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3R6SUtsYVo4djgzN2VVQmFGUlpGNnZIVTFQYTVsNnpGY00xd011VUdtR3ZfRVBGaERNa2VOa1dfRWhWM0ZkVEhBWUo3TVlGTnktMDNCTGpPXy1ST3RaaVc4ajBsNVpudmpoVjNKaE9VUC1LUzB2REZCN2xHdGVZT2dUYWhydGd2cmc2alhPOUg1NGZUMmkw?oc=5) |
 | 2026-10-27 | Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
