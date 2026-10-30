@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-30 19:45 UTC
+Last Updated: 2026-10-30 23:18 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -9,6 +9,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-10-30 | Making it easier for websites to express AI training preferences | OpenAI | [link](https://openai.com/index/helping-websites-express-ai-training-preferences) |
 | 2026-10-30 | Community safety report and new protections for teens | OpenAI | [link](https://openai.com/index/community-safety-report-and-new-protections-for-teens) |
+| 2026-10-30 | Fair use benefits everyone | OpenAI | [link](https://openai.com/index/fair-use-benefits-everyone) |
 | 2026-10-30 | nemotron-halloween | Hugging Face | [link](https://huggingface.co/blog/nvidia/nemotron-halloween) |
 | 2026-10-29 | An updated Model Spec for more capable and beneficial AI | OpenAI | [link](https://openai.com/index/updated-model-spec) |
 | 2026-10-29 | How we detect frontier model misalignment | OpenAI | [link](https://openai.com/index/how-we-detect-frontier-model-misalignment) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-29 | Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot | OpenAI | [link](https://openai.com/index/credit-saison) |
 | 2026-10-29 | Granite Switch 4.1.1 — Update models like you update software | Hugging Face | [link](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1) |
 | 2026-10-29 | Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready | Hugging Face | [link](https://huggingface.co/blog/announcing-project-protostar) |
-| 2026-10-29 | Welcome Le Chonk: Mistral Large 4 on Hugging Face | Hugging Face | [link](https://huggingface.co/blog/mistral-large4) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-30 | A 1982 Modem for $100 | Hackaday | [link](https://hackaday.com/2026/10/30/a-1982-modem-for-100/) |
+| 2026-10-30 | Making Internal Combustion Engines Better With More Valves | Hackaday | [link](https://hackaday.com/2026/10/30/making-internal-combustion-engines-better-with-more-valves/) |
 | 2026-10-30 | A Modern Smalltalk | Hackaday | [link](https://hackaday.com/2026/10/30/a-modern-smalltalk/) |
 | 2026-10-30 | Hackaday Podcast Episode 393: Epaper, Tamagotchi Hacks, and Supercon Talks Galore | Hackaday | [link](https://hackaday.com/2026/10/30/hackaday-podcast-episode-393-epaper-tamagotchi-hacks-and-supercon-talks-galore/) |
 | 2026-10-30 | How Britain Narrowly Escaped a Grid Blackout in June 2026 | Hackaday | [link](https://hackaday.com/2026/10/30/how-britain-narrowly-escaped-a-grid-blackout-in-june-2026/) |
 | 2026-10-30 | This Week in Security: Broken Embargoes, UEFI Overflow, Wormable Tailscale, Starlink Ad Snooping, and a DHS Directory Dump | Hackaday | [link](https://hackaday.com/2026/10/30/this-week-in-security-broken-embargoes-uefi-overflow-wormable-tailscale-starlink-ad-snooping-and-a-dhs-directory-dump/) |
 | 2026-10-30 | The Sounds of the World, One Random Album at a Time | Hackaday | [link](https://hackaday.com/2026/10/30/the-sounds-of-the-world-one-random-album-at-a-time/) |
-| 2026-10-30 | Snake On a Seven-Segment Display is Gloriously Bad | Hackaday | [link](https://hackaday.com/2026/10/30/snake-on-a-seven-segment-display-is-gloriously-bad/) |
-| 2026-10-30 | Is This The Only Instrument You Need? | Hackaday | [link](https://hackaday.com/2026/10/29/is-this-the-only-instrument-you-need/) |
 | 2026-10-30 | Azume One – A 2.8mm sensor that turns any regular wristwatch into a health tracker (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/10/30/azume-one-a-2-8mm-sensor-that-turns-any-regular-wristwatch-into-a-health-tracker/) |
 | 2026-10-30 | $26 Banana Pi BPI-RT2 WiFi 6 router board features Realtek RTL8198D dual-core MIPS SoC | CNX Software | [link](https://www.cnx-software.com/2026/10/30/26-banana-pi-bpi-rt2-wifi-6-router-board-features-realtek-rtl8198d-dual-core-mips-soc/) |
-| 2026-10-30 | Altera Brings FPGAs to Physical AI With Agilex 2X and an Agentic Design Assistant | Embedded.com | [link](https://www.embedded.com/altera-brings-fpgas-to-physical-ai-with-agilex-2x-and-an-agentic-design-assistant/) |
+| 2026-10-30 | Development Platforms for Edge AI, When Engineering Apps Need Agentic AI, Real-Time Sensing: Embedded Week Insights | Embedded.com | [link](https://www.embedded.com/development-platforms-for-edge-ai-when-engineering-apps-need-agentic-ai-real-time-sensing-embedded-week-insights/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-10-30 | Myungkyu/cosmos3_mot_l36_d1024_robotwin_b128_60k_scratch_ema | 0 | 0 | [link](https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b128_60k_scratch_ema) |
+| 2026-10-30 | JingwuLuo/imagewam-flux2_9b-robotwin | 0 | 0 | [link](https://huggingface.co/JingwuLuo/imagewam-flux2_9b-robotwin) |
 | 2026-10-30 | 3CTeam/robotwin_move_playingcard_away_stage2_fsdp2_gb64_1k_model_only_official20 | 0 | 0 | [link](https://huggingface.co/3CTeam/robotwin_move_playingcard_away_stage2_fsdp2_gb64_1k_model_only_official20) |
 | 2026-10-30 | bageldotcom/Bagel-Robotics-1-Preview | 0 | 0 | [link](https://huggingface.co/bageldotcom/Bagel-Robotics-1-Preview) |
 | 2026-10-30 | constructelligence/painting-vision-robotics-kit | 95 | 1 | [link](https://huggingface.co/constructelligence/painting-vision-robotics-kit) |
@@ -85,20 +87,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-30 | xpeng-robotics/Capek0.5-35B-A3B | 0 | 2 | [link](https://huggingface.co/xpeng-robotics/Capek0.5-35B-A3B) |
 | 2026-10-30 | RobotisSW/Task802_gr00t_50k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task802_gr00t_50k) |
 | 2026-10-30 | RobotisSW/Task802_gr00tn17_50k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task802_gr00tn17_50k) |
-| 2026-10-30 | 3CTeam/robotwin_click_alarmclock_stage2_fsdp2_gb64_1k_model_only_official20 | 0 | 0 | [link](https://huggingface.co/3CTeam/robotwin_click_alarmclock_stage2_fsdp2_gb64_1k_model_only_official20) |
-| 2026-10-30 | codyjcai/roboeval-robotrainerxr-act-v1-20261029 | 0 | 0 | [link](https://huggingface.co/codyjcai/roboeval-robotrainerxr-act-v1-20261029) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29740 | Python | 11896.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3799 | Python | 1519.7 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 29742 | Python | 11896.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3800 | Python | 1520.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1532 | Rust | 612.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 1096 | Python | 438.5 | [link](https://github.com/mosaico-labs/mosaico) |
 | autonomous-ai/lampOS | 533 | Python | 213.3 | [link](https://github.com/autonomous-ai/lampOS) |
-| commaai/openpilot | 64026 | Python | 25610.5 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 24320 | Python | 9728.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17486 | Java | 6994.5 | [link](https://github.com/questdb/questdb) |
+| commaai/openpilot | 64029 | Python | 25611.7 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 24343 | Python | 9737.3 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17487 | Java | 6994.9 | [link](https://github.com/questdb/questdb) |
 | zauberzeug/nicegui | 16330 | Python | 6532.1 | [link](https://github.com/zauberzeug/nicegui) |
 | google-deepmind/mujoco | 15980 | C++ | 6392.1 | [link](https://github.com/google-deepmind/mujoco) |
 
@@ -121,14 +121,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | --- | --- | --- | --- |
 | 2026-10-30 | Brain-inspired AI startup Zhiyue wins gold at Hong Kong contest after angel round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE10djM5NTdYRFNlb3RlU0hseWRiYmRhZjhiY3pJZlRXNENXTV91XzViNUhmT1RmZlo0Nmt3LXpOY01nbzNlTlM2VjN4clREeTVGZlNiX003SXVzZWtIOU9CWV9sb3FvMUhoYlhMOTQ0N2NnUjdUbGlaUDZmcjJYTEozM1RuY2tIRlBickdMTEdudHZmTWI0dkN3b3RfWVVwN0Nid2p1a3pvRzNjXzhQbTdFWklOZw?oc=5) |
 | 2026-10-30 | Hyderabad physical AI startup Tensrai raises Rs 3.4 crore to make existing machines run on their own - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjJTUjRfaFRkdEFWWFpkQjlqd1VMWTNGT2Q1V3BOMVpJQnloaU1DMmVjLWVjUE1YcDM2cHdwaDJyOG9iUmg5OEFWcmFXUWR1Q1UzWmp2c0xUdHZKRWsxSXFLVDhOVTVCdWFJOTdCYWRkem52NVVZamVmM2JTb0ZWWnZEXzQzQXo1U3pfRS1SalN1YlBVUUVEb1c2ZzlBQ0phUlA5N2xCek1LVUNfY2ZGbVRsMzRaWUFkY1ZYcmlvZzRMd29wcmd6bVRnT1lscVFyMENvQVFWQ1FRR3dQajMw0gHfAUFVX3lxTE1yMlNSNF9oVGR0QVZYWmRCOWp3VUxZM0ZPZDVXcE4xWklCeWhpTUMyZWMtZWNQTVhwMzZwd3BoMnI4b2JSaDk4QVZyYVdRZHVDVTNaanZzTFR0dkpFazFJcUtUOE5VNUJ1YUk5N0JhZGR6bnY1VVlqZWYzYlNvRlZadkRfNDNBejVTel9FLVJqU3ViUFVRRURvVzZnOUFDSmFSUDk3bEJ6TUtVQ19jZkZtVGwzNFpZQWRjVlhyaW9nNEx3b3ByZ3ptVGdPWWxxUXIwQ29BUVZDUVFHd1BqMzA?oc=5) |
+| 2026-10-30 | SF Startup Behind ‘Robot-Dog Walkers Wanted’ Ad Gets Visit, Threatening Texts From Angry Resident - SFist | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmV5cHp4YjAzMWx0R0U2VlFHYUVpXzl5UVkzeVVrRVpuVEt4ZnBqVklYUWxKM1FxZHhkTy1kaGYwal9ZTlJYakN4bXVwV3NRWU83dkROdFczamxaZGJBQVN1V2t0aUVmZXBrNDJIeUJjd2RCWWlIelEyazhld05OUi11ZDBHNTRTN3hsbjB2SE1idDdia1VHR3ZsVnFoTXlwYVNZSkl4dl8zY3JxUHlWTE1qUTBROTJGQ29pWnZUcjZsWXdk?oc=5) |
 | 2026-10-29 | Edge Sound Research Raises $2M to Help Physical AI Make Sense of Sound - Techstars | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlFEeEFoWVZRUzZLX0dHcHVtNmZfZWRKbURYbzRLeUlhNjdrX0pzUnVKSldEeTRfSGZVeXhBSUMzWTRXUzdaTWx2TFZ3bjVscDZ6cUhzaTdDTzE5SVhOTnNNbWlrS3VYQ0VOb003T3dlZExoeWlNTUpuazFkSzFYa0kwSTZ1NDhRSGxiY3lMLUhwYkZPakNhRjZ6cjJUNGgtTnhRcVBZX0ZpNWRFSmY3UEktdDdsMjljOHc?oc=5) |
 | 2026-10-29 | French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations - EU-Startups | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXRpN25nUTJZNEYyTXFReU8wX2M5Rml6QnFrbDVKVXlrblNzRG5COTdOZ29zRHRTQmxTZjVfTFdoWUxwOVVNNG01LS1MM3lQWGFxTWF2N3doWDJtb1N3QUdyNjQ5M21ObHhWTi1MdlhfdEk5MVNxb2FLWWJzQnRHTjhhendEb1BuR05QMjh4alZvOWxQUmZzMkFoNmlDS3N4MVhSQW4wQXRWS09zNVB6QUpMaFJZWE5RVVZyYVc4bEV2aURiVWdrazRRbFkyVEVEMi1fTmFOUzNDa251eFE?oc=5) |
 | 2026-10-29 | 1X Neo Robot Sells Out Preorders Even After Teleoperation Reveal - Startup Fortune | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzM5eWttek5TWHlsX0NUZVd1SU5LdHBlR3A3czRyenpQQlluTFFJMDlIQ2VWYWF6Z3RxVm50UEllV1hQNTFMSTN2Q2RLREpMaUZUYmFlYXpHXzAxZTZVX3pfWVJZdy1mOEtQSDBMcUFVVXdJa3dnejZYbXJRRU9VRVBMaGNhSnFQZU9KUk41TUxCRGxqLTE4?oc=5) |
-| 2026-10-29 | Physical AI startup Tensrai raises Rs 3.4 Cr in pre-seed round - Entrackr | vision language action startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1FwQS1lRnN4Um9razdrUXFhemN5VTdGRXVRbTFsRjFLdTBfQ3pZbkhybnlvNWN5eVpVSk1Qb2RlMDJuY3N4Z3ZNU1R1UXZNR2JKLXBrM3J1NEFCYTN4eU9tZmFHemRqMndIZjlFRTVUdE5zUmt4V0lSVVFRTHRWc3FjMVdENEo4azJnZ0hxeGdhWlo2aW9lR2I5MEp3cjd2elHSAaIBQVVfeXFMUHNRcEEtZUZzeFJva2s3a1FxYXpjeVU3RkV1UW0xbEYxS3UwX0N6WW5Icm55bzVjeXlaVUpNUG9kZTAybmNzeGd2TVNUdVF2TUdiSi1wazNydTRBQmEzeHlPbWZhR3pkajJ3SGY5RUU1VHROc1JreFdJUlVRUUx0VnNxYzFXRDRKOGsyZ2dIcXhnYVpaNmlvZUdiOTBKd3I3dnpR?oc=5) |
+| 2026-10-28 | Q3 2026 startup funding rounds: 10 large deals to know - qz.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRnhpYmo1R2NvcUVfMWFuYUZSVE45bnRCa09vczltMkQ5bmhwRWg0bUdqVFo2dFRTR3hKNHNpYWxkT2pEb0l1WldlbkpydXduOWl1djVhRlM1OEoyUHR0THVaV2c4dw?oc=5) |
 | 2026-10-28 | Singapore launches new program for startups to drive development of embodied AI solutions in construction sector - TNGlobal | embodied ai startup | [link](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWlrWEl6SFI1TnYzMmVvbjE3Q0hQYy1hOGJMbTdJZWZvejlzRzR5YkFjcldUWWtpd0xsME94VVJIbk00ekYtcDhYd2U3Zm9aMGs1emlqT1R1QWtJdnN0eW5NVVU0V1Z6RHNyMkFSQlJfVDZjWTBVY2FPYms3dnhZMDBxVTVva2JzcWdEVG1vVUhvMUpPcXV3Zks3TldCTEJWa1FQRjhOLWZGZVR4Z29UYWFJcmZDakdRN0lEOC16NXRTV3JJRkFZQ2szaWF1STBVWUpObVFkRlI0cEI3N0dJVW5uTlBfd0E?oc=5) |
+| 2026-10-28 | This humanoid robot unloads parcels from a Cybertruck and carries them to your door - Interesting Engineering | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWlsM3M4MDRLTDVpTkZXSEZlSVhJZS10Ympaam1XeVBPQXZramYtcVRWN0VqbWY0d25fV0xzR0VjSjRFcnRIc2U4X0hqZ3JlT3FBZEhDQ3BsNWZWazB5aTNZMzc2aGExOU1la1o0dVd1UzlVbENnb2FXbGw0UHg0WXNhS0ZiNUhpWFp2Y1dvMlNrdld1LWpkcEdTa2pubFJDazBGdmRxTGRpVTRHYld1TGR5bjIwNEhqZUk1Vkc1OEg3WVU?oc=5) |
 | 2026-10-28 | China unveils 13-foot robot that can lift a cow - The Independent | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3R6SUtsYVo4djgzN2VVQmFGUlpGNnZIVTFQYTVsNnpGY00xd011VUdtR3ZfRVBGaERNa2VOa1dfRWhWM0ZkVEhBWUo3TVlGTnktMDNCTGpPXy1ST3RaaVc4ajBsNVpudmpoVjNKaE9VUC1LUzB2REZCN2xHdGVZT2dUYWhydGd2cmc2alhPOUg1NGZUMmkw?oc=5) |
-| 2026-10-27 | Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg - Yahoo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
-| 2026-10-27 | Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlV5TmZCQmFNWFl6UEpMakVNNWVTVUpkNzdqcDk4U2xnWTVadDdTWkRFbG1nbTRzM1luYzEzNnVQbVZxWDNwVFhMWGVuLUloNFFPS0Q0Wkxqd3VlSFI5U3o2NnV4amNjOGctbm55NTltUEpyYVJ1NGcyM0s1Y0R5QWtweDBpYVJRY1dWMTV0TnppdjJYdmJYdWdwRDM2eV90NjZJ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

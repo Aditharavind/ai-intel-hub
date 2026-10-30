@@ -1,5 +1,23 @@
 [
   {
+    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b128_60k_scratch_ema",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b128_60k_scratch_ema",
+    "date": "2026-10-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "JingwuLuo/imagewam-flux2_9b-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/JingwuLuo/imagewam-flux2_9b-robotwin",
+    "date": "2026-10-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "3CTeam/robotwin_move_playingcard_away_stage2_fsdp2_gb64_1k_model_only_official20",
     "downloads": 0,
     "likes": 0,
@@ -90,19 +108,28 @@
     "score": 0.1
   },
   {
-    "model": "3CTeam/robotwin_place_bread_basket_stage2_fsdp2_gb64_1k_model_only_official20",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/3CTeam/robotwin_place_bread_basket_stage2_fsdp2_gb64_1k_model_only_official20",
-    "date": "2026-10-30",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "SelfDriving-VLA/laq-ad-backup",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-10-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mradermacher/Curious-VLA-GGUF",
+    "downloads": 136,
+    "likes": 0,
+    "url": "https://huggingface.co/mradermacher/Curious-VLA-GGUF",
+    "date": "2026-10-30",
+    "keyword": "vla",
+    "score": 40.9
+  },
+  {
+    "model": "bangskitchen/realmirror_er_vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bangskitchen/realmirror_er_vla",
     "date": "2026-10-30",
     "keyword": "vla",
     "score": 0.1
@@ -169,6 +196,15 @@
     "date": "2026-10-30",
     "keyword": "vla",
     "score": 4.3
+  },
+  {
+    "model": "gavinlaw/setground-question-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "date": "2026-10-30",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "dontKnow23456/WAM-Policy",
@@ -252,15 +288,6 @@
     "score": 2.2
   },
   {
-    "model": "NiuNew/Franka_FR3_real_robot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NiuNew/Franka_FR3_real_robot",
-    "date": "2026-10-29",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "VLA-playground/molmoact2_so101_cube_v3",
     "downloads": 0,
     "likes": 0,
@@ -277,24 +304,6 @@
     "date": "2026-10-29",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-10-29",
-    "keyword": "vla",
-    "score": 5.8
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__static__groot__seed_0",
-    "downloads": 12,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__static__groot__seed_0",
-    "date": "2026-10-29",
-    "keyword": "vla",
-    "score": 3.7
   },
   {
     "model": "FloSewn/worldmodels-racecar",
@@ -358,15 +367,6 @@
     "date": "2026-10-29",
     "keyword": "policy",
     "score": 10.0
-  },
-  {
-    "model": "mradermacher/PolicyShiftGuard-3B-GGUF",
-    "downloads": 327,
-    "likes": 0,
-    "url": "https://huggingface.co/mradermacher/PolicyShiftGuard-3B-GGUF",
-    "date": "2026-10-29",
-    "keyword": "policy",
-    "score": 98.2
   },
   {
     "model": "jadidbourbaki/context-compaction-world-models",
