@@ -1,5 +1,68 @@
 [
   {
+    "model": "codyjcai/roboeval-robotrainerxr-act-v1-20261029",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/codyjcai/roboeval-robotrainerxr-act-v1-20261029",
+    "date": "2026-10-30",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "VLA-playground/molmoact2_so101_cube_v3_1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VLA-playground/molmoact2_so101_cube_v3_1",
+    "date": "2026-10-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "siliconperception/vla_v502",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/siliconperception/vla_v502",
+    "date": "2026-10-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-10-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-10-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
+    "date": "2026-10-30",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "WorldModelBenchmark/piperx-pi05-sim-rgb-p0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/WorldModelBenchmark/piperx-pi05-sim-rgb-p0",
+    "date": "2026-10-30",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "NiuNew/Franka_FR3_real_robot",
     "downloads": 0,
     "likes": 0,
@@ -99,24 +162,6 @@
     "score": 0.1
   },
   {
-    "model": "mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-10-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-10-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "AlbertS666/vla_target_1028_gated",
     "downloads": 0,
     "likes": 0,
@@ -171,33 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "vladimir94/lfm3-omni-2b-ane-coreml",
-    "downloads": 269,
-    "likes": 0,
-    "url": "https://huggingface.co/vladimir94/lfm3-omni-2b-ane-coreml",
-    "date": "2026-10-29",
-    "keyword": "vla",
-    "score": 80.8
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__agentview_camera__live__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__agentview_camera__live__groot__seed_0",
-    "date": "2026-10-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__static__groot__seed_0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask__overlay_a75__sim__all_cameras__static__groot__seed_0",
-    "date": "2026-10-29",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "FloSewn/worldmodels-racecar",
     "downloads": 0,
     "likes": 0,
@@ -211,15 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/YongYong/cis6280-stack-world-models-v2",
-    "date": "2026-10-29",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "WorldModelBenchmark/piperx-pi05-sim-rgb-p0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/WorldModelBenchmark/piperx-pi05-sim-rgb-p0",
     "date": "2026-10-29",
     "keyword": "world model",
     "score": 0.1
@@ -358,15 +367,6 @@
     "date": "2026-10-28",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_scratch_ema",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_scratch_ema",
-    "date": "2026-10-28",
-    "keyword": "robot",
-    "score": 2.8
   },
   {
     "model": "jadidbourbaki/context-compaction-world-models",
