@@ -1,5 +1,12 @@
 [
   {
+    "title": "DIY WiFi Analyzer Sniffs Out Congestion and Coverage Issues, Suggests Fixes",
+    "source": "Hackaday",
+    "date": "2026-10-31",
+    "url": "https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/JEV-WiFi-Analyzer-2-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Roni Bandini]&#8217;s JEV WiFi Analyzer is an interesting experiment that glues together a single-board Linux computer, a USB WiFi adapter, and a specialized AI model to create a new kind <a class=\"read-more\" href=\"https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/\">&#8230;read more</a>"
+  },
+  {
     "title": "Bring On Supercon!",
     "source": "Hackaday",
     "date": "2026-10-31",
@@ -42,6 +49,13 @@
     "summary": "<div><img alt=\"Arduino UNO Q 10.1-inch touch display\" class=\"attachment-medium size-medium wp-post-image\" height=\"503\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/10/Arduino-UNO-Q-10.1-inch-touch-display-720x503.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare UNO-Q-DSI-TOUCH-10.1A is a 10.1-inch touchscreen display designed for the Arduino UNO Q single board computer. The Arduino UNO Q exposes its MIPI DSI interface through the 60-pin JMEDIA and JMISC headers, and for all practical purposes, you normally need a board like the Arduino UNO Media Carrier to make use of it. The UNO-Q-DSI-TOUCH-10.1A display solves that by integrating the headers so users can simply insert the Arduino UNO Q into it without an additional adapter board or special wiring. Waveshare UNO-Q-DSI-TOUCH-10.1A specifications: Screen Size &#8211; 10.1-inch Panel type &#8211; IPS panel Native Resolution &#8211; 1280 x 800 Refresh Rate &#8211; 60 Hz Colors &#8211; 16.7 millions Viewing Angle &#8211; 178° Brightness &#8211; 300 cd/m² Contrast Ratio &#8211; 800:1 Response Time &#8211; 35 ms Multi-touch support Capacitive multi-touch (we&#8217;re told the actual number of touch points  somehow depends on the software system) Interface I2C Tempered glass, optical bonding Camera [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/10/31/arduino-uno-q-gets-a-10-1-inch-touch-display-with-integrated-speakers-audio-jacks-camera-connectors/\">Arduino UNO Q gets a 10.1-inch touch display with integrated speakers, audio jacks, camera connectors</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Spooky Keychain Arcade",
+    "source": "Adafruit",
+    "date": "2026-10-31",
+    "url": "https://blog.adafruit.com/2026/10/31/spooky-keychain-arcade/",
+    "summary": "Truly pocket sized gaming, perfect for breaks in between houses as you trick or treat. A simple Two button layout with a ghostly 3D printed case. Shared by Gokul on Hackster.io: The Keychain Arcade is a wearable, pocket-sized gaming console cleverly disguised inside a cute, 3D-printed Halloween ghost. Designed to clip seamlessly onto your backpack, [&#8230;]"
+  },
+  {
     "title": "The Flash C compiler",
     "source": "Adafruit",
     "date": "2026-10-31",
@@ -61,13 +75,6 @@
     "date": "2026-10-30",
     "url": "https://hackaday.com/2026/10/30/a-1982-modem-for-100/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/vicmod.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Dave Farquhar] takes a walk down memory lane about the Commodore 1600 VICModem, perhaps the first phone modem to sell for less than $100. Commodore, of course, was famous for <a class=\"read-more\" href=\"https://hackaday.com/2026/10/30/a-1982-modem-for-100/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Making Internal Combustion Engines Better With More Valves",
-    "source": "Hackaday",
-    "date": "2026-10-30",
-    "url": "https://hackaday.com/2026/10/30/making-internal-combustion-engines-better-with-more-valves/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"468\" src=\"https://hackaday.com/wp-content/uploads/2026/10/ten_valve_cylinder_head_alexanders_laboratory_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When it comes to internal combustion engines (ICEs), it&#8217;s generally accepted that each cylinder doesn&#8217;t have more valves to let in a fresh fuel mixture and to exhaust the aftermath <a class=\"read-more\" href=\"https://hackaday.com/2026/10/30/making-internal-combustion-engines-better-with-more-valves/\">&#8230;read more</a>"
   },
   {
     "title": "Azume One – A 2.8mm sensor that turns any regular wristwatch into a health tracker (Crowdfunding)",
@@ -229,13 +236,6 @@
     "date": "2026-10-30",
     "url": "https://blog.adafruit.com/2026/10/30/a-bunch-of-items-from-stanley-kubricks-personal-archive/",
     "summary": "Jason Kottke, writing at kottke.org, notes that items from Stanley Kubrick&#8217;s personal archive are headed to auction early next year. The lots include Jack Torrance&#8217;s axe and the sisters&#8217; blue dresses from The Shining. Kubrick&#8217;s director&#8217;s chair is also in the sale, along with a chess set the director owned. See more at kottke.org."
-  },
-  {
-    "title": "doomformer: neural networks computed inside DOOM maps",
-    "source": "Adafruit",
-    "date": "2026-10-30",
-    "url": "https://blog.adafruit.com/2026/10/30/doomformer-neural-networks-computed-inside-doom-maps/",
-    "summary": "doomformer is a project from alp (@mottopanikeiku) that compiles an integer neural network into a DOOM map. Voodoo dolls do the arithmetic. Light levels and plane heights hold the values. Every value the map exposes is read back and compared against NumPy. One map puts 1,355 voodoo dolls to work on an MNIST network. The [&#8230;]"
   },
   {
     "title": "VIAVI Expands AI-Native Testing with MCP Server Framework for Network and Security Testing",
