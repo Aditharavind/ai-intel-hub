@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-31 18:59 UTC
+Generated: 2026-10-31 22:09 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-10-31 18:59 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84428 | 33771.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 84433 | 33773.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 64032 | 25612.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44758 | 17903.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30831 | 12332.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| NaiboWang/EasySpider | 44759 | 17903.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30832 | 12332.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 29749 | 11899.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
@@ -44,5 +44,5 @@ Generated: 2026-10-31 18:59 UTC
 | 2026-10-31 | Brain-inspired AI startup Zhiyue wins gold at Hong Kong contest after angel round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE10djM5NTdYRFNlb3RlU0hseWRiYmRhZjhiY3pJZlRXNENXTV91XzViNUhmT1RmZlo0Nmt3LXpOY01nbzNlTlM2VjN4clREeTVGZlNiX003SXVzZWtIOU9CWV9sb3FvMUhoYlhMOTQ0N2NnUjdUbGlaUDZmcjJYTEozM1RuY2tIRlBickdMTEdudHZmTWI0dkN3b3RfWVVwN0Nid2p1a3pvRzNjXzhQbTdFWklOZw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5) |
 | 2026-10-31 | Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5) |
+| 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says By Reuters - Investing.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcE1fMWRoMzVVclhkc0owWTQtQThaUzh3SWNoam9wNm52eHFBRFZ0eDIyNG5ja1VweFFtZnlmUlVMb1JOVVRHVHNieTNxOFJwbVVjcElpTUFHUWM2Y2VRb2VudDhUQndBVGdCeDZGcmtKUFdlck1QeERaYnQ2c3VpLVYyamVxMEtfRENMTTgxZ25yaEVNMjJCcHNRYmZoZWt6TWFEZjBCMmU0SmptT2d0cXdtcUdqTXg4NE5xNDR2QkVucnRwM1RpNkdtQkJtZw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Central Oregon Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgJBVV95cUxNVEM5UFhDbVM4S3pUbDRPLVRGZE5lamZLaU5pWThfaEx4S2FocWZjYWFaWVpvWTR6dFYyU2lyUEIxcFdDQWhVOG9ybXpPck9BWmwtTWdKTjdOdVVxbmJUQW92d0pqRF9Sc3g1bTZ2VEoxeVJtV2NIdEFocmF6THRvSVFIclBCeWtLRTB3SnFuNEhZWFVMQlRJSzFCODgtMzVXU3UzazVEUzdPZU1ja21TeWFFUHBVSjVNXzFETHFueTc0d1ByUGVpeEkwUHFBR2NkTG9Xa2lHRHJMejg5VDZEeWxFV18yZ3Jacjl3STdNVlFQb1ZoZTNQV0ZSLWZocEJuMWZHOTV3?oc=5) |
-| 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - The Lufkin Daily News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNXJQU0pIT05GeFQ1UXdJSk9Xc2syMTlGTllBdmJiSFZuNTdWUDhCcDVBS2JOYXBvODZXb0taY181dldXRXFfVkpka2x1OG1fTXF1bzNrd0ZRYUhrTkw2SmVVcFRINmV0TlFIMXpwNlU1X002d2N0NDZtYjJzYm1yczlwQktjTXg0Y3FiaUc2dXdnLXBCbTdNbnZyNC1sSnQ1ZkU3REhhSjE1djBtNERhUGVHa09QTGQ0LVQtekh5aE9Xd1VmTFJIWmJ0STMxVTl4WklGTkZjcFMya2pwY01GRU1hSXc4c1lxajN0aXFlMXJfcWlqVHozcUhUMUdvM2xzSVN1UWZXTQ?oc=5) |
