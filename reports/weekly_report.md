@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-10-30 23:18 UTC
+Generated: 2026-10-31 02:50 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,9 +14,9 @@ Generated: 2026-10-30 23:18 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84354 | 33741.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 84364 | 33745.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 64029 | 25611.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44755 | 17902.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44757 | 17902.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30828 | 12331.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 29742 | 11896.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
@@ -42,7 +42,7 @@ Generated: 2026-10-30 23:18 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-10-30 | Brain-inspired AI startup Zhiyue wins gold at Hong Kong contest after angel round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE10djM5NTdYRFNlb3RlU0hseWRiYmRhZjhiY3pJZlRXNENXTV91XzViNUhmT1RmZlo0Nmt3LXpOY01nbzNlTlM2VjN4clREeTVGZlNiX003SXVzZWtIOU9CWV9sb3FvMUhoYlhMOTQ0N2NnUjdUbGlaUDZmcjJYTEozM1RuY2tIRlBickdMTEdudHZmTWI0dkN3b3RfWVVwN0Nid2p1a3pvRzNjXzhQbTdFWklOZw?oc=5) |
-| 2026-10-30 | Hyderabad physical AI startup Tensrai raises Rs 3.4 crore to make existing machines run on their own - Indian Startup News | physical ai startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjJTUjRfaFRkdEFWWFpkQjlqd1VMWTNGT2Q1V3BOMVpJQnloaU1DMmVjLWVjUE1YcDM2cHdwaDJyOG9iUmg5OEFWcmFXUWR1Q1UzWmp2c0xUdHZKRWsxSXFLVDhOVTVCdWFJOTdCYWRkem52NVVZamVmM2JTb0ZWWnZEXzQzQXo1U3pfRS1SalN1YlBVUUVEb1c2ZzlBQ0phUlA5N2xCek1LVUNfY2ZGbVRsMzRaWUFkY1ZYcmlvZzRMd29wcmd6bVRnT1lscVFyMENvQVFWQ1FRR3dQajMw0gHfAUFVX3lxTE1yMlNSNF9oVGR0QVZYWmRCOWp3VUxZM0ZPZDVXcE4xWklCeWhpTUMyZWMtZWNQTVhwMzZwd3BoMnI4b2JSaDk4QVZyYVdRZHVDVTNaanZzTFR0dkpFazFJcUtUOE5VNUJ1YUk5N0JhZGR6bnY1VVlqZWYzYlNvRlZadkRfNDNBejVTel9FLVJqU3ViUFVRRURvVzZnOUFDSmFSUDk3bEJ6TUtVQ19jZkZtVGwzNFpZQWRjVlhyaW9nNEx3b3ByZ3ptVGdPWWxxUXIwQ29BUVZDUVFHd1BqMzA?oc=5) |
 | 2026-10-30 | SF Startup Behind ‘Robot-Dog Walkers Wanted’ Ad Gets Visit, Threatening Texts From Angry Resident - SFist | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmV5cHp4YjAzMWx0R0U2VlFHYUVpXzl5UVkzeVVrRVpuVEt4ZnBqVklYUWxKM1FxZHhkTy1kaGYwal9ZTlJYakN4bXVwV3NRWU83dkROdFczamxaZGJBQVN1V2t0aUVmZXBrNDJIeUJjd2RCWWlIelEyazhld05OUi11ZDBHNTRTN3hsbjB2SE1idDdia1VHR3ZsVnFoTXlwYVNZSkl4dl8zY3JxUHlWTE1qUTBROTJGQ29pWnZUcjZsWXdk?oc=5) |
+| 2026-10-30 | Bleu Robotics Raises €5M in Funding to Speed Humanoid Robot Deployment in Factories - AI Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTndjMUNXQnFkWVJXZjQ1NS1MY01fLTlqX3huQnlZZHVYWmh3QmFBaVVsVkZOcUJ4LXV3Ymp3TWVGWmRWeGhRYkJ1OTl3ODJhaHBQVGNQdUNMWmxWeFF3alVWcHVuOWtUZnMxNkNWNWNiVWVfY3lUekpHaEh6dU5GRHRXNTJWTDdyQjBhNkQ5RFExclhPa0xzMHlmOTR2bXhUQ1A2UjM3WUwxTlFlX0FTckZfTThuZXE0eXgxUm9R?oc=5) |
+| 2026-10-30 | Hyderabad physical AI startup Tensrai raises Rs 3.4 crore to make existing machines run on their own - Indian Startup News | vision language action startup | [link](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjJTUjRfaFRkdEFWWFpkQjlqd1VMWTNGT2Q1V3BOMVpJQnloaU1DMmVjLWVjUE1YcDM2cHdwaDJyOG9iUmg5OEFWcmFXUWR1Q1UzWmp2c0xUdHZKRWsxSXFLVDhOVTVCdWFJOTdCYWRkem52NVVZamVmM2JTb0ZWWnZEXzQzQXo1U3pfRS1SalN1YlBVUUVEb1c2ZzlBQ0phUlA5N2xCek1LVUNfY2ZGbVRsMzRaWUFkY1ZYcmlvZzRMd29wcmd6bVRnT1lscVFyMENvQVFWQ1FRR3dQajMw0gHfAUFVX3lxTE1yMlNSNF9oVGR0QVZYWmRCOWp3VUxZM0ZPZDVXcE4xWklCeWhpTUMyZWMtZWNQTVhwMzZwd3BoMnI4b2JSaDk4QVZyYVdRZHVDVTNaanZzTFR0dkpFazFJcUtUOE5VNUJ1YUk5N0JhZGR6bnY1VVlqZWYzYlNvRlZadkRfNDNBejVTel9FLVJqU3ViUFVRRURvVzZnOUFDSmFSUDk3bEJ6TUtVQ19jZkZtVGwzNFpZQWRjVlhyaW9nNEx3b3ByZ3ptVGdPWWxxUXIwQ29BUVZDUVFHd1BqMzA?oc=5) |
 | 2026-10-29 | Edge Sound Research Raises $2M to Help Physical AI Make Sense of Sound - Techstars | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlFEeEFoWVZRUzZLX0dHcHVtNmZfZWRKbURYbzRLeUlhNjdrX0pzUnVKSldEeTRfSGZVeXhBSUMzWTRXUzdaTWx2TFZ3bjVscDZ6cUhzaTdDTzE5SVhOTnNNbWlrS3VYQ0VOb003T3dlZExoeWlNTUpuazFkSzFYa0kwSTZ1NDhRSGxiY3lMLUhwYkZPakNhRjZ6cjJUNGgtTnhRcVBZX0ZpNWRFSmY3UEktdDdsMjljOHc?oc=5) |
-| 2026-10-29 | French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations - EU-Startups | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXRpN25nUTJZNEYyTXFReU8wX2M5Rml6QnFrbDVKVXlrblNzRG5COTdOZ29zRHRTQmxTZjVfTFdoWUxwOVVNNG01LS1MM3lQWGFxTWF2N3doWDJtb1N3QUdyNjQ5M21ObHhWTi1MdlhfdEk5MVNxb2FLWWJzQnRHTjhhendEb1BuR05QMjh4alZvOWxQUmZzMkFoNmlDS3N4MVhSQW4wQXRWS09zNVB6QUpMaFJZWE5RVVZyYVc4bEV2aURiVWdrazRRbFkyVEVEMi1fTmFOUzNDa251eFE?oc=5) |
