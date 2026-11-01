@@ -1,9 +1,63 @@
 [
   {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1",
+    "date": "2026-11-01",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0",
+    "downloads": 24,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0",
+    "date": "2026-11-01",
+    "keyword": "robot",
+    "score": 7.3
+  },
+  {
+    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1",
+    "date": "2026-11-01",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "SelfDriving-VLA/laq-ad-backup",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "RocheL/vlatest",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RocheL/vlatest",
+    "date": "2026-11-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "theo-zhou/vla-mopd-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/theo-zhou/vla-mopd-checkpoints",
+    "date": "2026-11-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "prlq/vla-steer-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/prlq/vla-steer-checkpoints",
     "date": "2026-11-01",
     "keyword": "vla",
     "score": 0.1
@@ -18,21 +72,12 @@
     "score": 0.1
   },
   {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1",
+    "model": "weepiess2383/ballcan-arm-policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1",
-    "date": "2026-10-31",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1",
-    "date": "2026-10-31",
-    "keyword": "robot",
+    "url": "https://huggingface.co/weepiess2383/ballcan-arm-policy",
+    "date": "2026-11-01",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -117,15 +162,6 @@
     "score": 8.8
   },
   {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261026-A-flexpi-gt-svae-dvae-aug-v2",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261026-A-flexpi-gt-svae-dvae-aug-v2",
-    "date": "2026-10-31",
-    "keyword": "robot",
-    "score": 7.3
-  },
-  {
     "model": "siliconperception/vla",
     "downloads": 0,
     "likes": 0,
@@ -193,15 +229,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/amirsh1376/umi-arena-policy",
-    "date": "2026-10-31",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "weepiess2383/ballcan-arm-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/weepiess2383/ballcan-arm-policy",
     "date": "2026-10-31",
     "keyword": "policy",
     "score": 0.1
@@ -295,33 +322,6 @@
     "date": "2026-10-30",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "vladimir94/lfm3-omni-2b-ane-coreml",
-    "downloads": 787,
-    "likes": 0,
-    "url": "https://huggingface.co/vladimir94/lfm3-omni-2b-ane-coreml",
-    "date": "2026-10-30",
-    "keyword": "vla",
-    "score": 236.2
-  },
-  {
-    "model": "VLA-playground/molmoact2_so101_cube_v3_1",
-    "downloads": 48,
-    "likes": 0,
-    "url": "https://huggingface.co/VLA-playground/molmoact2_so101_cube_v3_1",
-    "date": "2026-10-30",
-    "keyword": "vla",
-    "score": 14.5
-  },
-  {
-    "model": "mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "downloads": 24,
-    "likes": 1,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_complex__mask__overlay_a75__sim__all_cameras__live__groot__seed_0",
-    "date": "2026-10-30",
-    "keyword": "vla",
-    "score": 7.5
   },
   {
     "model": "dontKnow23456/WAM-Policy",
