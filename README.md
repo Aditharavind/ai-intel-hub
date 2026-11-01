@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-10-31 22:09 UTC
+Last Updated: 2026-11-01 01:34 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,13 +49,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-10-31 | Rooting an Amazon Echo Dot | Hackaday | [link](https://hackaday.com/2026/10/31/rooting-an-amazon-echo-dot/) |
 | 2026-10-31 | Voyager 1 Briefly Goes Silent, Scaring Everyone | Hackaday | [link](https://hackaday.com/2026/10/31/voyager-1-briefly-goes-silent-scaring-everyone/) |
 | 2026-10-31 | DIY WiFi Analyzer Sniffs Out Congestion and Coverage Issues, Suggests Fixes | Hackaday | [link](https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/) |
 | 2026-10-31 | Bring On Supercon! | Hackaday | [link](https://hackaday.com/2026/10/31/bring-on-supercon/) |
 | 2026-10-31 | Learn to Edit STL Files in Just a Few Minutes | Hackaday | [link](https://hackaday.com/2026/10/31/learn-to-edit-stl-files-in-just-a-few-minutes/) |
 | 2026-10-31 | 3D Printed Einstein-Szilard Refrigerator Cools with Fire | Hackaday | [link](https://hackaday.com/2026/10/31/3d-printed-einstein-szilard-refrigerator-cools-with-fire/) |
 | 2026-10-31 | Novelty Camera To USB Camera | Hackaday | [link](https://hackaday.com/2026/10/30/novelty-camera-to-usb-camera/) |
-| 2026-10-31 | VR Headset Ditches the Base Stations with DIY Tracking | Hackaday | [link](https://hackaday.com/2026/10/30/vr-headset-ditches-the-base-stations-with-diy-tracking/) |
 | 2026-10-31 | Arduino UNO Q gets a 10.1-inch touch display with integrated speakers, audio jacks, camera connectors | CNX Software | [link](https://www.cnx-software.com/2026/10/31/arduino-uno-q-gets-a-10-1-inch-touch-display-with-integrated-speakers-audio-jacks-camera-connectors/) |
 | 2026-10-31 | Adafruit New Products this Week | Adafruit | [link](https://blog.adafruit.com/2026/10/31/adafruit-new-product-this-week-adafruit-si5351c-8-channel-tcxo-clock-generator-2-5khz-200mhz-stemma-qt/) |
 | 2026-10-31 | Spooky Keychain Arcade | Adafruit | [link](https://blog.adafruit.com/2026/10/31/spooky-keychain-arcade/) |
@@ -77,6 +77,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-01 | SelfDriving-VLA/laq-ad-backup | 0 | 0 | [link](https://huggingface.co/SelfDriving-VLA/laq-ad-backup) |
+| 2026-11-01 | gavinlaw/setground-question-policy | 0 | 0 | [link](https://huggingface.co/gavinlaw/setground-question-policy) |
 | 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1) |
 | 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1) |
 | 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-SemanticCondition-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-SemanticCondition-flexpi-gt-svae-dvae-v1) |
@@ -85,22 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticAux-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticAux-flexpi-gt-svae-dvae-v1) |
 | 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticCondition-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticCondition-flexpi-gt-svae-dvae-v1) |
 | 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261030-NoRGB-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261030-NoRGB-flexpi-gt-svae-dvae-v1) |
-| 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2 | 22 | 1 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-Mutual-flexpi-gt-svae-dvae-v2) |
-| 2026-10-31 | RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-OneWay-flexpi-gt-svae-dvae-v1 | 23 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261027-AllJoint-OneWay-flexpi-gt-svae-dvae-v1) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29749 | Python | 11899.7 | [link](https://github.com/harvard-edge/cs249r_book) |
-| autonomous-ai/lampOS | 534 | Python | 213.7 | [link](https://github.com/autonomous-ai/lampOS) |
+| harvard-edge/cs249r_book | 29750 | Python | 11900.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| pnoker/iot-dc3 | 1267 | Java | 506.9 | [link](https://github.com/pnoker/iot-dc3) |
 | awslabs/awsome-distributed-ai | 494 | Shell | 197.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| Developer-Y/cs-video-courses | 84433 |  | 33773.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64032 | Python | 25612.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 24512 | Python | 9804.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17491 | Java | 6996.5 | [link](https://github.com/questdb/questdb) |
-| zauberzeug/nicegui | 16329 | Python | 6531.7 | [link](https://github.com/zauberzeug/nicegui) |
-| ArduPilot/ardupilot | 16295 | C++ | 6518.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| google-deepmind/mujoco | 16002 | C++ | 6400.9 | [link](https://github.com/google-deepmind/mujoco) |
+| earthtojake/text-to-cad | 24536 | Python | 9814.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17492 | Java | 6996.9 | [link](https://github.com/questdb/questdb) |
+| google-deepmind/mujoco | 16003 | C++ | 6401.3 | [link](https://github.com/google-deepmind/mujoco) |
+| deeplethe/utopia | 8652 | Rust | 3460.9 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7452 | Python | 2980.9 | [link](https://github.com/vllm-project/vllm-omni) |
+| OpenHUTB/hutb | 706 | C++ | 282.5 | [link](https://github.com/OpenHUTB/hutb) |
+| Source-Robotics/PAROL6-Desktop-robot-arm | 3420 | HTML | 1368.1 | [link](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,11 +124,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-31 | Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says By Reuters - Investing.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcE1fMWRoMzVVclhkc0owWTQtQThaUzh3SWNoam9wNm52eHFBRFZ0eDIyNG5ja1VweFFtZnlmUlVMb1JOVVRHVHNieTNxOFJwbVVjcElpTUFHUWM2Y2VRb2VudDhUQndBVGdCeDZGcmtKUFdlck1QeERaYnQ2c3VpLVYyamVxMEtfRENMTTgxZ25yaEVNMjJCcHNRYmZoZWt6TWFEZjBCMmU0SmptT2d0cXdtcUdqTXg4NE5xNDR2QkVucnRwM1RpNkdtQkJtZw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Central Oregon Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgJBVV95cUxNVEM5UFhDbVM4S3pUbDRPLVRGZE5lamZLaU5pWThfaEx4S2FocWZjYWFaWVpvWTR6dFYyU2lyUEIxcFdDQWhVOG9ybXpPck9BWmwtTWdKTjdOdVVxbmJUQW92d0pqRF9Sc3g1bTZ2VEoxeVJtV2NIdEFocmF6THRvSVFIclBCeWtLRTB3SnFuNEhZWFVMQlRJSzFCODgtMzVXU3UzazVEUzdPZU1ja21TeWFFUHBVSjVNXzFETHFueTc0d1ByUGVpeEkwUHFBR2NkTG9Xa2lHRHJMejg5VDZEeWxFV18yZ3Jacjl3STdNVlFQb1ZoZTNQV0ZSLWZocEJuMWZHOTV3?oc=5) |
-| 2026-10-31 | Meta Builds Humanoid Robot With Chinese Startup Fourier, the Information Says - U.S. News Money | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJMdnVPd3I2SG5YZGt6MDZ6V2RnMVcwWGV2YWdVVDFySjZZQU5TeUh6bEV0TkZ2clZHOFpuSjlZYU4wVndDeUtYQ3FrWmZiRnIwVHVRMUctbXZUbDA4OEtLWlJnRGQwQ3lQcmxhRDdKVkt4UEdqZE0yWlA4VUtZSnExaW41b1VudjNRbndKWVVNNGJPMWFGVUVqbFdRR1dSVlUxNElmZmUtMVlDaEFUTkVmWWVkSXplN2Z3WE1rQW1zeXdCckVxYUd1eGVuYUc4SVE?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - The Lufkin Daily News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNXJQU0pIT05GeFQ1UXdJSk9Xc2syMTlGTllBdmJiSFZuNTdWUDhCcDVBS2JOYXBvODZXb0taY181dldXRXFfVkpka2x1OG1fTXF1bzNrd0ZRYUhrTkw2SmVVcFRINmV0TlFIMXpwNlU1X002d2N0NDZtYjJzYm1yczlwQktjTXg0Y3FiaUc2dXdnLXBCbTdNbnZyNC1sSnQ1ZkU3REhhSjE1djBtNERhUGVHa09QTGQ0LVQtekh5aE9Xd1VmTFJIWmJ0STMxVTl4WklGTkZjcFMya2pwY01GRU1hSXc4c1lxajN0aXFlMXJfcWlqVHozcUhUMUdvM2xzSVN1UWZXTQ?oc=5) |
+| 2026-10-31 | Meta Builds Humanoid Robot With Chinese Startup Fourier, the Information Says - U.S. News Money | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJMdnVPd3I2SG5YZGt6MDZ6V2RnMVcwWGV2YWdVVDFySjZZQU5TeUh6bEV0TkZ2clZHOFpuSjlZYU4wVndDeUtYQ3FrWmZiRnIwVHVRMUctbXZUbDA4OEtLWlJnRGQwQ3lQcmxhRDdKVkt4UEdqZE0yWlA4VUtZSnExaW41b1VudjNRbndKWVVNNGJPMWFGVUVqbFdRR1dSVlUxNElmZmUtMVlDaEFUTkVmWWVkSXplN2Z3WE1rQW1zeXdCckVxYUd1eGVuYUc4SVE?oc=5) |
+| 2026-10-31 | Meta and China's Fourier Build 'Max' Humanoid Robot in Three Months as Muse's Physical Form - BigGo Finance | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE02UERKU0dWLTdRaHdHNEZydWlCVHBtTFdGZ0dUMExVUkFRNG8ySENmQ1pLZ1dNckMwSXd6eVduMl9iZElEOXBKejFCOTZyZkNWcEpJYjg2bXlEa3BFMy1GaUxSSHViVEFsNWpBU2xNZnpHd3lYN3c?oc=5) |
 | 2026-10-31 | Meta builds prototype humanoid robot Max with Chinese partner: What to know - The News International | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUpDYjR6UjZ4SWZUYnB6TDdGWkY4OWFja0Y2dURPMHREdjZWc2IxRFo3eXltbUI4VnNDd3p6U1ZZV0JyeVU5MmpJVXYzMUozVnZOWHZkVEFjeTZJbVNoeHUyV2hmVHR1WG1Hdzd1bDU4MGZCOUs0M1Ntd0MzRWRTY3J1M010TzNoOXYwNERRWWQ2UGRaUDFFMkdCRVBfVFNfbGdWaWNQeURSTnp3WVZDVU1KWGpWT03SAbMBQVVfeXFMTlBXazNUVGxGVnpMc2w1aTJMbDN1OTFOM1V4VkQ2WU5IZTBjTFk1cWZNT2NYeFUzUUd1ZV93Y1FTckNwSDdfZDFwQkdyWUlId29vSTIwTTdabk13X003Ul9vbzlOVVNpVlFkNjRUM25OT3VaRU5GbExTQkItUVZVUmtnVUhzdUY2NUdEVEU5Sm9kdDdOMjF1N2Q1Z3VYWGpEeDlzSXdfejc0eFg4eFItQ2NBU2s?oc=5) |
-| 2026-10-30 | A new gear: How startups are advancing robotics with Google AI - Google Cloud | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTdJZndaWVpXQm1COWFXblZrZEtScnZrQUptTElEVmhGaWpfaHZIcTNXb0praTRGUU8zNEdWOTlDUGNlRHZRamFMeU5meHAyR2FIZzN3LTBNYU9vUlFScWs1Q1M4WkRFUklQYkd3ZEtTUkpjV0FIelpnbjdRVVJyRG52OUFpSVVRZXNlenpuV3JDaklzQ09McG5Va3Bta0VPblhyUFlzM0IyQWNubEE?oc=5) |
-| 2026-10-30 | The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup - Crunchbase News | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWE3RDE4Y3hHYWExbks5Wkc0Vm1WOVBCTGhCU0VBaTRUcnlLWlgwQVJQckJfUENhd2hlUnZSZU4zZWN6dkxGeDQ1N2N1bDRhWUxqQXJrOWdtRFNXMTRoZEdBd0pROEpGSldEaloybVd5eEJrUjZtdWRQVGp1WnY5WUhpTzFxTE1ZRElYUUN3TllBY09aZE43ak5kSWlVU1VVZjUw?oc=5) |
+| 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - The Star | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcHpkUHlXbFBrZWJ4eWxndGtxYXRMdVY0eDR3RksyTl94UWVUd3h3ckNsZVVKVm0wU0ozLTRNR1NTb3A3OVhHWjk4OEoyc0FjRU5CNUhwY01iNUotUkM2V0tGcEk0S3k1cmxlRkVaNGVrUm9YUFVuZElPLVVPWnU0VTlGQmJLLWh2Y2c5dDMxTHFzbjNuQ1JGN3JZRmdZR1pXWkVfUnlMUVh4cGdmWW1WQzViNGFlY0ltTVhyckVVcHBta1hsRVJkeg?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
