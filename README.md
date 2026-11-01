@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-01 15:30 UTC
+Last Updated: 2026-11-01 19:55 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-01 | An Electronic Candle You Can Set On Fire | Hackaday | [link](https://hackaday.com/2026/11/01/an-electronic-candle-you-can-set-on-fire/) |
 | 2026-11-01 | FloppoScope is a Disk Image Analyzer | Hackaday | [link](https://hackaday.com/2026/11/01/flopposcope-is-a-disk-image-analyzer/) |
 | 2026-11-01 | Turning Syngas into Hydrocarbons with the Right Alpha | Hackaday | [link](https://hackaday.com/2026/11/01/turning-syngas-into-hydrocarbons-with-the-right-alpha/) |
 | 2026-11-01 | Building an ADS-B Receiver For Less Than You Think | Hackaday | [link](https://hackaday.com/2026/11/01/building-an-ads-b-receiver-for-less-than-you-think/) |
 | 2026-11-01 | Huge PalmOS Development Archive Goes Online, Thanks to Personal Backups | Hackaday | [link](https://hackaday.com/2026/10/31/huge-palmos-development-archive-goes-online-thanks-to-personal-backups/) |
 | 2026-11-01 | Upgrading an Action Camera with an External Battery | Hackaday | [link](https://hackaday.com/2026/10/31/upgrading-an-action-camera-with-an-external-battery/) |
 | 2026-11-01 | BIOSTAR EdgeComp MS-U320 fanless Wildcat Lake industrial mini PC offers four COM ports, dual 2.5GbE, 4G/5G expansion | CNX Software | [link](https://www.cnx-software.com/2026/11/01/biostar-edgecomp-ms-u320-fanless-wildcat-lake-industrial-mini-pc-offers-four-com-ports-dual-2-5gbe-4g-5g-expansion/) |
+| 2026-11-01 | ESP32-S3 Based Toddler Phone That Calls Family | Adafruit | [link](https://blog.adafruit.com/2026/11/01/esp32-s3-based-toddler-phone-that-calls-family/) |
 | 2026-11-01 | Adafruit’s Top 10 Blog Posts of October 2026 #StateOfTheFruit #AdafruitTopTen | Adafruit | [link](https://blog.adafruit.com/2026/11/01/adafruits-top-10-blog-posts-of-october-2026-stateofthefruit-adafruittopten/) |
 | 2026-11-01 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | Adafruit | [link](https://blog.adafruit.com/2026/11/01/16-bit-windows-windows-1-x-2-x-3-0-3-1-etc-on-64-bit-windows/) |
-| 2026-10-31 | Rooting an Amazon Echo Dot | Hackaday | [link](https://hackaday.com/2026/10/31/rooting-an-amazon-echo-dot/) |
-| 2026-10-31 | Voyager 1 Briefly Goes Silent, Scaring Everyone | Hackaday | [link](https://hackaday.com/2026/10/31/voyager-1-briefly-goes-silent-scaring-everyone/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -91,14 +91,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29758 | Python | 11903.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| copper-project/copper-rs | 1535 | Rust | 614.1 | [link](https://github.com/copper-project/copper-rs) |
+| harvard-edge/cs249r_book | 29761 | Python | 11904.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| copper-project/copper-rs | 1536 | Rust | 614.5 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1268 | Java | 507.3 | [link](https://github.com/pnoker/iot-dc3) |
-| autonomous-ai/lampOS | 536 | Python | 214.5 | [link](https://github.com/autonomous-ai/lampOS) |
+| autonomous-ai/lampOS | 537 | Python | 214.9 | [link](https://github.com/autonomous-ai/lampOS) |
 | awslabs/awsome-distributed-ai | 494 | Shell | 197.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 64041 | Python | 25616.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 64040 | Python | 25616.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44759 | JavaScript | 17903.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| earthtojake/text-to-cad | 24644 | Python | 9857.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 24696 | Python | 9878.5 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17493 | Java | 6997.3 | [link](https://github.com/questdb/questdb) |
 | zauberzeug/nicegui | 16330 | Python | 6532.1 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -111,24 +111,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTU1MmdpRGw1QTNHY2cxSXE5bjg5WEFvMmlPcmhyVm1GZ3ZjTkxTNWticG1YUHJFN3AwYXFEQXRtMGZzUE9mTWM4aWVHNXJHaFpZM0FRQi1RT3pjZS05NGlqcVZMMWdEUGlVRmtJLW9tQ0RHNmo3YkcwY0tyOTlxMWh1VU9sTmYzcllxa3BpYjZ2Ri1DajJpYnBEd0llVmRSMHJoT0R3?oc=5) |
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHFoUUpIVlhhMUhGcHdKckhfVUI1bTZzT1c4MVBId3B2NUxyRzZvUGNQRmxGcTJuZDZGejZ3eWZhS1hRcVNEWW9CSlpPWVlqZXBlY0dVdkFqcWlzcDVadVFMQ3ZQUVZNUlJlbmtybjYtY2dxVEk2ZG0tODFqWm4td2o5X3lQQUplQl9QX2xja3pNVmdkclBoenpvelEyRUFLc2hzZ1BIUEtDZDN3SEpOaXdpdTU?oc=5) |
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hbk8za1lJTDdXeDZBVE1UTGo1ODZ0SEszb1I0djFuUUtJNnhtUmszb2IzS1ZSMUtqQzV4aGZCdDE4WDhBZkcycEFIUmpWRnhBYkQ3aDVCOXlSYkcxcnFCaGVjLWJtblNpb2lxOGVXazdCTkZlY2c?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG51ZWVVWl9sVS1xRThqOHV0aUF5dXVpMDRsVFpPZEN4X0pCSmdmbmpXMldoT1VxSTlnRGE5RWNPckNxcWFFYWVteEJid2NNZkI2US1IWmd5alI3QU5yMjV2VnZmc2NNcjFoSzlMTjJDWU5heXZxU1hyNFg4TllRRnJTVU1XY0NlNjNMODZ5REg?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZmdHTUlRdjRDV2dWcXRBVkZHMlBqdGo0SDhJS0ZXLWVrZ3JMcklibDluYUIwamRtbDZ5bHBBekQtZ2hXTVFRLUNka2txUmNfNUlnR1BtbHZ3MjlIQjZRNnRBeWdZdUtyeXF2MUZJZmo0OUgwc3ZOZ3FDVTdwODF3RmJiaEQ2aXVja1RpVm5pdnBvTXYzZXRsOXBvcGNHNldKamFLT0hJTGZEX2syVFlfVzZzMDByUktTYWhaRlk2QXlyUjZMVVdEZWRlaWk0YXBvVEZtUm0wQUFnV2RkOEdUXzNQRUpoUmVfeFFRYzcyeUM?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnREaU94Y3N2ejdhQlAxYURoOFduWHRLUFJrZmJPWW1wOGlvT2tWb0lwcDJ6d3FvTXR0d2R3S1pwX3RIaHVfRUV0WVEwYW1vMEU2bDRrWmoxWGhYSGEwa2ZtQXhHSjhXbDBBLWhfRzVHMVl1OXc2TEc4dG9odE5lUnlFVklCazZCcUhxSy1Ua08zajhScE9PZnFQNVh5bE5yc3dMQ3lEaVRmaGY1cndXZnNYUEdlZw?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1tb3RIc1dRb3E2Z3ZHV2R2ZzRpRGNBR0ljY0hCRk01cnFpMERTcFhGRDZOWkhwTzNoRjdidDJVWW1EOU9Ra2RBQUZDWkpXakJpZVEzR25Bamh1M0stRGxnTjhqbG9VQkNHaWlOQWdtM05IejY1RjRjb1pPbXdfWTNFSUQ?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-11-01 | Why physical AI is the next lucrative frontier - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T29pWUJMM044YU9FMXY5WVJCSmpTaFlQS3N3akpjcS1MeWNIU0ZZNC1udnVUTl9WeHR1bFhIQnEwSjczLUFWZUZUZDBOTzZHVWZwVzRXTVZRdXdiRmVmcEJkTk1TM1hEa3l5QlFrS3YzYlNieUhxVTBMOA?oc=5) |
-| 2026-11-01 | Meta builds humanoid robot with Chinese startup Fourier, The Information says, Digital News - AsiaOne.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNem52TEh5N0txSFZkb09GbG8yNXdwcEZmbkRETkRjU0RpRnFDR0ltOUdmWXQ1WWJXOU1tby1XNU1MVk1IVzhQZnEtWWM5aExQWUwtb3k0ZGt5c1RKQUNFVS1rc1RPZDVlanZPWnFZc2hIU1FpUGdXbVhjU2oxSmN3QVYyTml6THFuR3o0ZHNfa2pmMEhqWjl1YmZmeGN3UXdQ?oc=5) |
 | 2026-10-31 | Brain-inspired AI startup Zhiyue wins gold at Hong Kong contest after angel round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE10djM5NTdYRFNlb3RlU0hseWRiYmRhZjhiY3pJZlRXNENXTV91XzViNUhmT1RmZlo0Nmt3LXpOY01nbzNlTlM2VjN4clREeTVGZlNiX003SXVzZWtIOU9CWV9sb3FvMUhoYlhMOTQ0N2NnUjdUbGlaUDZmcjJYTEozM1RuY2tIRlBickdMTEdudHZmTWI0dkN3b3RfWVVwN0Nid2p1a3pvRzNjXzhQbTdFWklOZw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5) |
 | 2026-10-31 | Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says By Reuters - Investing.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcE1fMWRoMzVVclhkc0owWTQtQThaUzh3SWNoam9wNm52eHFBRFZ0eDIyNG5ja1VweFFtZnlmUlVMb1JOVVRHVHNieTNxOFJwbVVjcElpTUFHUWM2Y2VRb2VudDhUQndBVGdCeDZGcmtKUFdlck1QeERaYnQ2c3VpLVYyamVxMEtfRENMTTgxZ25yaEVNMjJCcHNRYmZoZWt6TWFEZjBCMmU0SmptT2d0cXdtcUdqTXg4NE5xNDR2QkVucnRwM1RpNkdtQkJtZw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Central Oregon Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgJBVV95cUxNVEM5UFhDbVM4S3pUbDRPLVRGZE5lamZLaU5pWThfaEx4S2FocWZjYWFaWVpvWTR6dFYyU2lyUEIxcFdDQWhVOG9ybXpPck9BWmwtTWdKTjdOdVVxbmJUQW92d0pqRF9Sc3g1bTZ2VEoxeVJtV2NIdEFocmF6THRvSVFIclBCeWtLRTB3SnFuNEhZWFVMQlRJSzFCODgtMzVXU3UzazVEUzdPZU1ja21TeWFFUHBVSjVNXzFETHFueTc0d1ByUGVpeEkwUHFBR2NkTG9Xa2lHRHJMejg5VDZEeWxFV18yZ3Jacjl3STdNVlFQb1ZoZTNQV0ZSLWZocEJuMWZHOTV3?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - The Lufkin Daily News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNXJQU0pIT05GeFQ1UXdJSk9Xc2syMTlGTllBdmJiSFZuNTdWUDhCcDVBS2JOYXBvODZXb0taY181dldXRXFfVkpka2x1OG1fTXF1bzNrd0ZRYUhrTkw2SmVVcFRINmV0TlFIMXpwNlU1X002d2N0NDZtYjJzYm1yczlwQktjTXg0Y3FiaUc2dXdnLXBCbTdNbnZyNC1sSnQ1ZkU3REhhSjE1djBtNERhUGVHa09QTGQ0LVQtekh5aE9Xd1VmTFJIWmJ0STMxVTl4WklGTkZjcFMya2pwY01GRU1hSXc4c1lxajN0aXFlMXJfcWlqVHozcUhUMUdvM2xzSVN1UWZXTQ?oc=5) |
-| 2026-10-31 | Meta Builds Humanoid Robot With Chinese Startup Fourier, the Information Says - U.S. News Money | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJMdnVPd3I2SG5YZGt6MDZ6V2RnMVcwWGV2YWdVVDFySjZZQU5TeUh6bEV0TkZ2clZHOFpuSjlZYU4wVndDeUtYQ3FrWmZiRnIwVHVRMUctbXZUbDA4OEtLWlJnRGQwQ3lQcmxhRDdKVkt4UEdqZE0yWlA4VUtZSnExaW41b1VudjNRbndKWVVNNGJPMWFGVUVqbFdRR1dSVlUxNElmZmUtMVlDaEFUTkVmWWVkSXplN2Z3WE1rQW1zeXdCckVxYUd1eGVuYUc4SVE?oc=5) |
+| 2026-10-31 | Meta Builds Humanoid Robot With Chinese Startup Fourier, the Information Says - US News Money | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJMdnVPd3I2SG5YZGt6MDZ6V2RnMVcwWGV2YWdVVDFySjZZQU5TeUh6bEV0TkZ2clZHOFpuSjlZYU4wVndDeUtYQ3FrWmZiRnIwVHVRMUctbXZUbDA4OEtLWlJnRGQwQ3lQcmxhRDdKVkt4UEdqZE0yWlA4VUtZSnExaW41b1VudjNRbndKWVVNNGJPMWFGVUVqbFdRR1dSVlUxNElmZmUtMVlDaEFUTkVmWWVkSXplN2Z3WE1rQW1zeXdCckVxYUd1eGVuYUc4SVE?oc=5) |
 | 2026-10-31 | Meta and China's Fourier Build 'Max' Humanoid Robot in Three Months as Muse's Physical Form - BigGo Finance | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE02UERKU0dWLTdRaHdHNEZydWlCVHBtTFdGZ0dUMExVUkFRNG8ySENmQ1pLZ1dNckMwSXd6eVduMl9iZElEOXBKejFCOTZyZkNWcEpJYjg2bXlEa3BFMy1GaUxSSHViVEFsNWpBU2xNZnpHd3lYN3c?oc=5) |
+| 2026-10-31 | Meta builds prototype humanoid robot Max with Chinese partner: What to know - The News International | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUpDYjR6UjZ4SWZUYnB6TDdGWkY4OWFja0Y2dURPMHREdjZWc2IxRFo3eXltbUI4VnNDd3p6U1ZZV0JyeVU5MmpJVXYzMUozVnZOWHZkVEFjeTZJbVNoeHUyV2hmVHR1WG1Hdzd1bDU4MGZCOUs0M1Ntd0MzRWRTY3J1M010TzNoOXYwNERRWWQ2UGRaUDFFMkdCRVBfVFNfbGdWaWNQeURSTnp3WVZDVU1KWGpWT03SAbMBQVVfeXFMTlBXazNUVGxGVnpMc2w1aTJMbDN1OTFOM1V4VkQ2WU5IZTBjTFk1cWZNT2NYeFUzUUd1ZV93Y1FTckNwSDdfZDFwQkdyWUlId29vSTIwTTdabk13X003Ul9vbzlOVVNpVlFkNjRUM25OT3VaRU5GbExTQkItUVZVUmtnVUhzdUY2NUdEVEU5Sm9kdDdOMjF1N2Q1Z3VYWGpEeDlzSXdfejc0eFg4eFItQ2NBU2s?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
