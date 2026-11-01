@@ -1,5 +1,32 @@
 [
   {
+    "model": "RobotisSW/Task_802_groot_80k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_802_groot_80k",
+    "date": "2026-11-01",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_802_groot_90k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_802_groot_90k",
+    "date": "2026-11-01",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_802_groot_100k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_802_groot_100k",
+    "date": "2026-11-01",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "3CTeam/pi05_base_robotwin20_full_fsdp2_gb64_30k",
     "downloads": 0,
     "likes": 0,
@@ -61,6 +88,33 @@
     "date": "2026-11-01",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "vladlenblch/hf-fuse-lab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vladlenblch/hf-fuse-lab",
+    "date": "2026-11-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "siliconperception/vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/siliconperception/vla",
+    "date": "2026-11-01",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladimir94/lfm3-omni-2b-ane-coreml",
+    "downloads": 799,
+    "likes": 0,
+    "url": "https://huggingface.co/vladimir94/lfm3-omni-2b-ane-coreml",
+    "date": "2026-11-01",
+    "keyword": "vla",
+    "score": 239.8
   },
   {
     "model": "weepiess2383/NEO-VLA",
@@ -135,30 +189,48 @@
     "score": 0.1
   },
   {
-    "model": "Vladprime/reinforce-CartPole-v1",
-    "downloads": 0,
+    "model": "EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo",
+    "downloads": 942,
     "likes": 0,
-    "url": "https://huggingface.co/Vladprime/reinforce-CartPole-v1",
+    "url": "https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo",
     "date": "2026-11-01",
-    "keyword": "vla",
-    "score": 0.1
+    "keyword": "world model",
+    "score": 282.7
   },
   {
-    "model": "Vladprime/ppo-LunarLander-v2",
-    "downloads": 0,
+    "model": "EPFL-LARA/lean-world-model-qwen3-4b-grpo",
+    "downloads": 858,
     "likes": 0,
-    "url": "https://huggingface.co/Vladprime/ppo-LunarLander-v2",
+    "url": "https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo",
     "date": "2026-11-01",
-    "keyword": "vla",
-    "score": 0.1
+    "keyword": "world model",
+    "score": 257.5
   },
   {
-    "model": "Vladprime/q-learning-FrozenLake-v1",
+    "model": "EPFL-LARA/lean-world-model-qwen3-8b-grpo",
+    "downloads": 847,
+    "likes": 0,
+    "url": "https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo",
+    "date": "2026-11-01",
+    "keyword": "world model",
+    "score": 254.2
+  },
+  {
+    "model": "EPFL-LARA/lean-world-model-qwen3-8b-sft",
+    "downloads": 856,
+    "likes": 0,
+    "url": "https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-sft",
+    "date": "2026-11-01",
+    "keyword": "world model",
+    "score": 256.9
+  },
+  {
+    "model": "JoshuaAshkinaze/cap-policy-subtopic",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Vladprime/q-learning-FrozenLake-v1",
+    "url": "https://huggingface.co/JoshuaAshkinaze/cap-policy-subtopic",
     "date": "2026-11-01",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -166,15 +238,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/gavinlaw/setground-question-policy",
-    "date": "2026-11-01",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "JoshuaAshkinaze/cap-policy-subtopic",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JoshuaAshkinaze/cap-policy-subtopic",
     "date": "2026-11-01",
     "keyword": "policy",
     "score": 0.1
@@ -250,33 +313,6 @@
     "date": "2026-10-31",
     "keyword": "robot",
     "score": 0.1
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticAux-flexpi-gt-svae-dvae-v1",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticAux-flexpi-gt-svae-dvae-v1",
-    "date": "2026-10-31",
-    "keyword": "robot",
-    "score": 1.0
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticCondition-flexpi-gt-svae-dvae-v1",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261029-SemanticCondition-flexpi-gt-svae-dvae-v1",
-    "date": "2026-10-31",
-    "keyword": "robot",
-    "score": 1.0
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261030-NoRGB-flexpi-gt-svae-dvae-v1",
-    "downloads": 3,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261030-NoRGB-flexpi-gt-svae-dvae-v1",
-    "date": "2026-10-31",
-    "keyword": "robot",
-    "score": 1.0
   },
   {
     "model": "at237299966/ODE_policy_euler_sidehead_fold_towel",
@@ -718,42 +754,6 @@
     "date": "2026-10-21",
     "keyword": "embodied",
     "score": 7.0
-  },
-  {
-    "model": "ayeshad/whose-world-does-the-model-know",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ayeshad/whose-world-does-the-model-know",
-    "date": "2026-10-20",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "jepa-world-models/h-jepa",
-    "downloads": 0,
-    "likes": 16,
-    "url": "https://huggingface.co/jepa-world-models/h-jepa",
-    "date": "2026-10-20",
-    "keyword": "world model",
-    "score": 3.3
-  },
-  {
-    "model": "JiaxinGe/pacman_braidthin_forward_v4_shorttrap_only_kinf_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JiaxinGe/pacman_braidthin_forward_v4_shorttrap_only_kinf_world_model",
-    "date": "2026-10-20",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "JiaxinGe/pacman_braidthin_forward_v3_mixed_kinf_world_model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/JiaxinGe/pacman_braidthin_forward_v3_mixed_kinf_world_model",
-    "date": "2026-10-20",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "nvidia/Cosmos3-H-Embodied-Nano",

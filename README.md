@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-01 19:55 UTC
+Last Updated: 2026-11-01 23:09 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,6 +49,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-01 | A Game Engine For Microcontrollers | Hackaday | [link](https://hackaday.com/2026/11/01/a-game-engine-for-microcontrollers/) |
 | 2026-11-01 | An Electronic Candle You Can Set On Fire | Hackaday | [link](https://hackaday.com/2026/11/01/an-electronic-candle-you-can-set-on-fire/) |
 | 2026-11-01 | FloppoScope is a Disk Image Analyzer | Hackaday | [link](https://hackaday.com/2026/11/01/flopposcope-is-a-disk-image-analyzer/) |
 | 2026-11-01 | Turning Syngas into Hydrocarbons with the Right Alpha | Hackaday | [link](https://hackaday.com/2026/11/01/turning-syngas-into-hydrocarbons-with-the-right-alpha/) |
@@ -58,7 +59,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-01 | BIOSTAR EdgeComp MS-U320 fanless Wildcat Lake industrial mini PC offers four COM ports, dual 2.5GbE, 4G/5G expansion | CNX Software | [link](https://www.cnx-software.com/2026/11/01/biostar-edgecomp-ms-u320-fanless-wildcat-lake-industrial-mini-pc-offers-four-com-ports-dual-2-5gbe-4g-5g-expansion/) |
 | 2026-11-01 | ESP32-S3 Based Toddler Phone That Calls Family | Adafruit | [link](https://blog.adafruit.com/2026/11/01/esp32-s3-based-toddler-phone-that-calls-family/) |
 | 2026-11-01 | Adafruit’s Top 10 Blog Posts of October 2026 #StateOfTheFruit #AdafruitTopTen | Adafruit | [link](https://blog.adafruit.com/2026/11/01/adafruits-top-10-blog-posts-of-october-2026-stateofthefruit-adafruittopten/) |
-| 2026-11-01 | 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows | Adafruit | [link](https://blog.adafruit.com/2026/11/01/16-bit-windows-windows-1-x-2-x-3-0-3-1-etc-on-64-bit-windows/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,6 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-01 | RobotisSW/Task_802_groot_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_80k) |
+| 2026-11-01 | RobotisSW/Task_802_groot_90k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_90k) |
+| 2026-11-01 | RobotisSW/Task_802_groot_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_100k) |
 | 2026-11-01 | 3CTeam/pi05_base_robotwin20_full_fsdp2_gb64_30k | 0 | 0 | [link](https://huggingface.co/3CTeam/pi05_base_robotwin20_full_fsdp2_gb64_30k) |
 | 2026-11-01 | RobotLearningLab/hidden-messages-tiny-a2d | 0 | 0 | [link](https://huggingface.co/RobotLearningLab/hidden-messages-tiny-a2d) |
 | 2026-11-01 | RobotLearningLab/hidden-messages-dream-qasc | 0 | 0 | [link](https://huggingface.co/RobotLearningLab/hidden-messages-dream-qasc) |
@@ -84,21 +87,18 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-01 | RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0 | 39 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261025-A-flexpi-gt-svae-x0) |
 | 2026-11-01 | RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-Enhanced-NoDropout-flexpi-gt-svae-dvae-v1) |
 | 2026-11-01 | SelfDriving-VLA/laq-ad-backup | 0 | 0 | [link](https://huggingface.co/SelfDriving-VLA/laq-ad-backup) |
-| 2026-11-01 | weepiess2383/NEO-VLA | 0 | 0 | [link](https://huggingface.co/weepiess2383/NEO-VLA) |
-| 2026-11-01 | matteuscruz/vla-g1-hpc | 0 | 0 | [link](https://huggingface.co/matteuscruz/vla-g1-hpc) |
-| 2026-11-01 | Vladprime/reinforce-Pixelcopter-PLE-v0 | 0 | 0 | [link](https://huggingface.co/Vladprime/reinforce-Pixelcopter-PLE-v0) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29761 | Python | 11904.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| copper-project/copper-rs | 1536 | Rust | 614.5 | [link](https://github.com/copper-project/copper-rs) |
+| harvard-edge/cs249r_book | 29763 | Python | 11905.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| copper-project/copper-rs | 1539 | Rust | 615.7 | [link](https://github.com/copper-project/copper-rs) |
 | pnoker/iot-dc3 | 1268 | Java | 507.3 | [link](https://github.com/pnoker/iot-dc3) |
-| autonomous-ai/lampOS | 537 | Python | 214.9 | [link](https://github.com/autonomous-ai/lampOS) |
+| autonomous-ai/lampOS | 540 | Python | 216.1 | [link](https://github.com/autonomous-ai/lampOS) |
 | awslabs/awsome-distributed-ai | 494 | Shell | 197.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
-| commaai/openpilot | 64040 | Python | 25616.1 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 64041 | Python | 25616.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44759 | JavaScript | 17903.7 | [link](https://github.com/NaiboWang/EasySpider) |
-| earthtojake/text-to-cad | 24696 | Python | 9878.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 24729 | Python | 9891.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17493 | Java | 6997.3 | [link](https://github.com/questdb/questdb) |
 | zauberzeug/nicegui | 16330 | Python | 6532.1 | [link](https://github.com/zauberzeug/nicegui) |
 
@@ -120,7 +120,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-11-01 | Why physical AI is the next lucrative frontier - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T29pWUJMM044YU9FMXY5WVJCSmpTaFlQS3N3akpjcS1MeWNIU0ZZNC1udnVUTl9WeHR1bFhIQnEwSjczLUFWZUZUZDBOTzZHVWZwVzRXTVZRdXdiRmVmcEJkTk1TM1hEa3l5QlFrS3YzYlNieUhxVTBMOA?oc=5) |
-| 2026-10-31 | Brain-inspired AI startup Zhiyue wins gold at Hong Kong contest after angel round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE10djM5NTdYRFNlb3RlU0hseWRiYmRhZjhiY3pJZlRXNENXTV91XzViNUhmT1RmZlo0Nmt3LXpOY01nbzNlTlM2VjN4clREeTVGZlNiX003SXVzZWtIOU9CWV9sb3FvMUhoYlhMOTQ0N2NnUjdUbGlaUDZmcjJYTEozM1RuY2tIRlBickdMTEdudHZmTWI0dkN3b3RfWVVwN0Nid2p1a3pvRzNjXzhQbTdFWklOZw?oc=5) |
+| 2026-11-01 | Meta builds humanoid robot with Chinese startup Fourier, The Information says, Digital News - AsiaOne.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxNem52TEh5N0txSFZkb09GbG8yNXdwcEZmbkRETkRjU0RpRnFDR0ltOUdmWXQ1WWJXOU1tby1XNU1MVk1IVzhQZnEtWWM5aExQWUwtb3k0ZGt5c1RKQUNFVS1rc1RPZDVlanZPWnFZc2hIU1FpUGdXbVhjU2oxSmN3QVYyTml6THFuR3o0ZHNfa2pmMEhqWjl1YmZmeGN3UXdQ?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5) |
 | 2026-10-31 | Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says By Reuters - Investing.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcE1fMWRoMzVVclhkc0owWTQtQThaUzh3SWNoam9wNm52eHFBRFZ0eDIyNG5ja1VweFFtZnlmUlVMb1JOVVRHVHNieTNxOFJwbVVjcElpTUFHUWM2Y2VRb2VudDhUQndBVGdCeDZGcmtKUFdlck1QeERaYnQ2c3VpLVYyamVxMEtfRENMTTgxZ25yaEVNMjJCcHNRYmZoZWt6TWFEZjBCMmU0SmptT2d0cXdtcUdqTXg4NE5xNDR2QkVucnRwM1RpNkdtQkJtZw?oc=5) |
