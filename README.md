@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-02 02:51 UTC
+Last Updated: 2026-11-02 10:07 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-02 | A Hackable Analog Phone System | Hackaday | [link](https://hackaday.com/2026/11/02/a-hackable-analog-phone-system/) |
+| 2026-11-02 | Building The Stranger Things Lights For Halloween | Hackaday | [link](https://hackaday.com/2026/11/01/building-the-stranger-things-lights-for-halloween/) |
+| 2026-11-02 | Hackaday Links: November 1, 2026 | Hackaday | [link](https://hackaday.com/2026/11/01/hackaday-links-november-1-2026/) |
 | 2026-11-02 | Cheap FPGA Board Becomes Retro-Style Computer | Hackaday | [link](https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/) |
+| 2026-11-02 | TOOCAA NOVA Review – 20W laser engraver with AI camera, autofocus, and rotary module | CNX Software | [link](https://www.cnx-software.com/2026/11/02/toocaa-nova-review-20w-laser-engraver-with-ai-camera-autofocus-rotary-module/) |
 | 2026-11-02 | Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI | CNX Software | [link](https://www.cnx-software.com/2026/11/02/brainchip-akd1500-raspberry-pi-5-dev-kit-enables-users-to-quickly-experiment-with-event-based-neuromorphic-ai/) |
-| 2026-11-02 | Ed Works The Whitehall Angles | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-works-a-whitehall-angle-2026-11/) |
-| 2026-11-02 | Let the Electronics Weekly newsletter content come straight to you! | Electronics Weekly | [link](https://www.electronicsweekly.com/uncategorised/let-newsletter-content-come-straight-2026-11/) |
-| 2026-11-01 | A Game Engine For Microcontrollers | Hackaday | [link](https://hackaday.com/2026/11/01/a-game-engine-for-microcontrollers/) |
-| 2026-11-01 | An Electronic Candle You Can Set On Fire | Hackaday | [link](https://hackaday.com/2026/11/01/an-electronic-candle-you-can-set-on-fire/) |
-| 2026-11-01 | FloppoScope is a Disk Image Analyzer | Hackaday | [link](https://hackaday.com/2026/11/01/flopposcope-is-a-disk-image-analyzer/) |
-| 2026-11-01 | Turning Syngas into Hydrocarbons with the Right Alpha | Hackaday | [link](https://hackaday.com/2026/11/01/turning-syngas-into-hydrocarbons-with-the-right-alpha/) |
-| 2026-11-01 | Building an ADS-B Receiver For Less Than You Think | Hackaday | [link](https://hackaday.com/2026/11/01/building-an-ads-b-receiver-for-less-than-you-think/) |
-| 2026-11-01 | Huge PalmOS Development Archive Goes Online, Thanks to Personal Backups | Hackaday | [link](https://hackaday.com/2026/10/31/huge-palmos-development-archive-goes-online-thanks-to-personal-backups/) |
+| 2026-11-02 | Toyota and Waymo to launch robotaxis in Japan | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/toyota-and-waymo-to-launch-robotaxis-in-tokyo-2026-11/) |
+| 2026-11-02 | ASML links exec pay to employee morale | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/asml-links-exec-pay-to-employee-morale-2026-11/) |
+| 2026-11-02 | Japan to build underwater drones | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/japan-to-build-underwater-drones-2026-11/) |
+| 2026-11-02 | Group 14 expands into Spain | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/group-14-expands-into-spain-2026-11/) |
 
 ## New Research Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-10-30 | CONSORT: Uncertainty-Constrained Multi-Robot Planning for Cooperative Localization in GPS-Denied Environments | [link](https://arxiv.org/pdf/2610.41235v1) |
-| 2026-10-30 | Evolution of Financial AI: From Statistical Models to Agentic AI | [link](https://arxiv.org/pdf/2610.41228v1) |
-| 2026-10-30 | TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents | [link](https://arxiv.org/pdf/2610.41216v1) |
-| 2026-10-30 | Capability-Conditioned Graph Control Barrier Functions for Zero-Shot Safe Navigation of Heterogeneous Mobile Robot Teams | [link](https://arxiv.org/pdf/2610.41214v1) |
-| 2026-10-30 | FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation | [link](https://arxiv.org/pdf/2610.41190v1) |
-| 2026-10-30 | A Capability-Aware Backup-Recoverability Filter for Heterogeneous Multi-Robot Navigation | [link](https://arxiv.org/pdf/2610.41188v1) |
-| 2026-10-30 | Mechanistic Interpretability for End-to-End Self-Driving | [link](https://arxiv.org/pdf/2610.41185v1) |
-| 2026-10-30 | ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration | [link](https://arxiv.org/pdf/2610.41168v1) |
-| 2026-10-30 | One Verdict Is Not Enough: Regression Testing Learned World Models and Their Test Harnesses | [link](https://arxiv.org/pdf/2610.41130v1) |
-| 2026-10-30 | MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding | [link](https://arxiv.org/pdf/2610.41127v1) |
+| 2026-10-30 | Hierarchical World Models with Implicit Dynamics | [link](https://arxiv.org/pdf/2610.42146v1) |
+| 2026-10-30 | SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid | [link](https://arxiv.org/pdf/2610.42145v1) |
+| 2026-10-30 | RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory | [link](https://arxiv.org/pdf/2610.42141v1) |
+| 2026-10-30 | ROOF: Learning Humanoid Fall Recovery under Overhead Constraints | [link](https://arxiv.org/pdf/2610.42097v1) |
+| 2026-10-30 | CausalWAM: Learning the Causes of Actions in World Action Models | [link](https://arxiv.org/pdf/2610.42096v1) |
+| 2026-10-30 | Rethinking Asymmetry in Self-Supervised 3D Geometry Learning | [link](https://arxiv.org/pdf/2610.42092v1) |
+| 2026-10-30 | Embodied Movable Antennas | [link](https://arxiv.org/pdf/2610.42078v1) |
+| 2026-10-30 | REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control | [link](https://arxiv.org/pdf/2610.42053v1) |
+| 2026-10-30 | A Hybrid Path Planning Framework for Assistive Wheelchair Navigation in Dynamic Pedestrian Environments | [link](https://arxiv.org/pdf/2610.42049v1) |
+| 2026-10-30 | Proof-Carrying Evolution: Black-Box Search, White-Box Flight | [link](https://arxiv.org/pdf/2610.42043v1) |
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-02 | x-square-robot/wall-oss-1.0-lite-robodojo-base | 0 | 0 | [link](https://huggingface.co/x-square-robot/wall-oss-1.0-lite-robodojo-base) |
+| 2026-11-02 | k1000dai/llm-robot-rl-one-checkpoints | 0 | 0 | [link](https://huggingface.co/k1000dai/llm-robot-rl-one-checkpoints) |
+| 2026-11-02 | twanghcmut/bridgequant-robotwin-76m | 0 | 0 | [link](https://huggingface.co/twanghcmut/bridgequant-robotwin-76m) |
+| 2026-11-02 | twanghcmut/bridgequant-robotwin-7m-hammer | 0 | 0 | [link](https://huggingface.co/twanghcmut/bridgequant-robotwin-7m-hammer) |
+| 2026-11-02 | vladlen-beilik/qwen-image-2.1-runpod | 0 | 0 | [link](https://huggingface.co/vladlen-beilik/qwen-image-2.1-runpod) |
 | 2026-11-02 | SelfDriving-VLA/laq-ad-backup | 0 | 0 | [link](https://huggingface.co/SelfDriving-VLA/laq-ad-backup) |
-| 2026-11-02 | RocheL/vlatest | 0 | 0 | [link](https://huggingface.co/RocheL/vlatest) |
-| 2026-11-02 | gavinlaw/setground-question-policy | 0 | 0 | [link](https://huggingface.co/gavinlaw/setground-question-policy) |
-| 2026-11-01 | RobotisSW/Task_802_groot_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_80k) |
-| 2026-11-01 | RobotisSW/Task_802_groot_90k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_90k) |
-| 2026-11-01 | RobotisSW/Task_802_groot_100k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_100k) |
-| 2026-11-01 | 3CTeam/pi05_base_robotwin20_full_fsdp2_gb64_30k | 0 | 0 | [link](https://huggingface.co/3CTeam/pi05_base_robotwin20_full_fsdp2_gb64_30k) |
-| 2026-11-01 | RobotLearningLab/hidden-messages-tiny-a2d | 0 | 0 | [link](https://huggingface.co/RobotLearningLab/hidden-messages-tiny-a2d) |
-| 2026-11-01 | RobotLearningLab/hidden-messages-dream-qasc | 0 | 0 | [link](https://huggingface.co/RobotLearningLab/hidden-messages-dream-qasc) |
-| 2026-11-01 | RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-CoTrain-20261031-RGBAux-HeadSemanticCondition-flexpi-gt-svae-dvae-v1) |
+| 2026-11-02 | rxc205/GEOMEM-VLA | 0 | 0 | [link](https://huggingface.co/rxc205/GEOMEM-VLA) |
+| 2026-11-02 | Koichi3333/vla-maker-from-cbd | 0 | 0 | [link](https://huggingface.co/Koichi3333/vla-maker-from-cbd) |
+| 2026-11-02 | AlbertS666/vla_target_1023_ckpts | 0 | 0 | [link](https://huggingface.co/AlbertS666/vla_target_1023_ckpts) |
+| 2026-11-02 | siliconperception/vla | 0 | 0 | [link](https://huggingface.co/siliconperception/vla) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29767 | Python | 11906.9 | [link](https://github.com/harvard-edge/cs249r_book) |
-| autonomous-ai/lampOS | 540 | Python | 216.1 | [link](https://github.com/autonomous-ai/lampOS) |
+| harvard-edge/cs249r_book | 29780 | Python | 11912.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| mosaico-labs/mosaico | 1101 | Python | 440.5 | [link](https://github.com/mosaico-labs/mosaico) |
+| autonomous-ai/lampOS | 541 | Python | 216.5 | [link](https://github.com/autonomous-ai/lampOS) |
 | awslabs/awsome-distributed-ai | 494 | Shell | 197.7 | [link](https://github.com/awslabs/awsome-distributed-ai) |
 | commaai/openpilot | 64042 | Python | 25616.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 24787 | Python | 9914.9 | [link](https://github.com/earthtojake/text-to-cad) |
-| questdb/questdb | 17493 | Java | 6997.3 | [link](https://github.com/questdb/questdb) |
-| google-deepmind/mujoco | 16024 | C++ | 6409.7 | [link](https://github.com/google-deepmind/mujoco) |
-| syswonder/robonix | 407 | Rust | 162.9 | [link](https://github.com/syswonder/robonix) |
-| deeplethe/utopia | 8660 | Rust | 3464.1 | [link](https://github.com/deeplethe/utopia) |
-| vllm-project/vllm-omni | 7475 | Python | 2990.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| earthtojake/text-to-cad | 24896 | Python | 9958.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17495 | Java | 6998.1 | [link](https://github.com/questdb/questdb) |
+| google-deepmind/mujoco | 16032 | C++ | 6412.9 | [link](https://github.com/google-deepmind/mujoco) |
+| RLinf/RLinf | 5572 | Python | 2228.9 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 4060 | Rust | 1624.1 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -111,24 +111,24 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTU1MmdpRGw1QTNHY2cxSXE5bjg5WEFvMmlPcmhyVm1GZ3ZjTkxTNWticG1YUHJFN3AwYXFEQXRtMGZzUE9mTWM4aWVHNXJHaFpZM0FRQi1RT3pjZS05NGlqcVZMMWdEUGlVRmtJLW9tQ0RHNmo3YkcwY0tyOTlxMWh1VU9sTmYzcllxa3BpYjZ2Ri1DajJpYnBEd0llVmRSMHJoT0R3?oc=5) |
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHFoUUpIVlhhMUhGcHdKckhfVUI1bTZzT1c4MVBId3B2NUxyRzZvUGNQRmxGcTJuZDZGejZ3eWZhS1hRcVNEWW9CSlpPWVlqZXBlY0dVdkFqcWlzcDVadVFMQ3ZQUVZNUlJlbmtybjYtY2dxVEk2ZG0tODFqWm4td2o5X3lQQUplQl9QX2xja3pNVmdkclBoenpvelEyRUFLc2hzZ1BIUEtDZDN3SEpOaXdpdTU?oc=5) |
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hbk8za1lJTDdXeDZBVE1UTGo1ODZ0SEszb1I0djFuUUtJNnhtUmszb2IzS1ZSMUtqQzV4aGZCdDE4WDhBZkcycEFIUmpWRnhBYkQ3aDVCOXlSYkcxcnFCaGVjLWJtblNpb2lxOGVXazdCTkZlY2c?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG51ZWVVWl9sVS1xRThqOHV0aUF5dXVpMDRsVFpPZEN4X0pCSmdmbmpXMldoT1VxSTlnRGE5RWNPckNxcWFFYWVteEJid2NNZkI2US1IWmd5alI3QU5yMjV2VnZmc2NNcjFoSzlMTjJDWU5heXZxU1hyNFg4TllRRnJTVU1XY0NlNjNMODZ5REg?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZmdHTUlRdjRDV2dWcXRBVkZHMlBqdGo0SDhJS0ZXLWVrZ3JMcklibDluYUIwamRtbDZ5bHBBekQtZ2hXTVFRLUNka2txUmNfNUlnR1BtbHZ3MjlIQjZRNnRBeWdZdUtyeXF2MUZJZmo0OUgwc3ZOZ3FDVTdwODF3RmJiaEQ2aXVja1RpVm5pdnBvTXYzZXRsOXBvcGNHNldKamFLT0hJTGZEX2syVFlfVzZzMDByUktTYWhaRlk2QXlyUjZMVVdEZWRlaWk0YXBvVEZtUm0wQUFnV2RkOEdUXzNQRUpoUmVfeFFRYzcyeUM?oc=5) |
+| 2026-10-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnREaU94Y3N2ejdhQlAxYURoOFduWHRLUFJrZmJPWW1wOGlvT2tWb0lwcDJ6d3FvTXR0d2R3S1pwX3RIaHVfRUV0WVEwYW1vMEU2bDRrWmoxWGhYSGEwa2ZtQXhHSjhXbDBBLWhfRzVHMVl1OXc2TEc4dG9odE5lUnlFVklCazZCcUhxSy1Ua08zajhScE9PZnFQNVh5bE5yc3dMQ3lEaVRmaGY1cndXZnNYUEdlZw?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1tb3RIc1dRb3E2Z3ZHV2R2ZzRpRGNBR0ljY0hCRk01cnFpMERTcFhGRDZOWkhwTzNoRjdidDJVWW1EOU9Ra2RBQUZDWkpXakJpZVEzR25Bamh1M0stRGxnTjhqbG9VQkNHaWlOQWdtM05IejY1RjRjb1pPbXdfWTNFSUQ?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxPa19nLWZEQnBmcmhCbnB6ZGdwSmJiU0VkZXQ5Z2J5ZkpCalRYOUVubGF1WGRfdy1rc1pSNWl2UHl4UzZ4Qnk3YVVfME1FcUp3VDdkZEVmemZTUDBMR0xOTzZkSGlGRGZMV0dGNHBpLWdUSEY2NkhOUEQ4T1l0Z3ZQRFl5VVk4N044RjVLcThOUVl3cWRDMkxHR2xFeTVGU1pi?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-02 | Meta builds humanoid robot with Chinese startup Fourier: Report - The Hindu | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm9xbE93Wnc0cVFXMU9LR1BPSjdWZVE1OUZvM1pSdFdFWlp6UF9OZWIweGY0VGtXaHY5SE1mU1BVV0phS0JZeno4bzZCX3E3RDVEc1JtdlBRMHd4ZGs5cGoxRmt0VngxZm9keDlpaVB2dVpRQ3FXWGVoZUphSzRvbFFCeGs2QXRjZ3ZYYUJKVlIwUzdKRXN0WHB6blFZNENTMlZ2OFpLQ1d5enZON0lXY0l6MFRpMHNxbUFienB5VG1HR0pQNEHSAcwBQVVfeXFMTUdPZ210UU5pMXBZS0pzQWNCWnozcnBtTk9OTG1MbUoycmE1aTFmbTBjdzhmZ0R2b003U2FWcEFtRzRSUXdPemZTTVJzenRvdEdJVy02ckhiekhOSW9ua3c0WmlBTmxIMGxWRTQyaGlkbUp6U3h0M1E0WlV1ZDg5cXpPQ1plYklKcE5YWmY1ZVJRaHJXMm1ZaHF2RFRPb2Qxa0Frd1l3cEttTkl4YjVUOXFVRjhWVFJFMG9Ia1ZxS0p5a2RFcTl2N0RaRjR6?oc=5) |
 | 2026-11-01 | Why physical AI is the next lucrative frontier - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T29pWUJMM044YU9FMXY5WVJCSmpTaFlQS3N3akpjcS1MeWNIU0ZZNC1udnVUTl9WeHR1bFhIQnEwSjczLUFWZUZUZDBOTzZHVWZwVzRXTVZRdXdiRmVmcEJkTk1TM1hEa3l5QlFrS3YzYlNieUhxVTBMOA?oc=5) |
 | 2026-11-01 | Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores - Engadget | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDZZYUZMSEc3ZHpza09mMk1BM0FfVWY3TlhJOVNTSDNUcVJ0WVpRQ25tOWNmbU5ZdFU2WXZaaHU1YW56TXBFSTZwRklNYk9Edk5YRlVNaEhnVnlkT3JiZUFQY0VtVTd3YnQ1RzhYVzVHWnpaVEkwUlJoNHFFTEhsQkpyVnBObkEySVNSZGM2OG5OdWlvSUhzRC1uSXlFVUs1c3huN29Odm9YakdtVUppXw?oc=5) |
+| 2026-10-31 | Brain-inspired AI startup Zhiyue wins gold at Hong Kong contest after angel round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNE10djM5NTdYRFNlb3RlU0hseWRiYmRhZjhiY3pJZlRXNENXTV91XzViNUhmT1RmZlo0Nmt3LXpOY01nbzNlTlM2VjN4clREeTVGZlNiX003SXVzZWtIOU9CWV9sb3FvMUhoYlhMOTQ0N2NnUjdUbGlaUDZmcjJYTEozM1RuY2tIRlBickdMTEdudHZmTWI0dkN3b3RfWVVwN0Nid2p1a3pvRzNjXzhQbTdFWklOZw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5) |
 | 2026-10-31 | Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says By Reuters - Investing.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcE1fMWRoMzVVclhkc0owWTQtQThaUzh3SWNoam9wNm52eHFBRFZ0eDIyNG5ja1VweFFtZnlmUlVMb1JOVVRHVHNieTNxOFJwbVVjcElpTUFHUWM2Y2VRb2VudDhUQndBVGdCeDZGcmtKUFdlck1QeERaYnQ2c3VpLVYyamVxMEtfRENMTTgxZ25yaEVNMjJCcHNRYmZoZWt6TWFEZjBCMmU0SmptT2d0cXdtcUdqTXg4NE5xNDR2QkVucnRwM1RpNkdtQkJtZw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Central Oregon Daily | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihgJBVV95cUxNVEM5UFhDbVM4S3pUbDRPLVRGZE5lamZLaU5pWThfaEx4S2FocWZjYWFaWVpvWTR6dFYyU2lyUEIxcFdDQWhVOG9ybXpPck9BWmwtTWdKTjdOdVVxbmJUQW92d0pqRF9Sc3g1bTZ2VEoxeVJtV2NIdEFocmF6THRvSVFIclBCeWtLRTB3SnFuNEhZWFVMQlRJSzFCODgtMzVXU3UzazVEUzdPZU1ja21TeWFFUHBVSjVNXzFETHFueTc0d1ByUGVpeEkwUHFBR2NkTG9Xa2lHRHJMejg5VDZEeWxFV18yZ3Jacjl3STdNVlFQb1ZoZTNQV0ZSLWZocEJuMWZHOTV3?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - The Lufkin Daily News | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNXJQU0pIT05GeFQ1UXdJSk9Xc2syMTlGTllBdmJiSFZuNTdWUDhCcDVBS2JOYXBvODZXb0taY181dldXRXFfVkpka2x1OG1fTXF1bzNrd0ZRYUhrTkw2SmVVcFRINmV0TlFIMXpwNlU1X002d2N0NDZtYjJzYm1yczlwQktjTXg0Y3FiaUc2dXdnLXBCbTdNbnZyNC1sSnQ1ZkU3REhhSjE1djBtNERhUGVHa09QTGQ0LVQtekh5aE9Xd1VmTFJIWmJ0STMxVTl4WklGTkZjcFMya2pwY01GRU1hSXc4c1lxajN0aXFlMXJfcWlqVHozcUhUMUdvM2xzSVN1UWZXTQ?oc=5) |
 | 2026-10-31 | Meta Builds Humanoid Robot With Chinese Startup Fourier, the Information Says - US News Money | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJMdnVPd3I2SG5YZGt6MDZ6V2RnMVcwWGV2YWdVVDFySjZZQU5TeUh6bEV0TkZ2clZHOFpuSjlZYU4wVndDeUtYQ3FrWmZiRnIwVHVRMUctbXZUbDA4OEtLWlJnRGQwQ3lQcmxhRDdKVkt4UEdqZE0yWlA4VUtZSnExaW41b1VudjNRbndKWVVNNGJPMWFGVUVqbFdRR1dSVlUxNElmZmUtMVlDaEFUTkVmWWVkSXplN2Z3WE1rQW1zeXdCckVxYUd1eGVuYUc4SVE?oc=5) |
-| 2026-10-31 | Meta and China's Fourier Build 'Max' Humanoid Robot in Three Months as Muse's Physical Form - BigGo Finance | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE02UERKU0dWLTdRaHdHNEZydWlCVHBtTFdGZ0dUMExVUkFRNG8ySENmQ1pLZ1dNckMwSXd6eVduMl9iZElEOXBKejFCOTZyZkNWcEpJYjg2bXlEa3BFMy1GaUxSSHViVEFsNWpBU2xNZnpHd3lYN3c?oc=5) |
-| 2026-10-31 | Meta builds prototype humanoid robot Max with Chinese partner: What to know - The News International | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUpDYjR6UjZ4SWZUYnB6TDdGWkY4OWFja0Y2dURPMHREdjZWc2IxRFo3eXltbUI4VnNDd3p6U1ZZV0JyeVU5MmpJVXYzMUozVnZOWHZkVEFjeTZJbVNoeHUyV2hmVHR1WG1Hdzd1bDU4MGZCOUs0M1Ntd0MzRWRTY3J1M010TzNoOXYwNERRWWQ2UGRaUDFFMkdCRVBfVFNfbGdWaWNQeURSTnp3WVZDVU1KWGpWT03SAbMBQVVfeXFMTlBXazNUVGxGVnpMc2w1aTJMbDN1OTFOM1V4VkQ2WU5IZTBjTFk1cWZNT2NYeFUzUUd1ZV93Y1FTckNwSDdfZDFwQkdyWUlId29vSTIwTTdabk13X003Ul9vbzlOVVNpVlFkNjRUM25OT3VaRU5GbExTQkItUVZVUmtnVUhzdUY2NUdEVEU5Sm9kdDdOMjF1N2Q1Z3VYWGpEeDlzSXdfejc0eFg4eFItQ2NBU2s?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
