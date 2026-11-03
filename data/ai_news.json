@@ -1,5 +1,33 @@
 [
   {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "source": "OpenAI",
+    "date": "2026-11-03",
+    "url": "https://openai.com/index/heimstaden",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+  },
+  {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "source": "Hugging Face",
+    "date": "2026-11-03",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "summary": ""
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "source": "Hugging Face",
+    "date": "2026-11-03",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "summary": ""
+  },
+  {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "source": "Hugging Face",
+    "date": "2026-11-03",
+    "url": "https://huggingface.co/blog/cwe-bench",
+    "summary": ""
+  },
+  {
     "title": "Transformers Model Integration Contracts",
     "source": "Hugging Face",
     "date": "2026-11-03",
@@ -42,18 +70,18 @@
     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
   },
   {
-    "title": "Qodo builds context into AI code review with Codex",
-    "source": "OpenAI",
-    "date": "2026-11-02",
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
-  },
-  {
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "source": "OpenAI",
     "date": "2026-11-02",
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI",
+    "date": "2026-11-02",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
   },
   {
     "title": "Making it easier for websites to express AI training preferences",
@@ -91,13 +119,6 @@
     "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
   },
   {
-    "title": "How we detect frontier model misalignment",
-    "source": "OpenAI",
-    "date": "2026-10-29",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
-  },
-  {
     "title": "Granite Switch 4.1.1 — Update models like you update software",
     "source": "Hugging Face",
     "date": "2026-10-29",
@@ -133,13 +154,6 @@
     "summary": ""
   },
   {
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "source": "Hugging Face",
-    "date": "2026-10-27",
-    "url": "https://huggingface.co/blog/allenai/novelty-bench",
-    "summary": ""
-  },
-  {
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "source": "Hugging Face",
     "date": "2026-10-23",
@@ -151,20 +165,6 @@
     "source": "Hugging Face",
     "date": "2026-10-22",
     "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "summary": ""
-  },
-  {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "source": "Hugging Face",
-    "date": "2026-10-22",
-    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "summary": ""
-  },
-  {
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "source": "Hugging Face",
-    "date": "2026-10-21",
-    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "summary": ""
   },
   {
