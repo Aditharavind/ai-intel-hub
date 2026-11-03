@@ -1,5 +1,32 @@
 [
   {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Dwyane/lingbot-vla-lora_tuned_1500",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Dwyane/lingbot-vla-lora_tuned_1500",
+    "date": "2026-11-03",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dontKnow23456/WAM-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "date": "2026-11-03",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "RainyBot/SemWAM-RoboTwin-CoTrain-20261101-RGBAux-A1-HeadSemantic-flexpi-gt-svae-dvae-v1",
     "downloads": 0,
     "likes": 0,
@@ -45,15 +72,6 @@
     "score": 0.1
   },
   {
-    "model": "Dwyane/lingbot-vla-robotwin-weights",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Dwyane/lingbot-vla-robotwin-weights",
-    "date": "2026-11-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "x-square-robot/wall-oss-1.0-lite-robodojo-base",
     "downloads": 0,
     "likes": 0,
@@ -90,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "SelfDriving-VLA/laq-ad-backup",
+    "model": "SamerAyyad/VLA_Samer_31.10.2026_450eps_policy_ACT_500k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_31.10.2026_450eps_policy_ACT_500k",
     "date": "2026-11-02",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -108,10 +126,10 @@
     "score": 0.1
   },
   {
-    "model": "Dwyane/iamNailong-lingbot-vla-lora_tuned_1500",
+    "model": "raoulb091602/vla-skill-consolidation",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Dwyane/iamNailong-lingbot-vla-lora_tuned_1500",
+    "url": "https://huggingface.co/raoulb091602/vla-skill-consolidation",
     "date": "2026-11-02",
     "keyword": "vla",
     "score": 0.1
@@ -180,15 +198,6 @@
     "score": 0.5
   },
   {
-    "model": "vladlen-beilik/qwen-image-2.1-runpod",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vladlen-beilik/qwen-image-2.1-runpod",
-    "date": "2026-11-02",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "GOVINDFROM/surgical-world-model",
     "downloads": 0,
     "likes": 0,
@@ -214,6 +223,15 @@
     "date": "2026-11-02",
     "keyword": "world model",
     "score": 1.0
+  },
+  {
+    "model": "mradermacher/Policy-Qwen3-14B_GPT-OSS-120B-GGUF",
+    "downloads": 273,
+    "likes": 1,
+    "url": "https://huggingface.co/mradermacher/Policy-Qwen3-14B_GPT-OSS-120B-GGUF",
+    "date": "2026-11-02",
+    "keyword": "policy",
+    "score": 82.2
   },
   {
     "model": "gavinlaw/setground-question-policy",
@@ -256,15 +274,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/lerobot-projects/2-bin-recycle-with-Dit-Policy",
-    "date": "2026-11-02",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "dontKnow23456/WAM-Policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
     "date": "2026-11-02",
     "keyword": "policy",
     "score": 0.1
@@ -315,6 +324,15 @@
     "score": 6.1
   },
   {
+    "model": "RobotisSW/Task_802_groot_100k",
+    "downloads": 21,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_802_groot_100k",
+    "date": "2026-11-01",
+    "keyword": "robot",
+    "score": 6.4
+  },
+  {
     "model": "EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo",
     "downloads": 1298,
     "likes": 0,
@@ -349,24 +367,6 @@
     "date": "2026-11-01",
     "keyword": "world model",
     "score": 346.3
-  },
-  {
-    "model": "JoshuaAshkinaze/cap-policy-subtopic",
-    "downloads": 33,
-    "likes": 0,
-    "url": "https://huggingface.co/JoshuaAshkinaze/cap-policy-subtopic",
-    "date": "2026-11-01",
-    "keyword": "policy",
-    "score": 10.0
-  },
-  {
-    "model": "Hurricane1/tabletop-policy-k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hurricane1/tabletop-policy-k",
-    "date": "2026-11-01",
-    "keyword": "policy",
-    "score": 0.1
   },
   {
     "model": "CollectionStudio/Muse-Robotics-1.1",
