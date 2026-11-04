@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-03 23:44 UTC
+Generated: 2026-11-04 03:26 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-11-02 | Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations | [link](https://arxiv.org/pdf/2611.03647v1) |
-| 2026-11-02 | Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation | [link](https://arxiv.org/pdf/2611.03648v1) |
-| 2026-11-02 | Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data | [link](https://arxiv.org/pdf/2611.03626v1) |
-| 2026-11-02 | D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models | [link](https://arxiv.org/pdf/2611.03622v1) |
-| 2026-11-02 | DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries | [link](https://arxiv.org/pdf/2611.03595v1) |
+| 2026-11-03 | iMED: A Multi-Endoscope Dataset for Surgical 3D Perception | [link](https://arxiv.org/pdf/2611.04755v1) |
+| 2026-11-03 | Mass Scaling Laws for Energy-Optimal Horizontal Multirotor Flight | [link](https://arxiv.org/pdf/2611.04748v1) |
+| 2026-11-03 | Cycle WAM: Coupling Action and Video through Cycle Consistency | [link](https://arxiv.org/pdf/2611.04711v1) |
+| 2026-11-03 | DenseTwins: Dense Modality Decoupling for Multimodal Self-Supervision | [link](https://arxiv.org/pdf/2611.04710v1) |
+| 2026-11-03 | CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests | [link](https://arxiv.org/pdf/2611.04708v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 84547 | 33818.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64057 | 25622.9 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 64060 | 25624.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44768 | 17907.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30855 | 12342.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29844 | 11937.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30856 | 12342.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 29845 | 11938.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-11-03 23:44 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-11-03 | Ondine Capital Announces First Close of Fund III to Drive AI and Semiconductor Innovation - USA Today | physical ai startup | [link](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFBDNThZYmJQNXRPY0tuSEJTTXRqRDZ1TExXa1VFRW5YbTFEbzlBS2NqNXBIbkQwNTNQS2VhZFdUMUx4YldNaDIwd3BtQVBpUHR5MVhnVE9pTFM3bDlDYXlLNlZNaGpoNzR0UHlmOHZ0WEo1MVI1VXpjZ01zYmJZb3lFYy1VdllwWjdqc1czSzBMQ2hVaVJhekVUdWJ1UTBTQnVHYk1WdEw3QmttTlNua21FdmFJUmZ0Vi1oS2tuX0pxcjdtTV9MbjJheWNvMk5DZlRTM2UyUDQ?oc=5) |
-| 2026-11-03 | Pronto Founder's Provision Labs Acquires Basilisk to Build Physical AI - CIOL | physical ai startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGJqNmhzR2F0TXRtSVZ1S3lqem1wMnJTcjJ6QjJUUWhPdEtWbWJlNnBrc1UxSlhFQ1lXWkVhNkZoMF9BRlZhbHVLV1BUcW45c2RocVZsc1JrVTY3WW5iVVo5b2dGal9TVnZ6OEdHVDl4Skc0SHBRZWwwdnc4TVpvZmd3T1JwVU5fTmNSbnBtMjAtcGRRRGUyVzQ2dkNNZ2haSUozM21kRdIBpwFBVV95cUxQZGJqNmhzR2F0TXRtSVZ1S3lqem1wMnJTcjJ6QjJUUWhPdEtWbWJlNnBrc1UxSlhFQ1lXWkVhNkZoMF9BRlZhbHVLV1BUcW45c2RocVZsc1JrVTY3WW5iVVo5b2dGal9TVnZ6OEdHVDl4Skc0SHBRZWwwdnc4TVpvZmd3T1JwVU5fTmNSbnBtMjAtcGRRRGUyVzQ2dkNNZ2haSUozM21kRQ?oc=5) |
+| 2026-11-03 | Ondine Capital Announces First Close of Fund III to Drive AI and Semiconductor Innovation - vietnamnews.vn | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzhva1NCd1h3bEJYVHd0OGNCRzY1WjcyU1JROUpibEU5RS1BZkVYc2xCZmN1WTB6QzRQUUR3ck10RlUyVl95clNPaUlHRjFFb3Nlam8wNFh2ZERvSExOelpfTzZQNnlsaFkwTWJ4MUpYVTZnY0FaVHl3VzJRT2Y5MHI5Rkg0aFMzRTRpTFZSN0h3LVcxWjBmMlpQVDFoNjhIcXdMaDhwbWdxd0hnMnVsVlI1Y2RLeE43Zkw2dU93SUFTTVF0TzAxeHhKV1VxUUdqSU44MzNOUQ?oc=5) |
 | 2026-11-03 | Top Robotics And Embodied AI Startups In China To Watch In 2027 - TechRound | embodied ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWJQUzE0d3p6RHA5bU05REF5NHU1TlA1RVdGTWx3dVZoVFlPWWFiLWZQd2NiblJnVDFnUEhyTkFWQ2l1bUZmNFFadG5iaFJ5NS05aThfd3BDWVRPRFNtWXlVRzllMEZfUjNUXy1zUVJjd3BKUkNMUkd1aGJOMmFHT3hBcWtXOWc2a0pVeTNMWk9OSnBQcmRmZlRISmplUQ?oc=5) |
 | 2026-11-03 | Startup offers $20 an hour to walk robot dogs - AOL.co.uk | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE83a3NLcDczMnY5dVp6NmJ2UFE1dVl1LWZHc3Zha1YyOHNQWEtHMXlwYWZEaGljWm5Ua3JHVFhFT2ZPcmNVWnlvTG05VnZBYk9ZVzkzN1kzNkdyOElDU1g2S0FocTBSWjZtNmpoYW83TXBpaHhyaFVkZVdvdW5QUQ?oc=5) |
 | 2026-11-02 | After the Embodied AI Wave Cooled, This Stanford Startup Raised Hundreds of Millions Against the Tide - PANews | embodied ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE85a2YzODBBYmJWemFjVS0ybXFFQmZ6ZFNVVTdmc1pvN25zLVg4dzRBLWtVcUNxd3JWZkw0X1dVaERYZlBVcndNR0EzaHlEcjZOZkNBOEFscGR3NWtCbGFkNHljcFBrSFdZTjNGTnNlREl5U2RmeDlEcWduaUJTaFE?oc=5) |
+| 2026-11-02 | CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanFqZWk4eUNJeDBuTWcwSEFnOHhSWjVVNVAtN2kzZXBtS3FUTlpNbVlHMjhBTVluTjh4MTFXLVhuRmZpdHduYXFWbHhxQndpVmdtdW51YXdMV3pwb05QOG1PMW5YQzRJV3BVaVFJa2xmNlI2Q04yeUVKTHJXNGd1VUt0SWRxbmY0UWJEVVVfbTFyNHhSYVEyc3VxdzBXNjNfb0xqNUEwdFlpYnJOTGFQc1NWS1FNRTgySzMzenplUl9tdktETEhIY9IBzgFBVV95cUxPeG9aQ0IwaklOejRNbDR1eVlqMExyRmdaOGFTUkdZRG5lWXRSY2RxSzRUcG4wMnVnSF8xNUhCN3llSktoemJlZi1FMHFid1oyZ2E4Tl9yUlpreWQtbm1VVDVBS0U0c01NdkstdGZPd1BnOXQ1Wi00TUpJakRUYVg1M1pMd1dhY0VzUDFhT2FRXzdHZkZaejFQMzhzWHl1a1pnaTQ4WEJ1MHE4UTB3ZGdOUkZKM2FjOVg5ODRzTXhVa0JSOVpHWlZKTzlJTkVCdw?oc=5) |

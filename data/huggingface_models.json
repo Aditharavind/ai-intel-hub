@@ -1,5 +1,86 @@
 [
   {
+    "model": "WCL-Robotics/muse-checkpoint",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/WCL-Robotics/muse-checkpoint",
+    "date": "2026-11-04",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "roboterax/Era0-5B-Preview-RoboDojo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/roboterax/Era0-5B-Preview-RoboDojo",
+    "date": "2026-11-04",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
+    "date": "2026-11-04",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "HarleyCooper/grid-policy-mlp-repaired-v4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HarleyCooper/grid-policy-mlp-repaired-v4",
+    "date": "2026-11-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "HarleyCooper/grid-policy-mlp-repaired-v3",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/HarleyCooper/grid-policy-mlp-repaired-v3",
+    "date": "2026-11-04",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "HarleyCooper/grid-policy-mlp-repaired",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/HarleyCooper/grid-policy-mlp-repaired",
+    "date": "2026-11-04",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "Gueso/tictactoe-v4-final-act-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Gueso/tictactoe-v4-final-act-policy",
+    "date": "2026-11-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_802_groot_tuned_70k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_802_groot_tuned_70k",
+    "date": "2026-11-03",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Myungkyu/pi0_5_jax_robotwin_vanilla_b64_60k",
     "downloads": 0,
     "likes": 0,
@@ -72,51 +153,6 @@
     "score": 0.1
   },
   {
-    "model": "roboterax/Era0-5B-Preview-RoboDojo",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/roboterax/Era0-5B-Preview-RoboDojo",
-    "date": "2026-11-03",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "robotfighter/My24_7_English_Coach",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/robotfighter/My24_7_English_Coach",
-    "date": "2026-11-03",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "hitsz-robotics/FineCraft",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/hitsz-robotics/FineCraft",
-    "date": "2026-11-03",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "arunos728/cosmos3-robotwin-ae-t320-egodexinit-b64-60k",
-    "downloads": 13,
-    "likes": 0,
-    "url": "https://huggingface.co/arunos728/cosmos3-robotwin-ae-t320-egodexinit-b64-60k",
-    "date": "2026-11-03",
-    "keyword": "robot",
-    "score": 4.0
-  },
-  {
-    "model": "SelfDriving-VLA/laq-ad-backup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
-    "date": "2026-11-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "matteuscruz/vla-g1-hpc",
     "downloads": 0,
     "likes": 0,
@@ -167,7 +203,7 @@
     "likes": 0,
     "url": "https://huggingface.co/SamerAyyad/VLA_Samer_31.10.2026_450eps_XVLA_policy",
     "date": "2026-11-03",
-    "keyword": "policy",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -297,30 +333,12 @@
     "score": 0.1
   },
   {
-    "model": "OwenLi1/act_oranges_policy",
+    "model": "hitsz-robotics/FineCraft",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OwenLi1/act_oranges_policy",
+    "url": "https://huggingface.co/hitsz-robotics/FineCraft",
     "date": "2026-11-03",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "shibohuang/policy-weights",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/shibohuang/policy-weights",
-    "date": "2026-11-03",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Yewy/mahjong_surfaces_standard_mat_v1_v8_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yewy/mahjong_surfaces_standard_mat_v1_v8_policy",
-    "date": "2026-11-03",
-    "keyword": "policy",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
@@ -619,24 +637,6 @@
     "date": "2026-10-26",
     "keyword": "physical ai",
     "score": 0.1
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
-    "downloads": 63,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle-alpha0",
-    "date": "2026-10-26",
-    "keyword": "robotics",
-    "score": 19.0
-  },
-  {
-    "model": "DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
-    "downloads": 66,
-    "likes": 0,
-    "url": "https://huggingface.co/DAVIAN-Robotics/DiscoDemo-Stage3_SFT-FMB_SqCircle",
-    "date": "2026-10-26",
-    "keyword": "robotics",
-    "score": 19.9
   },
   {
     "model": "JahaoZhang/Bipartite-World-Modeling",
