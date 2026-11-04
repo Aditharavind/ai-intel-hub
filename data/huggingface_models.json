@@ -1,5 +1,23 @@
 [
   {
+    "model": "angeloantu/robot-arm-g1-weights",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/angeloantu/robot-arm-g1-weights",
+    "date": "2026-11-04",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "TylerRen66/lingbot-vla-v2-step16100-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TylerRen66/lingbot-vla-v2-step16100-robotwin",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "Akiki-AI/Akiki-MiniLM-L6-v2-robot-intent",
     "downloads": 0,
     "likes": 0,
@@ -90,6 +108,33 @@
     "score": 0.1
   },
   {
+    "model": "weepiess2383/NEO-VLA",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/weepiess2383/NEO-VLA",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "siliconperception/vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/siliconperception/vla",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "negi4650/vla-slmnegi",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/negi4650/vla-slmnegi",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "drwahl/vla_jepa_so101_block_stack_sim",
     "downloads": 0,
     "likes": 0,
@@ -108,6 +153,33 @@
     "score": 0.1
   },
   {
+    "model": "RoboColosseum/so101-lingbot-vla-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RoboColosseum/so101-lingbot-vla-v2",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "RoboColosseum/yam-lingbot-vla-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RoboColosseum/yam-lingbot-vla-v2",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "RoboColosseum/droid-lingbot-vla-v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RoboColosseum/droid-lingbot-vla-v2",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "frenzyfreeze/open-MomentMem-VLA-ID",
     "downloads": 0,
     "likes": 0,
@@ -117,21 +189,21 @@
     "score": 0.1
   },
   {
-    "model": "frenzyfreeze/open-RMBench-VLA",
+    "model": "RoboColosseum/droid-put-marker-pen-lingbot-vla-v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/frenzyfreeze/open-RMBench-VLA",
+    "url": "https://huggingface.co/RoboColosseum/droid-put-marker-pen-lingbot-vla-v2",
     "date": "2026-11-04",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "frenzyfreeze/open-MomentMem-VLA-OOD-scratch",
+    "model": "GOVINDFROM/surgical-world-model",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/frenzyfreeze/open-MomentMem-VLA-OOD-scratch",
+    "url": "https://huggingface.co/GOVINDFROM/surgical-world-model",
     "date": "2026-11-04",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -144,19 +216,10 @@
     "score": 162.1
   },
   {
-    "model": "GOVINDFROM/surgical-world-model",
+    "model": "gavinlaw/setground-question-policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/GOVINDFROM/surgical-world-model",
-    "date": "2026-11-04",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "Hharis/Stairs-Policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Hharis/Stairs-Policy",
+    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
     "date": "2026-11-04",
     "keyword": "policy",
     "score": 0.1
@@ -171,10 +234,28 @@
     "score": 0.1
   },
   {
-    "model": "gavinlaw/setground-question-policy",
+    "model": "joonyeongs/cosmos3-edge-policy-droid-robolab-full-ft-2k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/gavinlaw/setground-question-policy",
+    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-robolab-full-ft-2k",
+    "date": "2026-11-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "fabono/act_policy_open_more",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/fabono/act_policy_open_more",
+    "date": "2026-11-04",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Hharis/Stairs-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Hharis/Stairs-Policy",
     "date": "2026-11-04",
     "keyword": "policy",
     "score": 0.1
@@ -252,78 +333,6 @@
     "score": 7.3
   },
   {
-    "model": "Myungkyu/pi0_5_jax_robotwin_vanilla_b64_60k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Myungkyu/pi0_5_jax_robotwin_vanilla_b64_60k",
-    "date": "2026-11-03",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "prachigarg23/pi05_FAST_robotwin_post_training_ES",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/prachigarg23/pi05_FAST_robotwin_post_training_ES",
-    "date": "2026-11-03",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "matteuscruz/vla-g1-hpc",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/matteuscruz/vla-g1-hpc",
-    "date": "2026-11-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "raoulb091602/vla-skill-consolidation",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/raoulb091602/vla-skill-consolidation",
-    "date": "2026-11-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "jellerode/MomentMem-VLA-OOD-scratch",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jellerode/MomentMem-VLA-OOD-scratch",
-    "date": "2026-11-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "jellerode/RMBench-VLA",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jellerode/RMBench-VLA",
-    "date": "2026-11-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "jellerode/MomentMem-VLA-ID",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jellerode/MomentMem-VLA-ID",
-    "date": "2026-11-03",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "RobotLearningLab/Jocasta-diff-VLA",
-    "downloads": 0,
-    "likes": 11,
-    "url": "https://huggingface.co/RobotLearningLab/Jocasta-diff-VLA",
-    "date": "2026-11-03",
-    "keyword": "vla",
-    "score": 2.3
-  },
-  {
     "model": "mws-physical-ai/g1-arm-yolo26l-seg-v15-1",
     "downloads": 0,
     "likes": 0,
@@ -358,24 +367,6 @@
     "date": "2026-11-03",
     "keyword": "navigation",
     "score": 0.3
-  },
-  {
-    "model": "Gueso/tictactoe-v3-act-policy",
-    "downloads": 26,
-    "likes": 0,
-    "url": "https://huggingface.co/Gueso/tictactoe-v3-act-policy",
-    "date": "2026-11-03",
-    "keyword": "policy",
-    "score": 7.9
-  },
-  {
-    "model": "lerobot/Cosmos3-Edge-Policy-LIBERO_10",
-    "downloads": 74,
-    "likes": 1,
-    "url": "https://huggingface.co/lerobot/Cosmos3-Edge-Policy-LIBERO_10",
-    "date": "2026-11-03",
-    "keyword": "policy",
-    "score": 22.5
   },
   {
     "model": "hitsz-robotics/FineCraft",
