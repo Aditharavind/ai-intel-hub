@@ -1,110 +1,155 @@
 [
   {
-    "model": "angeloantu/robot-arm-g1-weights",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/angeloantu/robot-arm-g1-weights",
-    "date": "2026-11-04",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "TylerRen66/lingbot-vla-v2-step16100-robotwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/TylerRen66/lingbot-vla-v2-step16100-robotwin",
-    "date": "2026-11-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Akiki-AI/Akiki-MiniLM-L6-v2-robot-intent",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Akiki-AI/Akiki-MiniLM-L6-v2-robot-intent",
-    "date": "2026-11-04",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "HIT-Robotics/ur5e_molmoact2_pp_yellow",
+    "model": "gehaozhang/gam-robotwin",
     "downloads": 17,
-    "likes": 1,
-    "url": "https://huggingface.co/HIT-Robotics/ur5e_molmoact2_pp_yellow",
-    "date": "2026-11-04",
-    "keyword": "robotics",
-    "score": 5.4
-  },
-  {
-    "model": "LoongForge/Loongforge-pi05-RoboTwin",
-    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/LoongForge/Loongforge-pi05-RoboTwin",
-    "date": "2026-11-04",
+    "url": "https://huggingface.co/gehaozhang/gam-robotwin",
+    "date": "2026-11-05",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "sotah-ua1999/robotics-vision-language",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sotah-ua1999/robotics-vision-language",
-    "date": "2026-11-04",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "k1000dai/llm-robot-rl-one-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/k1000dai/llm-robot-rl-one-checkpoints",
-    "date": "2026-11-04",
-    "keyword": "robot",
-    "score": 0.1
+    "score": 5.2
   },
   {
     "model": "WCL-Robotics/muse-checkpoint",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/WCL-Robotics/muse-checkpoint",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "vernerobotics/v0.5-robotwin",
-    "downloads": 5,
-    "likes": 3,
-    "url": "https://huggingface.co/vernerobotics/v0.5-robotwin",
-    "date": "2026-11-04",
+    "model": "wjwjwjwj/gr00t-n1.7-robotwin-adjust_bottle-simcosmos-aug",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-adjust_bottle-simcosmos-aug",
+    "date": "2026-11-05",
     "keyword": "robot",
-    "score": 2.2
+    "score": 0.1
   },
   {
-    "model": "roboterax/Era0-5B-Preview-RoboDojo",
-    "downloads": 32,
+    "model": "wjwjwjwj/gr00t-n1.7-robotwin-shake_bottle-simcosmos-aug",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/roboterax/Era0-5B-Preview-RoboDojo",
-    "date": "2026-11-04",
+    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-shake_bottle-simcosmos-aug",
+    "date": "2026-11-05",
     "keyword": "robot",
-    "score": 9.7
+    "score": 0.1
   },
   {
-    "model": "china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
-    "downloads": 6,
+    "model": "wjwjwjwj/gr00t-n1.7-robotwin-pick_dual_bottles-simcosmos-aug",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
-    "date": "2026-11-04",
-    "keyword": "robotics",
-    "score": 1.9
+    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-pick_dual_bottles-simcosmos-aug",
+    "date": "2026-11-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wjwjwjwj/gr00t-n1.7-robotwin-move_can_pot-simcosmos-aug",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-move_can_pot-simcosmos-aug",
+    "date": "2026-11-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "wjwjwjwj/gr00t-n1.7-robotwin-rotate_qrcode-simcosmos-aug",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-rotate_qrcode-simcosmos-aug",
+    "date": "2026-11-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "roboticascent/graspgenx-so101",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/roboticascent/graspgenx-so101",
+    "date": "2026-11-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_802_groot_tuned_90k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_802_groot_tuned_90k",
+    "date": "2026-11-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task_802_groot_tuned_80k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task_802_groot_tuned_80k",
+    "date": "2026-11-05",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "LuEduSoHu/robot_learning_tutorial_300-planner-trajectories-2cam_1104_1706",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LuEduSoHu/robot_learning_tutorial_300-planner-trajectories-2cam_1104_1706",
+    "date": "2026-11-05",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "SelfDriving-VLA/laq-ad-backup",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "elysia111/zeno-run-pi05_mix_reinforcegen_plug_vla_v2_20261105_135113_vast",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/elysia111/zeno-run-pi05_mix_reinforcegen_plug_vla_v2_20261105_135113_vast",
+    "date": "2026-11-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "joonyeongs/cosmos3-edge-policy-droid-failure-prevention-full-ft-2k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-failure-prevention-full-ft-2k",
+    "date": "2026-11-05",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "SebRivGar/train_act_policy2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SebRivGar/train_act_policy2",
+    "date": "2026-11-05",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "joonyeongs/cosmos3-edge-policy-droid-failure-prevention-lora-r16-a32-2k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-failure-prevention-lora-r16-a32-2k",
+    "date": "2026-11-05",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "angeloantu/robot-arm-g1-weights",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/angeloantu/robot-arm-g1-weights",
+    "date": "2026-11-04",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -162,6 +207,15 @@
     "score": 0.1
   },
   {
+    "model": "TylerRen66/lingbot-vla-v2-step16100-robotwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/TylerRen66/lingbot-vla-v2-step16100-robotwin",
+    "date": "2026-11-04",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "drwahl/vla_jepa_so101_block_stack_sim",
     "downloads": 0,
     "likes": 0,
@@ -184,15 +238,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/RoboColosseum/so101-lingbot-vla-v2",
-    "date": "2026-11-04",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "RoboColosseum/yam-lingbot-vla-v2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RoboColosseum/yam-lingbot-vla-v2",
     "date": "2026-11-04",
     "keyword": "vla",
     "score": 0.1
@@ -306,40 +351,31 @@
     "score": 0.1
   },
   {
-    "model": "fabono/act_policy_open_more",
+    "model": "HIT-Robotics/ur5e_molmoact2_pp_yellow",
+    "downloads": 17,
+    "likes": 1,
+    "url": "https://huggingface.co/HIT-Robotics/ur5e_molmoact2_pp_yellow",
+    "date": "2026-11-04",
+    "keyword": "robotics",
+    "score": 5.4
+  },
+  {
+    "model": "sotah-ua1999/robotics-vision-language",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/fabono/act_policy_open_more",
+    "url": "https://huggingface.co/sotah-ua1999/robotics-vision-language",
     "date": "2026-11-04",
-    "keyword": "policy",
+    "keyword": "robotics",
     "score": 0.1
   },
   {
-    "model": "Hharis/Stairs-Policy",
-    "downloads": 0,
+    "model": "china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
+    "downloads": 6,
     "likes": 0,
-    "url": "https://huggingface.co/Hharis/Stairs-Policy",
+    "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
     "date": "2026-11-04",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "joonyeongs/cosmos3-edge-policy-droid-robolab-lora-r32-a64-2k",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-robolab-lora-r32-a64-2k",
-    "date": "2026-11-04",
-    "keyword": "policy",
-    "score": 0.7
-  },
-  {
-    "model": "RobotisSW/Task_802_groot_tuned_70k",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task_802_groot_tuned_70k",
-    "date": "2026-11-03",
-    "keyword": "robot",
-    "score": 7.3
+    "keyword": "robotics",
+    "score": 1.9
   },
   {
     "model": "mws-physical-ai/g1-arm-yolo26l-seg-v15-1",

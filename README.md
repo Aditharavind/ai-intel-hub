@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-04 23:58 UTC
+Last Updated: 2026-11-05 04:53 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -10,13 +10,13 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-04 | OpenAI to acquire Pierre Computer Company, Inc. | OpenAI | [link](https://openai.com/index/openai-to-acquire-pierre) |
 | 2026-11-04 | Daybreak Red is now available in AWS GovCloud (US-East) | OpenAI | [link](https://openai.com/index/daybreak-red-aws-govcloud) |
 | 2026-11-04 | A thousand fewer paths to root | OpenAI | [link](https://openai.com/index/a-thousand-fewer-paths-to-root) |
+| 2026-11-04 | Introducing Images 2.6 | OpenAI | [link](https://openai.com/index/introducing-images-2-6) |
 | 2026-11-04 | DevRev delivers autonomous self-service with GPT-6.1 Sol | OpenAI | [link](https://openai.com/index/devrev-enterprise-self-service) |
 | 2026-11-04 | Dharma Field Extractor: Any Document In, Structured Fields in JSON Out | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor) |
 | 2026-11-03 | Accelerating engineering for the physical world | OpenAI | [link](https://openai.com/index/accelerating-engineering-for-the-physical-world) |
 | 2026-11-03 | How Cisco defends at machine speed with OpenAI | OpenAI | [link](https://openai.com/index/cisco-cyber) |
 | 2026-11-03 | Heimstaden is changing residential real estate management with AI | OpenAI | [link](https://openai.com/index/heimstaden) |
 | 2026-11-03 | OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer | OpenAI | [link](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer) |
-| 2026-11-03 | StateBench: Testing how language models track state changes over long documents | Hugging Face | [link](https://huggingface.co/blog/allenai/statebench) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,62 +49,52 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-11-04 | It’s DOOM | Hackaday | [link](https://hackaday.com/2026/11/04/its-doom-on-a-toy-camera/) |
+| 2026-11-05 | The First Business Computer Hits 75! | Hackaday | [link](https://hackaday.com/2026/11/04/the-first-business-computer-hits-75/) |
+| 2026-11-05 | Beautiful Laser Harp Hides Some Neat Tricks | Hackaday | [link](https://hackaday.com/2026/11/04/beautiful-laser-harp-hides-some-neat-tricks/) |
+| 2026-11-05 | Altera Agilex 27 FPGA & SoC family features up to 17.6M logic elements, Cortex-A720/A-520 cores, 256 Gbps SerDes, PCIe 7.0 | CNX Software | [link](https://www.cnx-software.com/2026/11/05/altera-agilex-27-fpga-soc-family-features-up-to-17-6m-logic-elements-cortex-a720-a-520-cores-256-gbps-serdes-pcie-7-0/) |
+| 2026-11-05 | Apple’s harvest | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/) |
+| 2026-11-04 | It’s DOOM, on a Toy Camera | Hackaday | [link](https://hackaday.com/2026/11/04/its-doom-on-a-toy-camera/) |
 | 2026-11-04 | Making a Wax Motor for Micrometer-Level Control | Hackaday | [link](https://hackaday.com/2026/11/04/making-a-wax-motor-for-micrometer-level-control/) |
 | 2026-11-04 | From Germanium to Diamond: the Many Shapes of Semiconductors | Hackaday | [link](https://hackaday.com/2026/11/04/from-germanium-to-diamond-the-many-shapes-of-semiconductors/) |
 | 2026-11-04 | Using a Cheap DC Motor to Make a Go-Kart Go | Hackaday | [link](https://hackaday.com/2026/11/04/using-a-cheap-dc-motor-to-make-a-go-kart-go/) |
 | 2026-11-04 | Yesterday Has Never Looked This Good: Feast Your Eyes On The 2026 Retrocomputing Challenge Winners! | Hackaday | [link](https://hackaday.com/2026/11/04/yesterday-has-never-looked-this-good-feast-your-eyes-on-the-2026-retrocomputing-challenge-winners/) |
-| 2026-11-04 | A Ridiculous Journey to Set the Clock in a 2014 Renault | Hackaday | [link](https://hackaday.com/2026/11/04/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault/) |
-| 2026-11-04 | Reading Data from an Unwilling Blood Pressure Monitor | Hackaday | [link](https://hackaday.com/2026/11/04/reading-data-from-an-unwilling-blood-pressure-monitor/) |
 | 2026-11-04 | LattePanda Mu Ultra Review – An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04 | CNX Software | [link](https://www.cnx-software.com/2026/11/04/lattepanda-mu-ultra-review-an-intel-core-ultra-7-256v-ai-compute-module-tested-on-ubuntu-26-04/) |
-| 2026-11-04 | $21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more | CNX Software | [link](https://www.cnx-software.com/2026/11/04/21-esp32-p4x-and-esp32-c61-full-featured-board-offers-ethernet-wifi-6-rs485-can-bus-mipi-csi-dsi-and-more/) |
-| 2026-11-04 | ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4 | CNX Software | [link](https://www.cnx-software.com/2026/11/04/zotac-zbox-ci471-nano-fanless-mini-pc-features-intel-core-7-350-wifi-7-and-dual-thunderbolt-4/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-11-03 | DreamX: Video Diffusion Model is a Universal Latent Action Learner | [link](https://arxiv.org/pdf/2611.05377v1) |
-| 2026-11-03 | From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence | [link](https://arxiv.org/pdf/2611.05376v1) |
-| 2026-11-03 | PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning | [link](https://arxiv.org/pdf/2611.05372v1) |
-| 2026-11-03 | GUILD: Guided Iterative Data Collection for Imitation Learning | [link](https://arxiv.org/pdf/2611.05368v1) |
-| 2026-11-03 | Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments | [link](https://arxiv.org/pdf/2611.05361v1) |
-| 2026-11-03 | CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting | [link](https://arxiv.org/pdf/2611.05325v1) |
-| 2026-11-03 | PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data | [link](https://arxiv.org/pdf/2611.05320v1) |
-| 2026-11-03 | PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands | [link](https://arxiv.org/pdf/2611.05302v1) |
-| 2026-11-03 | GSBR: Geometric Support Behavior Regularization for Online RL | [link](https://arxiv.org/pdf/2611.05295v1) |
-| 2026-11-03 | Low-Density 3D Point Cloud Classification | [link](https://arxiv.org/pdf/2611.05291v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-11-04 | angeloantu/robot-arm-g1-weights | 0 | 0 | [link](https://huggingface.co/angeloantu/robot-arm-g1-weights) |
-| 2026-11-04 | TylerRen66/lingbot-vla-v2-step16100-robotwin | 0 | 0 | [link](https://huggingface.co/TylerRen66/lingbot-vla-v2-step16100-robotwin) |
-| 2026-11-04 | Akiki-AI/Akiki-MiniLM-L6-v2-robot-intent | 0 | 0 | [link](https://huggingface.co/Akiki-AI/Akiki-MiniLM-L6-v2-robot-intent) |
-| 2026-11-04 | HIT-Robotics/ur5e_molmoact2_pp_yellow | 17 | 1 | [link](https://huggingface.co/HIT-Robotics/ur5e_molmoact2_pp_yellow) |
-| 2026-11-04 | LoongForge/Loongforge-pi05-RoboTwin | 0 | 0 | [link](https://huggingface.co/LoongForge/Loongforge-pi05-RoboTwin) |
-| 2026-11-04 | sotah-ua1999/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/sotah-ua1999/robotics-vision-language) |
-| 2026-11-04 | k1000dai/llm-robot-rl-one-checkpoints | 0 | 0 | [link](https://huggingface.co/k1000dai/llm-robot-rl-one-checkpoints) |
-| 2026-11-04 | WCL-Robotics/muse-checkpoint | 0 | 0 | [link](https://huggingface.co/WCL-Robotics/muse-checkpoint) |
-| 2026-11-04 | vernerobotics/v0.5-robotwin | 5 | 3 | [link](https://huggingface.co/vernerobotics/v0.5-robotwin) |
-| 2026-11-04 | roboterax/Era0-5B-Preview-RoboDojo | 32 | 0 | [link](https://huggingface.co/roboterax/Era0-5B-Preview-RoboDojo) |
+| 2026-11-05 | gehaozhang/gam-robotwin | 17 | 0 | [link](https://huggingface.co/gehaozhang/gam-robotwin) |
+| 2026-11-05 | WCL-Robotics/muse-checkpoint | 0 | 0 | [link](https://huggingface.co/WCL-Robotics/muse-checkpoint) |
+| 2026-11-05 | wjwjwjwj/gr00t-n1.7-robotwin-adjust_bottle-simcosmos-aug | 0 | 0 | [link](https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-adjust_bottle-simcosmos-aug) |
+| 2026-11-05 | wjwjwjwj/gr00t-n1.7-robotwin-shake_bottle-simcosmos-aug | 0 | 0 | [link](https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-shake_bottle-simcosmos-aug) |
+| 2026-11-05 | wjwjwjwj/gr00t-n1.7-robotwin-pick_dual_bottles-simcosmos-aug | 0 | 0 | [link](https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-pick_dual_bottles-simcosmos-aug) |
+| 2026-11-05 | wjwjwjwj/gr00t-n1.7-robotwin-move_can_pot-simcosmos-aug | 0 | 0 | [link](https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-move_can_pot-simcosmos-aug) |
+| 2026-11-05 | wjwjwjwj/gr00t-n1.7-robotwin-rotate_qrcode-simcosmos-aug | 0 | 0 | [link](https://huggingface.co/wjwjwjwj/gr00t-n1.7-robotwin-rotate_qrcode-simcosmos-aug) |
+| 2026-11-05 | roboticascent/graspgenx-so101 | 0 | 0 | [link](https://huggingface.co/roboticascent/graspgenx-so101) |
+| 2026-11-05 | RobotisSW/Task_802_groot_tuned_90k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_tuned_90k) |
+| 2026-11-05 | RobotisSW/Task_802_groot_tuned_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task_802_groot_tuned_80k) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 29938 | Python | 11975.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3861 | Python | 1544.5 | [link](https://github.com/NVIDIA/skills) |
-| Source-Robotics/PAROL6-Desktop-robot-arm | 3436 | HTML | 1374.5 | [link](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) |
+| harvard-edge/cs249r_book | 29953 | Python | 11981.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 3866 | Python | 1546.5 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1546 | Rust | 618.5 | [link](https://github.com/copper-project/copper-rs) |
-| Edgenesis/shifu | 1436 | Go | 574.5 | [link](https://github.com/Edgenesis/shifu) |
-| mosaico-labs/mosaico | 1111 | Python | 444.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| robocurve/inspect-robots | 730 | Python | 292.1 | [link](https://github.com/robocurve/inspect-robots) |
 | autonomous-ai/lampOS | 548 | Python | 219.3 | [link](https://github.com/autonomous-ai/lampOS) |
-| Developer-Y/cs-video-courses | 84559 |  | 33823.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64066 | Python | 25626.5 | [link](https://github.com/commaai/openpilot) |
+| commaai/openpilot | 64069 | Python | 25627.7 | [link](https://github.com/commaai/openpilot) |
+| questdb/questdb | 17503 | Java | 7001.3 | [link](https://github.com/questdb/questdb) |
+| google-deepmind/mujoco | 16063 | C++ | 6425.3 | [link](https://github.com/google-deepmind/mujoco) |
+| datawhalechina/every-embodied | 4368 | Jupyter Notebook | 1747.3 | [link](https://github.com/datawhalechina/every-embodied) |
+| dora-rs/dora | 4070 | Rust | 1628.1 | [link](https://github.com/dora-rs/dora) |
+| baidu-baige/LoongForge | 808 | Python | 323.3 | [link](https://github.com/baidu-baige/LoongForge) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ08yMXV4WXVyS3d1aFdIMzdqOU1LRU9Fdmw0V2tYRDNEN29POTVCRnV3QXhxWHdrbnlYb0pRcElKdndOeXZEdmdkM1pKWUg5czY0T0dMRTM4RTFWemU0T2VvX3NQMTFVQUFYYnFkaWNzcHB2bEdWV3ZzVEdBSVU1a3NiYXFWdG1MQjZGR0tmLWVHUQ?oc=5) |
 | 2026-11-04 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SF9oOExuYkNkVFg0cjllSkxDR3ZhMlZQeGtLVTNBdFNhcTVfSjJENmhHck1zWHFUU2lGZ0NzWWpDanhuYk8yQk10ZnMtNS1pYVlr?oc=5) |
 | 2026-11-03 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVpIWHMzMENfT3MxUUlqOWFtOWM4Vi1rMXVFQlYwMk1PalA3M3ptQ1g2ak14a0xVRmFQSGVfLXlwSGEyaU5aQWUtWFROR092QXN6d3pVNll3MFlXX2oyUGt0b3lfWTAxQk9nc2VIRlFnc0dmeFctVHBhX0Jyc1FKNWxPcGFSekxiT0RyTjhXNS1hVDl6UzZ0a1ZHaVVQUDhjYkF0cFN6ekpYdlFQNVdmSjBra2xKeG1qTTlITk9QbTVKM1dqb3lBVVc3RVQtbjQ?oc=5) |
 | 2026-10-30 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnhHemUzTlhMVVlwNjh5dGMwam40UHJhdld0V2Z4cDZaYUg2SXR5NUwwbmRyU3RDNktlTzdvZVRVTEwxMnJiaVEtOW1HeGRiRUpGcVhEQWdDWjFWdEtZRVJHSU9xbGFWWml3YjBNMDJLbGtodklrd0xJOHVfZDFYdy1fMllDY2U4WTRPSzNFSEFObnd0cWp3ag?oc=5) |
@@ -114,21 +104,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHFoUUpIVlhhMUhGcHdKckhfVUI1bTZzT1c4MVBId3B2NUxyRzZvUGNQRmxGcTJuZDZGejZ3eWZhS1hRcVNEWW9CSlpPWVlqZXBlY0dVdkFqcWlzcDVadVFMQ3ZQUVZNUlJlbmtybjYtY2dxVEk2ZG0tODFqWm4td2o5X3lQQUplQl9QX2xja3pNVmdkclBoenpvelEyRUFLc2hzZ1BIUEtDZDN3SEpOaXdpdTU?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVY1T05oc256endQM0c4ZUVhSFNoWEZ5dTMyRWh0Mm1xeWpNZVNNR1VCWC1mTklOeXRmY09VU2pIZXlTQVlQNG5mVVhEazlIT1dub0tvVlZOeGZ1U1hKb1NQVlBhcHpYYnRuZHdmMDlUX2J2dERFU2V3OVNtQWNha2t5OGF2Tkl5dzZOYmFyQlhKOE9oa3ByVUJKQVlldFhINGc?oc=5) |
 | 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3J1M2tpblZnQ0IwMTdDUlVXN0NPdDVJWFUyb085X2ppZENVaXlCOVpIbU5ZRldmalF1NjJjVk1GNnJHZ0J1NTh4emlxekpIWS1Md3JObHJxX0UwRThsc2FHQ0NudVR4MXZkZl91Tm1yVUNLeGxQMnFYR0pOenZhcDl6SWtRWkk5S0x4ZTBnSWxmYUVWRE9KclMtWG12d2paYTd6M0R0dGI1R2swSy1WVDMwRnF2b3JwTGJJS1FR?oc=5) |
-| 2026-10-27 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1tb3RIc1dRb3E2Z3ZHV2R2ZzRpRGNBR0ljY0hCRk01cnFpMERTcFhGRDZOWkhwTzNoRjdidDJVWW1EOU9Ra2RBQUZDWkpXakJpZVEzR25Bamh1M0stRGxnTjhqbG9VQkNHaWlOQWdtM05IejY1RjRjb1pPbXdfWTNFSUQ?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-05 | Agility Robotics is taking humanoid robots public in a first for Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5) |
 | 2026-11-04 | UnternehmerTUM Accelerator, Microsoft, Infineon, and NVIDIA launch Physical AI growth lab for Europe's most promising startups - DQ | physical ai startup | [link](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcDNRNjlGaGw0dEZJRURzcTlxa2ZUclNyZVBqT1d5U0JhUlEwZmgxdUFNanlidXFBSHVMdzEtdFR2VGs0LTk2dXIxYzJHTXdVQ0lkNjRDTGxzLXlabmowTGRXVE1YdmNPUUlPVV9ZanRCVXphTktfQzlMS1ZuWFdMNjVyVVI5ZE9vcGltdHUtbFAxWG5KcTRKejZuZERuTGZwMW9YNkZDWjVJanlOWVZyX2xET0l5U2dmaU93dDhnekk0SDBfTFY1OXlic1hoR3d6cXMwOU1Obi1XRGU1Mi1JMEZvVEJ5MmJVREQzSTQ4alRuNzhOWUU0TW01SDc2QlXSAf8BQVVfeXFMT3AzUTY5RmhsNHRGSUVEc3E5cWtmVHJTcmVQak9XeVNCYVJRMGZoMXVBTWp5YnVxQUh1THcxLXRUdlRrNC05NnVyMWMyR013VUNJZDY0Q0xscy15Wm5qMExkV1RNWHZjT1FJT1VfWWp0QlV6YU5LX0M5TEtWblhXTDY1clVSOWRPb3BpbXR1LWxQMVhuSnE0Sno2bmREbkxmcDFvWDZGQ1o1SWp5TllWcl9sRE9JeVNnZmlPd3Q4Z3pJNEgwX0xWNTl5YnNYaEd3enFzMDlNTm4tV0RlNTItSTBGb1RCeTJiVUREM0k0OGpUbjc4TllFNE1tNUg3NkJV?oc=5) |
-| 2026-11-03 | Ondine Capital Announces First Close of Fund III to Drive AI and Semiconductor Innovation - vietnamnews.vn | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzhva1NCd1h3bEJYVHd0OGNCRzY1WjcyU1JROUpibEU5RS1BZkVYc2xCZmN1WTB6QzRQUUR3ck10RlUyVl95clNPaUlHRjFFb3Nlam8wNFh2ZERvSExOelpfTzZQNnlsaFkwTWJ4MUpYVTZnY0FaVHl3VzJRT2Y5MHI5Rkg0aFMzRTRpTFZSN0h3LVcxWjBmMlpQVDFoNjhIcXdMaDhwbWdxd0hnMnVsVlI1Y2RLeE43Zkw2dU93SUFTTVF0TzAxeHhKV1VxUUdqSU44MzNOUQ?oc=5) |
 | 2026-11-03 | Top Robotics And Embodied AI Startups In China To Watch In 2027 - TechRound | embodied ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWJQUzE0d3p6RHA5bU05REF5NHU1TlA1RVdGTWx3dVZoVFlPWWFiLWZQd2NiblJnVDFnUEhyTkFWQ2l1bUZmNFFadG5iaFJ5NS05aThfd3BDWVRPRFNtWXlVRzllMEZfUjNUXy1zUVJjd3BKUkNMUkd1aGJOMmFHT3hBcWtXOWc2a0pVeTNMWk9OSnBQcmRmZlRISmplUQ?oc=5) |
 | 2026-11-02 | CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanFqZWk4eUNJeDBuTWcwSEFnOHhSWjVVNVAtN2kzZXBtS3FUTlpNbVlHMjhBTVluTjh4MTFXLVhuRmZpdHduYXFWbHhxQndpVmdtdW51YXdMV3pwb05QOG1PMW5YQzRJV3BVaVFJa2xmNlI2Q04yeUVKTHJXNGd1VUt0SWRxbmY0UWJEVVVfbTFyNHhSYVEyc3VxdzBXNjNfb0xqNUEwdFlpYnJOTGFQc1NWS1FNRTgySzMzenplUl9tdktETEhIY9IBzgFBVV95cUxPeG9aQ0IwaklOejRNbDR1eVlqMExyRmdaOGFTUkdZRG5lWXRSY2RxSzRUcG4wMnVnSF8xNUhCN3llSktoemJlZi1FMHFid1oyZ2E4Tl9yUlpreWQtbm1VVDVBS0U0c01NdkstdGZPd1BnOXQ1Wi00TUpJakRUYVg1M1pMd1dhY0VzUDFhT2FRXzdHZkZaejFQMzhzWHl1a1pnaTQ4WEJ1MHE4UTB3ZGdOUkZKM2FjOVg5ODRzTXhVa0JSOVpHWlZKTzlJTkVCdw?oc=5) |
 | 2026-11-02 | Meta Develops Humanoid Robot Prototype 'Max' in Partnership with Chinese Startup Fourier - OODA Loop | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzByUUtQc3ZUSXlaRzg0MjEydkpIaVdMcmNvZDFTa1dJQzBMb2FiRkxRVHhKRTNYaGxUbWI2RmUtb2RfaEoyS3BWaTduX2hUMENCRGNDZUxNYTFQUG14NTRsNVJGd2JlbFV5enAzaDhnTks0RTI1RUp5V2FNZHhsMDh4QjZhNXQ2S2ltRDNDSDc3UGtYY2M0NDhReExEZ0xnNnFkeVpOMGtFMmVTV21BSlNYVXdHdVBnMjYyRklDU3F6dFFt?oc=5) |
 | 2026-11-02 | Zuckerberg Wants To Give AI A Body. Meet Meta's New Humanoid Robot - NDTV | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUW1yYWFUTkkyM1NxcHYtSmo5MkZodmgtYTNZbmJlV3dtTU9HRFoyX0ZLV0tfMG1BLW1zU1dvNG93ZUZDc0wtaWZucG5HU2NOMjVzR0RqMFh6bkh0NmhsX0cyYWVvRTRrQnVqWmJXVGxVS0hUQ09VS1VaZUx6YXFtTXlqRnkzc2hjQXBDcnI0R1hfS3U0SmJIZS0zeFhCWU5Gc3FOZ3BKU3JTYUxqSTE5VGNqSXowWFBnQWfSAcIBQVVfeXFMTmF6Z3hiR2VKRHh1S1NCMHRrM2gzbVJSQldITUJ3REdnemZqZ1R2QnFxWGs4MEtBSWY0T0JiSUFhUi1TZHoyelJWd1NicTVZNFNYeDBsWGl4SURJMTFZdF9CdUhPLV9ZU1A0cVRQMDNYTzBuQXdNSlhaTUFRWHF4Zzh4Q2c1ZWN4M0w0Y3NYMllyeDAyX25DbUJyVEJjMzdYNzNpQTFQREE0dEowbDkzOWhkaDVWbjBoNDI3aVdsNk9oQlE?oc=5) |
-| 2026-11-02 | Meta builds humanoid robot with Chinese startup Fourier: Report - The Hindu | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm9xbE93Wnc0cVFXMU9LR1BPSjdWZVE1OUZvM1pSdFdFWlp6UF9OZWIweGY0VGtXaHY5SE1mU1BVV0phS0JZeno4bzZCX3E3RDVEc1JtdlBRMHd4ZGs5cGoxRmt0VngxZm9keDlpaVB2dVpRQ3FXWGVoZUphSzRvbFFCeGs2QXRjZ3ZYYUJKVlIwUzdKRXN0WHB6blFZNENTMlZ2OFpLQ1d5enZON0lXY0l6MFRpMHNxbUFienB5VG1HR0pQNEHSAcwBQVVfeXFMTUdPZ210UU5pMXBZS0pzQWNCWnozcnBtTk9OTG1MbUoycmE1aTFmbTBjdzhmZ0R2b003U2FWcEFtRzRSUXdPemZTTVJzenRvdEdJVy02ckhiekhOSW9ua3c0WmlBTmxIMGxWRTQyaGlkbUp6U3h0M1E0WlV1ZDg5cXpPQ1plYklKcE5YWmY1ZVJRaHJXMm1ZaHF2RFRPb2Qxa0Frd1l3cEttTkl4YjVUOXFVRjhWVFJFMG9Ia1ZxS0p5a2RFcTl2N0RaRjR6?oc=5) |
 | 2026-11-01 | Why physical AI is the next lucrative frontier - The Robot Report | physical ai startup | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T29pWUJMM044YU9FMXY5WVJCSmpTaFlQS3N3akpjcS1MeWNIU0ZZNC1udnVUTl9WeHR1bFhIQnEwSjczLUFWZUZUZDBOTzZHVWZwVzRXTVZRdXdiRmVmcEJkTk1TM1hEa3l5QlFrS3YzYlNieUhxVTBMOA?oc=5) |
 | 2026-11-01 | Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores - Engadget | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDZZYUZMSEc3ZHpza09mMk1BM0FfVWY3TlhJOVNTSDNUcVJ0WVpRQ25tOWNmbU5ZdFU2WXZaaHU1YW56TXBFSTZwRklNYk9Edk5YRlVNaEhnVnlkT3JiZUFQY0VtVTd3YnQ1RzhYVzVHWnpaVEkwUlJoNHFFTEhsQkpyVnBObkEySVNSZGM2OG5OdWlvSUhzRC1uSXlFVUs1c3huN29Odm9YakdtVUppXw?oc=5) |
 | 2026-10-31 | Meta builds humanoid robot with Chinese startup Fourier, The Information says - Reuters | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5) |
+| 2026-10-31 | Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push - The Information | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
