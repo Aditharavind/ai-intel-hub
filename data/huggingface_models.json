@@ -1,5 +1,50 @@
 [
   {
+    "model": "DAGroup-PKU/HumanWAM-Goal-RoboTwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/DAGroup-PKU/HumanWAM-Goal-RoboTwin",
+    "date": "2026-11-06",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "DAGroup-PKU/HumanWAM-Vanilla-RoboTwin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/DAGroup-PKU/HumanWAM-Vanilla-RoboTwin",
+    "date": "2026-11-06",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-11-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SXY7/X-VLA-Piper-bottle",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SXY7/X-VLA-Piper-bottle",
+    "date": "2026-11-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "lukelu33/robomimic-diffusion-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/lukelu33/robomimic-diffusion-policy",
+    "date": "2026-11-06",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "SimpleJev/JevAny-Robotics-4B-LoRA",
     "downloads": 52,
     "likes": 0,
@@ -7,15 +52,6 @@
     "date": "2026-11-05",
     "keyword": "robotics",
     "score": 15.7
-  },
-  {
-    "model": "DAGroup-PKU/HumanWAM-Vanilla-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DAGroup-PKU/HumanWAM-Vanilla-RoboTwin",
-    "date": "2026-11-05",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "municipal-robotics/ribt",
@@ -40,15 +76,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/zzzyzh/ReOPD-RoboTwin-Warmup",
-    "date": "2026-11-05",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "DAGroup-PKU/HumanWAM-Goal-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/DAGroup-PKU/HumanWAM-Goal-RoboTwin",
     "date": "2026-11-05",
     "keyword": "robot",
     "score": 0.1
@@ -108,6 +135,15 @@
     "score": 7.3
   },
   {
+    "model": "elysia111/pi05_reinforcegen_plug_vla_v4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/elysia111/pi05_reinforcegen_plug_vla_v4",
+    "date": "2026-11-05",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "SelfDriving-VLA/laq-ad-backup",
     "downloads": 0,
     "likes": 0,
@@ -117,19 +153,10 @@
     "score": 0.1
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
+    "model": "SXY7/X-VLA-Piper-nesting_3dolls",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-11-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "elysia111/pi05_reinforcegen_plug_vla_v4",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/elysia111/pi05_reinforcegen_plug_vla_v4",
+    "url": "https://huggingface.co/SXY7/X-VLA-Piper-nesting_3dolls",
     "date": "2026-11-05",
     "keyword": "vla",
     "score": 0.1
@@ -171,24 +198,6 @@
     "score": 0.1
   },
   {
-    "model": "SXY7/X-VLA-Piper-bottle",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-bottle",
-    "date": "2026-11-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SXY7/X-VLA-Piper-nesting_3dolls",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-nesting_3dolls",
-    "date": "2026-11-05",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "weepiess2383/NEO-VLA",
     "downloads": 0,
     "likes": 2,
@@ -222,6 +231,15 @@
     "url": "https://huggingface.co/GOVINDFROM/surgical-world-model",
     "date": "2026-11-05",
     "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "ctrobinson/embodied-ai-review",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ctrobinson/embodied-ai-review",
+    "date": "2026-11-05",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -367,15 +385,6 @@
     "date": "2026-11-04",
     "keyword": "policy",
     "score": 44.1
-  },
-  {
-    "model": "lerobot/Cosmos3-Edge-Policy-LIBERO_10",
-    "downloads": 137,
-    "likes": 2,
-    "url": "https://huggingface.co/lerobot/Cosmos3-Edge-Policy-LIBERO_10",
-    "date": "2026-11-04",
-    "keyword": "policy",
-    "score": 41.6
   },
   {
     "model": "HIT-Robotics/ur5e_molmoact2_pp_yellow",
@@ -772,15 +781,6 @@
     "date": "2026-10-20",
     "keyword": "embodied",
     "score": 9.7
-  },
-  {
-    "model": "mradermacher/EmbodiedBrain-7B-GGUF",
-    "downloads": 245,
-    "likes": 1,
-    "url": "https://huggingface.co/mradermacher/EmbodiedBrain-7B-GGUF",
-    "date": "2026-10-19",
-    "keyword": "embodied",
-    "score": 73.8
   },
   {
     "model": "StrongUzumaki/rover-navigation-stack-yolov8n",
