@@ -1,5 +1,23 @@
 [
   {
+    "model": "snehak-umar26/robotics-vision-language-lab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/snehak-umar26/robotics-vision-language-lab",
+    "date": "2026-11-06",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "HIT-Robotics/dummy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HIT-Robotics/dummy",
+    "date": "2026-11-06",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
     "model": "EDWINSANTOSO/robotics-vision-language-notes",
     "downloads": 0,
     "likes": 0,
@@ -18,15 +36,6 @@
     "score": 17434.8
   },
   {
-    "model": "HIT-Robotics/dummy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/HIT-Robotics/dummy",
-    "date": "2026-11-06",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "Wenakamura/robotics-vision-language16",
     "downloads": 0,
     "likes": 0,
@@ -38,11 +47,11 @@
   {
     "model": "RobotLearningLab/Jocasta-diff-VLA",
     "downloads": 0,
-    "likes": 21,
+    "likes": 22,
     "url": "https://huggingface.co/RobotLearningLab/Jocasta-diff-VLA",
     "date": "2026-11-06",
     "keyword": "vla",
-    "score": 4.3
+    "score": 4.5
   },
   {
     "model": "limxdynamics/tron1-robot-description",
@@ -99,13 +108,13 @@
     "score": 4.9
   },
   {
-    "model": "RainyBot/SemWAM-RoboTwin-TwoStage-v1.30-Stage1-World15k",
-    "downloads": 12,
+    "model": "SXY7/X-VLA-Piper-pick_balls",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-TwoStage-v1.30-Stage1-World15k",
+    "url": "https://huggingface.co/SXY7/X-VLA-Piper-pick_balls",
     "date": "2026-11-06",
-    "keyword": "robot",
-    "score": 3.7
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "SelfDriving-VLA/laq-ad-backup",
@@ -117,10 +126,10 @@
     "score": 0.1
   },
   {
-    "model": "SXY7/X-VLA-Piper-pick_balls",
+    "model": "SXY7/X-VLA-Piper-food",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-pick_balls",
+    "url": "https://huggingface.co/SXY7/X-VLA-Piper-food",
     "date": "2026-11-06",
     "keyword": "vla",
     "score": 0.1
@@ -135,19 +144,10 @@
     "score": 0.3
   },
   {
-    "model": "SXY7/X-VLA-Piper-food",
+    "model": "siliconperception/vla",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-food",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SamerAyyad/VLA_Samer_04.11.2026_500eps_SmolVLA_last",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_04.11.2026_500eps_SmolVLA_last",
+    "url": "https://huggingface.co/siliconperception/vla",
     "date": "2026-11-06",
     "keyword": "vla",
     "score": 0.1
@@ -157,6 +157,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/matteuscruz/vla-g1-hpc",
+    "date": "2026-11-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_04.11.2026_500eps_SmolVLA_last",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_04.11.2026_500eps_SmolVLA_last",
     "date": "2026-11-06",
     "keyword": "vla",
     "score": 0.1
@@ -198,15 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "weepiess2383/NEO-VLA",
-    "downloads": 0,
-    "likes": 3,
-    "url": "https://huggingface.co/weepiess2383/NEO-VLA",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.7
-  },
-  {
     "model": "oggata/mesa-world-model-sharp",
     "downloads": 16,
     "likes": 0,
@@ -214,6 +214,15 @@
     "date": "2026-11-06",
     "keyword": "world model",
     "score": 4.9
+  },
+  {
+    "model": "Kkbo123/mc-policy-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Kkbo123/mc-policy-checkpoints",
+    "date": "2026-11-06",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "dontKnow23456/WAM-Policy",
@@ -351,15 +360,6 @@
     "score": 8.5
   },
   {
-    "model": "JJinJJin2/omx_act_policy",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/JJinJJin2/omx_act_policy",
-    "date": "2026-11-05",
-    "keyword": "policy",
-    "score": 6.4
-  },
-  {
     "model": "SimpleJev/JevAny-Robotics-4B-LoRA",
     "downloads": 77,
     "likes": 0,
@@ -421,15 +421,6 @@
     "date": "2026-11-04",
     "keyword": "robotics",
     "score": 6.7
-  },
-  {
-    "model": "china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/china-sae-robotics/gr00t_n16_arena_libero_all_suites_rel_rotvec",
-    "date": "2026-11-04",
-    "keyword": "robotics",
-    "score": 5.5
   },
   {
     "model": "mws-physical-ai/g1-arm-yolo26l-seg-v15-1",
