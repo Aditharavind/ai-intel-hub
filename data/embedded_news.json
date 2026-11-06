@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Goat Emoji Is 100% Valid Machine Code, and It Doesn’t Stop There",
+    "source": "Hackaday",
+    "date": "2026-11-06",
+    "url": "https://hackaday.com/2026/11/06/the-goat-emoji-is-100-valid-machine-code-and-it-doesnt-stop-there/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Did you know emojis can be executables? Well, they are if you treat them like Intel 8088 or 8086 machine code, anyway. [GloriousCow] shared this clever revelation, demonstrating that executable <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/the-goat-emoji-is-100-valid-machine-code-and-it-doesnt-stop-there/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Making Xibalba 64, a New N64 Release in 2026",
+    "source": "Hackaday",
+    "date": "2026-11-06",
+    "url": "https://hackaday.com/2026/11/06/making-xibalba-64-a-new-n64-release-in-2026/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"411\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Xibalba-64.png?w=730\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"730\" /></div>[Dominic Szablewski] created something that we don&#8217;t see every day: a no-kidding new physical Nintendo 64 game for sale, complete with cartridge, manual, and box art. He wrote about what <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/making-xibalba-64-a-new-n64-release-in-2026/\">&#8230;read more</a>"
+  },
+  {
     "title": "Translating An Old Display To A New One",
     "source": "Hackaday",
     "date": "2026-11-06",
@@ -12,6 +26,13 @@
     "date": "2026-11-06",
     "url": "https://hackaday.com/2026/11/05/reviving-google-cardboard-without-google-or-cardboard/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/CardboardXR-feat.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Remember Google Cardboard? The late, unlamented practice of strapping a phone to your face so you could get motion sickness in a virtual environment? [brenpoly] wants you to reconsider, because <a class=\"read-more\" href=\"https://hackaday.com/2026/11/05/reviving-google-cardboard-without-google-or-cardboard/\">&#8230;read more</a>"
+  },
+  {
+    "title": "520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU",
+    "source": "CNX Software",
+    "date": "2026-11-06",
+    "url": "https://www.cnx-software.com/2026/11/06/520-mhz-stm32h7p4-stm32h7p5-arm-cortex-m7-mcus-feature-hardware-signal-processor-hsp-optional-neural-art-npu/",
+    "summary": "<div><img alt=\"STM32H7P4 Cortex M7 MCU with Hardware Signal Processor (HSP)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/STM32H7P4-Cortex-M7-MCU-with-Hardware-Signal-Processor-HSP-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>STMicroelectronics has introduced the STM32H7P4 and STM32H7P5, two 520 MHz Arm Cortex-M7 MCUs part of STM32H7P family designed for digital power, motor control, industrial sensing, and edge AI applications. Both feature a Hardware Signal Processor (HSP) for accelerating mathematical and signal-processing operations, while the STM32H7P5 also includes an 85 GOPS Neural-ART NPU for Edge AI inference/TinyML. The MCUs feature up to 2MB dual-bank flash, 736KB SRAM, two high-resolution timers with up to 24 PWM outputs, three advanced motor-control timers, and four 12-bit ADCs. Other features include CORDIC and FMAC mathematical accelerators, three CAN FD interfaces, USB OTG Full-Speed, and support for external memory through Octo-SPI and FMC interfaces. STM32H7P4 and STM32H7P5 specifications: MCU Core 32-bit Arm Cortex-M7 CPU @ up to 520 MHz with double-precision FPU, DSP instructions, and MPU 32 KB instruction cache and 32 KB data cache Performance – 2773 CoreMark (5.33 CoreMark/MHz) Mathematical coprocessors Hardware Signal Processor [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/520-mhz-stm32h7p4-stm32h7p5-arm-cortex-m7-mcus-feature-hardware-signal-processor-hsp-optional-neural-art-npu/\">520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review – Part 1: Specifications, unboxing, teardown, and first boot",
@@ -33,6 +54,48 @@
     "date": "2026-11-06",
     "url": "https://www.cnx-software.com/2026/11/06/olimex-uext-ch390-spi-to-ethernet-module-targets-raspberry-pi-and-esp32-mcu-boards-running-esphome/",
     "summary": "<div><img alt=\"Olimex UEXT CH390 open source SPI UEXT module with Home Assistant support\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Olimex-UEXT-CH390-open-source-SPI-UEXT-module-with-Home-Assistant-support-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Olimex UEXT-CH390 is a small open-source hardware module that adds 10/100 Mbps wired Ethernet connectivity to microcontroller boards through an SPI interface. It is designed for Raspberry Pi Pico and Pico 2 boards, as well as ESP32-S3, C3, C5, C6, and other microcontrollers without built-in Ethernet connectivity. The module is based on the WCH CH390 Ethernet controller and features an RJ45 connector, a standard UEXT connector, and a smaller 1.0mm-pitch pUEXT connector. It measures 50 x 21 mm and is supported in the Arduino IDE and ESPHome firmware, making it suitable for wired IoT sensors, Home Assistant devices, and other applications where WiFi is unreliable or unwanted. Olimex UEXT-CH390 specifications: Ethernet controller – WCH CH390 with integrated 10/100 Mbps Ethernet MAC and PHY 10BASE-T and 100BASE-TX Ethernet with auto-negotiation Auto-MDIX support for automatic cable detection Built-in 16KB SRAM for packet buffering Factory-programmed MAC address, eliminating the need for an external [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/olimex-uext-ch390-spi-to-ethernet-module-targets-raspberry-pi-and-esp32-mcu-boards-running-esphome/\">Olimex UEXT-CH390 SPI to Ethernet module targets Raspberry Pi and ESP32 MCU boards running ESPHome</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+    "summary": "<p>What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/\">What caught your eye? AI bust, Qualcomm MMIOs, RF emitters</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Partying like it’s 1999 with the hangover in 2001",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+    "summary": "<p>Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/\">Partying like it’s 1999 with the hangover in 2001</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+    "summary": "<p>Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/\">Emerson NI PXIe instruments for AI-accelerated automated testing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+    "summary": "<p>Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe&#8217;s IRIS² satellites. Specifically it will begin work on MDA AURORA [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/\">MDA Space to provide digital antenna subsystems for IRIS² satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/",
+    "summary": "<p>Looking at the news stories written within the last week, the most popular articles on the site cover Greece unveiling its semiconductor strategy, ASML links exec pay to employee morale, and Toyota and Waymo planning to launch robotaxis in Japan.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/\">Most Read &#8211; ASML exec pay, Toyota robotaxis, In-car computing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "What to look out for at electronica 2026",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/products/what-to-look-out-for-at-electronica-2026-2026-11/",
+    "summary": "<p>At next week&#8217;s electronica 2026 in Munich (10-13 November) attendees will  focus on key industries that are at the forefront of technology advances, writes Anthony Coia. Don’t miss the Electronics Weekly [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/what-to-look-out-for-at-electronica-2026-2026-11/\">What to look out for at electronica 2026</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "MS turns down option on Nscale’s Texas datacentre",
@@ -63,18 +126,67 @@
     "summary": "<p>The European Fabless Semiconductor Association was formally launched yesterday in Brussels. It is the first pan-European body for companies that design semiconductor chips without owning a fab. The European Fabless [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/european-fabless-semiconductor-association-founded-2026-11/\">European Fabless Semiconductor Association founded</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Q3 DRAM revenue up 369% YoY",
-    "source": "Electronics Weekly",
+    "title": "There are now 600 CircuitPython Libraries!  #CircuitPython",
+    "source": "Adafruit",
     "date": "2026-11-06",
-    "url": "https://www.electronicsweekly.com/news/business/q3-dram-revenue-up-369-yoy-2026-11/",
-    "summary": "<p>Q3 saw DRAM revenue grow 369%YoY, says Counterpoint Research. Samsung led the market with a 38% market share. SK hynix had stronger Q3,growth &#8211; over 40% &#8211; for a 29% [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/q3-dram-revenue-up-369-yoy-2026-11/\">Q3 DRAM revenue up 369% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/11/06/there-are-now-600-circuitpython-libraries-circuitpython/",
+    "summary": "The CircuitPython community reached a big milestone together today! There are 600 CircuitPython Libraries! The CircuitPython Library Bundle and Community Library Bundle contain all the current libraries available for CircuitPython. CircuitPython libraries are separate files designed to work with CircuitPython code. CircuitPython programs require a lot of information to run. CircuitPython is so simple to [&#8230;]"
   },
   {
-    "title": "Historic rivalry could be upended this quarter",
-    "source": "Electronics Weekly",
+    "title": "Get Ready to Welcome Seasonal Guests with Help from the Adafruit Learning System",
+    "source": "Adafruit",
     "date": "2026-11-06",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/historic-rivalry-could-be-upended-this-quarter-2026-11/",
-    "summary": "<p>Q4 could be an historic quarter for the semiconductor industry in respect of one of the most intense rivalries the industry has ever seen. Although AMD founder Jerry Sanders had [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/historic-rivalry-could-be-upended-this-quarter-2026-11/\">Historic rivalry could be upended this quarter</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/11/06/get-ready-to-welcome-seasonal-guests-with-help-from-the-adafruit-learning-system/",
+    "summary": "Add personal touches to the holiday season with help from the Adafruit Learning System! Chilled Drinkibot Make a nice, cold beverage using thermoelectric cooling! CircuitPython BLE Multi-Temperature Monitoring Monitor your cooking temperatures over Bluetooth Adafruit MagTag Kitchen Timer Build a handy kitchen timer with the Adafruit MagTag Thanksgiving Robotic Turkey Hand with Circuit Playground Express [&#8230;]"
+  },
+  {
+    "title": "NEW PRODUCT – Adafruit RV-8803 High Accuracy Real Time Clock Breakout Board – STEMMA QT / Qwiic",
+    "source": "Adafruit",
+    "date": "2026-11-06",
+    "url": "https://blog.adafruit.com/2026/11/06/new-product-adafruit-rv-8803-high-accuracy-real-time-clock-breakout-board-stemma-qt-qwiic/",
+    "summary": "NEW PRODUCT &#8211; Adafruit RV-8803 High Accuracy Real Time Clock Breakout Board &#8211; STEMMA QT / Qwiic __________________________________________________________________________________________________ For excellent accuracy time-keeping &#8211; when your everyday RTC (Real Time Clock) won&#8217;t do &#8211; the Adafruit RV-8803 Precision Real Time Clock Breakout Board is a tick-tock above the rest with excellent ±1.5 ppm (at 0~50°C) accuracy. Thanks to the [&#8230;]"
+  },
+  {
+    "title": "Boosting 3V to 1800V without chips",
+    "source": "Adafruit",
+    "date": "2026-11-06",
+    "url": "https://blog.adafruit.com/2026/11/06/boosting-3v-to-1800v-without-chips/",
+    "summary": "electroniclovers has posted a breakdown on Hackster.io of how an electric fly swatter turns two AA batteries into an 1,800V zap, without a microcontroller or a driver chip. The first stage is a self-oscillating transistor circuit. A transformer has three windings: an 8-turn primary, a 1,200-turn secondary, and a feedback winding. Current through the primary [&#8230;]"
+  },
+  {
+    "title": "Man builds robotic cat feeder that senses when dish is empty #PiDay @Raspberry_Pi",
+    "source": "Adafruit",
+    "date": "2026-11-06",
+    "url": "https://blog.adafruit.com/2026/11/06/man-builds-robotic-cat-feeder-that-senses-when-dish-is-empty-piday-raspberry_pi/",
+    "summary": "Andrew Paul writing for Popular Science covers a cat feeder built by Jason Winfield, a YouTuber in New Zealand who travels often. Most store-bought feeders dump a premeasured scoop on a timer. Winfield wanted one that also knows whether the food got eaten. The build runs on a Raspberry Pi Pico with WiFi, plus a [&#8230;]"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-11-06",
+    "url": "https://blog.adafruit.com/2026/11/06/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-6-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
+    "title": "Native American Heritage Month at NYPL",
+    "source": "Adafruit",
+    "date": "2026-11-06",
+    "url": "https://blog.adafruit.com/2026/11/06/native-american-heritage-month-at-nypl/",
+    "summary": "image via NYPL The New York Public Library is celebrating Native American Heritage Month throughout November with events, reading recommendations, research resources, and more. Check it out and participate!"
+  },
+  {
+    "title": "The Raspberry Pi cinema camera",
+    "source": "Adafruit",
+    "date": "2026-11-06",
+    "url": "https://blog.adafruit.com/2026/11/06/the-raspberry-pi-cinema-camera/",
+    "summary": "Raspberry Pi Official Magazine covered a modular cinema camera built on Raspberry Pi hardware, inspired by the CinePi project. The body comes as either a 3D print or aluminium, so you can build the version that fits your budget. It records HD, FHD, 4K and open gate, which keeps the field of view instead of [&#8230;]"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-11-06",
+    "url": "https://blog.adafruit.com/2026/11/06/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-7-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
     "title": "Print-in-Place Egg Slicer – Zero Supports, Zero Rafts #3DThursday #3DPrinting",
@@ -82,6 +194,13 @@
     "date": "2026-11-06",
     "url": "https://blog.adafruit.com/2026/11/05/print-in-place-egg-slicer-zero-supports-zero-rafts-3dthursday-3dprinting/",
     "summary": "Shared by RS_666 on Maker World: A print-in-place egg slicer — cuts egg into slices. No rafts, no supports. 0.2mm layer, 4 walls, 50% infill. ~1.9h, 1 plate. 4.7★ from 45 ratings. CC BY-NC-SA 4.0. Alt kitchen helper — not scheduled in main this week to avoid double-up with the Egg Carrier (9AM), but a [&#8230;]"
+  },
+  {
+    "title": "Building Better Hardware Together: How Hackster.io Fosters Community-Driven Innovation",
+    "source": "EE Journal",
+    "date": "2026-11-06",
+    "url": "https://www.eejournal.com/fish_fry/building-better-hardware-together-how-hackster-io-fosters-community-driven-innovation/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"200\" src=\"https://www.eejournal.com/wp-content/uploads/2026/11/iStock-1357830750-300x200.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />This week I’m thrilled to welcome back one of my absolute favorite guests: Dianne Kibbey, Senior Director of Community Strategy and Hackster.io at Avnet! Dianne and I explore why human developer communities are more critical today than ever before. We chat about how engineers can harness community-driven insights to tackle hardware design problems, draw lessons [&#8230;]"
   },
   {
     "title": "Stunning Volumetric 3D Display Goes For a Spin",
@@ -103,20 +222,6 @@
     "date": "2026-11-05",
     "url": "https://hackaday.com/2026/11/05/folding-wings-could-be-the-future-for-air-travel/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/10/777X_Roll-Out_FoldingWingtip.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Folding wings have a long history in aviation. Particularly in the military world, where the ability to fit more fighting planes on a boat made a very real difference to <a class=\"read-more\" href=\"https://hackaday.com/2026/11/05/folding-wings-could-be-the-future-for-air-travel/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Pitting a Modern Chess Engine on a Pentium PC Against 1996’s Deep Blue",
-    "source": "Hackaday",
-    "date": "2026-11-05",
-    "url": "https://hackaday.com/2026/11/05/pitting-a-modern-chess-engine-on-a-pentium-pc-against-1996s-deep-blue/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/chess-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although premature optimization can be a really bad thing, late optimization is sometimes unavoidable because we simply didn&#8217;t know about certain algorithms yet to massively improve the solving of a <a class=\"read-more\" href=\"https://hackaday.com/2026/11/05/pitting-a-modern-chess-engine-on-a-pentium-pc-against-1996s-deep-blue/\">&#8230;read more</a>"
-  },
-  {
-    "title": "I Think We Should See Other SBCs",
-    "source": "Hackaday",
-    "date": "2026-11-05",
-    "url": "https://hackaday.com/2026/11/05/i-think-we-should-see-other-sbcs/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/10/SBC.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Are you currently designing a project for a common single-board computer (SBC), and do you expect other people to build your project, too? We routinely feature projects that do exactly <a class=\"read-more\" href=\"https://hackaday.com/2026/11/05/i-think-we-should-see-other-sbcs/\">&#8230;read more</a>"
   },
   {
     "title": "NXP MCX W70 and KW43 wireless MCUs support Bluetooth Channel Sounding for IoT and automotive applications",
@@ -154,34 +259,6 @@
     "summary": "<p>Seco S.p.A. and Peridio have announced a collaboration to make Avocado OS, Peridio's production-ready Linux distribution, available across Seco's portfolio of systems based on Qualcomm Dragonwing platforms. The partnership targets robotics and physical AI applications, providing developers with a commercially supported operating system validated on Seco hardware and intended to simplify the transition from prototype [...]</p>\n<p>The post <a href=\"https://www.embedded.com/seco-peridio-simplify-robotics-deployment-with-avocado-os/\">Seco, Peridio Simplify Robotics Deployment with Avocado OS</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Converge Space Challenge boosts Scottish space sector",
-    "source": "Electronics Weekly",
-    "date": "2026-11-05",
-    "url": "https://www.electronicsweekly.com/news/business/converge-space-challenge-boosts-scottish-space-sector-2026-11/",
-    "summary": "<p>Pleiades Dynamics, an Edinburgh start-up, has won the Converge Space Challenge &#8211; building a rocket engine from off the shelf parts to dramatically cut the cost of launching into space. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/converge-space-challenge-boosts-scottish-space-sector-2026-11/\">Converge Space Challenge boosts Scottish space sector</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Fable: RIP",
-    "source": "Electronics Weekly",
-    "date": "2026-11-05",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-rip-2026-11/",
-    "summary": "<p>The final stop for a genius on whose shoulders Einstein said he stood. Moral: Genius does not need a monument</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-rip-2026-11/\">Fable: RIP</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Electronica: Synov-Proto launches as online PCB prototyping service",
-    "source": "Electronics Weekly",
-    "date": "2026-11-05",
-    "url": "https://www.electronicsweekly.com/news/business/manufacturing/electronica-synov-proto-launches-as-online-pcb-prototyping-service-2026-11/",
-    "summary": "<p>Synov Group will be introducing Synov-Proto, its online PCB rapid prototyping service, at electronica in Munich ahead of its launch on 1 December 2026. Aimed at design offices, manufacturers and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/manufacturing/electronica-synov-proto-launches-as-online-pcb-prototyping-service-2026-11/\">Electronica: Synov-Proto launches as online PCB prototyping service</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Talking vehicles",
-    "source": "Electronics Weekly",
-    "date": "2026-11-05",
-    "url": "https://www.electronicsweekly.com/news/business/talking-vehicles-2026-11/",
-    "summary": "<p>Automotive vehicle-to-everything is the bridge between today’s traffic challenges and tomorrow’s seamless mobility, writes Payam Pajoohi. The National Highway Traffic Safety Administration estimates that vehicle-to-vehicle (V2V) alone could cut crashes [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/talking-vehicles-2026-11/\">Talking vehicles</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Modular Desktop Tool Organizer – Adjustable Angle, Swappable Inserts #3DThursday #3DPrinting",
     "source": "Adafruit",
     "date": "2026-11-05",
@@ -194,69 +271,6 @@
     "date": "2026-11-05",
     "url": "https://blog.adafruit.com/2026/11/05/turkey-placecard-holder-thanksgiving-table-3dthursday-3dprinting/",
     "summary": "Remixed by KNDesigns3D on Maker World: A placecard holder adapted from All Things STL&#8217;s turkey model — paint options limited only by creativity. 0.2mm layer, 2 walls, 10% infill. Two print files: 14h and 11.5h, each 1 plate. Designer suggests cloning the model in the print profile to print several at once (saves filament + [&#8230;]"
-  },
-  {
-    "title": "Snowman Advent Calendar – 24 Compartments with Snap-In Pins #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/snowman-advent-calendar-24-compartments-with-snap-in-pins-3dthursday-3dprinting/",
-    "summary": "3Degrees shares: An Advent Calendar in a snowman shape — count down to Christmas. Compartments sized for candies (chocobon, celebries, other chocolates). For colors, compartments are printed face down. Pins snap in compartments (you should hear a little crack with PLA). Starting the ramp on this one now — makers who begin printing Nov 5 [&#8230;]"
-  },
-  {
-    "title": "NEW LEARN GUIDE: SDR Map Projects: ADS-B, APRS, and FT8 #GPS #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/new-learn-guide-sdr-map-projects-ads-b-aprs-and-ft8-gps-adafruitlearningsystem-adafruit/",
-    "summary": "CircuitPython support for USB SDR devices unlocks the potential for receiving and decoding many interesting signals. This guide demonstrates the new Adafruit_CircuitPython_MapTiles library by plotting data from 3 of those signals on a live map. ADS-B ADS-B, or Automatic Dependent Surveillance-Broadcast, is a signal that aircraft transmit in order to share their location with ground [&#8230;]"
-  },
-  {
-    "title": "John Park’s Workshop — LIVE TODAY 11/5/26",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/john-parks-workshop-live-today-11-5-26-2/",
-    "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects CircuitPython Parsec Learn Guides Gear Report Tool Tips CAD: Adafruit Circuit Designer Retro Gear Coupon Code and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) [&#8230;]"
-  },
-  {
-    "title": "BLE noise on a specific ADC with an nRF54L15",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/ble-noise-on-a-specific-adc-with-an-nrf54l15/",
-    "summary": "Sašo Domadenik has been tracking down an odd analog problem on the Seeed Studio forum: the ADC on the XIAO nRF54L15 picks up spikes whenever Bluetooth Low Energy is active. Sampling at 14-bit resolution with 128x oversampling, the readings jump by up to 10 LSB with the gain set to 2x. With BLE off, the [&#8230;]"
-  },
-  {
-    "title": "Christmas Light Bulb LED Tea Light / Ornament – 5.5-Inch Classic Bulb Shape #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/christmas-light-bulb-led-tea-light-ornament-5-5-inch-classic-bulb-shape-3dthursday-3dprinting/",
-    "summary": "makermatt3D shares: A scaled-up classic holiday bulb that works as decorative LED tea light, ~5.5 inches tall. Can sit on a mantel, shelf, or table, or hang on a tree. Bulb + base screw together; small and large hanging hooks included. Holder fits standard tea lights 36-37.5mm diameter. Works with Maker&#8217;s Supply tea lights. USE [&#8230;]"
-  },
-  {
-    "title": "Shipping Alert: Diwali Observed – Monday, November 9",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/shipping-alert-diwali-observed-monday-november-9/",
-    "summary": "&#160; Sunday, November 8, 2026 is Diwali. This will be observed on Monday, November 9 This is an official holiday for the Adafruit team. Orders will still be shipping but there may be delays. Please note: Double holiday week may increase the chance of delays. Please plan accordingly. Learn more about shipping and holidays!"
-  },
-  {
-    "title": "Pumpkin Cookie Cutter – Simple Thanksgiving/Autumn Baking #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/pumpkin-cookie-cutter-simple-thanksgiving-autumn-baking-3dthursday-3dprinting/",
-    "summary": "A simple pumpkin cookie cutter — Thanksgiving baking essential. PLA at 60% scale, 0.2mm nozzle, 0.1mm layer. ~36 min, 1 plate, ~3g PLA. Opens in Bambu Studio. CC BY-NC-SA 4.0. Fast print, scalable, and the start of a cookie-cutter sub-category for the Thanksgiving/Christmas baking season. By Best_Codes Every Thursday is #3dthursday here at Adafruit! The [&#8230;]"
-  },
-  {
-    "title": "Stitch Different: LED-Illuminated Embroidery with nOOds #Adafruit Products #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/stitch-different-led-illuminated-embroidery-with-noods-adafruit-products-adafruitlearningsystem-adafruit/",
-    "summary": "Give a classic piece of computer history a glowing upgrade! This project from Erin St Blaine combines the colorful nostalgia of Apple&#8217;s rainbow logo with machine embroidery and Adafruit LED nOOds. Learn how to create custom embroidery designs, add flexible LED filaments, and bring your stitched artwork to life. From the guide: Bring a little [&#8230;]"
-  },
-  {
-    "title": "JetKVM Mini delivers remote system access for just $39",
-    "source": "Adafruit",
-    "date": "2026-11-05",
-    "url": "https://blog.adafruit.com/2026/11/05/jetkvm-mini-delivers-remote-system-access-for-just-39/",
-    "summary": "Julian Horsey at Geeky Gadgets writes about the JetKVM Mini, a small KVM (keyboard, video and mouse) device that gives remote control of a computer over the network, including when a computer is powered off. The JetKVM Mini sells for $39 and the JetKVM Mini WiFi for $42. Both run on an ESP32 microcontroller and [&#8230;]"
   },
   {
     "title": "STMicroelectronics’ STM32H7P MCUs embed digital signal processing, edge-AI, and real-time control for demanding industrial applications",
@@ -369,20 +383,6 @@
     "date": "2026-11-04",
     "url": "https://www.eejournal.com/industry_news/stackpole-hcc-busbar-shunts-enable-precise-high-current-monitoring-for-xev-power-management/",
     "summary": "As electric and hybrid vehicles evolve toward higher power levels and more efficient electrical architectures, accurate current monitoring is essential for optimizing power management, protecting critical systems, and maintaining reliable operation. Stackpole Electronics&#8217; HCC high-current busbar shunt resistors provide a robust, low-resistance solution for current sensing in demanding xEV power systems. The HCC series is [&#8230;]"
-  },
-  {
-    "title": "From Months to Days, and Days to Hours: AI Comes to FPGA Design",
-    "source": "EE Journal",
-    "date": "2026-11-04",
-    "url": "https://www.eejournal.com/article/from-months-to-days-and-days-to-hours-ai-comes-to-fpga-design/",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"150\" src=\"https://www.eejournal.com/wp-content/uploads/2026/11/max-0532-image-for-home-page-lattice-prompt-300x150.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />It seems like every day I’m delighted and enthralled by some new use of AI that makes me exclaim, “No! What? Wow!” For example, I was recently introduced to the world’s first AI electric screwdriver. The full title of this Kickstarter project is The World’s First AI Electric Screwdriver with Eyes and a Brain. At [&#8230;]"
-  },
-  {
-    "title": "Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices",
-    "source": "CNX Software",
-    "date": "2026-11-03",
-    "url": "https://www.cnx-software.com/2026/11/03/nordic-semi-nrf71-wireless-chips-to-deliver-20-times-lower-standby-power-for-battery-operated-wifi-devices/",
-    "summary": "<div><img alt=\"Nordic Semi nRF71 nRF7120 nRF7120E\" class=\"attachment-medium size-medium wp-post-image\" height=\"390\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Nordic-Semi-nRF71-nRF7120-nRF7120E-720x390.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Nordic Semi has just announced the nRF71 Series of ultra-low-power SoCs with ultra-low-power Wi-Fi 6, Bluetooth Low Energy (LE), and Thread connectivity, as well as an Axon NPU for edge AI workloads. The company claims the new chips, starting with the dual-band nRF7120 and tri-band nRF7120E, deliver up to 20 times lower standby power usage than current-generation nRF70 Series Wi-Fi products. This should allow nRF71 devices to run for years on battery, whether they use BLE, Thread, or Wi-Fi, for Smart Home, wearables, and industrial IoT applications. Nordic Semi nRF7120/nRF7120E specifications: MCU cores Arm Cortex-M33 @ up to 256 MHz RISC-V coprocessor @ up to 256 MHz with support for SoftPeripherals (CAN 2.0B, SDIO) Memory &#8211; 1 MB on-chip, user-accessible low-leakage RAM Storage &#8211; 4 MB on-chip NVM AI accelerator &#8211; Axon NPU (nRF7120E only) Wireless Wi-Fi Wi-Fi 6 (802.11ax), backward compatible with 802.11a/b/g/n/ac nRF7120 &#8211; Dual-band Wi-Fi 6 at [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/03/nordic-semi-nrf71-wireless-chips-to-deliver-20-times-lower-standby-power-for-battery-operated-wifi-devices/\">Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Nordic Launches nRF71 SoCs for Low-Power Wi-Fi and Edge AI",
