@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-07 14:25 UTC
+Generated: 2026-11-07 19:05 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-11-07 14:25 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84645 | 33858.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64082 | 25632.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 84647 | 33858.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64084 | 25633.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44770 | 17908.1 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30872 | 12348.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30005 | 12002.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30010 | 12004.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | pollen-robotics/microduck-policies | 59905 | 17982.0 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
 | zxyty/physicalai-dinov3-vitl16 | 4721 | 1416.4 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
+| vladimir94/dory-1.0-4b-ane-coreml | 2303 | 691.0 | [link](https://huggingface.co/vladimir94/dory-1.0-4b-ane-coreml) |
 | EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 1388 | 416.5 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
 | EPFL-LARA/lean-world-model-qwen3-8b-grpo | 1315 | 394.6 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo) |
-| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 1287 | 386.2 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |

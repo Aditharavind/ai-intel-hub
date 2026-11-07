@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-07 14:25 UTC
+Last Updated: 2026-11-07 19:05 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-07 | Supercon 2026: Streaming Live | Hackaday | [link](https://hackaday.com/2026/11/07/supercon-2026-streaming-live/) |
+| 2026-11-07 | Repairing a Polaroid 630 SL Lightmixer Instant Camera | Hackaday | [link](https://hackaday.com/2026/11/07/repairing-a-polaroid-630-sl-lightmixer-instant-camera/) |
+| 2026-11-07 | Active Antenna Runs on a Single Lithium-Ion Cell | Hackaday | [link](https://hackaday.com/2026/11/07/active-antenna-runs-on-a-single-lithium-ion-cell/) |
 | 2026-11-07 | The Hidden Microcontroller Inside a LoRa chip | Hackaday | [link](https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/) |
 | 2026-11-07 | A Bike-Friendly, DIY Action Cam Stereo Microphone | Hackaday | [link](https://hackaday.com/2026/11/07/a-bike-friendly-diy-action-cam-stereo-microphone/) |
 | 2026-11-07 | Automate That Halloween Treating | Hackaday | [link](https://hackaday.com/2026/11/06/automate-that-halloween-treating/) |
 | 2026-11-07 | DIY Rooftop Tent Sets Up In a Jiffy | Hackaday | [link](https://hackaday.com/2026/11/06/diy-rooftop-tent-sets-up-in-a-jiffy/) |
-| 2026-11-07 | It’s Alpine Linux, On A Kindle Paperwhite 3 | Hackaday | [link](https://hackaday.com/2026/11/06/its-alpine-linux-on-a-kindle-paperwhite-3/) |
 | 2026-11-07 | Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash | CNX Software | [link](https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/) |
-| 2026-11-06 | MousePods Reverse Engineers Head Tracking Data From Stubborn AirPods | Hackaday | [link](https://hackaday.com/2026/11/06/mousepods-reverse-engineers-head-tracking-data-from-stubborn-airpods/) |
-| 2026-11-06 | Using Halftone Images in QR codes Without Upsetting Scanners | Hackaday | [link](https://hackaday.com/2026/11/06/using-halftone-images-in-qr-codes-without-upsetting-scanners/) |
-| 2026-11-06 | 520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU | CNX Software | [link](https://www.cnx-software.com/2026/11/06/520-mhz-stm32h7p4-stm32h7p5-arm-cortex-m7-mcus-feature-hardware-signal-processor-hsp-optional-neural-art-npu/) |
-| 2026-11-06 | GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review – Part 1: Specifications, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/11/06/geekom-a5-2027-edition-amd-ryzen-7-7730u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/) |
+| 2026-11-07 | What is STEMMA QT? | Adafruit | [link](https://blog.adafruit.com/2026/11/07/what-is-stemma-qt/) |
+| 2026-11-07 | Egg Carrier – Transport Box for Up to 12 M+L Eggs #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/11/07/egg-carrier-transport-box-for-up-to-12-ml-eggs-3dprinting/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,29 +77,29 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-07 | robotruzgar/aethelian-translate-gguf | 0 | 0 | [link](https://huggingface.co/robotruzgar/aethelian-translate-gguf) |
+| 2026-11-07 | gulucaptain/zero-wam-robotwin-version-b1 | 0 | 0 | [link](https://huggingface.co/gulucaptain/zero-wam-robotwin-version-b1) |
 | 2026-11-07 | Charlottej23/mujoco-office-tidy-robot-ppo | 0 | 0 | [link](https://huggingface.co/Charlottej23/mujoco-office-tidy-robot-ppo) |
-| 2026-11-07 | digi-the-robot/Tallow | 0 | 1 | [link](https://huggingface.co/digi-the-robot/Tallow) |
+| 2026-11-07 | digi-the-robot/Tallow | 0 | 4 | [link](https://huggingface.co/digi-the-robot/Tallow) |
 | 2026-11-07 | huzican0419/robotwin_piper_x_real_step10000_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_real_step10000_jax) |
 | 2026-11-07 | RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern-R2 | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern-R2) |
 | 2026-11-07 | RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern) |
 | 2026-11-07 | OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16 | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16) |
 | 2026-11-07 | WCL-Robotics/muse-a-checkpoint | 0 | 0 | [link](https://huggingface.co/WCL-Robotics/muse-a-checkpoint) |
 | 2026-11-07 | liwy26/lingbot-vla-v2-6b-robotwin-aloha-agilex | 0 | 1 | [link](https://huggingface.co/liwy26/lingbot-vla-v2-6b-robotwin-aloha-agilex) |
-| 2026-11-07 | bageldotcom/Bagel-Robotics-1 | 0 | 0 | [link](https://huggingface.co/bageldotcom/Bagel-Robotics-1) |
-| 2026-11-07 | Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_h48e24_scratch_dmlp_ema | 0 | 0 | [link](https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_h48e24_scratch_dmlp_ema) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30005 | Python | 12002.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30010 | Python | 12004.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 | autonomous-ai/lampOS | 549 | Python | 219.7 | [link](https://github.com/autonomous-ai/lampOS) |
-| Developer-Y/cs-video-courses | 84645 |  | 33858.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64082 | Python | 25632.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 84647 |  | 33858.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64084 | Python | 25633.7 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44770 | JavaScript | 17908.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| earthtojake/text-to-cad | 25751 | Python | 10300.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| wechaty/wechaty | 23530 | TypeScript | 9412.1 | [link](https://github.com/wechaty/wechaty) |
+| earthtojake/text-to-cad | 25765 | Python | 10306.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| wechaty/wechaty | 23531 | TypeScript | 9412.5 | [link](https://github.com/wechaty/wechaty) |
 | questdb/questdb | 17507 | Java | 7002.9 | [link](https://github.com/questdb/questdb) |
-| google-deepmind/mujoco | 16094 | C++ | 6437.7 | [link](https://github.com/google-deepmind/mujoco) |
+| google-deepmind/mujoco | 16098 | C++ | 6439.3 | [link](https://github.com/google-deepmind/mujoco) |
 | dora-rs/dora | 4072 | Rust | 1628.9 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
@@ -111,10 +111,10 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE04cW5UUmR0QmJkdWFlc1JFeXA1MU93dVZGWWxUVzdZSGpKeVJfc2x6UEJjdVAtQ2plTjVibnVpSUVaTjVlY1phbFRmRm1ta0xNYXFDYng1LTBoU3c0TWJqWWtUX0hXVk5PU3NDX1A1c010d3hEMHc?oc=5) |
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bnRpWlJGMFpab3FxYnIyWHpXb21IUzF6blRHOERDUjJ6eHBYSFN6dktNa2ZLLU4xdTc2aTJsbDNzcGZxbTJUNm5HQ0luYkdENnBJc09TVmRqYXJSemNNOHl5YXBKMEE?oc=5) |
 | 2026-11-05 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1U4Y0RCS3RzeTRsUFdKOExQVlZjTW83aERGcGo0WmJ1aFd5b0xSanhvd1R3SlVnV0xuUW5DVGxxZ3VVVV9ZNGNXUW4ySUJiNVdqM1gwN25SeTNhb0tYWl9HVDR6WHhjbkdmRDEyVzI2aVNXSkNrN0Y2WnZlUDNoQTRRbzItX3RZMFc0UjRNNlBWSWM5aE10bHln?oc=5) |
-| 2026-11-02 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0E0M0R5Mk1GSlg2amFLcWQ1LUhlb0Jac0hUNWFHT25HX1RXamtkcjdzelNuNjBGSmJBWHFMRkM0N3h6VE5LM081SHNzMEY2LUhJYjFILWUycjY3Q0lDOThYRUdlMXd1OFFoOHJMSmx5OW8tVVEyYThLeGpGQmp5aW5XcXdKMmJ0Zk56c1l4dnlISExHY0NJanZBRDBhX0tJ?oc=5) |
 | 2026-10-30 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnhHemUzTlhMVVlwNjh5dGMwam40UHJhdld0V2Z4cDZaYUg2SXR5NUwwbmRyU3RDNktlTzdvZVRVTEwxMnJiaVEtOW1HeGRiRUpGcVhEQWdDWjFWdEtZRVJHSU9xbGFWWml3YjBNMDJLbGtodklrd0xJOHVfZDFYdy1fMllDY2U4WTRPSzNFSEFObnd0cWp3ag?oc=5) |
 | 2026-10-29 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWExSTmZ6Tk1ZOFE1bjA5MUNnVUItZGE5UmoxbW9LZjA1cy1yOGZRQk80YkNWVVpXWXZJYkFOckpEQVJsNlhnRGFnNEhYbDhQdEkta2hjTW9seE84WEptdVB3WGlicEI3VGtmUHNLczVYeGxPd3AyaGdod1hlbEhhQmppM0dxMnotM1pBYU14OHdtdUY0bnZQR2dLNjJqUDcteFp6dWxrX0x3VHZU?oc=5) |
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTU1MmdpRGw1QTNHY2cxSXE5bjg5WEFvMmlPcmhyVm1GZ3ZjTkxTNWticG1YUHJFN3AwYXFEQXRtMGZzUE9mTWM4aWVHNXJHaFpZM0FRQi1RT3pjZS05NGlqcVZMMWdEUGlVRmtJLW9tQ0RHNmo3YkcwY0tyOTlxMWh1VU9sTmYzcllxa3BpYjZ2Ri1DajJpYnBEd0llVmRSMHJoT0R3?oc=5) |
+| 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTBjSFdhRjUyX1lRVzVQRjZYeHdMRFVlQWcwQWNCaC1IUnZ3Q1VYdEk5cXRIVkRxU0E3a1Q5Z3lGR0VBNzFONVNVVVA5c3o2SUl3OFk2LWtlZFVxcDVjczB3Rm9ORlJ5RmpRMWE3RkowLVdFSDB1d3pIM3YtZDVVTGtYUzJEZjlEbU1ka2FqRkhOQTg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |

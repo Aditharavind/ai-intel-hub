@@ -1,5 +1,23 @@
 [
   {
+    "model": "robotruzgar/aethelian-translate-gguf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/robotruzgar/aethelian-translate-gguf",
+    "date": "2026-11-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "gulucaptain/zero-wam-robotwin-version-b1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gulucaptain/zero-wam-robotwin-version-b1",
+    "date": "2026-11-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Charlottej23/mujoco-office-tidy-robot-ppo",
     "downloads": 0,
     "likes": 0,
@@ -11,11 +29,11 @@
   {
     "model": "digi-the-robot/Tallow",
     "downloads": 0,
-    "likes": 1,
+    "likes": 4,
     "url": "https://huggingface.co/digi-the-robot/Tallow",
     "date": "2026-11-07",
     "keyword": "robot",
-    "score": 0.3
+    "score": 0.9
   },
   {
     "model": "huzican0419/robotwin_piper_x_real_step10000_jax",
@@ -90,28 +108,37 @@
     "score": 0.1
   },
   {
-    "model": "GnanaPraveen/Bagel-Robotics-1-Public",
-    "downloads": 0,
+    "model": "vladimir94/dory-1.0-4b-ane-coreml",
+    "downloads": 2303,
     "likes": 0,
-    "url": "https://huggingface.co/GnanaPraveen/Bagel-Robotics-1-Public",
+    "url": "https://huggingface.co/vladimir94/dory-1.0-4b-ane-coreml",
     "date": "2026-11-07",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Luicon77/robotwin-v3-ego15923-sft7518-eval",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Luicon77/robotwin-v3-ego15923-sft7518-eval",
-    "date": "2026-11-07",
-    "keyword": "robot",
-    "score": 0.1
+    "keyword": "vla",
+    "score": 691.0
   },
   {
     "model": "SelfDriving-VLA/laq-ad-backup",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Vlad2582/second-brain-src",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Vlad2582/second-brain-src",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladisLOVE123/Daineris",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladisLOVE123/Daineris",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
@@ -180,15 +207,6 @@
     "score": 0.1
   },
   {
-    "model": "theo-zhou/vla-mopd-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/theo-zhou/vla-mopd-checkpoints",
-    "date": "2026-11-07",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "GOVINDFROM/surgical-world-model",
     "downloads": 0,
     "likes": 0,
@@ -198,12 +216,12 @@
     "score": 0.1
   },
   {
-    "model": "Yutarop/tsukuba-poc1_act_policy",
+    "model": "Uuuuuuniiiiiii/V7.2-Cue-WorldModel",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Yutarop/tsukuba-poc1_act_policy",
+    "url": "https://huggingface.co/Uuuuuuniiiiiii/V7.2-Cue-WorldModel",
     "date": "2026-11-07",
-    "keyword": "policy",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -211,6 +229,42 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "date": "2026-11-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Jycccc111/Go_RL_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jycccc111/Go_RL_policy",
+    "date": "2026-11-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "mvbalaji/wsp-typed-policy-100",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mvbalaji/wsp-typed-policy-100",
+    "date": "2026-11-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "namiciro/red-blue-act-policy-30k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/namiciro/red-blue-act-policy-30k",
+    "date": "2026-11-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Yutarop/tsukuba-poc1_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yutarop/tsukuba-poc1_act_policy",
     "date": "2026-11-07",
     "keyword": "policy",
     "score": 0.1
@@ -227,11 +281,11 @@
   {
     "model": "chocokiddo/DICE-Policy",
     "downloads": 0,
-    "likes": 0,
+    "likes": 1,
     "url": "https://huggingface.co/chocokiddo/DICE-Policy",
     "date": "2026-11-07",
     "keyword": "policy",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "sitthaveet/so_arm_policy_97ep_2026-11-07_06-06-55",
@@ -252,22 +306,13 @@
     "score": 1.3
   },
   {
-    "model": "pmolodyk/vla_ar",
-    "downloads": 20,
+    "model": "GnanaPraveen/Bagel-Robotics-1-Public",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/pmolodyk/vla_ar",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 6.1
-  },
-  {
-    "model": "pmolodyk/vla_ma",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/pmolodyk/vla_ma",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 6.4
+    "url": "https://huggingface.co/GnanaPraveen/Bagel-Robotics-1-Public",
+    "date": "2026-11-07",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "oggata/mesa-world-model-sharp",
@@ -304,33 +349,6 @@
     "date": "2026-11-06",
     "keyword": "policy",
     "score": 8.5
-  },
-  {
-    "model": "lerobot/Cosmos3-Nano-Policy-LIBERO_10",
-    "downloads": 171,
-    "likes": 1,
-    "url": "https://huggingface.co/lerobot/Cosmos3-Nano-Policy-LIBERO_10",
-    "date": "2026-11-06",
-    "keyword": "policy",
-    "score": 51.6
-  },
-  {
-    "model": "lerobot/Cosmos3-Edge-Policy-LIBERO_10",
-    "downloads": 159,
-    "likes": 2,
-    "url": "https://huggingface.co/lerobot/Cosmos3-Edge-Policy-LIBERO_10",
-    "date": "2026-11-06",
-    "keyword": "policy",
-    "score": 48.2
-  },
-  {
-    "model": "Jaward/d1-act-policy",
-    "downloads": 70,
-    "likes": 0,
-    "url": "https://huggingface.co/Jaward/d1-act-policy",
-    "date": "2026-11-06",
-    "keyword": "policy",
-    "score": 21.1
   },
   {
     "model": "snehak-umar26/robotics-vision-language-lab",
@@ -591,15 +609,6 @@
     "url": "https://huggingface.co/UCLA-VAIL/Visual-Navigation-Model-Checkpoints",
     "date": "2026-10-29",
     "keyword": "navigation",
-    "score": 0.1
-  },
-  {
-    "model": "jadidbourbaki/context-compaction-world-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/jadidbourbaki/context-compaction-world-models",
-    "date": "2026-10-28",
-    "keyword": "world model",
     "score": 0.1
   },
   {
