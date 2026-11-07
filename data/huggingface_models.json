@@ -1,5 +1,23 @@
 [
   {
+    "model": "akashp805/flow-robot-distillation-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/akashp805/flow-robot-distillation-checkpoints",
+    "date": "2026-11-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Siqi2022/robotwin-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Siqi2022/robotwin-checkpoints",
+    "date": "2026-11-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "robotruzgar/aethelian-translate-gguf",
     "downloads": 0,
     "likes": 0,
@@ -29,11 +47,11 @@
   {
     "model": "digi-the-robot/Tallow",
     "downloads": 0,
-    "likes": 4,
+    "likes": 5,
     "url": "https://huggingface.co/digi-the-robot/Tallow",
     "date": "2026-11-07",
     "keyword": "robot",
-    "score": 0.9
+    "score": 1.1
   },
   {
     "model": "huzican0419/robotwin_piper_x_real_step10000_jax",
@@ -86,35 +104,17 @@
     "likes": 1,
     "url": "https://huggingface.co/liwy26/lingbot-vla-v2-6b-robotwin-aloha-agilex",
     "date": "2026-11-07",
-    "keyword": "vla",
+    "keyword": "robot",
     "score": 0.3
   },
   {
-    "model": "bageldotcom/Bagel-Robotics-1",
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_baseline_l40s",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
-    "date": "2026-11-07",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_h48e24_scratch_dmlp_ema",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_h48e24_scratch_dmlp_ema",
-    "date": "2026-11-07",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "vladimir94/dory-1.0-4b-ane-coreml",
-    "downloads": 2303,
-    "likes": 0,
-    "url": "https://huggingface.co/vladimir94/dory-1.0-4b-ane-coreml",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_baseline_l40s",
     "date": "2026-11-07",
     "keyword": "vla",
-    "score": 691.0
+    "score": 0.1
   },
   {
     "model": "SelfDriving-VLA/laq-ad-backup",
@@ -126,85 +126,94 @@
     "score": 0.1
   },
   {
-    "model": "Vlad2582/second-brain-src",
+    "model": "qizekun/Humanoid-VLA",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Vlad2582/second-brain-src",
+    "url": "https://huggingface.co/qizekun/Humanoid-VLA",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "VladisLOVE123/Daineris",
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s_s1234",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/VladisLOVE123/Daineris",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s_s1234",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/OpenRAL/rskill-xr1-franka_panda-vlabench-nf4",
-    "date": "2026-11-07",
-    "keyword": "vla",
-    "score": 6.7
-  },
-  {
-    "model": "OpenRAL/rskill-smolvla-franka_panda-vlabench-bf16",
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s_s7",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/OpenRAL/rskill-smolvla-franka_panda-vlabench-bf16",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s_s7",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "matteuscruz/vla-g1-hpc",
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s1",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/matteuscruz/vla-g1-hpc",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s1",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "SXY7/X-VLA-Piper-nesting_3dolls",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-nesting_3dolls",
-    "date": "2026-11-07",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
-    "model": "Najongs/vla-recipe-ckpts",
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s2",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "SXY7/X-VLA-Piper-pick_balls",
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_trunc_last16",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-pick_balls",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_trunc_last16",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "SXY7/X-VLA-Piper-food",
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-food",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s0",
     "date": "2026-11-07",
     "keyword": "vla",
     "score": 0.1
+  },
+  {
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Vladmoon/song2midi-muscriptor-gguf",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Vladmoon/song2midi-muscriptor-gguf",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vladimir94/dory-1.0-4b-ane-coreml",
+    "downloads": 2303,
+    "likes": 0,
+    "url": "https://huggingface.co/vladimir94/dory-1.0-4b-ane-coreml",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 691.0
   },
   {
     "model": "GOVINDFROM/surgical-world-model",
@@ -304,6 +313,15 @@
     "date": "2026-11-07",
     "keyword": "policy",
     "score": 1.3
+  },
+  {
+    "model": "bageldotcom/Bagel-Robotics-1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
+    "date": "2026-11-07",
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "GnanaPraveen/Bagel-Robotics-1-Public",

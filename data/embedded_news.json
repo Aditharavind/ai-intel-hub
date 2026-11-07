@@ -1,5 +1,19 @@
 [
   {
+    "title": "Proper Linux, On An ESP32",
+    "source": "Hackaday",
+    "date": "2026-11-07",
+    "url": "https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"527\" src=\"https://hackaday.com/wp-content/uploads/2026/04/esp32_s31_espressif.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The ESP32 series of microcontrollers feature a lot on these pages, offering as they do a significantly powerful processor and in most cases, wireless connectivity. One recent member of the <a class=\"read-more\" href=\"https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Building a Homemade Induction Soldering Iron",
+    "source": "Hackaday",
+    "date": "2026-11-07",
+    "url": "https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/",
+    "summary": "<div><img alt=\"Two 3D-printed enclosures, one blue and one red, sit on a workmat. In front of the blue enclosure, a soldering iron sits in a blue-and-yellow soldering iron stand.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Despite not being inherently any better at converting electricity into heat, induction-heated soldering irons often considerably outperform conventional irons with an identical power rating. They manage this by directly heating <a class=\"read-more\" href=\"https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/\">&#8230;read more</a>"
+  },
+  {
     "title": "Supercon 2026: Streaming Live",
     "source": "Hackaday",
     "date": "2026-11-07",
@@ -35,25 +49,18 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/BikeMike-18-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[DJJules] had two problems. Being an avid biker, recording audio on a bike-mounted action camera was less than ideal due to wind. In addition, the built-in microphone on action cameras <a class=\"read-more\" href=\"https://hackaday.com/2026/11/07/a-bike-friendly-diy-action-cam-stereo-microphone/\">&#8230;read more</a>"
   },
   {
-    "title": "Automate That Halloween Treating",
-    "source": "Hackaday",
-    "date": "2026-11-07",
-    "url": "https://hackaday.com/2026/11/06/automate-that-halloween-treating/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/halloween-monster-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We live a Jetsons future of ubiquitous automation, in which the most trivial of human tasks has a machine to take the work out of it. Take doling out Halloween <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/automate-that-halloween-treating/\">&#8230;read more</a>"
-  },
-  {
-    "title": "DIY Rooftop Tent Sets Up In a Jiffy",
-    "source": "Hackaday",
-    "date": "2026-11-07",
-    "url": "https://hackaday.com/2026/11/06/diy-rooftop-tent-sets-up-in-a-jiffy/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/DIY-rooftop-tent.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[CraftAndu] shares his DIY car rooftop tent design that looks like a pretty accessible build. It allowed him to test drive the concept to his satisfaction while spending a fraction <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/diy-rooftop-tent-sets-up-in-a-jiffy/\">&#8230;read more</a>"
-  },
-  {
     "title": "Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash",
     "source": "CNX Software",
     "date": "2026-11-07",
     "url": "https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/",
     "summary": "<div><img alt=\"ESP32-S31-Zero board\" class=\"attachment-medium size-medium wp-post-image\" height=\"518\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ESP32-S31-Zero-board-720x518.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare &#8220;Zero&#8221; boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals,  but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC – Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/\">Waveshare ESP32-S31-Zero &#8211; A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Build Your Own E-Reader for $40",
+    "source": "Adafruit",
+    "date": "2026-11-07",
+    "url": "https://blog.adafruit.com/2026/11/07/build-your-own-e-reader-for-40/",
+    "summary": "Allan Binder of MUON SORTES shares this how to guide for building an affordable e-reader. And head to Allan Binder&#8216;s instagram for a more polished look and future iterations. You need four things: an ESP32-S3 dev board, an e-paper panel with its adapter board, a five-way button module, and a way to power it. Total [&#8230;]"
   },
   {
     "title": "What is STEMMA QT?",
@@ -236,13 +243,6 @@
     "date": "2026-11-06",
     "url": "https://blog.adafruit.com/2026/11/06/mooftcp-is-a-modern-replacement-for-mactcp-on-68k-macs/",
     "summary": "Matt Richter has published MoofTCP on GitHub, a drop-in replacement for Apple&#8217;s MacTCP networking software on 68k Macs running System 6. Programs written for MacTCP run on it unchanged, but underneath it&#8217;s a fresh TCP/IP stack written from scratch in portable C, with its own control panel, installer and DHCP client. It was built for [&#8230;]"
-  },
-  {
-    "title": "80,000 hops per second AD9361 measurement confirm Starlink terminal uplink/downlink channel pairing, and surprisingly big RF radiation",
-    "source": "Adafruit",
-    "date": "2026-11-06",
-    "url": "https://blog.adafruit.com/2026/11/06/80000-hops-per-second-ad9361-measurement-confirm-starlink-terminal-uplink-downlink-channel-pairing-and-surprisingly-big-rf-radiation/",
-    "summary": "Jiao Xianjun has posted new Starlink terminal measurements on sdr-x.github.io, made with an AD9361 software defined radio, switched by hardware instead of software. The earlier software-controlled setup managed 10,000 frequency hops per second. The hardware version reaches 80,000, changing channel every 12.5 microseconds, so all eight Starlink channels are scanned in 100 microseconds. The datasheet [&#8230;]"
   },
   {
     "title": "Building Better Hardware Together: How Hackster.io Fosters Community-Driven Innovation",
