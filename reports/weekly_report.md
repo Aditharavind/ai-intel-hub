@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-06 21:48 UTC
+Generated: 2026-11-07 01:19 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-06 21:48 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84621 | 33848.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64077 | 25630.9 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 84624 | 33849.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64076 | 25630.5 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44768 | 17907.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30869 | 12347.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 29994 | 11997.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 29997 | 11998.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,17 +32,17 @@ Generated: 2026-11-06 21:48 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-11-06 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiWEFVX3lxTFByRlU2Qk02X3g2VTRKOGZsUkZaZW1iLXkzSnFoNE4tMHZTMmJLMlVLcUFiVmZWbUVZZERHR09DRTIwd2o1RDBFbjBKWi0wR1ZZX2R0ZFQ4VFU?oc=5) |
+| 2026-11-06 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTlVa1JkYVlpblNONmtzMThmRE9TUHVTWG9RQUtXeUczajdyRWZKeEFFUTF2ZHNuam5leHNLVXJzLWllYUZCcllwd2trVjhQbHpGVHk3NTZlVFVfNXg2R0FNazJmcmlmclFGZHFqOXYtV0lsc0psRW9uc2dXbGVMUHFBdnBOcDF5OHRrY0lWVy1jRktKRmk1RjhmYjF1N3JYczFKNVktR21kQkpLUzd0aFVWZ1FhNEk?oc=5) |
 | 2026-11-05 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxObVZvM2ltdDFRcEFzdHJaSkhuTHl1eTlReVlQaGtyX2dyS0JJeHh4b2xESXZJeUx1Vjd5VUYxYzVaTnlMaXJFcl8zWGtOWXliRW1VbmhwN2xMTFo2OGctRDVCVDdXTzNwV1pPeldGZkdEMW4xeUJSVFVNSEN6TkRRSDladnRBWW41ZWlmalBfNURsaGwyNEl3aEJB?oc=5) |
 | 2026-11-05 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE04cW5UUmR0QmJkdWFlc1JFeXA1MU93dVZGWWxUVzdZSGpKeVJfc2x6UEJjdVAtQ2plTjVibnVpSUVaTjVlY1phbFRmRm1ta0xNYXFDYng1LTBoU3c0TWJqWWtUX0hXVk5PU3NDX1A1c010d3hEMHc?oc=5) |
 | 2026-11-05 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bnRpWlJGMFpab3FxYnIyWHpXb21IUzF6blRHOERDUjJ6eHBYSFN6dktNa2ZLLU4xdTc2aTJsbDNzcGZxbTJUNm5HQ0luYkdENnBJc09TVmRqYXJSemNNOHl5YXBKMEE?oc=5) |
-| 2026-11-05 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3lsQ2tiX2Q0ZkRMdEw4YUV2N3B2SVVwbV9VUGhrMVBQNldiR1dUUGFhYlJTNzlMOXAxclRpT3BHMVREUG03VEFsempFWWhHUzJoN1dJeF9VNTZHT25OYlZEMkM4TVpvUWFITGY4a2RPclU5QkM0U3ZrZE1RN21fWVVXd2c0LTVtc18xSnpObjFtNzlIQ2ZEMnJiRHQtOGl0SksxS2V1WGtWUQ?oc=5) |
-| 2026-11-05 | Unitree |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1U4Y0RCS3RzeTRsUFdKOExQVlZjTW83aERGcGo0WmJ1aFd5b0xSanhvd1R3SlVnV0xuUW5DVGxxZ3VVVV9ZNGNXUW4ySUJiNVdqM1gwN25SeTNhb0tYWl9HVDR6WHhjbkdmRDEyVzI2aVNXSkNrN0Y2WnZlUDNoQTRRbzItX3RZMFc0UjRNNlBWSWM5aE10bHln?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-11-06 | Newly Public Agility Wants to Prove Physical AI Has Legs - The Daily Upside | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTFSUEl3QmUyckowaEJNLW40U1MtZllGR1NMZC1wb1BJd3lIUjUyM0w3NUp3cUpKcHFteWNUYTBJRFczVnlJRG1hRzBHY2I3VGEtN3ZMX0p0VEdLSE9Od2hCTmgwWUNlZUlDVlBsdzk4OVd5bGgtck1LNFhrSERaaXIzLXRlQ2NKeS1iQlZHNUpJTXBsZmc4bEdGam9wby1UejNRVmxLWjNnbmx4dE9jbVoyR0tFTzlSTG5ocWhFclk?oc=5) |
 | 2026-11-06 | Physicl Raises $10M Seed to Address Physical AI’s Edge-Case Problem - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXVmakJKZ0NHREVzTE9vYjQ2bTdUNzRGV3FfT1BRR1NHRHc4azVwSzM1TGF6Z1Z1Y29mcHh1c2tuMEdsUUdEWElNYi1SRGt6OHRNS1dCVndJNVl2Z3YtTXA5UjFQeWMwMl8weFNLTlExVWZyZGhnVzBkTmtjS2ptcTlidzh2ZkFnWEJQVnIxZmk?oc=5) |
+| 2026-11-06 | Newly Public Agility Wants to Prove Physical AI Has Legs - The Daily Upside | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTFSUEl3QmUyckowaEJNLW40U1MtZllGR1NMZC1wb1BJd3lIUjUyM0w3NUp3cUpKcHFteWNUYTBJRFczVnlJRG1hRzBHY2I3VGEtN3ZMX0p0VEdLSE9Od2hCTmgwWUNlZUlDVlBsdzk4OVd5bGgtck1LNFhrSERaaXIzLXRlQ2NKeS1iQlZHNUpJTXBsZmc4bEdGam9wby1UejNRVmxLWjNnbmx4dE9jbVoyR0tFTzlSTG5ocWhFclk?oc=5) |
 | 2026-11-06 | Physicl Raises $10M to Bridge Sim-to-Real Gap for Robots - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzlscDFXS05sa0FIWngxMVg3NVFhX1lMQlpfZXlkWWhWZEFmQjU4Vm1lUU95VEhZb3d6UEFBWklrcGZZeDFzVjdHNlp6VUJ4TFgyMXB3ZU1uTkpfVG8yQ0hmY3RZX0I5d3dCbTE3dHNLWS1OMG1rZnJtWlpCSkFyQmZlOHpGMlNOTVRWWDdhd0NJQQ?oc=5) |
 | 2026-11-06 | Physical AI Startup URobotics Raises USD 30M in Series A Funding for Autonomous Mobility - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZ3dVVFpGQUxGV0I2UU1pd3BnVVA4eWpua1Bqc3Q5UFpVcmRzb2lWcEhFUWl2cGVTQXRRa2RqQm41MjM5QloxS0ZfVlVVdjJ5alJr?oc=5) |
 | 2026-11-06 | 36Kr Exclusive: Heavy-Duty Physical AI Startup Secures Nearly 400 Million Yuan Financing Within 1 Year of Establishment – Core Team Ex-Huawei & Li Auto, 100+ Vehicles in Operation - 36Kr.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE00ZjgyX0RiX1NnSnRtelJMdVp2UjlMdkFORXJEM3JpeUNaMEZJano5TXhIZGVKZHdPUUl6LW8tby1YWFdpMTFvRnE3aG4tSDVGSnlV?oc=5) |

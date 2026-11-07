@@ -1,5 +1,68 @@
 [
   {
+    "model": "Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_h48e24_scratch_dmlp_ema",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_b64_60k_h48e24_scratch_dmlp_ema",
+    "date": "2026-11-07",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Najongs/vla-recipe-ckpts",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SXY7/X-VLA-Piper-pick_balls",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SXY7/X-VLA-Piper-pick_balls",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SXY7/X-VLA-Piper-food",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SXY7/X-VLA-Piper-food",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "theo-zhou/vla-mopd-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/theo-zhou/vla-mopd-checkpoints",
+    "date": "2026-11-07",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "dontKnow23456/WAM-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "date": "2026-11-07",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "snehak-umar26/robotics-vision-language-lab",
     "downloads": 0,
     "likes": 0,
@@ -47,11 +110,11 @@
   {
     "model": "RobotLearningLab/Jocasta-diff-VLA",
     "downloads": 0,
-    "likes": 22,
+    "likes": 23,
     "url": "https://huggingface.co/RobotLearningLab/Jocasta-diff-VLA",
     "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 4.5
+    "keyword": "robot",
+    "score": 4.7
   },
   {
     "model": "limxdynamics/tron1-robot-description",
@@ -99,42 +162,6 @@
     "score": 3.1
   },
   {
-    "model": "RainyBot/SemWAM-RoboTwin-TwoStage-v1.30-Stage2-Joint15k",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-TwoStage-v1.30-Stage2-Joint15k",
-    "date": "2026-11-06",
-    "keyword": "robot",
-    "score": 4.9
-  },
-  {
-    "model": "SXY7/X-VLA-Piper-pick_balls",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-pick_balls",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SelfDriving-VLA/laq-ad-backup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SXY7/X-VLA-Piper-food",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Piper-food",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "SXY7/X-VLA-Piper-nesting_3dolls",
     "downloads": 0,
     "likes": 1,
@@ -142,6 +169,24 @@
     "date": "2026-11-06",
     "keyword": "vla",
     "score": 0.3
+  },
+  {
+    "model": "pmolodyk/vla_ar",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pmolodyk/vla_ar",
+    "date": "2026-11-06",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "pmolodyk/vla_ma",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pmolodyk/vla_ma",
+    "date": "2026-11-06",
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "siliconperception/vla",
@@ -180,33 +225,6 @@
     "score": 0.1
   },
   {
-    "model": "SamerAyyad/VLA_Samer_04.11.2026_500eps_XVLA_last",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_04.11.2026_500eps_XVLA_last",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mangocloud/gr00t-n1.7-realworld-ra-vla",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mangocloud/gr00t-n1.7-realworld-ra-vla",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "KAUTIS/place_blue_VLA_fixed",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/KAUTIS/place_blue_VLA_fixed",
-    "date": "2026-11-06",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "oggata/mesa-world-model-sharp",
     "downloads": 16,
     "likes": 0,
@@ -220,15 +238,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Kkbo123/mc-policy-checkpoints",
-    "date": "2026-11-06",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "dontKnow23456/WAM-Policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
     "date": "2026-11-06",
     "keyword": "policy",
     "score": 0.1
