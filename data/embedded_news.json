@@ -1,10 +1,31 @@
 [
   {
+    "title": "Automate That Halloween Treating",
+    "source": "Hackaday",
+    "date": "2026-11-07",
+    "url": "https://hackaday.com/2026/11/06/automate-that-halloween-treating/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/halloween-monster-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We live a Jetsons future of ubiquitous automation, in which the most trivial of human tasks has a machine to take the work out of it. Take doling out Halloween <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/automate-that-halloween-treating/\">&#8230;read more</a>"
+  },
+  {
+    "title": "DIY Rooftop Tent Sets Up In a Jiffy",
+    "source": "Hackaday",
+    "date": "2026-11-07",
+    "url": "https://hackaday.com/2026/11/06/diy-rooftop-tent-sets-up-in-a-jiffy/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/DIY-rooftop-tent.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[CraftAndu] shares his DIY car rooftop tent design that looks like a pretty accessible build. It allowed him to test drive the concept to his satisfaction while spending a fraction <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/diy-rooftop-tent-sets-up-in-a-jiffy/\">&#8230;read more</a>"
+  },
+  {
     "title": "It’s Alpine Linux, On A Kindle Paperwhite 3",
     "source": "Hackaday",
     "date": "2026-11-07",
     "url": "https://hackaday.com/2026/11/06/its-alpine-linux-on-a-kindle-paperwhite-3/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/kindle-alpine-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As computing power becomes cheaper and microprocessors become more capable, a steady trend over recent decades has been to see more everyday devices hiding Linux under the hood somewhere. Sadly <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/its-alpine-linux-on-a-kindle-paperwhite-3/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash",
+    "source": "CNX Software",
+    "date": "2026-11-07",
+    "url": "https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/",
+    "summary": "<div><img alt=\"ESP32-S31-Zero board\" class=\"attachment-medium size-medium wp-post-image\" height=\"518\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ESP32-S31-Zero-board-720x518.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare &#8220;Zero&#8221; boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals,  but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC – Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/\">Waveshare ESP32-S31-Zero &#8211; A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "MousePods Reverse Engineers Head Tracking Data From Stubborn AirPods",
@@ -35,20 +56,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those: <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/this-week-in-security-more-linux-bugs-biggest-crypto-theft-ever-prusa-printers-residential-proxies/\">&#8230;read more</a>"
   },
   {
-    "title": "The Goat Emoji Is 100% Valid Machine Code, and It Doesn’t Stop There",
-    "source": "Hackaday",
-    "date": "2026-11-06",
-    "url": "https://hackaday.com/2026/11/06/the-goat-emoji-is-100-valid-machine-code-and-it-doesnt-stop-there/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Did you know emojis can be executables? Well, they are if you treat them like Intel 8088 or 8086 machine code, anyway. [GloriousCow] shared this clever revelation, demonstrating that executable <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/the-goat-emoji-is-100-valid-machine-code-and-it-doesnt-stop-there/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Making Xibalba 64, a New N64 Release in 2026",
-    "source": "Hackaday",
-    "date": "2026-11-06",
-    "url": "https://hackaday.com/2026/11/06/making-xibalba-64-a-new-n64-release-in-2026/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"411\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Xibalba-64.png?w=730\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"730\" /></div>[Dominic Szablewski] created something that we don&#8217;t see every day: a no-kidding new physical Nintendo 64 game for sale, complete with cartridge, manual, and box art. He wrote about what <a class=\"read-more\" href=\"https://hackaday.com/2026/11/06/making-xibalba-64-a-new-n64-release-in-2026/\">&#8230;read more</a>"
-  },
-  {
     "title": "520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU",
     "source": "CNX Software",
     "date": "2026-11-06",
@@ -60,7 +67,7 @@
     "source": "CNX Software",
     "date": "2026-11-06",
     "url": "https://www.cnx-software.com/2026/11/06/geekom-a5-2027-edition-amd-ryzen-7-7730u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/",
-    "summary": "<div><img alt=\"GEEKOM A5 2027 Edition mini PC review AMD Ryzen 7 7730U\" class=\"attachment-medium size-medium wp-post-image\" height=\"483\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/GEEKOM-A5-2027-Edition-mini-PC-review-AMD-Ryzen-7-7730U-720x483.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve been sent a GEEKOM A5 2027 Edition mini PC powered by an AMD Ryzen 7 7730U 8-core/16-thread CPU for review. The mini PC supports up to 64GB dual-channel DDR5-5600MHz memory, can drive up to four independent displays via HDMI 2.0 and USB-C ports, includes three USB 3.2 Gen 2 Type-A ports, two USB 3.2 Gen 2 Type-C ports, one USB 2.0 port, a full-size SD card reader, a 2.5GbE port, and Wi-Fi 6 and Bluetooth 5.4 wireless connectivity. The model sent for review ships with 16GB DDR4 SO-DIMM RAM and a 512GB M.2 SSD pre-loaded with an activated Windows 11 Pro operating system. In the first part of the review, we&#8217;ll list the specifications, perform an unboxing and teardown to check out the hardware, and boot Windows 11 to make sure it works properly. Thorough features and performance testing on Windows 11 and Ubuntu 26.04 will be covered in [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/geekom-a5-2027-edition-amd-ryzen-7-7730u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/\">GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review &#8211; Part 1: Specifications, unboxing, teardown, and first boot</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+    "summary": "<div><img alt=\"GEEKOM A5 2027 Edition mini PC review AMD Ryzen 7 7730U\" class=\"attachment-medium size-medium wp-post-image\" height=\"483\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/GEEKOM-A5-2027-Edition-mini-PC-review-AMD-Ryzen-7-7730U-720x483.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve been sent a GEEKOM A5 2027 Edition mini PC powered by an AMD Ryzen 7 7730U 8-core/16-thread CPU for review. The mini PC supports up to 64GB dual-channel DDR4 memory, can drive up to four independent displays via HDMI 2.0 and USB-C ports, includes three USB 3.2 Gen 2 Type-A ports, two USB 3.2 Gen 2 Type-C ports, one USB 2.0 port, a full-size SD card reader, a 2.5GbE port, and Wi-Fi 6 and Bluetooth 5.4 wireless connectivity. The model sent for review ships with 16GB DDR4 SO-DIMM RAM and a 512GB M.2 SSD pre-loaded with an activated Windows 11 Pro operating system. In the first part of the review, we&#8217;ll list the specifications, perform an unboxing and teardown to check out the hardware, and boot Windows 11 to make sure it works properly. Thorough features and performance testing on Windows 11 and Ubuntu 26.04 will be covered in [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/geekom-a5-2027-edition-amd-ryzen-7-7730u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/\">GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review &#8211; Part 1: Specifications, unboxing, teardown, and first boot</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H",
@@ -82,6 +89,76 @@
     "date": "2026-11-06",
     "url": "https://www.embedded.com/esd-ebook-nov-dec-2026-how-to-make-embedded-computer-vision-work-in-the-real-world-connected-products-embedded-week-insights/",
     "summary": "<p>Here's a roundup of this week's must-read articles: ESD eBook Nov/Dec 2026, Designing Medical Devices for the Field, How to Make Embedded Computer Vision Work in the Real World, and The Hidden Engineering Tax on Connected Products: Security, Updates, and Compliance Explained, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete [...]</p>\n<p>The post <a href=\"https://www.embedded.com/esd-ebook-nov-dec-2026-how-to-make-embedded-computer-vision-work-in-the-real-world-connected-products-embedded-week-insights/\">ESD eBook Nov/Dec 2026, How to Make Embedded Computer Vision Work in the Real World, Connected Products: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Leap signs MoU to relaunch Sutherland space launches",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
+    "summary": "<p>Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/\">Leap signs MoU to relaunch Sutherland space launches</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+    "summary": "<p>What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/\">What caught your eye? AI bust, Qualcomm MMIOs, RF emitters</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Partying like it’s 1999 with the hangover in 2001",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+    "summary": "<p>Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/\">Partying like it’s 1999 with the hangover in 2001</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+    "summary": "<p>Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/\">Emerson NI PXIe instruments for AI-accelerated automated testing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+    "summary": "<p>Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe&#8217;s IRIS² satellites. Specifically it will begin work on MDA AURORA [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/\">MDA Space to provide digital antenna subsystems for IRIS² satellites</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/",
+    "summary": "<p>Looking at the news stories written within the last week, the most popular articles on the site cover Greece unveiling its semiconductor strategy, ASML links exec pay to employee morale, and Toyota and Waymo planning to launch robotaxis in Japan.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/\">Most Read &#8211; ASML exec pay, Toyota robotaxis, In-car computing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "What to look out for at electronica 2026",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/products/what-to-look-out-for-at-electronica-2026-2026-11/",
+    "summary": "<p>At next week&#8217;s electronica 2026 in Munich (10-13 November) attendees will  focus on key industries that are at the forefront of technology advances, writes Anthony Coia. Don’t miss the Electronics Weekly [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/what-to-look-out-for-at-electronica-2026-2026-11/\">What to look out for at electronica 2026</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "MS turns down option on Nscale’s Texas datacentre",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/business/ms-the-ns-down-expansion-option-on-nscales-texas-datacentre-2026-11/",
+    "summary": "<p>Nscale — the UK neocloud startup preparing to IPO in New York  &#8211; has been told by Microsoft that it is turning down an option to more than double its [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ms-the-ns-down-expansion-option-on-nscales-texas-datacentre-2026-11/\">MS turns down option on Nscale’s Texas datacentre</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Arm Q2 revenue up 27% YoY",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/business/arm-q2-revenue-up-27-yoy-2026-11/",
+    "summary": "<p>Arm’s  Q2 revenue increased 27% YoY to $1.44 billion, representing Arm’s highest ever second quarter. The record Q2 was driven by strong licensing and other revenue of $773 million, reflecting [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/arm-q2-revenue-up-27-yoy-2026-11/\">Arm Q2 revenue up 27% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Tenspresso bets on longer context windows",
+    "source": "Electronics Weekly",
+    "date": "2026-11-06",
+    "url": "https://www.electronicsweekly.com/news/business/tenspresso-bets-on-longer-context-windows-2026-11/",
+    "summary": "<p>Tenspresso, a startup founded a few months ago by ex-Google AI chip engineers, is in talks to raise $50 million at a $500 million valuation, reports Bloomberg. A few weeks ago, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tenspresso-bets-on-longer-context-windows-2026-11/\">Tenspresso bets on longer context windows</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Are contemporary technologies like GPS, phones, and AI deskilling humans?",
@@ -264,13 +341,6 @@
     "date": "2026-11-04",
     "url": "https://www.cnx-software.com/2026/11/04/zotac-zbox-ci471-nano-fanless-mini-pc-features-intel-core-7-350-wifi-7-and-dual-thunderbolt-4/",
     "summary": "<div><img alt=\"ZBOX CI471 nano Intel Core 7 350 mini PC\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ZBOX-CI471-nano-Intel-Core-7-350-mini-PC-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>ZOTAC has introduced the ZBOX CI471 nano, a fanless mini PC powered by an Intel Core 7 350 hexa-core Wildcat Lake processor with integrated Xe3 graphics and a 17 TOPS NPU. The company has also introduced two lower-end models, the ZBOX CI451 nano with a Core 5 320 processor and the ZBOX CI431 nano with a Core 3 304 processor. All three mini PCs use passive cooling and share the same 204 × 129 × 68 mm enclosure. They support up to 64GB DDR5 memory, M.2 NVMe SSD storage, and three 4K displays. Other features include dual Thunderbolt 4, 2.5GbE networking, and WiFi 7 and Bluetooth 5.4 wireless connectivity. The systems are offered as barebones, meaning users must install their own memory and storage. ZOTAC ZBOX CI471/CI451/CI431 nano specifications: SoC – Intel Core Series 3 &#8220;Wildcat Lake&#8221; processors ZBOX CI471 nano – Intel Core 7 350 CPU – 6-core (2x [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/04/zotac-zbox-ci471-nano-fanless-mini-pc-features-intel-core-7-350-wifi-7-and-dual-thunderbolt-4/\">ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "1.3 million Google-certified Android TV boxes found to have malware",
-    "source": "CNX Software",
-    "date": "2026-11-04",
-    "url": "https://www.cnx-software.com/2026/11/04/google-certified-android-tv-boxes-found-to-have-malware/",
-    "summary": "<div><img alt=\"Certified Android TV box malware\" class=\"attachment-medium size-medium wp-post-image\" height=\"564\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Certified-Android-TV-box-malware-720x564.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>You might assume that a Google-certified Android TV box will both work better and guarantee no malware. However, you’d be wrong, at least for the latter. Google has just published a new Threat Intelligence report entitled &#8220;Shutting the Door on the XCPE Botnet&#8221;, where they found that 1.3 million TV boxes were infected by the XCPE backdoor, enrolling them into a botnet used for financial gains. Google assesses with high confidence that the malware was intentionally developed, deployed, and operated by Videostrong Technology, a TV box manufacturer, which we frequently covered in the past when Android TV boxes were still somewhat a novelty and at times usable as an alternative to SBCs running Linux. Videostrong apparently monetized the backdoor by allowing affiliates to load malware modules onto infected devices to run ad-fraud schemes, enroll the TV boxes in residential proxy networks, and so on. Google took legal action to disrupt [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/04/google-certified-android-tv-boxes-found-to-have-malware/\">1.3 million Google-certified Android TV boxes found to have malware</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Aetina Unveils Rugged Edge AI System for Heavy-Duty Vehicles",
