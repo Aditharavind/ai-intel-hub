@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-07 23:08 UTC
+Last Updated: 2026-11-08 02:48 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-08 | Play Text Adventures on an E-Paper Handheld | Hackaday | [link](https://hackaday.com/2026/11/07/play-text-adventures-on-an-e-paper-handheld/) |
+| 2026-11-08 | Adafruit New Products this Week: LT8912B DSI to DVI Converter | Adafruit | [link](https://blog.adafruit.com/2026/11/07/adafruit-new-products-this-week-lt8912b-dsi-to-dvi-converter/) |
 | 2026-11-07 | Proper Linux, On An ESP32 | Hackaday | [link](https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/) |
 | 2026-11-07 | Building a Homemade Induction Soldering Iron | Hackaday | [link](https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/) |
 | 2026-11-07 | Supercon 2026: Streaming Live | Hackaday | [link](https://hackaday.com/2026/11/07/supercon-2026-streaming-live/) |
 | 2026-11-07 | Repairing a Polaroid 630 SL Lightmixer Instant Camera | Hackaday | [link](https://hackaday.com/2026/11/07/repairing-a-polaroid-630-sl-lightmixer-instant-camera/) |
 | 2026-11-07 | Active Antenna Runs on a Single Lithium-Ion Cell | Hackaday | [link](https://hackaday.com/2026/11/07/active-antenna-runs-on-a-single-lithium-ion-cell/) |
 | 2026-11-07 | The Hidden Microcontroller Inside a LoRa chip | Hackaday | [link](https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/) |
-| 2026-11-07 | A Bike-Friendly, DIY Action Cam Stereo Microphone | Hackaday | [link](https://hackaday.com/2026/11/07/a-bike-friendly-diy-action-cam-stereo-microphone/) |
 | 2026-11-07 | Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash | CNX Software | [link](https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/) |
 | 2026-11-07 | Build Your Own E-Reader for $40 | Adafruit | [link](https://blog.adafruit.com/2026/11/07/build-your-own-e-reader-for-40/) |
-| 2026-11-07 | What is STEMMA QT? | Adafruit | [link](https://blog.adafruit.com/2026/11/07/what-is-stemma-qt/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-11-07 | akashp805/flow-robot-distillation-checkpoints | 0 | 0 | [link](https://huggingface.co/akashp805/flow-robot-distillation-checkpoints) |
-| 2026-11-07 | Siqi2022/robotwin-checkpoints | 0 | 0 | [link](https://huggingface.co/Siqi2022/robotwin-checkpoints) |
-| 2026-11-07 | robotruzgar/aethelian-translate-gguf | 0 | 0 | [link](https://huggingface.co/robotruzgar/aethelian-translate-gguf) |
-| 2026-11-07 | gulucaptain/zero-wam-robotwin-version-b1 | 0 | 0 | [link](https://huggingface.co/gulucaptain/zero-wam-robotwin-version-b1) |
-| 2026-11-07 | Charlottej23/mujoco-office-tidy-robot-ppo | 0 | 0 | [link](https://huggingface.co/Charlottej23/mujoco-office-tidy-robot-ppo) |
-| 2026-11-07 | digi-the-robot/Tallow | 0 | 5 | [link](https://huggingface.co/digi-the-robot/Tallow) |
-| 2026-11-07 | huzican0419/robotwin_piper_x_real_step10000_jax | 0 | 0 | [link](https://huggingface.co/huzican0419/robotwin_piper_x_real_step10000_jax) |
-| 2026-11-07 | RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern-R2 | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern-R2) |
-| 2026-11-07 | RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-SH5-Task000905-50k-Hand_Intern) |
-| 2026-11-07 | OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16 | 0 | 0 | [link](https://huggingface.co/OpenRAL/rskill-smolvla-aloha_agilex-robotwin-bf16) |
+| 2026-11-08 | Najongs/vla-recipe-ckpts | 0 | 0 | [link](https://huggingface.co/Najongs/vla-recipe-ckpts) |
+| 2026-11-08 | driftwood3342/flow-vla-rl-checkpoints | 0 | 0 | [link](https://huggingface.co/driftwood3342/flow-vla-rl-checkpoints) |
+| 2026-11-08 | s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s1 | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s1) |
+| 2026-11-08 | s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s0 | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_rand16_s0) |
+| 2026-11-08 | s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_trunc_last16 | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_trunc_last16) |
+| 2026-11-08 | SelfDriving-VLA/laq-ad-backup | 0 | 0 | [link](https://huggingface.co/SelfDriving-VLA/laq-ad-backup) |
+| 2026-11-08 | Donghyun1228/pi05-libero-ttt-vla-random-probe-yaw30-10000-20261105 | 0 | 0 | [link](https://huggingface.co/Donghyun1228/pi05-libero-ttt-vla-random-probe-yaw30-10000-20261105) |
+| 2026-11-08 | Donghyun1228/pi05-libero-ttt-vla-random-probe-yaw20-10000-20261105 | 0 | 0 | [link](https://huggingface.co/Donghyun1228/pi05-libero-ttt-vla-random-probe-yaw20-10000-20261105) |
+| 2026-11-08 | Donghyun1228/pi05-libero-ttt-vla-random-probe-yaw10-10000-20261105 | 0 | 0 | [link](https://huggingface.co/Donghyun1228/pi05-libero-ttt-vla-random-probe-yaw10-10000-20261105) |
+| 2026-11-08 | s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s | 0 | 0 | [link](https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_LIBERO_uniform16_l40s) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30011 | Python | 12004.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| autonomous-ai/lampOS | 550 | Python | 220.1 | [link](https://github.com/autonomous-ai/lampOS) |
-| Developer-Y/cs-video-courses | 84651 |  | 33860.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| harvard-edge/cs249r_book | 30013 | Python | 12005.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| autonomous-ai/lampOS | 551 | Python | 220.5 | [link](https://github.com/autonomous-ai/lampOS) |
 | commaai/openpilot | 64085 | Python | 25634.1 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44770 | JavaScript | 17908.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| earthtojake/text-to-cad | 25771 | Python | 10308.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| wechaty/wechaty | 23531 | TypeScript | 9412.5 | [link](https://github.com/wechaty/wechaty) |
-| questdb/questdb | 17508 | Java | 7003.3 | [link](https://github.com/questdb/questdb) |
-| google-deepmind/mujoco | 16106 | C++ | 6442.5 | [link](https://github.com/google-deepmind/mujoco) |
-| dora-rs/dora | 4072 | Rust | 1628.9 | [link](https://github.com/dora-rs/dora) |
+| earthtojake/text-to-cad | 25776 | Python | 10310.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17509 | Java | 7003.7 | [link](https://github.com/questdb/questdb) |
+| sou350121/VLA-Handbook | 762 | HTML | 304.9 | [link](https://github.com/sou350121/VLA-Handbook) |
+| syswonder/robonix | 410 | Rust | 164.1 | [link](https://github.com/syswonder/robonix) |
+| deeplethe/utopia | 8690 | Rust | 3476.1 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7610 | Python | 3044.1 | [link](https://github.com/vllm-project/vllm-omni) |
+| aws-samples/sample-rfm-simulation-on-aws | 8 | Python | 3.3 | [link](https://github.com/aws-samples/sample-rfm-simulation-on-aws) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -124,11 +124,11 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-06 | Newly Public Agility Wants to Prove Physical AI Has Legs - The Daily Upside | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTFSUEl3QmUyckowaEJNLW40U1MtZllGR1NMZC1wb1BJd3lIUjUyM0w3NUp3cUpKcHFteWNUYTBJRFczVnlJRG1hRzBHY2I3VGEtN3ZMX0p0VEdLSE9Od2hCTmgwWUNlZUlDVlBsdzk4OVd5bGgtck1LNFhrSERaaXIzLXRlQ2NKeS1iQlZHNUpJTXBsZmc4bEdGam9wby1UejNRVmxLWjNnbmx4dE9jbVoyR0tFTzlSTG5ocWhFclk?oc=5) |
 | 2026-11-06 | Physicl Raises $10M Seed to Address Physical AI’s Edge-Case Problem - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXVmakJKZ0NHREVzTE9vYjQ2bTdUNzRGV3FfT1BRR1NHRHc4azVwSzM1TGF6Z1Z1Y29mcHh1c2tuMEdsUUdEWElNYi1SRGt6OHRNS1dCVndJNVl2Z3YtTXA5UjFQeWMwMl8weFNLTlExVWZyZGhnVzBkTmtjS2ptcTlidzh2ZkFnWEJQVnIxZmk?oc=5) |
 | 2026-11-06 | Unitree ties up with oil giant, AI startup to develop embodied AI robots for oilfields, refineries - Global Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJb05KSDdYdzBCLXAxNzBlYjNvQkh1TzhlNllnVE9jXzg2VE0yRTM1VHhwUExYcHlpbmtndnU5X3pGdVQ0ZFcxc0pyMTJoallmWXgyVmc5OXBDdi00ejR4TlNn?oc=5) |
+| 2026-11-05 | Serve Robotics launches new business to become the AWS for robots - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5) |
 | 2026-11-05 | Serve Robotics Launches Physical AI Platform Play - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEhnYVhPSU9yQlFYWllpdWtvOEoyUDBFelhUM0YzRk5nRS1DYXVBdm42bHlTMlRTUUd0eDdlZ3prWEh0Z29HWG5fcU9jRWZUaWNaOFpSSTFiQkVDWW4tU2lvYjNVNXFuUDY4d0gwVDFhSXhJZXhmT0V0czlXVEZuaFUwQVlmOEpELWc?oc=5) |
 | 2026-11-05 | Agility Robotics is taking humanoid robots public in a first for Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5) |
 | 2026-11-03 | Top Robotics And Embodied AI Startups In China To Watch In 2027 - TechRound | embodied ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWJQUzE0d3p6RHA5bU05REF5NHU1TlA1RVdGTWx3dVZoVFlPWWFiLWZQd2NiblJnVDFnUEhyTkFWQ2l1bUZmNFFadG5iaFJ5NS05aThfd3BDWVRPRFNtWXlVRzllMEZfUjNUXy1zUVJjd3BKUkNMUkd1aGJOMmFHT3hBcWtXOWc2a0pVeTNMWk9OSnBQcmRmZlRISmplUQ?oc=5) |
 | 2026-11-02 | CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanFqZWk4eUNJeDBuTWcwSEFnOHhSWjVVNVAtN2kzZXBtS3FUTlpNbVlHMjhBTVluTjh4MTFXLVhuRmZpdHduYXFWbHhxQndpVmdtdW51YXdMV3pwb05QOG1PMW5YQzRJV3BVaVFJa2xmNlI2Q04yeUVKTHJXNGd1VUt0SWRxbmY0UWJEVVVfbTFyNHhSYVEyc3VxdzBXNjNfb0xqNUEwdFlpYnJOTGFQc1NWS1FNRTgySzMzenplUl9tdktETEhIYw?oc=5) |
-| 2026-11-02 | Meta Develops Humanoid Robot Prototype 'Max' in Partnership with Chinese Startup Fourier - OODA Loop | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzByUUtQc3ZUSXlaRzg0MjEydkpIaVdMcmNvZDFTa1dJQzBMb2FiRkxRVHhKRTNYaGxUbWI2RmUtb2RfaEoyS3BWaTduX2hUMENCRGNDZUxNYTFQUG14NTRsNVJGd2JlbFV5enAzaDhnTks0RTI1RUp5V2FNZHhsMDh4QjZhNXQ2S2ltRDNDSDc3UGtYY2M0NDhReExEZ0xnNnFkeVpOMGtFMmVTV21BSlNYVXdHdVBnMjYyRklDU3F6dFFt?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

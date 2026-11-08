@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-07 23:08 UTC
+Generated: 2026-11-08 02:48 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-11-07 23:08 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84651 | 33860.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 84656 | 33862.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 64085 | 25634.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44770 | 17908.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30873 | 12349.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30011 | 12004.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30874 | 12349.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30013 | 12005.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | pollen-robotics/microduck-policies | 59905 | 17982.0 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
 | zxyty/physicalai-dinov3-vitl16 | 4721 | 1416.4 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
-| vladimir94/dory-1.0-4b-ane-coreml | 2303 | 691.0 | [link](https://huggingface.co/vladimir94/dory-1.0-4b-ane-coreml) |
 | EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 1388 | 416.5 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
 | EPFL-LARA/lean-world-model-qwen3-8b-grpo | 1315 | 394.6 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo) |
+| EPFL-LARA/lean-world-model-qwen3-4b-grpo | 1287 | 386.2 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-4b-grpo) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
