@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-08 16:23 UTC
+Generated: 2026-11-08 20:49 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-08 16:23 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84692 | 33876.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64087 | 25634.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44770 | 17908.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30874 | 12349.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30035 | 12014.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 84704 | 33881.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64090 | 25636.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44771 | 17908.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30875 | 12350.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30049 | 12019.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -43,6 +43,6 @@ Generated: 2026-11-08 16:23 UTC
 | --- | --- | --- | --- |
 | 2026-11-08 | Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5) |
 | 2026-11-08 | Nvidia AI Day Seoul Opens: Samsung, SK, LG to Showcase Physical AI Technologies - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE04bjMwQnBmZm1CdnpBakVOT0NrM25FTW9PaDJxV1ZkUEZNRUFabW1hTzlVU1ZPbFlaUlF0Q3NoQTAwaXkybEFndGpUOWxRSTdxc0lVcHRvU05ZY0xISFVFWUFXblpTSkcxNUxNLWNIeU9RTjUyREE?oc=5) |
-| 2026-11-08 | Startup Founder Interview: RAI Is Building the Cognitive Architecture Behind Humanoid Robots - HackerNoon | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzNvT2JmU3V1c1FZZXNVdTE0N0FLTG50NUFxOTFBOTFtQzdYbG5wR2pKU3kycXNVNGRKdjJpX0owMV9NeE4wWlAyNlRWMXNNNmt4d0p5dnFjcWFKb1dmbzQyM180ZzYzbms3QkNxTS15ZzQ0Mm1yWkszUFJJX2RwbXgzRXUzbDNtRmZBZjFLY19vdW5fdTlaalZmQVcxeHdOYXQ2TnVYMFFlU1NKU3dqUjFfV2w?oc=5) |
-| 2026-11-07 | Ondine Capital Announces First Close Of Fund III To Invest In AI, Semiconductors, And Physical AI Startups - Pulse 2.0 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczB4Sm9yMHFyRkdSM1JORzlZTEhFX3hvMWJqRk1ZZW5qRFN6aHhFc0Z0VEpGNjJUYkwyTHp6LU5vUmRmcGRtajlsYkY2U0lwU25MLU1OSjhfREtpdzVOYTNxaE02YmwtQllEalpCWnhRVE1Pa1lSelJscVRybG5VR2FqU3FRaE9vSFZmQXNtR0VvbzRLMERuS3k5c0YtZ1FMVTRRdmNxRDdGN29QcjBMVVRzSWZial9LcFBsdHM4VGV4UQ?oc=5) |
 | 2026-11-07 | The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ) - Seeking Alpha | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJHUFZXc2xYc0dDSHdkaHhicmpzZldYU0lua0ZzWk5mU2RpU3E0b3hpR0o0MUIybmE0ZFRZZ3M2bEtBVWV0RjhjY3dmVTloRE9OZkhPOE9vS3RJMlVvVlpVY2RCU2VRa2JZWWczVXRZeFg5QTV0SERPOTVhMk90dkFDS3hYcXFwRXRnRENqWFZrcDJDVW9ORm4yTmE5TDlGU3RBb0FOdlJXd1V2bGc?oc=5) |
+| 2026-11-06 | Newly Public Agility Wants to Prove Physical AI Has Legs - The Daily Upside | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTFSUEl3QmUyckowaEJNLW40U1MtZllGR1NMZC1wb1BJd3lIUjUyM0w3NUp3cUpKcHFteWNUYTBJRFczVnlJRG1hRzBHY2I3VGEtN3ZMX0p0VEdLSE9Od2hCTmgwWUNlZUlDVlBsdzk4OVd5bGgtck1LNFhrSERaaXIzLXRlQ2NKeS1iQlZHNUpJTXBsZmc4bEdGam9wby1UejNRVmxLWjNnbmx4dE9jbVoyR0tFTzlSTG5ocWhFclk?oc=5) |
+| 2026-11-06 | Physicl Raises $10M Seed to Address Physical AI’s Edge-Case Problem - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXVmakJKZ0NHREVzTE9vYjQ2bTdUNzRGV3FfT1BRR1NHRHc4azVwSzM1TGF6Z1Z1Y29mcHh1c2tuMEdsUUdEWElNYi1SRGt6OHRNS1dCVndJNVl2Z3YtTXA5UjFQeWMwMl8weFNLTlExVWZyZGhnVzBkTmtjS2ptcTlidzh2ZkFnWEJQVnIxZmk?oc=5) |

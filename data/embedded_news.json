@@ -1,5 +1,12 @@
 [
   {
+    "title": "Custom Game Boy Cart Speeds Up Development",
+    "source": "Hackaday",
+    "date": "2026-11-08",
+    "url": "https://hackaday.com/2026/11/08/custom-game-boy-cart-speeds-up-development/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"517\" src=\"https://hackaday.com/wp-content/uploads/2026/11/gbdevcart_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days, it is easy enough to get a flash cart for your Game Boy that makes it easy to run code &#8212; yours or otherwise &#8212; on it, but <a class=\"read-more\" href=\"https://hackaday.com/2026/11/08/custom-game-boy-cart-speeds-up-development/\">&#8230;read more</a>"
+  },
+  {
     "title": "An FPGA Version of the AT&T UNIX PC for MiSTer",
     "source": "Hackaday",
     "date": "2026-11-08",
@@ -35,6 +42,13 @@
     "summary": "<div><img alt=\"Procolored K13 Lite DTF printer review\" class=\"attachment-medium size-medium wp-post-image\" height=\"454\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Procolored-K13-Lite-DTF-printer-review-720x454.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Back in May, we wrote about the Procolored X One 3-in-1 laser engraver with UV and UV-DTF color printing, and the company contacted us a few months later for a review. But instead of having us review the laser engraver, they proposed that we test their K13 Lite DTF printer &#8220;developed for small businesses and creators producing customized apparel and merchandise&#8221;. Basically, a T-shirt printer using DTF (Direct-to-Film) technology. I wasn&#8217;t so sure at first, since T-shirt and garment printing isn&#8217;t exactly one of the primary topics we cover here at CNX Software! But I eventually decided to go ahead, since it might be interesting to understand the setup process, workflow, software, print quality/durability, and maintenance requirements for such a machine. So, let&#8217;s get started! Procolored K13 Lite DTF printer (and friends) unboxing A DTF printer does not print directly onto ordinary paper or garments. It prints the design onto [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/08/procolored-k13-lite-dtf-printer-review-custom-apparel-printing-with-printer-curing-oven-and-heat-press/\">Procolored K13 Lite DTF printer review &#8211; Custom apparel printing with printer, curing oven, and heat press</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Adafruit Weekly Editorial Round-Up: Stitch Different, 600 CircuitPython Libraries & more!",
+    "source": "Adafruit",
+    "date": "2026-11-08",
+    "url": "https://blog.adafruit.com/2026/11/08/adafruit-weekly-editorial-round-up-stitch-different-600-circuitpython-libraries-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG There are now 600 [&#8230;]"
+  },
+  {
     "title": "Ham radio operator helps police with robbery #HamSunday",
     "source": "Adafruit",
     "date": "2026-11-08",
@@ -61,13 +75,6 @@
     "date": "2026-11-07",
     "url": "https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/",
     "summary": "<div><img alt=\"Two 3D-printed enclosures, one blue and one red, sit on a workmat. In front of the blue enclosure, a soldering iron sits in a blue-and-yellow soldering iron stand.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Despite not being inherently any better at converting electricity into heat, induction-heated soldering irons often considerably outperform conventional irons with an identical power rating. They manage this by directly heating <a class=\"read-more\" href=\"https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Supercon 2026: Streaming Live",
-    "source": "Hackaday",
-    "date": "2026-11-07",
-    "url": "https://hackaday.com/2026/11/07/supercon-2026-streaming-live/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2025/10/2025_hackaday_supercon_banner_thumbnail.png?w=625\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"625\" /></div>While we&#8217;d love to have you all join us in Pasadena for Supercon 2026, the next best thing is to connect up to the festivities remotely through the magic of <a class=\"read-more\" href=\"https://hackaday.com/2026/11/07/supercon-2026-streaming-live/\">&#8230;read more</a>"
   },
   {
     "title": "Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash",
@@ -243,13 +250,6 @@
     "date": "2026-11-06",
     "url": "https://blog.adafruit.com/2026/11/06/set-up-n8n-on-the-raspberry-pi/",
     "summary": "PiMyLifeUp shares how to self-host n8n on your Raspberry Pi. n8n is a self-hosted workflow automation tool. You build each workflow by connecting nodes on a canvas, where each node fetches some data, changes it, or sends it somewhere else. With hundreds of built-in integrations, it is often compared to services like Zapier and Make."
-  },
-  {
-    "title": "Why this obscure audio codec is a perfect fit for the N64",
-    "source": "Adafruit",
-    "date": "2026-11-06",
-    "url": "https://blog.adafruit.com/2026/11/06/why-this-obscure-audio-codec-is-a-perfect-fit-for-the-n64/",
-    "summary": "The N64 had poor options for recorded audio. Cartridge space was tight, the CPU ran at 93 MHz, and Nintendo kept third parties away from the RSP vector co-processor for years. Most games built music from short samples like a tracker. Libdragon, the open source alternative to Nintendo&#8217;s library, has an ADPCM decoder and even [&#8230;]"
   },
   {
     "title": "Building Better Hardware Together: How Hackster.io Fosters Community-Driven Innovation",
