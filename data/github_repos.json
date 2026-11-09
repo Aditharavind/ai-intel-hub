@@ -1,13 +1,13 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 30049,
+    "stars": 30057,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-11-08",
     "topic": "embodied-ai",
-    "score": 12019.7
+    "score": 12022.9
   },
   {
     "repo": "copper-project/copper-rs",
@@ -61,13 +61,13 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 25834,
+    "stars": 25844,
     "language": "Python",
     "description": "Design physical products with AI",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-11-08",
     "topic": "robotics",
-    "score": 10333.7
+    "score": 10337.7
   },
   {
     "repo": "questdb/questdb",
@@ -80,14 +80,24 @@
     "score": 7004.9
   },
   {
+    "repo": "google-deepmind/mujoco",
+    "stars": 16395,
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "date": "2026-11-08",
+    "topic": "robotics",
+    "score": 6558.1
+  },
+  {
     "repo": "ArduPilot/ardupilot",
-    "stars": 16330,
+    "stars": 16331,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-11-08",
     "topic": "robotics",
-    "score": 6532.1
+    "score": 6532.5
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -131,23 +141,23 @@
   },
   {
     "repo": "deeplethe/utopia",
-    "stars": 8696,
+    "stars": 8697,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-11-08",
     "topic": "world-model",
-    "score": 3478.5
+    "score": 3478.9
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7629,
+    "stars": 7631,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-11-08",
     "topic": "world-model",
-    "score": 3051.7
+    "score": 3052.5
   },
   {
     "repo": "inclusionAI/AWorld",
@@ -158,6 +168,16 @@
     "date": "2026-11-08",
     "topic": "world-model",
     "score": 497.7
+  },
+  {
+    "repo": "NucleoidAI/Nucleoid",
+    "stars": 771,
+    "language": "Rust",
+    "description": "World Model 🌱🐋🌍",
+    "url": "https://github.com/NucleoidAI/Nucleoid",
+    "date": "2026-11-08",
+    "topic": "world-model",
+    "score": 308.5
   },
   {
     "repo": "LambdaHumanoid/openlambda",
@@ -201,13 +221,13 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 84704,
+    "stars": 84709,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-11-07",
     "topic": "robotics",
-    "score": 33881.7
+    "score": 33883.7
   },
   {
     "repo": "NaiboWang/EasySpider",
@@ -221,23 +241,13 @@
   },
   {
     "repo": "wechaty/wechaty",
-    "stars": 23532,
+    "stars": 23534,
     "language": "TypeScript",
     "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
     "url": "https://github.com/wechaty/wechaty",
     "date": "2026-11-07",
     "topic": "robotics",
-    "score": 9412.9
-  },
-  {
-    "repo": "google-deepmind/mujoco",
-    "stars": 16333,
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "url": "https://github.com/google-deepmind/mujoco",
-    "date": "2026-11-07",
-    "topic": "robotics",
-    "score": 6533.3
+    "score": 9413.7
   },
   {
     "repo": "OpenHUTB/hutb",
@@ -281,13 +291,13 @@
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3899,
+    "stars": 3900,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-11-06",
     "topic": "physical-ai",
-    "score": 1559.7
+    "score": 1560.1
   },
   {
     "repo": "Edgenesis/shifu",
@@ -331,13 +341,13 @@
   },
   {
     "repo": "dexmal/opendm",
-    "stars": 2385,
+    "stars": 2394,
     "language": "Python",
     "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
     "url": "https://github.com/dexmal/opendm",
     "date": "2026-11-06",
     "topic": "vla",
-    "score": 954.1
+    "score": 957.7
   },
   {
     "repo": "baidu-baige/LoongForge",
@@ -421,23 +431,23 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 3052,
+    "stars": 3054,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-11-05",
     "topic": "robot-learning",
-    "score": 1220.9
+    "score": 1221.7
   },
   {
     "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 499,
+    "stars": 500,
     "language": "HTML",
     "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
     "url": "https://github.com/luohongk/Embodied-AI-Daily",
     "date": "2026-11-05",
     "topic": "vla",
-    "score": 199.7
+    "score": 200.1
   },
   {
     "repo": "robocurve/inspect-robots",
@@ -561,13 +571,13 @@
   },
   {
     "repo": "huangjunsen0406/py-xiaozhi",
-    "stars": 3547,
+    "stars": 3548,
     "language": "Python",
     "description": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
     "url": "https://github.com/huangjunsen0406/py-xiaozhi",
     "date": "2026-10-31",
     "topic": "embodied-ai",
-    "score": 1418.9
+    "score": 1419.3
   },
   {
     "repo": "groundingpi/GroundingPI",
@@ -601,13 +611,13 @@
   },
   {
     "repo": "reality-opened/openreality",
-    "stars": 649,
+    "stars": 651,
     "language": "Python",
     "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
     "url": "https://github.com/reality-opened/openreality",
     "date": "2026-10-30",
     "topic": "lerobot",
-    "score": 259.7
+    "score": 260.5
   },
   {
     "repo": "ROBOTIS-GIT/physical_ai_tools",
@@ -838,15 +848,5 @@
     "date": "2026-10-11",
     "topic": "humanoid",
     "score": 680.1
-  },
-  {
-    "repo": "thu-ml/Motus",
-    "stars": 1316,
-    "language": "Python",
-    "description": "Official code of Motus: A Unified Latent Action World Model",
-    "url": "https://github.com/thu-ml/Motus",
-    "date": "2026-10-09",
-    "topic": "world-model",
-    "score": 526.5
   }
 ]

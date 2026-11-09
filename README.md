@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-08 20:49 UTC
+Last Updated: 2026-11-09 00:10 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,58 +49,47 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-09 | Space Invaders on a VFD | Hackaday | [link](https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/) |
+| 2026-11-09 | M5Stack Core Matrix ESP32-C61 IoT controller features 16×16 LED matrix, WiFi 6, and 6-axis IMU | CNX Software | [link](https://www.cnx-software.com/2026/11/09/m5stack-core-matrix-esp32-c61-iot-controller-features-16x16-led-matrix-wifi-6-and-6-axis-imu/) |
+| 2026-11-08 | Lillith Tells Your Future | Hackaday | [link](https://hackaday.com/2026/11/08/lillith-tells-your-future/) |
 | 2026-11-08 | Custom Game Boy Cart Speeds Up Development | Hackaday | [link](https://hackaday.com/2026/11/08/custom-game-boy-cart-speeds-up-development/) |
 | 2026-11-08 | An FPGA Version of the AT&T UNIX PC for MiSTer | Hackaday | [link](https://hackaday.com/2026/11/08/an-fpga-version-of-the-att-unix-pc-for-mister/) |
 | 2026-11-08 | Making a Dog Car Wash Without (very) Fancy Tools | Hackaday | [link](https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/) |
 | 2026-11-08 | Artemis II Rocket Was Powerful Enough to Disrupt GPS | Hackaday | [link](https://hackaday.com/2026/11/07/artemis-ii-rocket-was-powerful-enough-to-disrupt-gps/) |
 | 2026-11-08 | Play Text Adventures on an E-Paper Handheld | Hackaday | [link](https://hackaday.com/2026/11/07/play-text-adventures-on-an-e-paper-handheld/) |
 | 2026-11-08 | Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press | CNX Software | [link](https://www.cnx-software.com/2026/11/08/procolored-k13-lite-dtf-printer-review-custom-apparel-printing-with-printer-curing-oven-and-heat-press/) |
-| 2026-11-08 | Adafruit Weekly Editorial Round-Up: Stitch Different, 600 CircuitPython Libraries & more! | Adafruit | [link](https://blog.adafruit.com/2026/11/08/adafruit-weekly-editorial-round-up-stitch-different-600-circuitpython-libraries-more/) |
-| 2026-11-08 | Ham radio operator helps police with robbery #HamSunday | Adafruit | [link](https://blog.adafruit.com/2026/11/08/ham-radio-operator-helps-police-with-robbery-hamsunday/) |
-| 2026-11-08 | Adafruit New Products this Week: LT8912B DSI to DVI Converter | Adafruit | [link](https://blog.adafruit.com/2026/11/07/adafruit-new-products-this-week-lt8912b-dsi-to-dvi-converter/) |
-| 2026-11-07 | Proper Linux, On An ESP32 | Hackaday | [link](https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/) |
+| 2026-11-08 | Aaron Swartz Day – Why We’re Pursuing Our Case Against Flux | Adafruit | [link](https://blog.adafruit.com/2026/11/08/aaron-swartz-day-why-were-pursuing-our-case-against-flux/) |
 
 ## New Research Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-11-05 | OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions | [link](https://arxiv.org/pdf/2611.08462v1) |
-| 2026-11-05 | Latent RL Priors for Data-Efficient Dexterous Manipulation | [link](https://arxiv.org/pdf/2611.08458v1) |
-| 2026-11-05 | VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding | [link](https://arxiv.org/pdf/2611.08449v1) |
-| 2026-11-05 | Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing | [link](https://arxiv.org/pdf/2611.08425v1) |
-| 2026-11-05 | T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models | [link](https://arxiv.org/pdf/2611.08413v1) |
-| 2026-11-05 | Social Humanoid: Socially Responsive Human-Humanoid Interaction | [link](https://arxiv.org/pdf/2611.08407v1) |
-| 2026-11-05 | A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation | [link](https://arxiv.org/pdf/2611.08398v1) |
-| 2026-11-05 | Learning a patient world model for health system simulation in intensive care | [link](https://arxiv.org/pdf/2611.08392v1) |
-| 2026-11-05 | SCALE: Real-Time Latent Communication for Cyber-Physical Agents | [link](https://arxiv.org/pdf/2611.08390v1) |
-| 2026-11-05 | SLA: Scaling Spatial-Language-Action Model via Continual Pre-training | [link](https://arxiv.org/pdf/2611.08373v1) |
+_No items collected yet._
 
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-09 | junbrro/h2rb-e4-object-geooff-bbtonly-vla30k-20261109 | 0 | 0 | [link](https://huggingface.co/junbrro/h2rb-e4-object-geooff-bbtonly-vla30k-20261109) |
+| 2026-11-09 | driftwood3342/flow-vla-rl-checkpoints | 0 | 0 | [link](https://huggingface.co/driftwood3342/flow-vla-rl-checkpoints) |
+| 2026-11-08 | RobotisSW/GR00T-N1.7-SH5-Task000905-100k-Hand_Intern-R2 | 0 | 0 | [link](https://huggingface.co/RobotisSW/GR00T-N1.7-SH5-Task000905-100k-Hand_Intern-R2) |
+| 2026-11-08 | RobotisSW/refilling_baseline_80k | 0 | 0 | [link](https://huggingface.co/RobotisSW/refilling_baseline_80k) |
 | 2026-11-08 | kimtaey/cosmos3-ap-openarm-bos-robot-auxonly-hi-robmov-chain-lam10-aug-v2v-b256-4k | 0 | 0 | [link](https://huggingface.co/kimtaey/cosmos3-ap-openarm-bos-robot-auxonly-hi-robmov-chain-lam10-aug-v2v-b256-4k) |
 | 2026-11-08 | shambhuraje/Llama-3.2-1B-no-robots-GGUF | 0 | 1 | [link](https://huggingface.co/shambhuraje/Llama-3.2-1B-no-robots-GGUF) |
 | 2026-11-08 | kimtaey/cosmos3-ap-openarm-bos-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-b256-4k | 0 | 0 | [link](https://huggingface.co/kimtaey/cosmos3-ap-openarm-bos-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-b256-4k) |
 | 2026-11-08 | kimtaey/cosmos3-ap-openarm-bos-robot-aug-v2v-b256-4k | 0 | 0 | [link](https://huggingface.co/kimtaey/cosmos3-ap-openarm-bos-robot-aug-v2v-b256-4k) |
 | 2026-11-08 | gulucaptain/zero-wam-robotwin-version-b1-e200 | 0 | 0 | [link](https://huggingface.co/gulucaptain/zero-wam-robotwin-version-b1-e200) |
 | 2026-11-08 | dzon-robotics/act_klocki | 0 | 0 | [link](https://huggingface.co/dzon-robotics/act_klocki) |
-| 2026-11-08 | RainyBot/SemWAM-RoboTwin-Clean2Random-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Clean2Random-v1) |
-| 2026-11-08 | Myungkyu/cosmos3_mot_l36_d1024_robotwin_decoupled_b64_60k_h48e24_ema | 0 | 0 | [link](https://huggingface.co/Myungkyu/cosmos3_mot_l36_d1024_robotwin_decoupled_b64_60k_h48e24_ema) |
-| 2026-11-08 | robotcpp/bitvla-libero-long-i2s | 0 | 0 | [link](https://huggingface.co/robotcpp/bitvla-libero-long-i2s) |
-| 2026-11-08 | robotcpp/bitvla-libero-goal-i2s | 0 | 0 | [link](https://huggingface.co/robotcpp/bitvla-libero-goal-i2s) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30049 | Python | 12019.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30057 | Python | 12022.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1547 | Rust | 618.9 | [link](https://github.com/copper-project/copper-rs) |
 | mosaico-labs/mosaico | 1120 | Python | 448.1 | [link](https://github.com/mosaico-labs/mosaico) |
 | RobotecAI/rai | 614 | Python | 245.7 | [link](https://github.com/RobotecAI/rai) |
 | autonomous-ai/lampOS | 552 | Python | 220.9 | [link](https://github.com/autonomous-ai/lampOS) |
 | commaai/openpilot | 64090 | Python | 25636.1 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 25834 | Python | 10333.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| earthtojake/text-to-cad | 25844 | Python | 10337.7 | [link](https://github.com/earthtojake/text-to-cad) |
 | questdb/questdb | 17512 | Java | 7004.9 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16330 | C++ | 6532.1 | [link](https://github.com/ArduPilot/ardupilot) |
-| datawhalechina/every-embodied | 4417 | Jupyter Notebook | 1766.9 | [link](https://github.com/datawhalechina/every-embodied) |
+| google-deepmind/mujoco | 16395 | C++ | 6558.1 | [link](https://github.com/google-deepmind/mujoco) |
+| ArduPilot/ardupilot | 16331 | C++ | 6532.5 | [link](https://github.com/ArduPilot/ardupilot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -128,7 +117,7 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-06 | Unitree ties up with oil giant, AI startup to develop embodied AI robots for oilfields, refineries - Global Times | embodied ai startup | [link](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJb05KSDdYdzBCLXAxNzBlYjNvQkh1TzhlNllnVE9jXzg2VE0yRTM1VHhwUExYcHlpbmtndnU5X3pGdVQ0ZFcxc0pyMTJoallmWXgyVmc5OXBDdi00ejR4TlNn?oc=5) |
 | 2026-11-05 | Serve Robotics launches new business to become the AWS for robots - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5) |
 | 2026-11-05 | Agility Robotics is taking humanoid robots public in a first for Wall Street - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5) |
-| 2026-11-03 | Top Robotics And Embodied AI Startups In China To Watch In 2027 - TechRound | embodied ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWJQUzE0d3p6RHA5bU05REF5NHU1TlA1RVdGTWx3dVZoVFlPWWFiLWZQd2NiblJnVDFnUEhyTkFWQ2l1bUZmNFFadG5iaFJ5NS05aThfd3BDWVRPRFNtWXlVRzllMEZfUjNUXy1zUVJjd3BKUkNMUkd1aGJOMmFHT3hBcWtXOWc2a0pVeTNMWk9OSnBQcmRmZlRISmplUQ?oc=5) |
+| 2026-11-04 | 2 Biggest Funding Rounds: Re:Build & Kalshi [Oct 2026] - shattered.io | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVdHX05INXlnTkluZ0RGRGZOUWkyR0FQcmpxVzVOQUY4c1lqLWtzS0N2WHNKM1dkOFJETExwTUpuZWpCazdpUkpGcFZBaXhoNGM2dXBTTU9MY3VCOTdUTS02MjduVXV0V1JEbzAxUm0walBVMlRhRmpNTlpQQXc5SElQNXU1clFI?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

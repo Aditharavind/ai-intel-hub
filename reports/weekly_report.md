@@ -1,29 +1,23 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-08 20:49 UTC
+Generated: 2026-11-09 00:10 UTC
 
 ## Top Papers
-| Published | Title | PDF |
-| --- | --- | --- |
-| 2026-11-05 | OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions | [link](https://arxiv.org/pdf/2611.08462v1) |
-| 2026-11-05 | Latent RL Priors for Data-Efficient Dexterous Manipulation | [link](https://arxiv.org/pdf/2611.08458v1) |
-| 2026-11-05 | VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding | [link](https://arxiv.org/pdf/2611.08449v1) |
-| 2026-11-05 | Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing | [link](https://arxiv.org/pdf/2611.08425v1) |
-| 2026-11-05 | T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models | [link](https://arxiv.org/pdf/2611.08413v1) |
+_No items collected yet._
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84704 | 33881.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 84709 | 33883.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 64090 | 25636.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44771 | 17908.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30875 | 12350.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30049 | 12019.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30057 | 12022.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| pollen-robotics/microduck-policies | 60281 | 18094.8 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
+| pollen-robotics/microduck-policies | 60281 | 18095.0 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
 | zxyty/physicalai-dinov3-vitl16 | 4723 | 1417.0 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
 | EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo | 1405 | 421.6 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-reasoning-grpo) |
 | EPFL-LARA/lean-world-model-qwen3-8b-grpo | 1332 | 399.7 | [link](https://huggingface.co/EPFL-LARA/lean-world-model-qwen3-8b-grpo) |
