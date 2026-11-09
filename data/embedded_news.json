@@ -1,5 +1,33 @@
 [
   {
+    "title": "Reverse Engineering a 1960s Diode-Transistor Logic IC",
+    "source": "Hackaday",
+    "date": "2026-11-09",
+    "url": "https://hackaday.com/2026/11/09/reverse-engineering-a-1960s-diode-transistor-logic-ic/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"361\" src=\"https://hackaday.com/wp-content/uploads/2026/11/signetics-ad.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Before transistor-transistor logic (TTL) took over, diode-transistor logic (DTL) was a common sight especially in pre-IC circuits where it was a major improvement over resistor-transistor logic (RTL). That said, it&#8217;s <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/reverse-engineering-a-1960s-diode-transistor-logic-ic/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Radon Active",
+    "source": "Hackaday",
+    "date": "2026-11-09",
+    "url": "https://hackaday.com/2026/11/09/radon-active/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/10/RadonDetector.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When you think about nuclear radiation, you often think about power plants, but it turns out there&#8217;s radioactive stuff all over the place: smoke detectors, granite counters, bananas, and potatoes <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/radon-active/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Web Satellite Tracker Plays the Music of the Spheres",
+    "source": "Hackaday",
+    "date": "2026-11-09",
+    "url": "https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2026/11/orbitsounds_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are a dizzying number of satellites in orbit around the Earth these days, and more are being added at an incredible rate. Those of us with an interest in <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Determining Location by Listening for Airplanes",
+    "source": "Hackaday",
+    "date": "2026-11-09",
+    "url": "https://hackaday.com/2026/11/09/determining-location-by-listening-for-airplanes/",
+    "summary": "<div><img alt=\"An audio spectrogram is shown in the middle of the image, with intensity plots shown both above and below the spectrogram. A vertical yellow line runs through all three graphs.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/doppler_curve_location.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Beyond what people deliberately disclose, there’s a surprising amount of information hidden in everyday messages, especially photos and videos. Even when people try to hide the location or time at <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/determining-location-by-listening-for-airplanes/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Smart Alarm Clock That Doesn’t Sell Your Soul",
     "source": "Hackaday",
     "date": "2026-11-09",
@@ -21,6 +49,20 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"316\" src=\"https://hackaday.com/wp-content/uploads/2026/11/vfdinvade_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When most people think of vacuum fluorescent displays (VFDs), they probably imagine the clock on a microwave or the equalizer on a piece of stereo equipment. But there was a <a class=\"read-more\" href=\"https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/\">&#8230;read more</a>"
   },
   {
+    "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
+    "source": "CNX Software",
+    "date": "2026-11-09",
+    "url": "https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/",
+    "summary": "<div><img alt=\"Seeed Studio XIAO STM32C5\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Seeed-Studio-XIAO-STM32C5-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Seeed Studio XIAO STM32C5 is the company&#8217;s first XIAO development board based on an STMicroelectronics MCU, namely a 144 MHz STM32C5A3CG Arm Cortex-M33 microcontroller. It features two CAN FD controllers and a 6-axis IMU with programmable heating for robotics, industrial control, and motion-sensing applications. The board also includes 16MB of external flash, a 48 MHz external crystal, a USB-C port, and battery charging circuitry. One CAN FD channel is connected to an onboard transceiver, while the second requires an external transceiver. The integrated IMU heater allows firmware to control sensor temperature and reduce measurement drift from temperature changes. XIAO STM32C5 specifications: MCU – STMicroelectronics STM32C5A3CG CPU – 144 MHz Arm Cortex-M33 with FPU and DSP instructions Memory – 256KB SRAM Storage – 1MB internal flash Storage – 16MB external flash USB – USB Type-C port with USB 2.0 Full-Speed support (12 Mbps) CAN Bus 2x CAN FD controllers (FDCAN1 and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/\">Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "SparkFun IoT RedBoard ESP32-P4 – Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options",
+    "source": "CNX Software",
+    "date": "2026-11-09",
+    "url": "https://www.cnx-software.com/2026/11/09/sparkfun-iot-redboard-esp32-p4-arduino-uno-like-esp32-p4-v3-x-development-boards-with-wifi-6-or-poe-options/",
+    "summary": "<div><img alt=\"SparkFun IoT RedBoard ESP32 C5 (left) and ESP32 P4 PoE (right) development boards\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/SparkFun-IoT-RedBoard-ESP32-C5-left-and-ESP32-P4-PoE-right-development-boards-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>SparkFun introduced two new development boards called IoT RedBoard, both based on the ESP32-P4 v3.x (ESP32-P4X) and compatible with the Arduino UNO R3 form factor. The main difference is that one features an ESP32-C5 for Wi-Fi 6, Bluetooth 5 LE, Zigbee, and Thread connectivity, while the PoE version includes 10/100 Mbps Ethernet and Power over Ethernet (PoE) support. They also include MIPI CSI/DSI camera and display connectors, two USB-C ports, a microSD card slot, Qwiic expansion, Arduino R3-compatible headers, and LiPo battery charging and monitoring. These features make it suitable for HMI, edge computing, and IoT applications. SparkFun IoT RedBoard ESP32-P4 specifications: SoC – Espressif Systems ESP32-P4NRW32X v3.x CPU Dual-core 32-bit RISC-V HP (High-performance) processor @ up to 400 MHz with AI instruction extensions and single-precision FPU Single-core 32-bit RISC-V LP (Low-power) processor @ up to 40 MHz Memory – 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/09/sparkfun-iot-redboard-esp32-p4-arduino-uno-like-esp32-p4-v3-x-development-boards-with-wifi-6-or-poe-options/\">SparkFun IoT RedBoard ESP32-P4 &#8211; Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Black Friday Deal: Over $200 Off the VZMORE AX9 Max Mini PC! (Sponsored)",
     "source": "CNX Software",
     "date": "2026-11-09",
@@ -35,18 +77,32 @@
     "summary": "<div><img alt=\"M5Stack Core Matrix Dev Kit (ESP32 C61)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/M5Stack-Core-Matrix-Dev-Kit-ESP32-C61-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>M5Stack&#8217;s Core Matrix is an ESP32-C61-based IoT controller with a 16×16 white LED matrix for displaying icons, animations, device status, and notifications. It supports 2.4 GHz WiFi 6 connectivity and is designed for IoT applications, sensor data monitoring, and interactive displays. It also includes a 6-axis BMI270 IMU, a microSD card slot, a passive buzzer, three user buttons, a power button, and a USB-C port. The board supports external modules and sensors through M5-Bus and Grove interfaces, with battery-power management circuitry that lets it run on either USB power or an external battery. M5Stack Core Matrix specifications: SoC – Espressif Systems ESP32-C61HR8 CPU – Single 32-bit RISC-V core clocked up to 160MHz Memory – 320KB SRAM, 8MB PSRAM Storage –  256KB ROM, 16MB QSPI flash Wireless – WiFi 6 and Bluetooth LE 5.0 Storage – microSD card slot Display – 16×16 white LED matrix (256 LEDs) driven by TM1680 Audio [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/09/m5stack-core-matrix-esp32-c61-iot-controller-features-16x16-led-matrix-wifi-6-and-6-axis-imu/\">M5Stack Core Matrix ESP32-C61 IoT controller features 16×16 LED matrix, WiFi 6, and 6-axis IMU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
+    "source": "Electronics Weekly",
+    "date": "2026-11-09",
+    "url": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
+    "summary": "<p>Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/\">Aratas introduces G6TA series of reed relays for safety-monitoring</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "CesiumAstro satellite antenna specialist raises $730m",
+    "source": "Electronics Weekly",
+    "date": "2026-11-09",
+    "url": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
+    "summary": "<p>CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads &#8211; the company highlights &#8211; combine active phased array antennas, RF front ends, analogue and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/\">CesiumAstro satellite antenna specialist raises $730m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Jensen Huang apologises: Nvidia board investigates",
     "source": "Electronics Weekly",
     "date": "2026-11-09",
     "url": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
-    "summary": "<p>After Jensen Huang (pictured) admitted an affair with  Alice Huang, a senior exec at Singapore datacentre company Megaspeed, who U.S. intelligence officials believe is a Chinese spy, the board of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/\">Jensen Huang apologises: Nvidia board investigates</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior executive at Singapore datacentre company Megaspeed, who US intelligence officials believe is a Chinese spy. The board of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/\">Jensen Huang apologises: Nvidia board investigates</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "TSMC rumoured to be eyeing 3D DRAM",
     "source": "Electronics Weekly",
     "date": "2026-11-09",
     "url": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
-    "summary": "<p>TSMC is said to have appointed vp Hsu Kuo-Chin to look at how the company could get into 3D DRAM according to multiple industry reports, but it would seem that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/\">TSMC rumoured to be eyeing 3D DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>TSMC is said to have appointed vice-president Hsu Kuo-Chin to look at how the company could get into 3D DRAM, according to multiple industry reports, but it would seem that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/\">TSMC rumoured to be eyeing 3D DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Toshiba gets £20m government contract to commercialise quantum",
@@ -60,7 +116,7 @@
     "source": "Electronics Weekly",
     "date": "2026-11-09",
     "url": "https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/",
-    "summary": "<p>Europe AI companies raised $27.6B in the first nine months of 2026, up 3.2x from $8.6B in 9M 2025, says Tracxn Technologies. The ten largest rounds raised $19.0B of that, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/\">European AI companies have raised $27.6bn this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Europe AI companies raised $27.6bn in the first nine months of 2026, up 3.2-times from $8.6bn in 9M 2025, says Tracxn Technologies. The 10 largest rounds raised $19.0bn of that, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/\">European AI companies have raised $27.6bn this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Consoles Take A Dive",
@@ -81,7 +137,7 @@
     "source": "Electronics Weekly",
     "date": "2026-11-09",
     "url": "https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/",
-    "summary": "<p>The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10, 2026. The 2026 Dr. Morris [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/\">GSA Awards 2026 nominees</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday 10 December 2026. The 2026 Dr Morris [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/\">GSA Awards 2026 nominees</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Ed Takes Advantage From Project Fear",
@@ -91,39 +147,116 @@
     "summary": "<p>The government is terrified that the behaviour of the revolting frogs will cross the channel and infect our own people who, enraged by the same problems of rising living costs [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-takes-advantage-from-project-fear-2026-11/\">Ed Takes Advantage From Project Fear</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "title": "Smart Humidity Monitor & Alert System with Windows GUI",
     "source": "Adafruit",
     "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-8-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/09/smart-humidity-monitor-alert-system-with-windows-gui/",
+    "summary": "Mousavi posted a humidity monitor on Hackster.io that watches a room and says when it&#8217;s time to switch on a humidifier. The original plan was full automation: a DHT11 sensor and a 5V relay to power a cool mist humidifier when the air got dry. That didn&#8217;t work. The humidifier has its own logic controller [&#8230;]"
   },
   {
-    "title": "Lillith Tells Your Future",
-    "source": "Hackaday",
-    "date": "2026-11-08",
-    "url": "https://hackaday.com/2026/11/08/lillith-tells-your-future/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/lilith_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Maybe you are old enough to remember Zoltar in an arcade, or perhaps you&#8217;re just a fan of the movie Big. Either way, maybe you&#8217;d like to build an animated fortune <a class=\"read-more\" href=\"https://hackaday.com/2026/11/08/lillith-tells-your-future/\">&#8230;read more</a>"
+    "title": "ESP32-C3 fishing line counter with a 3D-printed wheel",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/esp32-c3-fishing-line-counter-with-a-3d-printed-wheel/",
+    "summary": "XiaoGai has posted a fishing line counter on Hackster.io, built from an ESP32-C3 SuperMini, a 0.96-inch SSD1306 OLED, an A3144E Hall module, a tactile button and a 3D-printed wheel. It doesn&#8217;t need a custom PCB or a pinch roller. The line wraps once around the wheel on the side of the case. Pulling the line [&#8230;]"
   },
   {
-    "title": "Custom Game Boy Cart Speeds Up Development",
-    "source": "Hackaday",
-    "date": "2026-11-08",
-    "url": "https://hackaday.com/2026/11/08/custom-game-boy-cart-speeds-up-development/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"517\" src=\"https://hackaday.com/wp-content/uploads/2026/11/gbdevcart_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>These days, it is easy enough to get a flash cart for your Game Boy that makes it easy to run code &#8212; yours or otherwise &#8212; on it, but <a class=\"read-more\" href=\"https://hackaday.com/2026/11/08/custom-game-boy-cart-speeds-up-development/\">&#8230;read more</a>"
+    "title": "Making a dog car wash without (very) fancy tools",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/making-a-dog-car-wash-without-very-fancy-tools/",
+    "summary": "Fenix Guthrie writes on Hackaday about a dog washing machine built by Stuff Made Here, which works like a drive-through car wash scaled down for a pet. An arch sprays the dog from oscillating nozzles that ride on linear rails driven by a DC motor. A second nozzle on the pods blows air to dry [&#8230;]"
   },
   {
-    "title": "An FPGA Version of the AT&T UNIX PC for MiSTer",
-    "source": "Hackaday",
-    "date": "2026-11-08",
-    "url": "https://hackaday.com/2026/11/08/an-fpga-version-of-the-att-unix-pc-for-mister/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"544\" src=\"https://hackaday.com/wp-content/uploads/2026/11/att_unix_pc_jda_wikimedia_cropped.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We all have our childhood heroes, which in the case of [Hrvoje Cavrak] was the 1985 AT&#38;T UNIX PC. This 18 kg behemoth of a workstation computer boasted a 10 MHz <a class=\"read-more\" href=\"https://hackaday.com/2026/11/08/an-fpga-version-of-the-att-unix-pc-for-mister/\">&#8230;read more</a>"
+    "title": "Why do some people hear pitch better than others? Internal noise may be the key",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/why-do-some-people-hear-pitch-better-than-others-internal-noise-may-be-the-key/",
+    "summary": "Woon Ju Park, writing in Scientific American, describes new research on why people who lost their sight early in life often hear so well. The study, published in the Journal of Neuroscience, points to something called internal noise: how consistently the auditory system responds to the same sound over and over. Less internal noise means [&#8230;]"
   },
   {
-    "title": "Making a Dog Car Wash Without (very) Fancy Tools",
-    "source": "Hackaday",
-    "date": "2026-11-08",
-    "url": "https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/dogWashFeat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Stuff Made Here] got fed up with the hassle of washing their dog, and in traditional engineer fashion, decided that automating the process would solve the problem. However, as science <a class=\"read-more\" href=\"https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/\">&#8230;read more</a>"
+    "title": "Play text adventures on an e-paper handheld",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/play-text-adventures-on-an-e-paper-handheld/",
+    "summary": "Jeremy Ngai Sew Poh has posted InkQuest on GitHub, a handheld text adventure game built around an ESP32, an e-paper display and a rotary encoder. The story text shows on the e-paper screen, the encoder scrolls through the choices, and a press picks one. Instead of a fixed script, the choices and the story come [&#8230;]"
+  },
+  {
+    "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+    "summary": "Jacek Krywko writing for Ars Technica covers a Science study that listened to the faint electrical crackle of current flowing into a copper-based superconductor. The team was led by Milan Allan of Ludwig Maximilian University of Munich and Ingmar Swart of Utrecht University. Cuprates superconduct at higher temperatures than most materials, but above that point [&#8230;]"
+  },
+  {
+    "title": "Turkey Placecard Holder #3DThursday #3DPrinting",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/turkey-placecard-holder-3dthursday-3dprinting/",
+    "summary": "KNDesigns3D shares: A placecard holder adapted from All Things STL&#8217;s turkey model — paint options limited only by creativity. 0.2mm layer, 2 walls, 10% infill. Two print files: 14h and 11.5h, each 1 plate. Designer suggests cloning the model in the print profile to print several at once — saves filament and time. Alt Thanksgiving [&#8230;]"
+  },
+  {
+    "title": "Tektronix unveils low cost scope with 12-bit ADC and built-in Bode plots",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/tektronix-unveils-low-cost-scope-with-12-bit-adc-and-built-in-bode-plots/",
+    "summary": "Tektronix has announced a new entry-level oscilloscope family, as reported by All About Circuits. The scopes use a 12-bit analog-to-digital converter, which splits an incoming signal into 4,096 levels instead of the 256 a typical 8-bit scope uses, so small details on top of a large signal are easier to see. The scopes also do [&#8230;]"
+  },
+  {
+    "title": "TV-Top Kiosk: 1080p from a Raspberry Pi Pico 2 W with no framebuffer",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/tv-top-kiosk-1080p-from-a-raspberry-pi-pico-2-w-with-no-framebuffer/",
+    "summary": "Aaron Gayle&#8217;s TV-Top Kiosk firmware, written up on Open Electronics, turns a Raspberry Pi Pico 2 W into an HDMI console for TV-Top Games, a tabletop platform where the television is the board and players use their phones. The kiosk joins a WiFi network, pairs with the TV-Top server and draws content the current game [&#8230;]"
+  },
+  {
+    "title": "Sem86 full-system x86 emulator",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/sem86-full-system-x86-emulator/",
+    "summary": "Sem86 is an x86 full-system emulator that loads instruction behavior from a file at runtime, so undefined or undocumented instructions can be changed by editing the file. That makes it possible to emulate undefined behavior and undocumented instructions the way a particular chip handles them. It uses LLVM rather than a custom JIT, and it&#8217;s [&#8230;]"
+  },
+  {
+    "title": "CompuServe, rebuilt",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/compuserve-rebuilt/",
+    "summary": "CompuServe Web is a working recreation of the 1980s CompuServe online service, written in Pascal and reachable from a web browser or a Telnet terminal. Logging on as a guest shows the service as it was, and page codes like GO CB or TOP come from an OCR&#8217;d copy of the CompuServe user manual. New [&#8230;]"
+  },
+  {
+    "title": "Playing Zork 1 on a CP/M emulator on Linux",
+    "source": "Adafruit",
+    "date": "2026-11-09",
+    "url": "https://blog.adafruit.com/2026/11/09/playing-zork-1-on-a-cp-m-emulator-on-linux/",
+    "summary": "Kevin Boone has written up how to run the 1980 text adventure Zork 1 on Linux, by way of CP/M running on an emulated Z80 processor. The post is on his site, kevinboone.me. CP/M was the operating system for early microcomputers with floppy drives, and it inspired MS-DOS. Zork was picked for the example because [&#8230;]"
+  },
+  {
+    "title": "Infineon redefines real-time compute and control for software-defined vehicles and Physical AI with new AURIX™ RC1",
+    "source": "EE Journal",
+    "date": "2026-11-09",
+    "url": "https://www.eejournal.com/industry_news/infineon-redefines-real-time-compute-and-control-for-software-defined-vehicles-and-physical-ai-with-new-aurix-rc1/",
+    "summary": "Fundamentally new automotive microcontroller platform is Infineon’s first to leverage the open-standard instruction set architecture RISC-V Platform simplifies development of software-defined vehicles by providing one common, highly scalable microcontroller basis across domains instead of point solutions High-end product lineup within the family will extend microcontroller domain with additional microprocessor capabilities to support further integration of [&#8230;]"
+  },
+  {
+    "title": "New Renesas RZ/T2N MPU Integrates Motor Control, Industrial Ethernet and Application Processing for Robots and Industrial Equipment",
+    "source": "EE Journal",
+    "date": "2026-11-09",
+    "url": "https://www.eejournal.com/industry_news/new-renesas-rz-t2n-mpu-integrates-motor-control-industrial-ethernet-and-application-processing-for-robots-and-industrial-equipment/",
+    "summary": "Handles motor control for up to four axes, industrial Ethernet and Linux application processing on a single chip Serves as both network controller and device supporting from PLCs to multi-axis servos and industrial robots Reduces board area and system complexity compared with conventional multi-chip configurations, enabling smaller equipment and faster development Will be demonstrated live [&#8230;]"
+  },
+  {
+    "title": "Infineon and SOLUM strengthen collaboration on HVDC power solutions for AI data centers",
+    "source": "EE Journal",
+    "date": "2026-11-09",
+    "url": "https://www.eejournal.com/industry_news/infineon-and-solum-strengthen-collaboration-on-hvdc-power-solutions-for-ai-data-centers/",
+    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) and SOLUM have signed a Memorandum of Understanding (MoU) to strengthen their existing collaboration on high-voltage direct current (HVDC) power solutions for AI data centers. Building on their ongoing technical cooperation, the companies plan to expand their work across three key power applications: intermediate bus converters (IBCs), [&#8230;]"
+  },
+  {
+    "title": "SECO and Peridio partner to speed robotics and Physical AI from development to deployment on Qualcomm Dragonwing",
+    "source": "EE Journal",
+    "date": "2026-11-09",
+    "url": "https://www.eejournal.com/industry_news/seco-and-peridio-partner-to-speed-robotics-and-physical-ai-from-development-to-deployment-on-qualcomm-dragonwing/",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"200\" src=\"https://www.eejournal.com/wp-content/uploads/2026/11/SECO_IQ2390_Detail_low-res-300x200.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />SECO S.p.A. (“SECO” or the “Company”) and Peridio, creator of Avocado OS, today announced a collaboration to make Avocado OS available across SECO’s portfolio of solutions based on Qualcomm Dragonwing™ platforms. Avocado OS gives SECO customers a production-ready Linux foundation from the first dev kit, so robotics and Physical AI teams can move from prototype [&#8230;]"
   },
   {
     "title": "Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press",
@@ -133,67 +266,11 @@
     "summary": "<div><img alt=\"Procolored K13 Lite DTF printer review\" class=\"attachment-medium size-medium wp-post-image\" height=\"454\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Procolored-K13-Lite-DTF-printer-review-720x454.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Back in May, we wrote about the Procolored X One 3-in-1 laser engraver with UV and UV-DTF color printing, and the company contacted us a few months later for a review. But instead of having us review the laser engraver, they proposed that we test their K13 Lite DTF printer &#8220;developed for small businesses and creators producing customized apparel and merchandise&#8221;. Basically, a T-shirt printer using DTF (Direct-to-Film) technology. I wasn&#8217;t so sure at first, since T-shirt and garment printing isn&#8217;t exactly one of the primary topics we cover here at CNX Software! But I eventually decided to go ahead, since it might be interesting to understand the setup process, workflow, software, print quality/durability, and maintenance requirements for such a machine. So, let&#8217;s get started! Procolored K13 Lite DTF printer (and friends) unboxing A DTF printer does not print directly onto ordinary paper or garments. It prints the design onto [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/08/procolored-k13-lite-dtf-printer-review-custom-apparel-printing-with-printer-curing-oven-and-heat-press/\">Procolored K13 Lite DTF printer review &#8211; Custom apparel printing with printer, curing oven, and heat press</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Aaron Swartz Day – Why We’re Pursuing Our Case Against Flux",
-    "source": "Adafruit",
-    "date": "2026-11-08",
-    "url": "https://blog.adafruit.com/2026/11/08/aaron-swartz-day-why-were-pursuing-our-case-against-flux/",
-    "summary": "Why Adafruit is pursuing its case against Flux, and why the freedom to question companies, report security concerns, and share findings is worth defending."
-  },
-  {
-    "title": "Adafruit Weekly Editorial Round-Up: Stitch Different, 600 CircuitPython Libraries & more!",
-    "source": "Adafruit",
-    "date": "2026-11-08",
-    "url": "https://blog.adafruit.com/2026/11/08/adafruit-weekly-editorial-round-up-stitch-different-600-circuitpython-libraries-more/",
-    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG There are now 600 [&#8230;]"
-  },
-  {
-    "title": "DIY Quiz Show Controller System #AdafruitLearnSystem",
-    "source": "Adafruit",
-    "date": "2026-11-08",
-    "url": "https://blog.adafruit.com/2026/11/08/diy-quiz-show-controller-system-adafruitlearnsystem/",
-    "summary": "Build a Jeopardy-like Game Show Buzzer with a Circuit Playground Bluefruit! The first player to press their buzzer will illuminate the Host controller with the color of the buzzer handle! You can even enable Bluetooth button presses to a computer or mobile device! The code is written in CircuitPython, so it&#8217;s easy to change the [&#8230;]"
-  },
-  {
-    "title": "Ham radio operator helps police with robbery #HamSunday",
-    "source": "Adafruit",
-    "date": "2026-11-08",
-    "url": "https://blog.adafruit.com/2026/11/08/ham-radio-operator-helps-police-with-robbery-hamsunday/",
-    "summary": "Wikipedia has a detailed account of the Baker Street robbery, the September 1971 burglary of safety deposit boxes at the Lloyds Bank branch at 185 Baker Street in London. A gang rented a leather goods shop two doors away and dug a 40 foot tunnel to come up under the vault floor. A jack failed, [&#8230;]"
-  },
-  {
-    "title": "Adafruit New Products this Week: LT8912B DSI to DVI Converter",
-    "source": "Adafruit",
-    "date": "2026-11-08",
-    "url": "https://blog.adafruit.com/2026/11/07/adafruit-new-products-this-week-lt8912b-dsi-to-dvi-converter/",
-    "summary": "We&#8217;ve got the New nEw NEW for you right here Coming Soon! Adafruit LT8912B DSI to DVI Converter Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special [&#8230;]"
-  },
-  {
     "title": "Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash",
     "source": "CNX Software",
     "date": "2026-11-07",
     "url": "https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/",
     "summary": "<div><img alt=\"ESP32-S31-Zero board\" class=\"attachment-medium size-medium wp-post-image\" height=\"518\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ESP32-S31-Zero-board-720x518.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare &#8220;Zero&#8221; boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals,  but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC – Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/\">Waveshare ESP32-S31-Zero &#8211; A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Build Your Own E-Reader for $40",
-    "source": "Adafruit",
-    "date": "2026-11-07",
-    "url": "https://blog.adafruit.com/2026/11/07/build-your-own-e-reader-for-40/",
-    "summary": "Allan Binder of MUON SORTES shares this how to guide for building an affordable e-reader. And head to Allan Binder&#8216;s instagram for a more polished look and future iterations. You need four things: an ESP32-S3 dev board, an e-paper panel with its adapter board, a five-way button module, and a way to power it. Total [&#8230;]"
-  },
-  {
-    "title": "What is STEMMA QT?",
-    "source": "Adafruit",
-    "date": "2026-11-07",
-    "url": "https://blog.adafruit.com/2026/11/07/what-is-stemma-qt/",
-    "summary": "Put simply STEMMA QT is the cute version of a STEMMA connection. STEMMA is a plug-and-play board and sensor system that lets you quickly plug together various devices and accessories, without any soldering! STEMMA QT is the smallest STEMMA connector and is used for 12C communication. See more from the Adafruit Learning System: What is [&#8230;]"
-  },
-  {
-    "title": "Egg Carrier – Transport Box for Up to 12 M+L Eggs #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-11-07",
-    "url": "https://blog.adafruit.com/2026/11/07/egg-carrier-transport-box-for-up-to-12-ml-eggs-3dprinting/",
-    "summary": "A transport box designed to safely carry up to 12 eggs (size M and L). Compartments keep eggs separated and protected during transport. For backyard chicken owners, farmers, camping trips, and everyday kitchen use — reusable alternative to disposable cartons. Press-fit small arms (no glue needed; scale down slightly if too tight). Glue to fix [&#8230;]"
   },
   {
     "title": "520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU",
@@ -231,41 +308,6 @@
     "summary": "<p>Here's a roundup of this week's must-read articles: ESD eBook Nov/Dec 2026, Designing Medical Devices for the Field, How to Make Embedded Computer Vision Work in the Real World, and The Hidden Engineering Tax on Connected Products: Security, Updates, and Compliance Explained, and more. Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete [...]</p>\n<p>The post <a href=\"https://www.embedded.com/esd-ebook-nov-dec-2026-how-to-make-embedded-computer-vision-work-in-the-real-world-connected-products-embedded-week-insights/\">ESD eBook Nov/Dec 2026, How to Make Embedded Computer Vision Work in the Real World, Connected Products: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Leap signs MoU to relaunch Sutherland space launches",
-    "source": "Electronics Weekly",
-    "date": "2026-11-06",
-    "url": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
-    "summary": "<p>Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/\">Leap signs MoU to relaunch Sutherland space launches</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
-    "source": "Electronics Weekly",
-    "date": "2026-11-06",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
-    "summary": "<p>What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/\">What caught your eye? AI bust, Qualcomm MMIOs, RF emitters</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Are contemporary technologies like GPS, phones, and AI deskilling humans?",
-    "source": "Adafruit",
-    "date": "2026-11-06",
-    "url": "https://blog.adafruit.com/2026/11/06/are-contemporary-technologies-like-gps-phones-and-ai-deskilling-humans/",
-    "summary": "Jason Kottke posted a short link on kottke.org asking whether tools like GPS, phones, and AI are deskilling the human body. The quote he pulls out makes the case: &#8220;In surrendering to a quick technological fix, we are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending.&#8221; The argument is about the [&#8230;]"
-  },
-  {
-    "title": "ESP32 Demoboard: New demo projects using on-board hardware",
-    "source": "Adafruit",
-    "date": "2026-11-06",
-    "url": "https://blog.adafruit.com/2026/11/06/esp32-demoboard-new-demo-projects-using-on-board-hardware/",
-    "summary": "oeadmin continues the ESP32 demoboard series on Open Electronics with five more Arduino examples that use the board&#8217;s OLED display and its plug-in breakout modules. The first reads hand gestures from an APDS-9960 sensor, a part that detects light, color and motion from about 10 to 20 cm away, and prints the direction on the [&#8230;]"
-  },
-  {
-    "title": "Microsoft’s Canada timezone troubles leave admins fixing calendars, pretending they’re in Bogota",
-    "source": "Adafruit",
-    "date": "2026-11-06",
-    "url": "https://blog.adafruit.com/2026/11/06/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/",
-    "summary": "Carly Page at The Register reports on what happened when parts of Canada stopped changing their clocks. As of November 1, affected areas of British Columbia, Alberta, and Manitoba are permanently on UTC-07:00, UTC-06:00 and UTC-05:00. Microsoft&#8217;s software hasn&#8217;t entirely caught up, so some customers are seeing wrong times and broken schedules. Outlook is the [&#8230;]"
-  },
-  {
     "title": "Building Better Hardware Together: How Hackster.io Fosters Community-Driven Innovation",
     "source": "EE Journal",
     "date": "2026-11-06",
@@ -285,20 +327,6 @@
     "date": "2026-11-05",
     "url": "https://www.cnx-software.com/2026/11/05/p4-launcher-offers-a-pc-like-and-retro-gaming-experience-on-esp32-p4-boards/",
     "summary": "<div><img alt=\"P4 Launcher ESP32-P4 Application Hub\" class=\"attachment-medium size-medium wp-post-image\" height=\"432\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/P4-Launcher-ESP32-P4-Application-Hub-720x432.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Gil Tal has developed the P4 Launcher, an open-source application platform designed to bring a PC-like experience to ESP32-P4 boards with an attached touchscreen display. The launcher boots directly into its interface, while applications (.papp files) are stored on a microSD card and loaded into PSRAM when launched. You can add, remove, and run applications without reflashing the firmware or rebooting the device by simply copying files to the microSD card.Gil says 21 PAPP (PSRAM APP) applications are available now, mostly emulators and games, including Neo Geo and Atari 2600 emulators, Doom, Quake, Duke Nukem 3D and OpenTyrian, plus Clock and Files. Like ESPBrookesia, the P4 Launcher user interface runs on ESP32-P4, but it&#8217;s more flexible since it supports apps stored on the microSD card and targets mainly gaming for now. The launcher currently works on the Guition ESP32-P4 4.3&#8243; (800×480), the Guition JC1060P470C 7&#8243; (1024×600), and the smaller M5Stack [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/05/p4-launcher-offers-a-pc-like-and-retro-gaming-experience-on-esp32-p4-boards/\">P4 Launcher offers a PC-like and retro gaming experience on ESP32-P4 boards</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "ACEMAGIC Kron Mini K5 Review – Part 3: Ubuntu 26.04 on an entry-level Wildcat Lake mini PC",
-    "source": "CNX Software",
-    "date": "2026-11-05",
-    "url": "https://www.cnx-software.com/2026/11/05/acemagic-kron-mini-k5-review-part-3-ubuntu-26-04-on-an-entry-level-wildcat-lake-mini-pc/",
-    "summary": "<div><img alt=\"ACEMAGIC Kron Mini K5 Mini PC review Ubuntu 26.04\" class=\"attachment-medium size-medium wp-post-image\" height=\"484\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ACEMAGIC-Kron-Mini-K5-Mini-PC-review-Ubuntu-26.04-720x484.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>After checking out the ACEMAGIC Kron Mini K5&#8217;s hardware with an unboxing and a teardown in the first part of the review, we tested the entry-level Intel Core 3 304 mini PC on Windows 11, and we&#8217;ve now taken the time to test Linux on the low-cost mini PC with Ubuntu 26.04. In this article, we&#8217;ll report our experience installing Ubuntu 26.04.1 LTS, checking system information, running benchmarks, evaluating storage and networking (2.5GbE and WiFi 6) performance, running a stress test to monitor thermal throttling, and measuring fan noise and power consumption of the mini PC. Installing Ubuntu 26.04.1 For this test, we installed Ubuntu 26.04.1 LTS alongside Windows 11. We started by shrinking the Windows (C:) partition by about half to free up space for the Linux installation. We then plugged in the USB drive and began the installation process. However, the first installation attempt failed because the system [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/05/acemagic-kron-mini-k5-review-part-3-ubuntu-26-04-on-an-entry-level-wildcat-lake-mini-pc/\">ACEMAGIC Kron Mini K5 Review – Part 3: Ubuntu 26.04 on an entry-level Wildcat Lake mini PC</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Altera Agilex 27 FPGA & SoC family features up to 17.6M logic elements, Cortex-A720/A-520 cores, 256 Gbps SerDes, PCIe 7.0",
-    "source": "CNX Software",
-    "date": "2026-11-05",
-    "url": "https://www.cnx-software.com/2026/11/05/altera-agilex-27-fpga-soc-family-features-up-to-17-6m-logic-elements-cortex-a720-a-520-cores-256-gbps-serdes-pcie-7-0/",
-    "summary": "<div><img alt=\"Agilex 27 FPGA SoC\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Agilex-27-FPGA-SoC-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Altera has introduced the Agilex 27 FPGA and SoC family designed for AI infrastructure, high-speed networking, 6G and satellite communications, and aerospace and defense applications. The family includes 14 device models, each available as either an FPGA-only device or an FPGA SoC with integrated Arm processors The new devices rely on Altera&#8217;s third-generation HyperFlex architecture, which the company claims delivers 1.8 times the performance per Watt compared to the previous-generation Agilex 7 FPGAs. Other features include up to 17.6 million logic elements, second-generation AI Tensor DSP blocks, an Arm Cortex-A720/A520 processor subsystem in the SoC FPGA variants, 256 Gbps transceivers, PCIe 7.0, 1.6Tbps Ethernet, and LPDDR6 memory support. Altera Agilex 27 FPGA and SoC family specifications: FPGA architecture – 3rd-generation HyperFlex architecture with enhanced adaptive logic modules (ALMs) 866K to 17.6 million logic elements (LEs) 274,190 to 5,683,872 ALMs Up to 1.8× better performance per watt compared to the previous-generation [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/05/altera-agilex-27-fpga-soc-family-features-up-to-17-6m-logic-elements-cortex-a720-a-520-cores-256-gbps-serdes-pcie-7-0/\">Altera Agilex 27 FPGA &#038; SoC family features up to 17.6M logic elements, Cortex-A720/A-520 cores, 256 Gbps SerDes, PCIe 7.0</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Seco, Peridio Simplify Robotics Deployment with Avocado OS",
@@ -362,34 +390,6 @@
     "date": "2026-11-04",
     "url": "https://www.embedded.com/designing-medical-devices-for-the-field/",
     "summary": "<p>Why designing for serviceability starts with system architecture.</p>\n<p>The post <a href=\"https://www.embedded.com/designing-medical-devices-for-the-field/\">Designing Medical Devices for the Field</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Keysight Introduces 14-bit Low-Profile Oscilloscope for High-Channel Density, Synchronized Test Systems",
-    "source": "EE Journal",
-    "date": "2026-11-04",
-    "url": "https://www.eejournal.com/industry_news/keysight-introduces-14-bit-low-profile-oscilloscope-for-high-channel-density-synchronized-test-systems/",
-    "summary": "Keysight Technologies, Inc. (NYSE: KEYS) introduces the XR3, a low-profile 14-bit oscilloscope designed to increase measurement capacity in rack-based test systems. Occupying one rack unit (1U), the XR3 provides four-channel, mixed-signal measurement capability without the space, weight, and cabling required by traditional bench instruments. As automated test systems used in aerospace and defense, manufacturing, and [&#8230;]"
-  },
-  {
-    "title": "Samtec Dual Functionality AcceleRate® mP Connectors Save PCB Space",
-    "source": "EE Journal",
-    "date": "2026-11-04",
-    "url": "https://www.eejournal.com/industry_news/samtec-dual-functionality-accelerate-mp-connectors-save-pcb-space/",
-    "summary": "Samtec, Inc., the service leader in the connector industry, announces the release of its 10 mm stack height, AcceleRate® mP (UDM6, UDF6) combination signal pin and power blade connectors. The dual functionality of digital signaling and high power eliminates the need for additional connectors, reducing overall PCB space without sacrificing functionality. As a result, AcceleRate® [&#8230;]"
-  },
-  {
-    "title": "Infineon launches OptiMOS™ 7 40 V MOSFETs to improve efficiency and power density in AI server and telecom power conversion",
-    "source": "EE Journal",
-    "date": "2026-11-04",
-    "url": "https://www.eejournal.com/industry_news/infineon-launches-optimos-7-40-v-mosfets-to-improve-efficiency-and-power-density-in-ai-server-and-telecom-power-conversion/",
-    "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) is launching its OptiMOS™ 7 40 V switching-optimized power MOSFET portfolio for AI servers, data centers and telecom infrastructure. Designed for high-frequency DC-DC power conversion, the devices help designers improve efficiency and power density in space-constrained systems. Target applications include low-voltage secondary-side stages of high-voltage intermediate bus [&#8230;]"
-  },
-  {
-    "title": "Stackpole HCC Busbar Shunts Enable Precise High-Current Monitoring for xEV Power Management",
-    "source": "EE Journal",
-    "date": "2026-11-04",
-    "url": "https://www.eejournal.com/industry_news/stackpole-hcc-busbar-shunts-enable-precise-high-current-monitoring-for-xev-power-management/",
-    "summary": "As electric and hybrid vehicles evolve toward higher power levels and more efficient electrical architectures, accurate current monitoring is essential for optimizing power management, protecting critical systems, and maintaining reliable operation. Stackpole Electronics&#8217; HCC high-current busbar shunt resistors provide a robust, low-resistance solution for current sensing in demanding xEV power systems. The HCC series is [&#8230;]"
   },
   {
     "title": "Nordic Launches nRF71 SoCs for Low-Power Wi-Fi and Edge AI",
