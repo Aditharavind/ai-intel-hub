@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-10 15:50 UTC
+Generated: 2026-11-10 21:29 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-10 15:50 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84796 | 33918.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64099 | 25639.7 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 84802 | 33920.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64100 | 25640.1 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44778 | 17911.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30886 | 12354.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30116 | 12046.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| AtsushiSakai/PythonRobotics | 30888 | 12355.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30129 | 12051.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-11-10 15:50 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-10 | Where Will the Physical AI Patent Wars Begin? - The National Law Review | physical ai startup | [link](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSXB3aDVVSkZpS2N5TFhoNUx5WmtxN2dnRkRfNDZGSWEwZWhIc3dwSDVUR05xcWNZRXVoVnRQVHlZbGRwX2hKYWYtek5PODZXQTNZTEsta2VQVDg3Tm1DUVNUUG1BSDk2aENpeEU5bUtLVl9vQW1ubVBiakdld9IBgwFBVV95cUxQcktBeXZZM1FWRDBLMTJ2VkRsRU1ndDZrUmpHTFpTX2MzRERVNno1Zm5JenJLM1JoUlFSYmI4bUtINmlBbWMyeGkxZnN2OUhuMTRmV0FQb1U0eHlvZ1FpZnJjTzJZRWN6NjR6VXBFV3huRHNIVE11cVpxOXJ6ekg1OS1TZw?oc=5) |
 | 2026-11-10 | Exclusive: In the race for robot training data, ex-Meta researchers’ startup turns to gig workers with cameras - Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa05ybjl6MUh6R2ctNVI0ODN6SVRMb3FIcE1ER2tXU1dBd0FOUGRscG1Fam96Um93elZ2VERacWVwMEFwTjUtZlgta3d1cUhLR0NmNFM4MVMtcXFSeHAxMDZZZ1JRSU5fQ3JKTlBEQ0VDUEU0c0d6SG5rdFlhMDBzOHhkWFVmS2pKMTRScUplMUNISkkyQ29lV1VTX3BhSXJxaFpfSUxhYnVDLU4za1JiSDg4Sm1LV1hBZ3NWNTN6UUQ2LThjN0xmLVNYN1Y4UWJhSTUtT3BR?oc=5) |
-| 2026-11-10 | SORACOM Launches "Physical AI Suite" to Protect IoT Devices With SIM as the Key - BigGo Finance | physical ai startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTFBEVl9rSms5azJQNno1c2txWWs3SU9Jc25uN2dQZnRWcFppWTdTOG5Ca21BbFZQdTRXamJkQkpXLVktZ2N5N2pWb19zRVhLd0hLVUlBNlpLOThIWDVidTgxYlM2c3JaaEVaQ28yQzNId2ZDVXNuTmc?oc=5) |
+| 2026-11-10 | Hedra Grows Revenue 15x and Opens Its Model Factory to Build the Brains of Physical AI - HackerNoon | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGxrVHlDb2hXblhFX3JxN29RT1dMdU9IOTlfbTVtVEI0aXNLMUhPcmZoYW9qRGZDTk9IcWVCUjUxMXMwWUU1eUVkSkg4a3d3N1Rya0lqWnE1SlRWdXR2cmtEQXJmWk82a1VleGwyNkVsdFZrczBXdlBLMEhiWlBwUDJhYTlWclVvRFA3SHRwVWF1bEh6ampybk9KWWxWZWl2bFpVeDMzZ19xRHNHUGc?oc=5) |
+| 2026-11-10 | Robotics company Figure AI is hiring a human to babysit humanoid robots overnight - Business Insider | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNktxRzhBalRqY1F6dDNXU3c2aWVKS01hVnl6akc1NVpCYk52dS01QTRVWEJiZ29HeUZ6U2lYNktmc3JRN25WSmZCQ09fRWdXem1KdGlBN1pGTWRWSjJQbTJmTDl5bDVhQ1dpdjF3ZzFfZjBqSGdDTC1HNUY4cEtaN0NRQmVndVo3b19BaXdFbnQ?oc=5) |
 | 2026-11-09 | NEC backs physical-AI startup Neurabody in strategic early-VC round - Dealroom | physical ai startup | [link](https://news.google.com/rss/articles/CBMiowFBVV95cUxObFFPMG8zbU5peFZVSlg0TnMzYWJmWkU3UktNdlVtVDRNcm5hTHVnMG4yMGw1clAyN2dTU3REaTFMYWxRN3J4UkM3WGlrRUd0NkcxbW1NdmJfbXc0elRlQmpEUkZ6bzU0VVhkQXJwV1hqTlZEVlhhOUZuTm9qMFlPWDFjSkw4UHhNeDhzTmxXSXIwNXFvQk4yZHVGMjdoWVFSNkdF?oc=5) |
-| 2026-11-09 | Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTlZaWDB0eGFzZmZZX0pDc1QxLVZ5Nk1TMmZVb3ZpRG54RFI1WFVYQ09RXzluY2x4QVVuZnlCeXBONDZUc29hQV9BcEVVdEo2U1VR?oc=5) |
-| 2026-11-09 | NVIDIA AI Day Seoul Highlights Korea’s Advances in Sovereign, Agentic and Physical AI — Live Updates - NVIDIA Blog | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JLTQ2SGNUWVJmamVBcTF4RU5fM3lndGFYTTd5Q3paVEttV0hha1dLZi1NR3pZaWpidzFieTlXMFlPQXZnbm1LcXI1U3BiQ2xiblc0a19n?oc=5) |

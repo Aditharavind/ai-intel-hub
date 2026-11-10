@@ -1,5 +1,26 @@
 [
   {
+    "title": "Gesture Controls With Only a Camera",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/gesture-controls-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Back in 2002, [Takahiro Yonemura] and others built a system that used a single webcam-like device to track a user&#8217;s hand and generate inputs for a computer. Given that this <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/\">&#8230;read more</a>"
+  },
+  {
+    "title": "How CRISPR Could Mark Mutated Cancer Cells for Termination",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/10/how-crispr-could-mark-mutated-cancer-cells-for-termination/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2020/11/DNAscissors.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Over the past decades CRISPR, short for &#8220;clustered regularly interspaced short palindromic repeats&#8221;, has become somewhat of a household name, holding the promise of directly addressing genetic mutations by effectively <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/how-crispr-could-mark-mutated-cancer-cells-for-termination/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Simulating and Visualising the Central Limit Theorem",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"571\" src=\"https://hackaday.com/wp-content/uploads/2026/07/unnamed-chunk-6-1.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Statistics is one of those fields which people tend to love or hate when they&#8217;re confronted with it during their school time. Although incredibly useful and even essential in many <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/\">&#8230;read more</a>"
+  },
+  {
     "title": "DeviceTree For Hackers: Intro",
     "source": "Hackaday",
     "date": "2026-11-10",
@@ -28,20 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Tesla-Robotic-Car-Charger-2-42-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Not only does [Mew463]&#8217;s robotic car charger take care of plugging in his vehicle for him, it has some really clever features that are great to see in action. We&#8217;ve <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/robotic-car-charger-locks-on-with-suction/\">&#8230;read more</a>"
   },
   {
-    "title": "You Wouldn’t Download A Car…",
-    "source": "Hackaday",
-    "date": "2026-11-10",
-    "url": "https://hackaday.com/2026/11/09/you-wouldnt-download-a-car/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/3dpcar-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For as long as there have been sports cars, there have been blokes in tin sheds making their own sports cars. It&#8217;s a pursuit that has birthed famous marques and <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/you-wouldnt-download-a-car/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Free Your Harley From The Dealer",
-    "source": "Hackaday",
-    "date": "2026-11-10",
-    "url": "https://hackaday.com/2026/11/09/free-your-harley-from-the-dealer/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/harley-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Vehicles have come with diagnostic ports for many years now, and there are a host of easily available tools to interrogate them. Despite that, there are still proprietary aspects that <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/free-your-harley-from-the-dealer/\">&#8230;read more</a>"
-  },
-  {
     "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
     "source": "CNX Software",
     "date": "2026-11-10",
@@ -68,6 +75,34 @@
     "date": "2026-11-10",
     "url": "https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/",
     "summary": "<div><img alt=\"STM32G5\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/STM32G5-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The STM32G5 series is a family of 280 MHz Arm Cortex-M33 mixed-signal MCUs designed for industrial power supplies, photovoltaic inverters, EV chargers, robotics, and motor control systems. It doubles the performance of the older STM32G4 series unveiled in 2021. The new MCU family features up to 512KB flash, 112KB SRAM with ECC, a 111 ps high-resolution timer (HRTIM) with up to 12 PWM outputs on some variants, and 12-bit ADCs supporting up to 5 MSPS. Other features include position encoder interfaces, a 16-element programmable logic array, CORDIC and FMAC mathematical accelerators, and security features such as Arm TrustZone, secure boot, and post-quantum cryptography support. STM32G5 series specifications: MCU Core 32-bit Arm Cortex-M33 CPU @ up to 280 MHz with TrustZone, single-precision FPU, DSP instructions, and MPU 8 KB instruction cache and 4 KB data cache (data cache on STM32G55x/56x only) 20 KB or 32 KB CCM-SRAM routine booster (20 KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/\">280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Siemens Launches HyperLynx Agentic Toolkit",
+    "source": "Embedded.com",
+    "date": "2026-11-10",
+    "url": "https://www.embedded.com/siemens-launches-hyperlynx-agentic-toolkit/",
+    "summary": "<p>Siemens has announced the HyperLynx Agentic Toolkit, a new solution that combines agentic AI with physics-based simulation to streamline electronic systems verification. Built on the HyperLynx platform, the toolkit automates complex verification workflows, simplifies result analysis, and supports faster engineering decisions. As electronic systems evolve toward 112G and 224G data rates, design verification becomes increasingly [...]</p>\n<p>The post <a href=\"https://www.embedded.com/siemens-launches-hyperlynx-agentic-toolkit/\">Siemens Launches HyperLynx Agentic Toolkit</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "Renesas Expands Renesas 365 with Xplore Developer Hub",
+    "source": "Embedded.com",
+    "date": "2026-11-10",
+    "url": "https://www.embedded.com/renesas-expands-renesas-365-with-xplore-developer-hub/",
+    "summary": "<p>Renesas Electronics Corp. has expanded its Renesas 365 development platform with the introduction of the Xplore Developer Hub, a cloud-based environment designed to simplify embedded system development and accelerate the transition from concept to prototype. The new offering integrates low-cost RA microcontroller development boards, expansion modules, application software, and development tools into a single workflow [...]</p>\n<p>The post <a href=\"https://www.embedded.com/renesas-expands-renesas-365-with-xplore-developer-hub/\">Renesas Expands Renesas 365 with Xplore Developer Hub</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "ST Unveils Unified STM32 MCU Platform",
+    "source": "Embedded.com",
+    "date": "2026-11-10",
+    "url": "https://www.embedded.com/st-unveils-unified-stm32-mcu-platform/",
+    "summary": "<p>The unified platform adds safety-critical and mixed-signal MCUs and new and enhanced edge AI tools.</p>\n<p>The post <a href=\"https://www.embedded.com/st-unveils-unified-stm32-mcu-platform/\">ST Unveils Unified STM32 MCU Platform</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
+    "title": "ESA signs OHB for next-gen Sentinel-3 topography mission",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/esa-signs-ohb-for-next-gen-sentinel-3-topography-mission-2026-11/",
+    "summary": "<p>The German space systems integrator OHB has been awarded, by the European Space Agency (ESA), a €554 million contract for two next-gen Sentinel-3 topography satellites. The Sentinel-3 Next Generation Topography [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/esa-signs-ohb-for-next-gen-sentinel-3-topography-mission-2026-11/\">ESA signs OHB for next-gen Sentinel-3 topography mission</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Tardy",
@@ -115,8 +150,8 @@
     "title": "Electronica – The latest news roundup",
     "source": "Electronics Weekly",
     "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/electronica/electronica-2024-the-latest-news-roundup-2026-11/",
-    "summary": "<p>Don&#8217;t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica/electronica-2024-the-latest-news-roundup-2026-11/\">Electronica &#8211; The latest news roundup</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+    "summary": "<p>Don&#8217;t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/\">Electronica &#8211; The latest news roundup</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Delays reported at Rapidus",
@@ -133,60 +168,88 @@
     "summary": "<p>Gallium oxide (Ga₂O₃) is moving into early production mode. The ultra-wide bandgap material with a bandgap around 4.7 to 4.9 eV — nearly fifty percent wider than SiC — is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/\">Gallium Oxide wafers in early production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Ardian Semi raises €1bn",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/",
-    "summary": "<p>A private equity company dedicated to making investments in the semiconductor supply chain has raised €1 billion The company, Ardian Semiconductor, is part of the French private equity company Ardian. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/\">Ardian Semi raises €1bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "title": "Web satellite tracker plays the music of the spheres #ArtTuesday",
     "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-10-2/",
-    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/10/web-satellite-tracker-plays-the-music-of-the-spheres-arttuesday/",
+    "summary": "OrbitalWiki&#8217;s listening page turns satellite passes into sound. Active satellites play one note at the moment they&#8217;re highest in the sky over a chosen spot, so the result is a live, location-specific piece of music. The page pulls the latest CelesTrak element sets for every active satellite in the catalog from a single free endpoint, [&#8230;]"
   },
   {
-    "title": "Native American Heritage Month: Walking Lenapehoking",
+    "title": "Hardware in the loop (HIL) workflow writes ESP32 code and runs hardware tests autonomously",
     "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/native-american-heritage-month-walking-lenapehoking/",
-    "summary": "Celebrate Native American Heritage Month with NYC Parks &#8211; Sunday, November 22! Details here. Join the Urban Park Rangers for a guided walk through Lenapehoking, the ancestral homeland of the Lenape. Explore the landscape’s Indigenous history, seasonal ecology, and the traditions that continue to shape New York City today. More Native American Heritage Month posts [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/10/hardware-in-the-loop-hil-workflow-writes-esp32-code-and-runs-hardware-tests-autonomously/",
+    "summary": "Julian Horsey at Geeky Gadgets writes about a hardware in the loop (HIL) development setup from Andreas Spiess that has an AI write ESP32 firmware and then test it on real hardware. It&#8217;s called the Embedded AI Harness, a framework that ties the AI together with the hardware and the test scripts. The AI writes [&#8230;]"
   },
   {
-    "title": "Hacking the Sidekick in 2026",
+    "title": "Darling now embraces AI for running macOS binaries on Linux",
     "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/hacking-the-sidekick-in-2026/",
-    "summary": "The T-Mobile Sidekick, sold elsewhere as the Danger Hiptop, ran DangerOS, which only loads software signed by Danger or a carrier. Developers used to get a signed key from a web form, but that closed in 2010 and nobody issues keys anymore. ashe, writing at x86.cx, made one instead. The Danger SDK and a firmware [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/10/darling-now-embraces-ai-for-running-macos-binaries-on-linux/",
+    "summary": "Michael Larabel writes at Phoronix that the Darling project is now using AI in its work on running macOS binaries on Linux. Darling is an open source translation layer, roughly the macOS counterpart to what Wine does for Windows software. It reimplements Apple&#8217;s frameworks and system libraries so that macOS programs can run on a [&#8230;]"
   },
   {
-    "title": "exfatprogs 1.4.4 brings speed-ups for making new exFAT filesystems",
+    "title": "Formalizing CPython",
     "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/exfatprogs-1-4-4-brings-speed-ups-for-making-new-exfat-filesystems/",
-    "summary": "Michael Larabel at Phoronix reports that exfatprogs 1.4.4 is out, with a speed-up for making new exFAT filesystems. exfatprogs is the set of user-space tools for exFAT on Linux, the package that includes mkfs.exfat for formatting a drive and fsck.exfat for checking one. exFAT is the Microsoft filesystem used on most SD cards and USB [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/10/formalizing-cpython/",
+    "summary": "A project posted at broyojo.com used AI agents to rewrite CPython&#8217;s internals in Lean, a language where a computer can check mathematical proofs. The Lean copies follow the C source line by line, including how the C code&#8217;s numbers wrap around when they get too big. So far that&#8217;s 613,318 lines of Lean across 1,539 [&#8230;]"
   },
   {
-    "title": "frank-386 v1.08: a Tiny386 port to RP2350 now does true HDMI",
+    "title": "DIY ESP32 Flipper Zero alternative custom cybersecurity multi-tool",
     "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/frank-386-v1-08-a-tiny386-port-to-rp2350-now-does-true-hdmi/",
-    "summary": "rh1tech has released version 1.08 of frank-386, a port of the Tiny386 PC emulator to the RP2350, posted on GitHub. Builds run at 378 MHz with PSRAM at 133 MHz and USB HID on. With HDMI output the clock goes up to 504 MHz. The big change is real HDMI instead of DVI, using the [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/10/diy-esp32-flipper-zero-alternative-custom-cybersecurity-multi-tool/",
+    "summary": "Julian Horsey at Geeky Gadgets writes about a homemade take on the Flipper Zero, built by Yellow Purple from an ESP32 microcontroller and an OLED display. The result is a small handheld tool for trying out cybersecurity ideas, with the display showing menus and output while the ESP32 does the radio work. The WiFi functions [&#8230;]"
   },
   {
-    "title": "This 1970s “Digital” Clock Has No Electronics Inside",
+    "title": "A BGA routing cheatsheet for hardware engineers",
     "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/this-1970s-digital-clock-has-no-electronics-inside/",
-    "summary": "Super fun video from Mark Furneaux discussing the early 1970s Lumitime clock by Japanese company Tamura. It&#8217;s great to see an example of an early &#8220;digital&#8221; clock that predated the 1980s digital clock boom and the broad use of LCDs and LEDs. Furneaux also cites other examples of more mainstream clock technologies in use at [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/10/a-bga-routing-cheatsheet-for-hardware-engineers/",
+    "summary": "JLCPCB posted a BGA routing cheatsheet on X, aimed at people laying out boards with dense chip packages. A BGA, or ball grid array, is a chip with its connections as a grid of solder balls underneath the body instead of pins around the edge. Getting signals out from the inner balls is the hard [&#8230;]"
   },
   {
-    "title": "Six-sided transparent cube with LED matrix shapes screenless AI companion",
+    "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
     "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/six-sided-transparent-cube-with-led-matrix-shapes-screenless-ai-companion/",
-    "summary": "Industrial designer Adam Miklosi has posted Glyph (1) on designboom, a concept for a screenless AI companion shaped like a small cube. There&#8217;s no phone display and there aren&#8217;t any menus. The interface is the cube&#8217;s orientation: turning it so a given face points up switches on the mode mapped to that face. The body [&#8230;]"
+    "url": "https://blog.adafruit.com/2026/11/10/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones/",
+    "summary": "Fire crews in Aspen, Colorado are acquiring a new fleet of drones. For years drones have aided firefighters in tracking and detecting fires but now they hope help extinguish fires. The AI equipped drones are being developed by Seneca based in California. Mini swarms of five drones can carry up to 1,000 gallons of fire [&#8230;]"
+  },
+  {
+    "title": "Iomega Zip drive: elite floppy disks before USB sticks",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/iomega-zip-drive-elite-floppy-disks-before-usb-sticks/",
+    "summary": "Amir Shoam has a history of the Iomega Zip drive at TechSpot, the 100MB removable disk that carried big files around in the years before USB flash drives and broadband. Iomega started in 1980 in Roy, Utah, with the Bernoulli Box for professionals, but by the early 1990s that line was fading. New CEO Kim [&#8230;]"
+  },
+  {
+    "title": "JP’s Product Pick of the Week —  3pm Eastern TODAY 11/10/26 @adafruit #adafruit #newproductpick",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/jps-product-pick-of-the-week-3pm-eastern-today-11-10-26-adafruit-adafruit-newproductpick/",
+    "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a GREAT BIG DISCOUNT during the show! Tune [&#8230;]"
+  },
+  {
+    "title": "rv565: frame-independent RGB565 video for ESP32-S3 and RP2350 SPI displays",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/rv565-frame-independent-rgb565-video-for-esp32-s3-and-rp2350-spi-displays/",
+    "summary": "elixpo has published RV565 on GitHub, a video format and player for small SPI displays like the ST7789. Frames are stored as independent zlib streams, and the decoded bytes are already in the panel&#8217;s native RGB565 format, so the microcontroller doesn&#8217;t have to convert anything before pushing pixels out. Clips are made from a video [&#8230;]"
+  },
+  {
+    "title": "ESP-WiFi-Jam-Detector: a standalone 2.4 and 5 GHz interference detector built on an ESP32-C5 touchscreen board",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/esp-wifi-jam-detector-a-standalone-2-4-and-5-ghz-interference-detector-built-on-an-esp32-c5-touchscreen-board/",
+    "summary": "Jordan wrote in to RTL-SDR.com to share the ESP-WiFi-Jam-Detector, a receive-only radio interference detector built on a Waveshare ESP32-C5-Touch-LCD-3.5 touchscreen board and the ESPARGOS esp-sdr code. It uses the ESP32-C5&#8217;s own WiFi receiver to sweep 2400 to 2483.5 MHz and 5150 to 5895 MHz at 80 MS/s, and it runs without a computer. At startup, [&#8230;]"
+  },
+  {
+    "title": "ICYMI – The Python on Microcontrollers Newsletter: 600 CircuitPython Libraries, Upcoming Features and Much More!",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/icymi-the-python-on-microcontrollers-newsletter-600-circuitpython-libraries-upcoming-features-and-much-more/",
+    "summary": "If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,312 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep [&#8230;]"
   },
   {
     "title": "Inova and Lattice Demonstrate Same-Cycle Distributed Motor Control for a Humanoid Hand with DLR Powered by Lattice FPGAs",
@@ -215,13 +278,6 @@
     "date": "2026-11-10",
     "url": "https://www.eejournal.com/industry_news/antaira-introduces-g-series-general-purpose-industrial-ethernet-switches/",
     "summary": "Antaira Technologies, a global developer and manufacturer of industrial networking and communication solutions, today announced the G-Series, a family of general-purpose industrial Ethernet switches designed for cost-conscious deployments. The unmanaged switches feature industrial construction and plug-and-play operation for connecting machines, cameras and controllers in OEM and system integration applications. “Large-scale projects shouldn’t have to choose [&#8230;]"
-  },
-  {
-    "title": "From Phone, To SDR, No Extra Hardware",
-    "source": "Hackaday",
-    "date": "2026-11-09",
-    "url": "https://hackaday.com/2026/11/09/from-phone-to-sdr-no-extra-hardware/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/lg-sdr-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the more exciting recent developments has been the discovery that many radio chips used in common and cheap wireless network interfaces, microcontrollers, LoRa interfaces and others can be <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/from-phone-to-sdr-no-extra-hardware/\">&#8230;read more</a>"
   },
   {
     "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
@@ -264,41 +320,6 @@
     "date": "2026-11-09",
     "url": "https://www.embedded.com/mips-introduces-actus-risc-v-platform-for-robotic-motion-control/",
     "summary": "<p>MIPS has introduced advances in its Actus reference platform, an open, energy-efficient RISC-V architecture designed to combine real-time motor control, edge inference, and communications for robotics. Developed for compact robot joints, Actus addresses the requirements of humanoid and industrial robots, where precise movement must be achieved within strict space, weight, power, and thermal constraints. The [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mips-introduces-actus-risc-v-platform-for-robotic-motion-control/\">MIPS Introduces Actus RISC-V Platform for Robotic Motion Control</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Using forbidden techniques to fix a Neo Geo cartridge!",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/using-forbidden-techniques-to-fix-a-neo-geo-cartridge/",
-    "summary": "74XX Arcade Repair has posted a new repair video on YouTube, this one covering a broken Neo Geo cartridge. The channel&#8217;s usual subject is arcade hardware from the 74XX logic era, and the fixes here are described as &#8220;forbidden techniques,&#8221; five of them, the kind of repair that works but would make a purist wince. [&#8230;]"
-  },
-  {
-    "title": "Why the Dreamcast was different",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/why-the-dreamcast-was-different/",
-    "summary": "GamesRadar+ looks back at the Sega Dreamcast and what set it apart in 1999. It arrived more than a year before the PlayStation 2 with sharp 3D graphics, good sound, a strong set of launch games and online play out of the box. Earlier consoles had trade-offs: the N64 had fuzzy textures and small cartridges, [&#8230;]"
-  },
-  {
-    "title": "5 useful Python automation scripts for beginners",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/5-useful-python-automation-scripts-for-beginners/",
-    "summary": "Bala Priya C has put together five short Python scripts for everyday tasks, published on KDnuggets, with the code on GitHub. They cover image processing, file management, text analysis and command line tools, and they&#8217;re each small enough to read through in one go. The first uses the Pillow library to resize every image in [&#8230;]"
-  },
-  {
-    "title": "What is a gravity wave and how it disrupts GPS",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/what-is-a-gravity-wave-and-how-it-disrupts-gps/",
-    "summary": "Wikipedia&#8217;s page on gravity waves covers the physics behind how a big rocket launch can disturb GPS signals. A gravity wave is a wave in a fluid, or at the boundary between two fluids, where gravity is the force pulling the displaced fluid back toward equilibrium. Ocean swell and wind waves are the familiar kind. [&#8230;]"
-  },
-  {
-    "title": "370 books in 20 months: South African author defends her use of AI",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/370-books-in-20-months-south-african-author-defends-her-use-of-ai/",
-    "summary": "A report at eNCA covers South African writer Coral Hart, who has published more than 370 books since February 2025 using AI models, and who talks openly about how she does it. Coral Hart is a pseudonym. She says she&#8217;s received tens of thousands of hate messages and several death threats. Hart worked in publishing [&#8230;]"
   },
   {
     "title": "Infineon redefines real-time compute and control for software-defined vehicles and Physical AI with new AURIX™ RC1",
@@ -404,26 +425,5 @@
     "date": "2026-11-04",
     "url": "https://www.embedded.com/designing-medical-devices-for-the-field/",
     "summary": "<p>Why designing for serviceability starts with system architecture.</p>\n<p>The post <a href=\"https://www.embedded.com/designing-medical-devices-for-the-field/\">Designing Medical Devices for the Field</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Nordic Launches nRF71 SoCs for Low-Power Wi-Fi and Edge AI",
-    "source": "Embedded.com",
-    "date": "2026-11-03",
-    "url": "https://www.embedded.com/nordic-launches-nrf71-socs-for-low-power-wi-fi-and-edge-ai/",
-    "summary": "<p>Nordic Semiconductor has introduced the nRF71 series, a family of ultra-low-power system-on-chips (SoCs) that combine Wi-Fi, Bluetooth Low Energy (LE), Thread, and edge AI capabilities in a single device. Designed for battery-powered connected products, the new platform delivers up to 20 times lower standby power consumption than the previous-generation nRF70 Series Wi-Fi products. The nRF71 [...]</p>\n<p>The post <a href=\"https://www.embedded.com/nordic-launches-nrf71-socs-for-low-power-wi-fi-and-edge-ai/\">Nordic Launches nRF71 SoCs for Low-Power Wi-Fi and Edge AI</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ESD eBook November/December 2026: Edge Computing Powers Intelligent Decision-Making",
-    "source": "Embedded.com",
-    "date": "2026-11-03",
-    "url": "https://www.embedded.com/esd-ebook-november-december-2026-edge-computing-powers-intelligent-decision-making/",
-    "summary": "<p>Embedded system technologies are becoming the centerpiece for smarter decisions as data moves closer to where it's created.</p>\n<p>The post <a href=\"https://www.embedded.com/esd-ebook-november-december-2026-edge-computing-powers-intelligent-decision-making/\">ESD eBook November/December 2026: Edge Computing Powers Intelligent Decision-Making</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ABR Launches Speech AI SDK for Alif Processors",
-    "source": "Embedded.com",
-    "date": "2026-11-02",
-    "url": "https://www.embedded.com/abr-launches-speech-ai-sdk-for-alif-processors/",
-    "summary": "<p>Applied Brain Research (ABR) has announced the general availability of its speech AI software development kit (SDK) for Zephyr RTOS on the Alif Semiconductor Ensemble family of edge AI processors. The software enables streaming automatic speech recognition and text-to-speech synthesis to run entirely on-device, without requiring a cloud connection. It is designed for low-power embedded [...]</p>\n<p>The post <a href=\"https://www.embedded.com/abr-launches-speech-ai-sdk-for-alif-processors/\">ABR Launches Speech AI SDK for Alif Processors</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   }
 ]
