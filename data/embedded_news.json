@@ -1,5 +1,26 @@
 [
   {
+    "title": "DeviceTree For Hackers: Intro",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/10/devicetree-for-hackers-intro/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2019/10/LinuxMarketing.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Raspberry Pi has just leaked information on the Pi Zero 3W. They did it by publishing a DeviceTree file that describes the hardware of the Pi Zero. This is how <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/devicetree-for-hackers-intro/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Have You Ever Heard Of the Lobo MAX-80?",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/The-Lobo-MAX-80_-A-cool-computer-that-came-and-went-in-a-flash.-0-56-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Adrian Black]&#8217;s enthusiasm is palpable as he shows off something truly unusual: a Lobo MAX-80 computer from 1982. To call this machine rare would be an understatement, as the company <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Hacking the Sidekick in 2026",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/10/hacking-the-sidekick-in-2026/",
+    "summary": "<div><img alt=\"A T-mobile Sidekick 3 phone. It has an LCD screen that swings up above a backlit QWERTY keyboard sitting between a joystick and illuminated call start and end buttons on the right and a directional pad on the left. The screen shows the selected application, a visual novel called &quot;Class of 09.&quot;\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/11/danger-hiptop-tmobile-sidekick-3-classof09.webp?w=794\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"794\" /></div>The early 2000s saw a Cambrian Explosion of form factors for mobile devices, and one of the most feature-rich phones of the time was the Danger Hiptop, better known as <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/hacking-the-sidekick-in-2026/\">&#8230;read more</a>"
+  },
+  {
     "title": "Robotic Car Charger Locks On With Suction",
     "source": "Hackaday",
     "date": "2026-11-10",
@@ -19,6 +40,13 @@
     "date": "2026-11-10",
     "url": "https://hackaday.com/2026/11/09/free-your-harley-from-the-dealer/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/harley-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Vehicles have come with diagnostic ports for many years now, and there are a host of easily available tools to interrogate them. Despite that, there are still proprietary aspects that <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/free-your-harley-from-the-dealer/\">&#8230;read more</a>"
+  },
+  {
+    "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
+    "source": "CNX Software",
+    "date": "2026-11-10",
+    "url": "https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/",
+    "summary": "<div><img alt=\"LabWired MCU board simulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/LabWired-MCU-board-simulator-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Andrii Shylenko&#8217;s LabWired is an MIT-licensed MCU firmware simulation core that runs compiled firmware against modeled CPUs and peripherals, captures UART and bus output, register state, and supports repeatable checks in CI. The simulator works on Arm Cortex-M0+, Cortex-M3, Cortex-M4, Cortex-M7, Cortex-M33 cores, RISC-V architecutre, and Xtensa LX6 and LX7 (some ESP32 parts). The main benefit of the project is speeding up firmware testing since doing some on real boards is slow. The hardware must be ready, then the firmware must be flashed to the board each time you want to test it, and if something breaks, developers get a dark LED and no trace. If a firmware project needs to support multiple boards, this quickly adds up. The project is different from a CPU/MCU emulator for two main reasons: The full board is modeled, not only the chip. Sensors, displays, and bus devices are also simulated. So you can [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/\">LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "KiCad 10 now (unofficially) runs in a web browser or Android",
@@ -42,46 +70,151 @@
     "summary": "<div><img alt=\"STM32G5\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/STM32G5-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The STM32G5 series is a family of 280 MHz Arm Cortex-M33 mixed-signal MCUs designed for industrial power supplies, photovoltaic inverters, EV chargers, robotics, and motor control systems. It doubles the performance of the older STM32G4 series unveiled in 2021. The new MCU family features up to 512KB flash, 112KB SRAM with ECC, a 111 ps high-resolution timer (HRTIM) with up to 12 PWM outputs on some variants, and 12-bit ADCs supporting up to 5 MSPS. Other features include position encoder interfaces, a 16-element programmable logic array, CORDIC and FMAC mathematical accelerators, and security features such as Arm TrustZone, secure boot, and post-quantum cryptography support. STM32G5 series specifications: MCU Core 32-bit Arm Cortex-M33 CPU @ up to 280 MHz with TrustZone, single-precision FPU, DSP instructions, and MPU 8 KB instruction cache and 4 KB data cache (data cache on STM32G55x/56x only) 20 KB or 32 KB CCM-SRAM routine booster (20 KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/\">280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Tardy",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/intel-sloth-2026-11/",
+    "summary": "<p>According to tech Taiwan, reported by Wcctech, MediaTek people who are using Intel’s  EMIB-T packaging technology have had a complaint from Intel engineers about their demands for quick answers to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/intel-sloth-2026-11/\">Tardy</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/nickel-aluminium-is-the-smarter-alternative-to-traditional-silver-aluminium-emi-shielding-materials-2026-11/",
+    "summary": "<p>Nickel-aluminium (Ni/Al) is emerging as an alternative to silver-aluminium (Ag/Al) in shielding applications, writes Rachid Ait El Cadi. For decades Ag/Al conductive elastomer gaskets have occupied a leading position in electromagnetic [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nickel-aluminium-is-the-smarter-alternative-to-traditional-silver-aluminium-emi-shielding-materials-2026-11/\">Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "TSMC October revenues up 59.7% YoY",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/",
+    "summary": "<p>TSMC today announced a 59.7% rise YoY and a $14.7% rise  MoM for its October revenue of $17.8 billion. Revenue for January through October 2026 totaled $136.2 billion, an increase [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/\">TSMC October revenues up 59.7% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Infineon expects a €20bn 2027",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/",
+    "summary": "<p>Infineon had Q4 FY 2026 revenue  of €4.706 billion for profit of €1.119 billion at a margin of 23.8% For FY 2026 it had revenue of €16.353 billion, up 12up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/\">Infineon expects a €20bn 2027</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
+    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/products/memory/electronica-sandisk-inand-cl-em181-embedded-flash-drive-for-iot-2026-11/",
+    "summary": "<p>Sandisk is introducing the SANDISK iNAND CL EM181 Embedded Flash Drive (EFD) for the physical AI and IoT markets. It officially announced the drive at electronica 2026. Available in 64GB, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/memory/electronica-sandisk-inand-cl-em181-embedded-flash-drive-for-iot-2026-11/\">Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica – The latest news roundup",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/electronica/electronica-2024-the-latest-news-roundup-2026-11/",
+    "summary": "<p>Don&#8217;t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica/electronica-2024-the-latest-news-roundup-2026-11/\">Electronica &#8211; The latest news roundup</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Delays reported at Rapidus",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/delays-reported-at-rapidus-2026-11/",
+    "summary": "<p>Rapidus, Japan’s state-backed effort to make 2nm chips, has failed to make a functioning 2nm SRAM reports Bloomberg. The failure puts in question its targets of entering 2nm mass production [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/delays-reported-at-rapidus-2026-11/\">Delays reported at Rapidus</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "Gallium Oxide wafers in early production",
     "source": "Electronics Weekly",
     "date": "2026-11-10",
     "url": "https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/",
-    "summary": "<p>Gallium oxide (Ga₂O₃) is moving into early production mode. The  ultra-wide bandgap material with a bandgap around 4.7 to 4.9 eV — nearly fifty percent wider than SiC — is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/\">Gallium Oxide wafers in early production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>Gallium oxide (Ga₂O₃) is moving into early production mode. The ultra-wide bandgap material with a bandgap around 4.7 to 4.9 eV — nearly fifty percent wider than SiC — is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/\">Gallium Oxide wafers in early production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Ardian Semi raises €1bn",
     "source": "Electronics Weekly",
     "date": "2026-11-10",
     "url": "https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/",
-    "summary": "<p>A private equity company dedicated to making investments in the semiconductor supply chain has raised €1 billion The company,  Ardian Semiconductor, is part of the French private equity company Ardian. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/\">Ardian Semi raises €1bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "summary": "<p>A private equity company dedicated to making investments in the semiconductor supply chain has raised €1 billion The company, Ardian Semiconductor, is part of the French private equity company Ardian. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/\">Ardian Semi raises €1bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "Infineon first to fab SiC on 300mm wafers",
-    "source": "Electronics Weekly",
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-first-to-fab-sic-on-300mm-wafers-2026-11/",
-    "summary": "<p>Infineon is processing 300mm SiC wafers into functional power devices at its fab in Villach, Austria. Infineon used  existing silicon (Si) manufacturing equipment. The larger wafer diameter offers 2.3 times [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-first-to-fab-sic-on-300mm-wafers-2026-11/\">Infineon first to fab SiC on 300mm wafers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/11/10/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-10-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
   },
   {
-    "title": "Electronica: Weebit Matrix prototypes IMC algorithms",
-    "source": "Electronics Weekly",
+    "title": "Native American Heritage Month: Walking Lenapehoking",
+    "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/business/weebit-matrix-2026-11/",
-    "summary": "<p>Weebit Nano, a developer and licensor of advanced technologies, has launched the Weebit Matrix In-Memory Compute (IMC) Research Program, designed to accelerate exploration of next-generation computing architectures. The program provides [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/weebit-matrix-2026-11/\">Electronica: Weebit Matrix prototypes IMC algorithms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/11/10/native-american-heritage-month-walking-lenapehoking/",
+    "summary": "Celebrate Native American Heritage Month with NYC Parks &#8211; Sunday, November 22! Details here. Join the Urban Park Rangers for a guided walk through Lenapehoking, the ancestral homeland of the Lenape. Explore the landscape’s Indigenous history, seasonal ecology, and the traditions that continue to shape New York City today. More Native American Heritage Month posts [&#8230;]"
   },
   {
-    "title": "Electronica: Development platform for humanoid robots",
-    "source": "Electronics Weekly",
+    "title": "Hacking the Sidekick in 2026",
+    "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/electronica-gand-for-humanoid-robots-2026-11/",
-    "summary": "<p>At electronica 2026, Inova Semiconductors is showcasing a development platform for humanoid robots built on Inova’s APXpress high-speed networking technology and low-power Lattice CertusPro and Lattice CrossLink NX FPGAs. DLR’s [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica-gand-for-humanoid-robots-2026-11/\">Electronica: Development platform for humanoid robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/11/10/hacking-the-sidekick-in-2026/",
+    "summary": "The T-Mobile Sidekick, sold elsewhere as the Danger Hiptop, ran DangerOS, which only loads software signed by Danger or a carrier. Developers used to get a signed key from a web form, but that closed in 2010 and nobody issues keys anymore. ashe, writing at x86.cx, made one instead. The Danger SDK and a firmware [&#8230;]"
   },
   {
-    "title": "Tax Exporters Less",
-    "source": "Electronics Weekly",
+    "title": "exfatprogs 1.4.4 brings speed-ups for making new exFAT filesystems",
+    "source": "Adafruit",
     "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/tax-exporters-less-2026-11/",
-    "summary": "<p>As an incentive to export, the Government should seriously consider limiting the proposed &#8220;payroll tax&#8221; to firms exporting less than ten per cent of their output. so, 65 years ago, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/tax-exporters-less-2026-11/\">Tax Exporters Less</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://blog.adafruit.com/2026/11/10/exfatprogs-1-4-4-brings-speed-ups-for-making-new-exfat-filesystems/",
+    "summary": "Michael Larabel at Phoronix reports that exfatprogs 1.4.4 is out, with a speed-up for making new exFAT filesystems. exfatprogs is the set of user-space tools for exFAT on Linux, the package that includes mkfs.exfat for formatting a drive and fsck.exfat for checking one. exFAT is the Microsoft filesystem used on most SD cards and USB [&#8230;]"
+  },
+  {
+    "title": "frank-386 v1.08: a Tiny386 port to RP2350 now does true HDMI",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/frank-386-v1-08-a-tiny386-port-to-rp2350-now-does-true-hdmi/",
+    "summary": "rh1tech has released version 1.08 of frank-386, a port of the Tiny386 PC emulator to the RP2350, posted on GitHub. Builds run at 378 MHz with PSRAM at 133 MHz and USB HID on. With HDMI output the clock goes up to 504 MHz. The big change is real HDMI instead of DVI, using the [&#8230;]"
+  },
+  {
+    "title": "This 1970s “Digital” Clock Has No Electronics Inside",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/this-1970s-digital-clock-has-no-electronics-inside/",
+    "summary": "Super fun video from Mark Furneaux discussing the early 1970s Lumitime clock by Japanese company Tamura. It&#8217;s great to see an example of an early &#8220;digital&#8221; clock that predated the 1980s digital clock boom and the broad use of LCDs and LEDs. Furneaux also cites other examples of more mainstream clock technologies in use at [&#8230;]"
+  },
+  {
+    "title": "Six-sided transparent cube with LED matrix shapes screenless AI companion",
+    "source": "Adafruit",
+    "date": "2026-11-10",
+    "url": "https://blog.adafruit.com/2026/11/10/six-sided-transparent-cube-with-led-matrix-shapes-screenless-ai-companion/",
+    "summary": "Industrial designer Adam Miklosi has posted Glyph (1) on designboom, a concept for a screenless AI companion shaped like a small cube. There&#8217;s no phone display and there aren&#8217;t any menus. The interface is the cube&#8217;s orientation: turning it so a given face points up switches on the mode mapped to that face. The body [&#8230;]"
+  },
+  {
+    "title": "Inova and Lattice Demonstrate Same-Cycle Distributed Motor Control for a Humanoid Hand with DLR Powered by Lattice FPGAs",
+    "source": "EE Journal",
+    "date": "2026-11-10",
+    "url": "https://www.eejournal.com/industry_news/inova-and-lattice-demonstrate-same-cycle-distributed-motor-control-for-a-humanoid-hand-with-dlr-powered-by-lattice-fpgas/",
+    "summary": "At electronica 2026, Inova Semiconductors is showcasing a development platform for humanoid robots built on Inova’s APXpress high-speed networking technology and low-power Lattice CertusPro™ and Lattice CrossLink™NX FPGAs. DLR’s Institute of Robotics and Mechatronics is the scientific partner in the collaboration, contributing its long-standing research on robotic hands and manipulation. With that scientific partnership, the [&#8230;]"
+  },
+  {
+    "title": "STMicroelectronics adds 100V series to GANSPIN family for compact, efficient motor control",
+    "source": "EE Journal",
+    "date": "2026-11-10",
+    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-adds-100v-series-to-ganspin-family-for-compact-efficient-motor-control/",
+    "summary": "STMicroelectronics has added 100V variants to its GANSPIN family that provide an easy-to-use gallium nitride (GaN) power stage for building compact and efficient motor drives. The three new 5mm x 6.5mm devices include the GANSPIN1102 with typical RDS(on) of 2.4mΩ, while the GANSPIN1102E adds a dedicated top-side-cooling option, giving designers greater freedom to remove heat [&#8230;]"
+  },
+  {
+    "title": "Newark launches Panasonic ERJPC Series: Thin-film precision in a thick-film footprint",
+    "source": "EE Journal",
+    "date": "2026-11-10",
+    "url": "https://www.eejournal.com/industry_news/newark-launches-panasonic-erjpc-series-thin-film-precision-in-a-thick-film-footprint/",
+    "summary": "Newark is now selling the new ERJPC series of super high-precision thick-film resistors from Panasonic Industry. This innovative product line delivers precision levels previously only achievable with thin-film technology, offering engineers a powerful new tool for space constrained and high accuracy designs. The ERJPC series delivers a TCR as low as 25ppm/K and tolerances down [&#8230;]"
+  },
+  {
+    "title": "Antaira Introduces “G-Series” General Purpose Industrial Ethernet Switches",
+    "source": "EE Journal",
+    "date": "2026-11-10",
+    "url": "https://www.eejournal.com/industry_news/antaira-introduces-g-series-general-purpose-industrial-ethernet-switches/",
+    "summary": "Antaira Technologies, a global developer and manufacturer of industrial networking and communication solutions, today announced the G-Series, a family of general-purpose industrial Ethernet switches designed for cost-conscious deployments. The unmanaged switches feature industrial construction and plug-and-play operation for connecting machines, cameras and controllers in OEM and system integration applications. “Large-scale projects shouldn’t have to choose [&#8230;]"
   },
   {
     "title": "From Phone, To SDR, No Extra Hardware",
@@ -89,27 +222,6 @@
     "date": "2026-11-09",
     "url": "https://hackaday.com/2026/11/09/from-phone-to-sdr-no-extra-hardware/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/lg-sdr-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the more exciting recent developments has been the discovery that many radio chips used in common and cheap wireless network interfaces, microcontrollers, LoRa interfaces and others can be <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/from-phone-to-sdr-no-extra-hardware/\">&#8230;read more</a>"
-  },
-  {
-    "title": "UDP Broadcasting Meets the More Focused Multicasting",
-    "source": "Hackaday",
-    "date": "2026-11-09",
-    "url": "https://hackaday.com/2026/11/09/udp-broadcasting-meets-the-more-focused-multicasting/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/06/UDP.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>After previously exploring the basics of UDP broadcasting, why IPv4 subnets are an exciting feature that you really want to dive into, as well as the contentious topic of IPv6, <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/udp-broadcasting-meets-the-more-focused-multicasting/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Reverse Engineering a 1960s Diode-Transistor Logic IC",
-    "source": "Hackaday",
-    "date": "2026-11-09",
-    "url": "https://hackaday.com/2026/11/09/reverse-engineering-a-1960s-diode-transistor-logic-ic/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"361\" src=\"https://hackaday.com/wp-content/uploads/2026/11/signetics-ad.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Before transistor-transistor logic (TTL) took over, diode-transistor logic (DTL) was a common sight especially in pre-IC circuits where it was a major improvement over resistor-transistor logic (RTL). That said, it&#8217;s <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/reverse-engineering-a-1960s-diode-transistor-logic-ic/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Radon Active",
-    "source": "Hackaday",
-    "date": "2026-11-09",
-    "url": "https://hackaday.com/2026/11/09/radon-active/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/10/RadonDetector.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When you think about nuclear radiation, you often think about power plants, but it turns out there&#8217;s radioactive stuff all over the place: smoke detectors, granite counters, bananas, and potatoes <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/radon-active/\">&#8230;read more</a>"
   },
   {
     "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
@@ -154,34 +266,6 @@
     "summary": "<p>MIPS has introduced advances in its Actus reference platform, an open, energy-efficient RISC-V architecture designed to combine real-time motor control, edge inference, and communications for robotics. Developed for compact robot joints, Actus addresses the requirements of humanoid and industrial robots, where precise movement must be achieved within strict space, weight, power, and thermal constraints. The [...]</p>\n<p>The post <a href=\"https://www.embedded.com/mips-introduces-actus-risc-v-platform-for-robotic-motion-control/\">MIPS Introduces Actus RISC-V Platform for Robotic Motion Control</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Google expands its 8th-Gen TPU portfolio for agentic AI",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/",
-    "summary": "<p>Google has expanded its eighth generation TPU portfolio with the TPU 8tx and TPU 8i Max. Following on from the TPU 8t and TPU 8i releases in April, it marks [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/\">Google expands its 8th-Gen TPU portfolio for agentic AI</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
-    "summary": "<p>Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/\">Aratas introduces G6TA series of reed relays for safety-monitoring</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "CesiumAstro satellite antenna specialist raises $730m",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
-    "summary": "<p>CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads &#8211; the company highlights &#8211; combine active phased array antennas, RF front ends, analogue and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/\">CesiumAstro satellite antenna specialist raises $730m</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Jensen Huang apologises: Nvidia board investigates",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
-    "summary": "<p>After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior executive at Singapore datacentre company Megaspeed, who US intelligence officials believe is a Chinese spy. The board of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/\">Jensen Huang apologises: Nvidia board investigates</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Using forbidden techniques to fix a Neo Geo cartridge!",
     "source": "Adafruit",
     "date": "2026-11-09",
@@ -215,55 +299,6 @@
     "date": "2026-11-09",
     "url": "https://blog.adafruit.com/2026/11/09/370-books-in-20-months-south-african-author-defends-her-use-of-ai/",
     "summary": "A report at eNCA covers South African writer Coral Hart, who has published more than 370 books since February 2025 using AI models, and who talks openly about how she does it. Coral Hart is a pseudonym. She says she&#8217;s received tens of thousands of hate messages and several death threats. Hart worked in publishing [&#8230;]"
-  },
-  {
-    "title": "Claude claims it can now design electronic prototypes from start to finish",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/claude-claims-it-can-now-design-electronic-prototypes-from-start-to-finish/",
-    "summary": "Anthropic, writing on its research blog, describes working with Diode Computers to have Claude Fable 5.2 design three electronic devices: a USB-C speakerphone puck, a voice-assistant hub, and a handheld virtual pet. Starting from a short prompt, the model wrote the specifications, drew the schematics, placed parts on the circuit board, routed the copper, designed [&#8230;]"
-  },
-  {
-    "title": "Saving a vintage high-voltage power supply from the scrap heap",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/saving-a-vintage-high-voltage-power-supply-from-the-scrap-heap/",
-    "summary": "Donald Papp at Hackaday writes about Mr Carlson&#8217;s Lab rescuing a Fluke Model 407 high-voltage power supply that was headed for the scrap heap. The unit is in good shape inside, with vacuum tubes and circuit boards and no obvious damage, but it powers up with a main output that doesn&#8217;t behave. Old electronics get [&#8230;]"
-  },
-  {
-    "title": "16 things to check before a PCB goes to fab",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/16-things-to-check-before-a-pcb-goes-to-fab/",
-    "summary": "JLCPCB posted a checklist on X of 16 things to look over before a board design is sent out for fabrication. The list covers design for manufacturing, or DFM: the checks that keep a layout from running into trouble once a fab house has to build it. Pre-fab checks are the cheapest fix available. A [&#8230;]"
-  },
-  {
-    "title": "Moments – smart e-ink dashboard adapts to its surroundings",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/moments-smart-e-ink-dashboard-adapts-to-its-surroundings/",
-    "summary": "Makestreme has posted Moments, an open-source firmware for the Seeed Studio reTerminal Sticky e-ink display. It turns the Sticky into a dashboard like TRMNL, without a subscription or a cloud account, and changes what&#8217;s on screen based on where the device is and what time it is. Everything is built around a Moment: a static [&#8230;]"
-  },
-  {
-    "title": "Fold epic paper airplanes",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/fold-epic-paper-airplanes/",
-    "summary": "Kyle has put together a library of 109 paper airplane designs at Foldable Flight, each with step by step folding instructions. The planes are sorted by paper type, and clicking one opens its fold sequence. Designs are rated on a 1 to 10 scale for speed, glide and accuracy, plus a difficulty level from Very [&#8230;]"
-  },
-  {
-    "title": "Free, open-source OpenRB-338 brings ReBirth back for modern computers",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/free-open-source-openrb-338-brings-rebirth-back-for-modern-computers/",
-    "summary": "synthhead at Synthtopia covers OpenRB-338, a free and open-source remake of Propellerhead&#8217;s ReBirth RB-338 by developer pingw33n. The original, released in 1997, put software versions of classic Roland instruments together into one virtual studio. OpenRB-338 runs on current desktop operating systems, with an audio engine built to match the output of the original software. It [&#8230;]"
-  },
-  {
-    "title": "UPDATED GUIDE: Adafruit Si5351 Clock Generator Breakouts #AdafruitLearningSystem @Adafruit",
-    "source": "Adafruit",
-    "date": "2026-11-09",
-    "url": "https://blog.adafruit.com/2026/11/09/updated-guide-adafruit-si5351-clock-generator-breakouts-adafruitlearningsystem-adafruit/",
-    "summary": "Never hunt around for another crystal again, with the Si5351C clock generator breakout from Adafruit, now with 8-channels! This guide has been updated for the Si5351C 8-Channel Breakout. There is a new Pinouts page and new resources on the Downloads page. Read more at Adafruit Si5351 Clock Generator Breakouts"
   },
   {
     "title": "Infineon redefines real-time compute and control for software-defined vehicles and Physical AI with new AURIX™ RC1",
@@ -322,13 +357,6 @@
     "summary": "<div><img alt=\"GEEKOM A5 2027 Edition mini PC review AMD Ryzen 7 7730U\" class=\"attachment-medium size-medium wp-post-image\" height=\"483\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/GEEKOM-A5-2027-Edition-mini-PC-review-AMD-Ryzen-7-7730U-720x483.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve been sent a GEEKOM A5 2027 Edition mini PC powered by an AMD Ryzen 7 7730U 8-core/16-thread CPU for review. The mini PC supports up to 64GB dual-channel DDR4 memory, can drive up to four independent displays via HDMI 2.0 and USB-C ports, includes three USB 3.2 Gen 2 Type-A ports, two USB 3.2 Gen 2 Type-C ports, one USB 2.0 port, a full-size SD card reader, a 2.5GbE port, and Wi-Fi 6 and Bluetooth 5.4 wireless connectivity. The model sent for review ships with 16GB DDR4 SO-DIMM RAM and a 512GB M.2 SSD pre-loaded with an activated Windows 11 Pro operating system. In the first part of the review, we&#8217;ll list the specifications, perform an unboxing and teardown to check out the hardware, and boot Windows 11 to make sure it works properly. Thorough features and performance testing on Windows 11 and Ubuntu 26.04 will be covered in [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/geekom-a5-2027-edition-amd-ryzen-7-7730u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/\">GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review &#8211; Part 1: Specifications, unboxing, teardown, and first boot</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H",
-    "source": "CNX Software",
-    "date": "2026-11-06",
-    "url": "https://www.cnx-software.com/2026/11/06/aaeon-pico-pth4-pico-itx-board-is-powered-by-an-intel-panther-lake-soc-up-to-the-core-ultra-x7-358h/",
-    "summary": "<div><img alt=\"Pico-ITX Panther Lake board\" class=\"attachment-medium size-medium wp-post-image\" height=\"614\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Pico-ITX-Panther-Lake-board-720x614.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAEON claims the PICO-PTH4 is the world&#8217;s first 2.5-inch Pico-ITX board powered by an Intel Panther Lake processor, such as the Core Ultra 5 325, Core Ultra 7 355, and Core Ultra X7 358H, delivering up to 180 TOPS of AI performance in a 100mm x 72mm form factor. The single board computer ships with up to 32GB of LPDDR5X, supports M.2 M-Key/E-Key and PCIe x4 FPC expansion, and offers dual 2.5GbE, HDMI 2.1 video output, two USB 3.2 Gen 2 ports, and internal connectors for USB 2.0, front panel, RS-232/422/485, GPIO, and SMBus/I2C. AAEON PICO-PTH4 specifications: Panther Lake SoC (one or the other) Intel Core Ultra 5 325 CPU &#8211; Octa-core (4P+4LPE) CPU up to 4.5 GHz with 12MB Smart Cache GPU &#8211; 4-core Intel Graphics @ 2.45 GHz (40 TOPS) AI accelerator  &#8211; 47 TOPS Intel AI Boost NPU PBP: 25 Watts Core Ultra 7 355 CPU &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/aaeon-pico-pth4-pico-itx-board-is-powered-by-an-intel-panther-lake-soc-up-to-the-core-ultra-x7-358h/\">AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "ESD eBook Nov/Dec 2026, How to Make Embedded Computer Vision Work in the Real World, Connected Products: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-11-06",
@@ -355,34 +383,6 @@
     "date": "2026-11-05",
     "url": "https://www.eejournal.com/industry_news/stmicroelectronics-stm32h7p-mcus-embed-digital-signal-processing-edge-ai-and-real-time-control-for-demanding-industrial-applications/",
     "summary": "STMicroelectronics’ STM32H7P microcontrollers add hardware acceleration for DSP and edge AI workloads alongside a 2773-CoreMark® Arm® Cortex®-M7 to handle digital power, motor control, condition monitoring, and other mission-critical industrial applications. The architecture includes ST’s Hardware Signal Processor (HSP) and Neural-ART ™ Neural Processing Unit (NPU). The HSP is a powerful, cost-optimized and energy-efficient DSP accelerator [&#8230;]"
-  },
-  {
-    "title": "STMicroelectronics streamlines AI model development for STM32 developers",
-    "source": "EE Journal",
-    "date": "2026-11-05",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers/",
-    "summary": "STMicroelectronics has redesigned the workflow in ST Edge AI Suite, consolidating the developer environment with four new tools that streamline deployment of embedded machine-learning models on STM32 microcontrollers. Model Explorer &#8211; the first new tool in the latest update &#8211; provides an intuitive web interface for users to browse and find the right AI model [&#8230;]"
-  },
-  {
-    "title": "SEGGER delivers day-one support for ST’s new STM32G5 microcontrollers",
-    "source": "EE Journal",
-    "date": "2026-11-05",
-    "url": "https://www.eejournal.com/industry_news/segger-delivers-day-one-support-for-sts-new-stm32g5-microcontrollers/",
-    "summary": "The STM32G5 marks the latest addition to STMicroelectronics’ well-established STM32 family of microcontrollers. The STM32G5 series is a family of general-purpose Arm® Cortex®-M33-based microcontrollers. It is built for high-performance motor control and digital power applications, giving developers the processing capability and peripheral set needed for demanding real-time control tasks. Developers benefit from access to SEGGER’s [&#8230;]"
-  },
-  {
-    "title": "Synopsys Expands Access to Advanced Chip Design Capabilities Through European Chips Design Platform",
-    "source": "EE Journal",
-    "date": "2026-11-05",
-    "url": "https://www.eejournal.com/industry_news/synopsys-expands-access-to-advanced-chip-design-capabilities-through-european-chips-design-platform/",
-    "summary": "Simplified access to Synopsys’ advanced EDA design software through the EuroCDP Support covers both Level 1 and Level 2 of the EuroCDP program, from the earliest-stage ventures through pre-production Broad EDA coverage includes full digital front-end and back-end flows for advanced AI and HPC SoC designs on leading-edge process technologies, as well as photonic integrated [&#8230;]"
-  },
-  {
-    "title": "Valens Semiconductor Introduces the VS6310 Chipset, Bringing Power-Efficient USB3 Extension Directly into Video Conferencing Devices",
-    "source": "EE Journal",
-    "date": "2026-11-05",
-    "url": "https://www.eejournal.com/industry_news/valens-semiconductor-introduces-the-vs6310-chipset-bringing-power-efficient-usb3-extension-directly-into-video-conferencing-devices/",
-    "summary": "Valens Semiconductor (NYSE: VLN), a leading provider of high-performance connectivity chipsets, today announced the VS6310, a low-power USB3 extension chipset designed for integration directly into e/PTZ cameras, touch controllers, active cables and other small conference room peripherals. Building on the company&#8217;s VS6320, the VS6310&#8217;s lower power consumption makes it ideal for embedded designs that reduce [&#8230;]"
   },
   {
     "title": "Aetina Unveils Rugged Edge AI System for Heavy-Duty Vehicles",
