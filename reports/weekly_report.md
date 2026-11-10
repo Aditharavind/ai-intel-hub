@@ -1,33 +1,33 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-10 00:53 UTC
+Generated: 2026-11-10 07:49 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-11-06 | On Agentic Manipulation Policies | [link](https://arxiv.org/pdf/2611.09892v1) |
-| 2026-11-06 | Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving | [link](https://arxiv.org/pdf/2611.09888v1) |
-| 2026-11-06 | Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation | [link](https://arxiv.org/pdf/2611.09877v1) |
-| 2026-11-06 | Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation | [link](https://arxiv.org/pdf/2611.09864v1) |
-| 2026-11-06 | Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology | [link](https://arxiv.org/pdf/2611.09851v1) |
+| 2026-11-09 | World In-Context Learning for Agentic Robot Manipulation | [link](https://arxiv.org/pdf/2611.12885v1) |
+| 2026-11-09 | Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos | [link](https://arxiv.org/pdf/2611.12879v1) |
+| 2026-11-09 | SWAM: Scaling World Action Models with Cross-Modal Alignment | [link](https://arxiv.org/pdf/2611.12870v1) |
+| 2026-11-09 | The Tierras Observatory: Ultra-Precise Photometry for Characterizing Exoplanets and Their Host Stars | [link](https://arxiv.org/pdf/2611.12849v1) |
+| 2026-11-09 | DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander | [link](https://arxiv.org/pdf/2611.12824v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84769 | 33907.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64097 | 25638.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44775 | 17910.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30882 | 12352.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30096 | 12038.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 84783 | 33913.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64099 | 25639.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44776 | 17910.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30885 | 12354.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30110 | 12044.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | zxyty/physicalai-dinov3-vitl16 | 4726 | 1417.9 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
+| nvidia/Cosmos3-Edge-Policy-DROID | 2432 | 733.3 | [link](https://huggingface.co/nvidia/Cosmos3-Edge-Policy-DROID) |
+| nvidia/Cosmos3-Nano-Policy-DROID | 1863 | 566.8 | [link](https://huggingface.co/nvidia/Cosmos3-Nano-Policy-DROID) |
 | nvidia/Cosmos3-H-Embodied-Nano | 1082 | 325.5 | [link](https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano) |
 | mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF | 705 | 211.6 | [link](https://huggingface.co/mradermacher/lean-world-model-qwen3-8b-reasoning-grpo-GGUF) |
-| mradermacher/EmbodiedBrain-32B-GGUF | 234 | 70.3 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-32B-GGUF) |
-| lindafei001/sft391-agenticA-v2-navigation-think-ep2 | 56 | 16.9 | [link](https://huggingface.co/lindafei001/sft391-agenticA-v2-navigation-think-ep2) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -45,4 +45,4 @@ Generated: 2026-11-10 00:53 UTC
 | 2026-11-09 | Bain Capital’s Ajay Agarwal bet on robots when Silicon Valley wouldn’t. Now he sees a ‘golden era’ for physical AI - Fortune | physical ai startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0t0eUwwOVB4NjJxdEt4NHMzVnhOZEpYanZ1STdnSnJxbDl6Q1pKNnhSQkV2RXM3X3k2MXIxcExNaWxDQW1lMXpxY2xuNXhNcWpHTldKZkVqa3I0YXU5SEw4SE8wRk0wWUpkS2hvV20ybXpKaVFvbGdLeXBMMjdoN1pZX1ZyZjF6VnRFOEozZTNSMXN4NjN0eHo5TmhqYy1DbU8xQk83X0pUUUFmRUE?oc=5) |
 | 2026-11-09 | Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTlZaWDB0eGFzZmZZX0pDc1QxLVZ5Nk1TMmZVb3ZpRG54RFI1WFVYQ09RXzluY2x4QVVuZnlCeXBONDZUc29hQV9BcEVVdEo2U1VR?oc=5) |
 | 2026-11-09 | NVIDIA AI Day Seoul Highlights Korea’s Advances in Sovereign, Agentic and Physical AI — Live Updates - NVIDIA Blog | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JLTQ2SGNUWVJmamVBcTF4RU5fM3lndGFYTTd5Q3paVEttV0hha1dLZi1NR3pZaWpidzFieTlXMFlPQXZnbm1LcXI1U3BiQ2xiblc0a19n?oc=5) |
-| 2026-11-09 | Nvidia Backs Korean AI Startup Point2 in Seoul Forum Push - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDBMUGg4cTREMmJpRDNKTDVwSUdWbDk1T0FDTWtYbmRFUE1hRVRhZWhWMmtheHZlSUF2OERMN3FPbm1Kbmg5QXpyTGw0RldDQjNSUy14U196Q0hTanNBNGp2czVmZ2NyS3M3b0QtbURlX05mdXpxay04OG52ekJMaVpxSXhBZUh5RllGX0JBRjFPUUlu?oc=5) |
+| 2026-11-09 | New wheeled factory robot works alongside humans without safety cages - Interesting Engineering | embodied ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHJDcjZvYkxUZkd2MlQwTmwtaFI3UTFHckxRTDhGZXp2SWRVNVR3ckMwdzJYY1JQanB6cVY0SnBlX1B6YlRlWkdWNFNhVFVmQzJoQ0Z5ai0xVU5OczFkVWVSQUw1RnNCQXVlLTBFUklaYXlnSXNyNGtRQ2lIbUg0ZW16UmItd0I0cmc1WmQyN0k?oc=5) |

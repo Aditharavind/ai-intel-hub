@@ -1,5 +1,19 @@
 [
   {
+    "title": "Robotic Car Charger Locks On With Suction",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/09/robotic-car-charger-locks-on-with-suction/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Tesla-Robotic-Car-Charger-2-42-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Not only does [Mew463]&#8217;s robotic car charger take care of plugging in his vehicle for him, it has some really clever features that are great to see in action. We&#8217;ve <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/robotic-car-charger-locks-on-with-suction/\">&#8230;read more</a>"
+  },
+  {
+    "title": "You Wouldn’t Download A Car…",
+    "source": "Hackaday",
+    "date": "2026-11-10",
+    "url": "https://hackaday.com/2026/11/09/you-wouldnt-download-a-car/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/3dpcar-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>For as long as there have been sports cars, there have been blokes in tin sheds making their own sports cars. It&#8217;s a pursuit that has birthed famous marques and <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/you-wouldnt-download-a-car/\">&#8230;read more</a>"
+  },
+  {
     "title": "Free Your Harley From The Dealer",
     "source": "Hackaday",
     "date": "2026-11-10",
@@ -7,11 +21,67 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/harley-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Vehicles have come with diagnostic ports for many years now, and there are a host of easily available tools to interrogate them. Despite that, there are still proprietary aspects that <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/free-your-harley-from-the-dealer/\">&#8230;read more</a>"
   },
   {
+    "title": "KiCad 10 now (unofficially) runs in a web browser or Android",
+    "source": "CNX Software",
+    "date": "2026-11-10",
+    "url": "https://www.cnx-software.com/2026/11/10/kicad-10-now-unofficially-runs-in-a-web-browser-or-android/",
+    "summary": "<div><img alt=\"KiCad 10 Web Browser Android\" class=\"attachment-medium size-medium wp-post-image\" height=\"447\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/KiCad-10-Web-Browser-Android-720x447.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>It&#8217;s now possible to run KiCad 10 directly in a web browser or as an Android app thanks to two separate open-source projects, unaffiliated with the official KiCad project. Let&#8217;s have a look at both. Ziro Designer/ZiroEDA &#8211; KiCad 10 in your web browser Akshay Rukade (ZiroEDA), an engineering student in India, ported KiCad 10.0.6 to the browser through the Ziro Designer/ZiroEDA Designer project. It&#8217;s a TypeScript translation of KiCad&#8217;s C++, kept file-for-file against the KiCad implementation, so the real schematic editor, PCB editor, interactive router, and ERC/DRC run in a browser tab and read and write normal KiCad projects. That means you can open local KiCad projects or designs hosted on GitHub directly in a web browser without having to install KiCad 10 itself on your computer, and it should also enable machines that do not natively support KiCad (e.g., RISC-V, Android tablet, iPad&#8230;) to run it. Akshay highlights [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/10/kicad-10-now-unofficially-runs-in-a-web-browser-or-android/\">KiCad 10 now (unofficially) runs in a web browser or Android</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-11-10",
+    "url": "https://www.cnx-software.com/2026/11/10/controlbox-home-assistant-solution-is-designed-for-floor-heating-systems-house-lighting-1-wire-sensors/",
+    "summary": "<div><img alt=\"ControlBox floor heating controller home assistant\" class=\"attachment-medium size-medium wp-post-image\" height=\"490\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ControlBox-floor-heating-controller-home-assistant-720x490.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>DomeCtrl&#8217;s ControlBox is a Raspberry Pi 5-based controller running Home Assistant and primarily designed for hydronic radiant floor heating (RFH) systems. It also supports lighting solutions and integration with energy devices such as solar collectors, photovoltaic installations, heat pumps, hydraulic pumps &#38; valves. The system controls thermal valves, hydraulic PWM pumps, and related RFH devices, and can read multiple 1-wire temperature sensors over long cables (&#62;6 m).  The ControlBox also features 32 LED-strip output channels, for up to 2 kW output. ControlBox specifications: Main board &#8211; Raspberry Pi 5 SBC with 4GB RAM Storage &#8211; 128GB NVMe SSD pre-loaded with Home Assistant Wired Communication Gigabit Ethernet on SBC Half-duplex RS485 communication bus (5 V) Wireless WiFi 5 and Bluetooth 5 on SBC W32-ESP01 header for control via ESPHome 433 MHz transmitter &#38; receiver modules for communication with wireless peripherals like &#8216;ClickOnClickOff&#8217;, curtain rails, screens, garage doors, etc. I/Os via terminal [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/10/controlbox-home-assistant-solution-is-designed-for-floor-heating-systems-house-lighting-1-wire-sensors/\">ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications",
     "source": "CNX Software",
     "date": "2026-11-10",
     "url": "https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/",
     "summary": "<div><img alt=\"STM32G5\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/STM32G5-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The STM32G5 series is a family of 280 MHz Arm Cortex-M33 mixed-signal MCUs designed for industrial power supplies, photovoltaic inverters, EV chargers, robotics, and motor control systems. It doubles the performance of the older STM32G4 series unveiled in 2021. The new MCU family features up to 512KB flash, 112KB SRAM with ECC, a 111 ps high-resolution timer (HRTIM) with up to 12 PWM outputs on some variants, and 12-bit ADCs supporting up to 5 MSPS. Other features include position encoder interfaces, a 16-element programmable logic array, CORDIC and FMAC mathematical accelerators, and security features such as Arm TrustZone, secure boot, and post-quantum cryptography support. STM32G5 series specifications: MCU Core 32-bit Arm Cortex-M33 CPU @ up to 280 MHz with TrustZone, single-precision FPU, DSP instructions, and MPU 8 KB instruction cache and 4 KB data cache (data cache on STM32G55x/56x only) 20 KB or 32 KB CCM-SRAM routine booster (20 KB [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/\">280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Gallium Oxide wafers in early production",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/",
+    "summary": "<p>Gallium oxide (Ga₂O₃) is moving into early production mode. The  ultra-wide bandgap material with a bandgap around 4.7 to 4.9 eV — nearly fifty percent wider than SiC — is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/\">Gallium Oxide wafers in early production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Ardian Semi raises €1bn",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/",
+    "summary": "<p>A private equity company dedicated to making investments in the semiconductor supply chain has raised €1 billion The company,  Ardian Semiconductor, is part of the French private equity company Ardian. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/\">Ardian Semi raises €1bn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Infineon first to fab SiC on 300mm wafers",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/infineon-first-to-fab-sic-on-300mm-wafers-2026-11/",
+    "summary": "<p>Infineon is processing 300mm SiC wafers into functional power devices at its fab in Villach, Austria. Infineon used  existing silicon (Si) manufacturing equipment. The larger wafer diameter offers 2.3 times [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-first-to-fab-sic-on-300mm-wafers-2026-11/\">Infineon first to fab SiC on 300mm wafers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica: Weebit Matrix prototypes IMC algorithms",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/business/weebit-matrix-2026-11/",
+    "summary": "<p>Weebit Nano, a developer and licensor of advanced technologies, has launched the Weebit Matrix In-Memory Compute (IMC) Research Program, designed to accelerate exploration of next-generation computing architectures. The program provides [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/weebit-matrix-2026-11/\">Electronica: Weebit Matrix prototypes IMC algorithms</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica: Development platform for humanoid robots",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/news/electronica-gand-for-humanoid-robots-2026-11/",
+    "summary": "<p>At electronica 2026, Inova Semiconductors is showcasing a development platform for humanoid robots built on Inova’s APXpress high-speed networking technology and low-power Lattice CertusPro and Lattice CrossLink NX FPGAs. DLR’s [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica-gand-for-humanoid-robots-2026-11/\">Electronica: Development platform for humanoid robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Tax Exporters Less",
+    "source": "Electronics Weekly",
+    "date": "2026-11-10",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/tax-exporters-less-2026-11/",
+    "summary": "<p>As an incentive to export, the Government should seriously consider limiting the proposed &#8220;payroll tax&#8221; to firms exporting less than ten per cent of their output. so, 65 years ago, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/tax-exporters-less-2026-11/\">Tax Exporters Less</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "From Phone, To SDR, No Extra Hardware",
@@ -40,20 +110,6 @@
     "date": "2026-11-09",
     "url": "https://hackaday.com/2026/11/09/radon-active/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/10/RadonDetector.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When you think about nuclear radiation, you often think about power plants, but it turns out there&#8217;s radioactive stuff all over the place: smoke detectors, granite counters, bananas, and potatoes <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/radon-active/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Web Satellite Tracker Plays the Music of the Spheres",
-    "source": "Hackaday",
-    "date": "2026-11-09",
-    "url": "https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"400\" src=\"https://hackaday.com/wp-content/uploads/2026/11/orbitsounds_feat.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are a dizzying number of satellites in orbit around the Earth these days, and more are being added at an incredible rate. Those of us with an interest in <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Determining Location by Listening for Airplanes",
-    "source": "Hackaday",
-    "date": "2026-11-09",
-    "url": "https://hackaday.com/2026/11/09/determining-location-by-listening-for-airplanes/",
-    "summary": "<div><img alt=\"An audio spectrogram is shown in the middle of the image, with intensity plots shown both above and below the spectrogram. A vertical yellow line runs through all three graphs.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/doppler_curve_location.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Beyond what people deliberately disclose, there’s a surprising amount of information hidden in everyday messages, especially photos and videos. Even when people try to hide the location or time at <a class=\"read-more\" href=\"https://hackaday.com/2026/11/09/determining-location-by-listening-for-airplanes/\">&#8230;read more</a>"
   },
   {
     "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
@@ -124,48 +180,6 @@
     "date": "2026-11-09",
     "url": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
     "summary": "<p>After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior executive at Singapore datacentre company Megaspeed, who US intelligence officials believe is a Chinese spy. The board of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/\">Jensen Huang apologises: Nvidia board investigates</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TSMC rumoured to be eyeing 3D DRAM",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
-    "summary": "<p>TSMC is said to have appointed vice-president Hsu Kuo-Chin to look at how the company could get into 3D DRAM, according to multiple industry reports, but it would seem that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/\">TSMC rumoured to be eyeing 3D DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Toshiba gets £20m government contract to commercialise quantum",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/business/toshiba-gets-20-million-government-contract-to-commercialise-quantum-2026-11/",
-    "summary": "<p>Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/toshiba-gets-20-million-government-contract-to-commercialise-quantum-2026-11/\">Toshiba gets £20m government contract to commercialise quantum</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "European AI companies have raised $27.6bn this year",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/",
-    "summary": "<p>Europe AI companies raised $27.6bn in the first nine months of 2026, up 3.2-times from $8.6bn in 9M 2025, says Tracxn Technologies. The 10 largest rounds raised $19.0bn of that, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/\">European AI companies have raised $27.6bn this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Consoles Take A Dive",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/consoles-take-a-dive-2026-11/",
-    "summary": "<p>The world’s  leading video game console makers Sony and Nintendo both reported a steep decline in Q3 hardware sales as recent price increases soured demand for the latest generation of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/consoles-take-a-dive-2026-11/\">Consoles Take A Dive</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "GF to run 7nm process next year",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/business/gf-to-run-7nm-process-next-year-2026-11/",
-    "summary": "<p>Globalfoundries says it intends to demo a 7nm FDSOI process in early 2027 called FDX Fusion. The process claims to deliver more than double the transistor density of first-generation 22FDX, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gf-to-run-7nm-process-next-year-2026-11/\">GF to run 7nm process next year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "GSA Awards 2026 nominees",
-    "source": "Electronics Weekly",
-    "date": "2026-11-09",
-    "url": "https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/",
-    "summary": "<p>The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday 10 December 2026. The 2026 Dr Morris [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/\">GSA Awards 2026 nominees</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Using forbidden techniques to fix a Neo Geo cartridge!",
@@ -315,13 +329,6 @@
     "summary": "<div><img alt=\"Pico-ITX Panther Lake board\" class=\"attachment-medium size-medium wp-post-image\" height=\"614\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Pico-ITX-Panther-Lake-board-720x614.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAEON claims the PICO-PTH4 is the world&#8217;s first 2.5-inch Pico-ITX board powered by an Intel Panther Lake processor, such as the Core Ultra 5 325, Core Ultra 7 355, and Core Ultra X7 358H, delivering up to 180 TOPS of AI performance in a 100mm x 72mm form factor. The single board computer ships with up to 32GB of LPDDR5X, supports M.2 M-Key/E-Key and PCIe x4 FPC expansion, and offers dual 2.5GbE, HDMI 2.1 video output, two USB 3.2 Gen 2 ports, and internal connectors for USB 2.0, front panel, RS-232/422/485, GPIO, and SMBus/I2C. AAEON PICO-PTH4 specifications: Panther Lake SoC (one or the other) Intel Core Ultra 5 325 CPU &#8211; Octa-core (4P+4LPE) CPU up to 4.5 GHz with 12MB Smart Cache GPU &#8211; 4-core Intel Graphics @ 2.45 GHz (40 TOPS) AI accelerator  &#8211; 47 TOPS Intel AI Boost NPU PBP: 25 Watts Core Ultra 7 355 CPU &#8211; [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/aaeon-pico-pth4-pico-itx-board-is-powered-by-an-intel-panther-lake-soc-up-to-the-core-ultra-x7-358h/\">AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Olimex UEXT-CH390 SPI to Ethernet module targets Raspberry Pi and ESP32 MCU boards running ESPHome",
-    "source": "CNX Software",
-    "date": "2026-11-06",
-    "url": "https://www.cnx-software.com/2026/11/06/olimex-uext-ch390-spi-to-ethernet-module-targets-raspberry-pi-and-esp32-mcu-boards-running-esphome/",
-    "summary": "<div><img alt=\"Olimex UEXT CH390 open source SPI UEXT module with Home Assistant support\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Olimex-UEXT-CH390-open-source-SPI-UEXT-module-with-Home-Assistant-support-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Olimex UEXT-CH390 is a small open-source hardware module that adds 10/100 Mbps wired Ethernet connectivity to microcontroller boards through an SPI interface. It is designed for Raspberry Pi Pico and Pico 2 boards, as well as ESP32-S3, C3, C5, C6, and other microcontrollers without built-in Ethernet connectivity. The module is based on the WCH CH390 Ethernet controller and features an RJ45 connector, a standard UEXT connector, and a smaller 1.0mm-pitch pUEXT connector. It measures 50 x 21 mm and is supported in the Arduino IDE and ESPHome firmware, making it suitable for wired IoT sensors, Home Assistant devices, and other applications where WiFi is unreliable or unwanted. Olimex UEXT-CH390 specifications: Ethernet controller – WCH CH390 with integrated 10/100 Mbps Ethernet MAC and PHY 10BASE-T and 100BASE-TX Ethernet with auto-negotiation Auto-MDIX support for automatic cable detection Built-in 16KB SRAM for packet buffering Factory-programmed MAC address, eliminating the need for an external [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/olimex-uext-ch390-spi-to-ethernet-module-targets-raspberry-pi-and-esp32-mcu-boards-running-esphome/\">Olimex UEXT-CH390 SPI to Ethernet module targets Raspberry Pi and ESP32 MCU boards running ESPHome</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "ESD eBook Nov/Dec 2026, How to Make Embedded Computer Vision Work in the Real World, Connected Products: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-11-06",
@@ -334,13 +341,6 @@
     "date": "2026-11-06",
     "url": "https://www.eejournal.com/fish_fry/building-better-hardware-together-how-hackster-io-fosters-community-driven-innovation/",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"200\" src=\"https://www.eejournal.com/wp-content/uploads/2026/11/iStock-1357830750-300x200.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"300\" />This week I’m thrilled to welcome back one of my absolute favorite guests: Dianne Kibbey, Senior Director of Community Strategy and Hackster.io at Avnet! Dianne and I explore why human developer communities are more critical today than ever before. We chat about how engineers can harness community-driven insights to tackle hardware design problems, draw lessons [&#8230;]"
-  },
-  {
-    "title": "NXP MCX W70 and KW43 wireless MCUs support Bluetooth Channel Sounding for IoT and automotive applications",
-    "source": "CNX Software",
-    "date": "2026-11-05",
-    "url": "https://www.cnx-software.com/2026/11/05/nxp-mcx-w70-and-kw43-wireless-mcus-support-bluetooth-channel-sounding-for-iot-and-automotive-applications/",
-    "summary": "<div><img alt=\"NXP MCX W70 and KW43 Bluetooth 6 Channel Sounding MCUs\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/NXP-MCX-W70-and-KW43-Bluetooth-6-Channel-Sounding-MCUs-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>NXP MCX W70 and KW43 wireless MCU families support Bluetooth 6.x Channel Sounding for secure distance measurement in industrial IoT and automotive applications. The MCX W70 supports Bluetooth LE, Zigbee, Thread, and Matter for Smart Home and industrial devices, while the KW43 is designed for automotive applications such as digital keys and secure vehicle access. Both families feature a 96 MHz Arm Cortex-M33 application core, a separate Cortex-M33 core for wireless connectivity, up to 1.5MB flash, 256KB SRAM, a dedicated Localization Compute Engine (LCE), and NXP&#8217;s EdgeLock security features. Bluetooth Channel Sounding support combines phase-based ranging (PBR) and round-trip time (RTT) to improve distance measurement accuracy and security. NXP MCX W70 and KW43 key features and specifications: MCU cores Application core – Arm Cortex-M33 @ 96 MHz with FPU, MPU, DSP/SIMD instructions, and TrustZone-M Radio subsystem – Arm Cortex-M33 @ 96 MHz Accelerator – Localization Compute Engine (LCE) for Bluetooth [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/05/nxp-mcx-w70-and-kw43-wireless-mcus-support-bluetooth-channel-sounding-for-iot-and-automotive-applications/\">NXP MCX W70 and KW43 wireless MCUs support Bluetooth Channel Sounding for IoT and automotive applications</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Seco, Peridio Simplify Robotics Deployment with Avocado OS",
