@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-10 21:29 UTC
+Last Updated: 2026-11-11 01:30 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-12 | Gilbert + Tobin rethinks the business of law with AI | OpenAI | [link](https://openai.com/index/gilbert-tobin-sam-nickless) |
 | 2026-11-10 | Helping caregivers use AI in everyday life | OpenAI | [link](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life) |
 | 2026-11-10 | Introducing Businesses in ChatGPT | OpenAI | [link](https://openai.com/index/introducing-businesses-chatgpt) |
 | 2026-11-10 | Closing the AI guidance gap in education | OpenAI | [link](https://openai.com/index/closing-ai-guidance-gap-education) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-09 | ChatGPT Enterprise now available in AWS Marketplace | OpenAI | [link](https://openai.com/index/chatgpt-enterprise-aws-marketplace) |
 | 2026-11-09 | Control Room: A central system to track and stop model workloads across our research infrastructure | OpenAI | [link](https://openai.com/index/control-room) |
 | 2026-11-09 | CodeRabbit scales agentic software development and ships 20x more | OpenAI | [link](https://openai.com/index/coderabbit-codex-daybreak) |
-| 2026-11-09 | Kuken Industries searches 70 years of drawings in minutes | OpenAI | [link](https://openai.com/index/kuken) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-11 | Watching the Watchers | Hackaday | [link](https://hackaday.com/2026/11/10/watching-the-watchers/) |
+| 2026-11-11 | LocalDot – Open-source PCB for 3rd-gen Amazon Echo Dot enables Home Assistant support (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/11/11/localdot-an-open-source-replacement-pcb-for-3rd-gen-echo-dot-with-home-assistant-support/) |
+| 2026-11-11 | Commodore officially launches the Callback 8020 flip phone | Adafruit | [link](https://blog.adafruit.com/2026/11/10/commodore-officially-launches-the-callback-8020-flip-phone/) |
 | 2026-11-10 | Gesture Controls With Only a Camera | Hackaday | [link](https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/) |
 | 2026-11-10 | How CRISPR Could Mark Mutated Cancer Cells for Termination | Hackaday | [link](https://hackaday.com/2026/11/10/how-crispr-could-mark-mutated-cancer-cells-for-termination/) |
 | 2026-11-10 | Simulating and Visualising the Central Limit Theorem | Hackaday | [link](https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/) |
 | 2026-11-10 | DeviceTree For Hackers: Intro | Hackaday | [link](https://hackaday.com/2026/11/10/devicetree-for-hackers-intro/) |
 | 2026-11-10 | Have You Ever Heard Of the Lobo MAX-80? | Hackaday | [link](https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/) |
 | 2026-11-10 | Hacking the Sidekick in 2026 | Hackaday | [link](https://hackaday.com/2026/11/10/hacking-the-sidekick-in-2026/) |
-| 2026-11-10 | Robotic Car Charger Locks On With Suction | Hackaday | [link](https://hackaday.com/2026/11/09/robotic-car-charger-locks-on-with-suction/) |
 | 2026-11-10 | LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals) | CNX Software | [link](https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/) |
-| 2026-11-10 | KiCad 10 now (unofficially) runs in a web browser or Android | CNX Software | [link](https://www.cnx-software.com/2026/11/10/kicad-10-now-unofficially-runs-in-a-web-browser-or-android/) |
-| 2026-11-10 | ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/11/10/controlbox-home-assistant-solution-is-designed-for-floor-heating-systems-house-lighting-1-wire-sensors/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,30 +77,30 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-11-10 | jisue/robottt-pi05-base-comparison | 0 | 0 | [link](https://huggingface.co/jisue/robottt-pi05-base-comparison) |
-| 2026-11-10 | Numbnut/robotwin-ckpts | 0 | 0 | [link](https://huggingface.co/Numbnut/robotwin-ckpts) |
-| 2026-11-10 | Nole326/RoboTwin-Open_Laptop | 0 | 1 | [link](https://huggingface.co/Nole326/RoboTwin-Open_Laptop) |
-| 2026-11-10 | taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-seed7-b256-4k | 0 | 0 | [link](https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-seed7-b256-4k) |
-| 2026-11-10 | arunos728/cosmos3-robotwin-ae-h169crop-cj-cosmos3init-b64-60k | 0 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-ae-h169crop-cj-cosmos3init-b64-60k) |
-| 2026-11-10 | DAGroup-PKU/HumanWAM-Goal-RoboTwin | 0 | 0 | [link](https://huggingface.co/DAGroup-PKU/HumanWAM-Goal-RoboTwin) |
-| 2026-11-10 | snupilab/Rep4Act-Asymmetric-MMDiT-4B-RoboTwin2-Clean-10k-PT100k-FM-ID-FDq-seed0 | 0 | 0 | [link](https://huggingface.co/snupilab/Rep4Act-Asymmetric-MMDiT-4B-RoboTwin2-Clean-10k-PT100k-FM-ID-FDq-seed0) |
-| 2026-11-10 | LoongForge/Loongforge-pi05-RoboTwin | 0 | 0 | [link](https://huggingface.co/LoongForge/Loongforge-pi05-RoboTwin) |
-| 2026-11-10 | robotensor/vector-kings | 0 | 0 | [link](https://huggingface.co/robotensor/vector-kings) |
-| 2026-11-10 | ROBOTIS/AIWorker-Arm-Segmentation-v1 | 0 | 0 | [link](https://huggingface.co/ROBOTIS/AIWorker-Arm-Segmentation-v1) |
+| 2026-11-11 | jisue/robottt-pi05-base-comparison | 0 | 1 | [link](https://huggingface.co/jisue/robottt-pi05-base-comparison) |
+| 2026-11-11 | robotchip/vlarl-ckpts-pub | 0 | 0 | [link](https://huggingface.co/robotchip/vlarl-ckpts-pub) |
+| 2026-11-11 | SelfDriving-VLA/laq-ad-backup | 0 | 0 | [link](https://huggingface.co/SelfDriving-VLA/laq-ad-backup) |
+| 2026-11-11 | driftwood3342/flow-vla-rl-checkpoints | 0 | 0 | [link](https://huggingface.co/driftwood3342/flow-vla-rl-checkpoints) |
+| 2026-11-11 | siliconperception/vla | 0 | 0 | [link](https://huggingface.co/siliconperception/vla) |
+| 2026-11-11 | sadafnezam/aloha_sim_transfer_cube_policy0 | 0 | 0 | [link](https://huggingface.co/sadafnezam/aloha_sim_transfer_cube_policy0) |
+| 2026-11-11 | ntlfi/enpo-qwen3-8b-eta-eighth-seed2-iter2-policy | 0 | 0 | [link](https://huggingface.co/ntlfi/enpo-qwen3-8b-eta-eighth-seed2-iter2-policy) |
+| 2026-11-10 | taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-aug-v2v-seed7-b256-4k | 0 | 0 | [link](https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-aug-v2v-seed7-b256-4k) |
+| 2026-11-10 | kimtaey/cosmos3-ap-openarm-wam-robot-aug-v2v-seed7-b256-4k | 0 | 0 | [link](https://huggingface.co/kimtaey/cosmos3-ap-openarm-wam-robot-aug-v2v-seed7-b256-4k) |
+| 2026-11-10 | ManhQuangAI/Robot-tics | 0 | 0 | [link](https://huggingface.co/ManhQuangAI/Robot-tics) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30129 | Python | 12051.7 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3922 | Python | 1568.9 | [link](https://github.com/NVIDIA/skills) |
-| Source-Robotics/PAROL6-Desktop-robot-arm | 3458 | HTML | 1383.3 | [link](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) |
-| copper-project/copper-rs | 1547 | Rust | 618.9 | [link](https://github.com/copper-project/copper-rs) |
-| mosaico-labs/mosaico | 1126 | Python | 450.5 | [link](https://github.com/mosaico-labs/mosaico) |
-| RobotecAI/rai | 615 | Python | 246.1 | [link](https://github.com/RobotecAI/rai) |
+| harvard-edge/cs249r_book | 30132 | Python | 12052.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 | autonomous-ai/lampOS | 554 | Rust | 221.7 | [link](https://github.com/autonomous-ai/lampOS) |
-| Developer-Y/cs-video-courses | 84802 |  | 33920.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64100 | Python | 25640.1 | [link](https://github.com/commaai/openpilot) |
-| AtsushiSakai/PythonRobotics | 30888 | Python | 12355.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| commaai/openpilot | 64104 | Python | 25641.7 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 25990 | Python | 10396.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17521 | Java | 7008.5 | [link](https://github.com/questdb/questdb) |
+| deeplethe/utopia | 8700 | Rust | 3480.1 | [link](https://github.com/deeplethe/utopia) |
+| vllm-project/vllm-omni | 7681 | Python | 3072.5 | [link](https://github.com/vllm-project/vllm-omni) |
+| NucleoidAI/Nucleoid | 770 | Rust | 308.1 | [link](https://github.com/NucleoidAI/Nucleoid) |
+| isaac-sim/IsaacLab | 8614 | Python | 3445.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| NVIDIA/skills | 3926 | Python | 1570.5 | [link](https://github.com/NVIDIA/skills) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -127,12 +127,14 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-09 | Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTlZaWDB0eGFzZmZZX0pDc1QxLVZ5Nk1TMmZVb3ZpRG54RFI1WFVYQ09RXzluY2x4QVVuZnlCeXBONDZUc29hQV9BcEVVdEo2U1VR?oc=5) |
 | 2026-11-09 | NVIDIA AI Day Seoul Highlights Korea’s Advances in Sovereign, Agentic and Physical AI — Live Updates - NVIDIA Blog | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JLTQ2SGNUWVJmamVBcTF4RU5fM3lndGFYTTd5Q3paVEttV0hha1dLZi1NR3pZaWpidzFieTlXMFlPQXZnbm1LcXI1U3BiQ2xiblc0a19n?oc=5) |
 | 2026-11-09 | Nvidia Backs Korean AI Startup Point2 in Seoul Forum Push - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDBMUGg4cTREMmJpRDNKTDVwSUdWbDk1T0FDTWtYbmRFUE1hRVRhZWhWMmtheHZlSUF2OERMN3FPbm1Kbmg5QXpyTGw0RldDQjNSUy14U196Q0hTanNBNGp2czVmZ2NyS3M3b0QtbURlX05mdXpxay04OG52ekJMaVpxSXhBZUh5RllGX0JBRjFPUUlu?oc=5) |
-| 2026-11-09 | Embodied AI’s AIR: Wheeled Humanoid Built for Factory Floors - AI Magazine | embodied ai startup | [link](https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWQ2ZWw2eWNGNWs5enRENktjdDhiNWpZenhxN0NFaUR1RVViSkpUZHB5Q182VGk2aC1xMUdNMGYwR0JCcDkzYUY3QVhjM0VFdjVwenpEZFA0aEd3NmNCQXliSFlXb1FjS3hsazduZXNXaGE4UURyZVZyUngtLTdhX3BvRVo3Vk1lZndDcml2UQ?oc=5) |
-| 2026-11-09 | Robbyant attracts more than 1,800 teams to embodied AI competition - Robotics & Automation News | embodied ai startup | [link](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDlMSGhTVGpFZFM3eDB2UzF4N3hnbmFKdTl6UlR6Qi1QVWtxSTIxLU5YZ1hQWHBhSFladldteVkzVGdWN193d0s1Y1Naak9PY1JBYjFHMUFmdXRFVUlac29fQTJXRWVnQ3FDYzJFMDRzWVd4SlhRVGZlWGNmUTIyWE1QTHdpZWFCT2dmRU16aWhTbThOaUxvWWtEWVRUVEEwaEszMFJzSmxGMFptODF0MmZCMlhVRDY0XzFXUmljZw?oc=5) |
+| 2026-11-08 | Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5) |
+| 2026-11-07 | The humanoid robot race heats up after Agility Robotics begins to trade (AGLT:NASDAQ) - Seeking Alpha | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJHUFZXc2xYc0dDSHdkaHhicmpzZldYU0lua0ZzWk5mU2RpU3E0b3hpR0o0MUIybmE0ZFRZZ3M2bEtBVWV0RjhjY3dmVTloRE9OZkhPOE9vS3RJMlVvVlpVY2RCU2VRa2JZWWczVXRZeFg5QTV0SERPOTVhMk90dkFDS3hYcXFwRXRnRENqWFZrcDJDVW9ORm4yTmE5TDlGU3RBb0FOdlJXd1V2bGc?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-10 | Helix AI Engineer, Backend  | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
+| 2026-11-10 | AI Research Engineer III | Agility Robotics | Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6248674004) |
 | 2026-11-10 | Software Engineer, Robot Diagnostics & Calibration | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6242275004) |
 | 2026-11-09 | PCBA Reliability Engineer - All Levels | Figure AI | San Jose, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4728462006) |
 | 2026-11-09 | Data Collection Manager | Agility Robotics | Onsite- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208804004) |
@@ -141,8 +143,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-06 | Buyer | Agility Robotics | Onsite- Salem, OR | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6222793004) |
 | 2026-11-06 | Staff Robotics Architect - Embedded Systems | Agility Robotics | Hybrid- Fremont, CA | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6208306004) |
 | 2026-11-06 | Total Rewards Lead | Agility Robotics | Remote | [link](https://www.agilityrobotics.com/about/job-post?gh_jid=6190376004) |
-| 2026-11-05 | Shift Coordinator, Humanoid Robot Operations (Morning)    | Figure AI | Santa Clara, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4724384006) |
-| 2026-11-05 | Shift Coordinator, Humanoid Robot Operations (Night)    | Figure AI | Santa Clara, CA | [link](https://job-boards.greenhouse.io/figureai/jobs/4727582006) |
 
 ## Automation
 
