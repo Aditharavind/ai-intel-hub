@@ -1,10 +1,38 @@
 [
   {
+    "title": "This Coffee Machine is DOOMed",
+    "source": "Hackaday",
+    "date": "2026-11-11",
+    "url": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
+    "summary": "<div><img alt=\"The Coffee Machine Mainboard, with the all-important debug port being probed\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Somehow, seeing DOOM on things that were never meant to run DOOM never gets old. It&#8217;s probably hard to get further into the &#8220;never meant to run DOOM&#8221; weeds than <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Print & Place: Add Embedded Electronics While FDM Printing",
+    "source": "Hackaday",
+    "date": "2026-11-11",
+    "url": "https://hackaday.com/2026/11/10/print-place-add-embedded-electronics-while-fdm-printing/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"327\" src=\"https://hackaday.com/wp-content/uploads/2026/11/print_and_place_oliver_child_et_al_uist_2026.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although combining electronics and 3D-printed structures is fairly common, this usually entails some level of manual assembly. This contrasts strongly with the Print &#38; Place approach demonstrated by [Oliver Child] <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/print-place-add-embedded-electronics-while-fdm-printing/\">&#8230;read more</a>"
+  },
+  {
     "title": "Watching the Watchers",
     "source": "Hackaday",
     "date": "2026-11-11",
     "url": "https://hackaday.com/2026/11/10/watching-the-watchers/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/satellite-tracker-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although it used to be a much more rare event, now almost any time at dawn or dusk, provided clear weather, a human observer can walk outside, look up, and <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/watching-the-watchers/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation",
+    "source": "CNX Software",
+    "date": "2026-11-11",
+    "url": "https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/",
+    "summary": "<div><img alt=\"Arduino Nano XL Link and carrier board\" class=\"attachment-medium size-medium wp-post-image\" height=\"435\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Arduino-Nano-XL-and-carrier-board-720x435.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100 Mbps Ethernet field bus transceivers for industrial, home, and building automation applications such as industrial networks, motor drives, building automation buses, smart sensors, and touch panels.  The company also unveiled the Nano XL Link Connector Carrier to go along with the new board. Arduino Nano XL Link Arduino Nano XL Link (ABX00182) specifications: MCU &#8211; Microchip PIC32CK2051SG01144 CPU &#8211; Arm Cortex-M33 @ 120 MHz Memory &#8211; 512 kB RAM Storage &#8211; 2 MB flash; 728 kB available for sketches Security &#8211; Integrated Hardware Security Module (HSM) + TrustZone USB &#8211; USB Type-C port for power, programming, and serial communication Industrial communication interfaces [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/\">Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT…",
+    "source": "CNX Software",
+    "date": "2026-11-11",
+    "url": "https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/",
+    "summary": "<div><img alt=\"Renesas RZ T2N Cortex A55 R52 MPU with four axis motor control, industrial Ethernet, and Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Renesas-RZ-T2N-Cortex-A55-R52-MPU-with-four-axis-motor-control-industrial-Ethernet-and-Linux-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas RZ/T2N industrial MPU supports up to four-axis motor control and includes PWM timers, encoder interfaces, and trigonometric accelerators. It&#8217;s designed for industrial robots, programmable logic controllers (PLCs), motion controllers, and multi-axis servo drives. The MPU features up to two 1.2 GHz Arm Cortex-A55 cores for application processing and two 800 MHz Cortex-R52 cores for real-time control. It also integrates a three-port Gigabit Ethernet switch with TSN support and industrial Ethernet protocols such as EtherCAT, PROFINET RT/IRT, and EtherNet/IP. This feature set allows real-time motor control, industrial networking, and Linux applications to run on a single chip, reducing the need for separate processors. The MPU can also work as an industrial Ethernet network controller or device, depending on the application. Renesas RZ/T2N specifications: CPU Up to 2x Arm Cortex-A55 (64-bit) cores clocked at 1.2 GHz with 32KB L1 instruction/data cache, 128KB L2 cache per core, and 256KB L3 cache 2x [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/\">Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT&#8230;</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "LocalDot – Open-source PCB for 3rd-gen Amazon Echo Dot enables Home Assistant support (Crowdfunding)",
@@ -14,11 +42,74 @@
     "summary": "<div><img alt=\"Assembled Localdot prototype\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Assembled-Localdot-prototype-720x540.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAElectronics&#8217; LocalDot is an open-source replacement mainboard that converts a 3rd-generation Amazon Echo Dot into a local voice assistant compatible with Home Assistant. The board replaces one of the two original PCBs while reusing the existing microphones, speaker, buttons, LEDs, and enclosure, so the device works without relying on Amazon&#8217;s cloud services. The board combines an ESP32-S3 for WiFi connectivity and device control with an ESP32-P4 for audio processing. It supports the original four-microphone array with beamforming, on-device wake-word detection, and local voice commands through Home Assistant. Installation requires no soldering or enclosure modifications, and the device still uses the original Echo Dot power adapter. LocalDot specifications: Compatibility – 3rd-generation Amazon Echo Dot (Donut and Crumpet variants; Clock version not tested) SoC ESP32-S3 – Wi-Fi connectivity and device control ESP32-P4 – Dedicated audio processing Audio TAS5805 audio amplifier for the original speaker On-device wake-word detection Beamforming support Reuses the original [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/localdot-an-open-source-replacement-pcb-for-3rd-gen-echo-dot-with-home-assistant-support/\">LocalDot &#8211; Open-source PCB for 3rd-gen Amazon Echo Dot enables Home Assistant support (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Google pairs TPU with Arm Neoverse",
+    "source": "Electronics Weekly",
+    "date": "2026-11-11",
+    "url": "https://www.electronicsweekly.com/news/business/goggle-pairs-tpu-with-arm-2026-11/",
+    "summary": "<p>Google Cloud is pairing​​ ​its TPU 8i Mac system​s​ ​with​ Arm-based ​Axion processors that are custom Arm Neoverse-based CPUs​ With TPU 8i Max, Google is extending its use of Axion [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/goggle-pairs-tpu-with-arm-2026-11/\">Google pairs TPU with Arm Neoverse</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Imec delivers baseline flows for NanoIC line interposer",
+    "source": "Electronics Weekly",
+    "date": "2026-11-11",
+    "url": "https://www.electronicsweekly.com/news/business/imec-delivers-baseline-flows-for-nanoic-interposed-2026-11/",
+    "summary": "<p>Imec has delivered the baseline flows for the silicon interposer platform being developed within the NanoIC pilot line. Providing an early technical view of a key technology for chiplet integration, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-delivers-baseline-flows-for-nanoic-interposed-2026-11/\">Imec delivers baseline flows for NanoIC line interposer</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica: TME showcases the ‘Dual Brain’ Arduino VENTUNO Q",
+    "source": "Electronics Weekly",
+    "date": "2026-11-11",
+    "url": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-tme-showcases-the-dual-brain-arduino-ventuno-q-2026-11/",
+    "summary": "<p>Distributor TME (Transfer Multisort Elektronik) showcased the Arduino VENTUNO Q at this year’s electronica. The high-performance single-board computer (SBC) targets Edge AI, robotics, and real-time control applications, reflecting the prominence [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-tme-showcases-the-dual-brain-arduino-ventuno-q-2026-11/\">Electronica: TME showcases the ‘Dual Brain’ Arduino VENTUNO Q</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica: Harwin launches XPi cable design and assembly service",
+    "source": "Electronics Weekly",
+    "date": "2026-11-11",
+    "url": "https://www.electronicsweekly.com/news/products/connectors/electronica-harwin-launches-xpi-cable-design-and-assembly-service-2026-11/",
+    "summary": "<p>Harwin, the UK-based manufacturer of high-reliability interconnects, has launched an integration services unit to support customers using its products in harsh environments and safety-critical applications. The unit, called XPi, will [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/connectors/electronica-harwin-launches-xpi-cable-design-and-assembly-service-2026-11/\">Electronica: Harwin launches XPi cable design and assembly service</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Spectrometer, light meter, and colour meter in one single portable product",
+    "source": "Electronics Weekly",
+    "date": "2026-11-11",
+    "url": "https://www.electronicsweekly.com/news/business/spectrometer-light-meter-and-colour-meter-in-one-single-portable-product-2026-11/",
+    "summary": "<p>Edmund Optics offers Sekonic Industrial Spectrometer Light Meters for industrial and scientific light analysis. The portable instruments incorporate the functionality of a spectrometer, light meter, and color meter in one [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/spectrometer-light-meter-and-colour-meter-in-one-single-portable-product-2026-11/\">Spectrometer, light meter, and colour meter in one single portable product</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Siemens buys Lauterbach",
+    "source": "Electronics Weekly",
+    "date": "2026-11-11",
+    "url": "https://www.electronicsweekly.com/news/business/siemens-buys-lauterbach-2026-11/",
+    "summary": "<p>Siemens is to buy Lauterbach,  the debug and trace specialist for embedded software and SoC architectures. Lauterbach sells development and verification tools for microprocessors and embedded CPU cores in the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/siemens-buys-lauterbach-2026-11/\">Siemens buys Lauterbach</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Top Ten (less 5) Server Manufacturers",
+    "source": "Electronics Weekly",
+    "date": "2026-11-11",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-server-manufacturers-2-2026-11/",
+    "summary": "<p>Thanks to BizTech &#8211; the top five server vendors: Dell Technologies: ~10.0% Supermicro: ~9.5% IEIT Systems: ~4.1% Lenovo: ~4.0% HPE:~3.1% &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-server-manufacturers-2-2026-11/\">Top Ten (less 5) Server Manufacturers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+    "source": "Adafruit",
+    "date": "2026-11-11",
+    "url": "https://blog.adafruit.com/2026/11/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-10-2-2/",
+    "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no [&#8230;]"
+  },
+  {
     "title": "Commodore officially launches the Callback 8020 flip phone",
     "source": "Adafruit",
     "date": "2026-11-11",
     "url": "https://blog.adafruit.com/2026/11/10/commodore-officially-launches-the-callback-8020-flip-phone/",
     "summary": "TheGavinSheehan at Bleeding Cool writes that the modern Commodore has announced the Callback 8020, a flip phone styled after the Y2K era. It runs Sailfish OS, a Linux-based mobile operating system with roots in Nokia&#8217;s old phone software, adapted for the Callback through a partnership with Jolla. Jolla is the Finnish company started by former [&#8230;]"
+  },
+  {
+    "title": "STMicroelectronics simplifies IoT deployment with SoftSIM, SGP.32 in-factory provisioning, and Zephyr support for ST87M01",
+    "source": "EE Journal",
+    "date": "2026-11-11",
+    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-simplifies-iot-deployment-with-softsim-sgp-32-in-factory-provisioning-and-zephyr-support-for-st87m01/",
+    "summary": "Now integrating Onomondo SoftSIM and a new support for direct in-factory profile provisioning based on SGP.32 Demonstration at Enlit Europe exhibition in November 2026 Zephyr support simplifies ST87M01 integration STMicroelectronics has announced new capability options for users of ST87M01 NB-IoT industrial modules, with Onomondo SoftSIM, support for in-factory SGP.32-compliant SIM profile provisioning, and Zephyr ecosystem [&#8230;]"
   },
   {
     "title": "Gesture Controls With Only a Camera",
@@ -47,20 +138,6 @@
     "date": "2026-11-10",
     "url": "https://hackaday.com/2026/11/10/devicetree-for-hackers-intro/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2019/10/LinuxMarketing.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Raspberry Pi has just leaked information on the Pi Zero 3W. They did it by publishing a DeviceTree file that describes the hardware of the Pi Zero. This is how <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/devicetree-for-hackers-intro/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Have You Ever Heard Of the Lobo MAX-80?",
-    "source": "Hackaday",
-    "date": "2026-11-10",
-    "url": "https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/The-Lobo-MAX-80_-A-cool-computer-that-came-and-went-in-a-flash.-0-56-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[Adrian Black]&#8217;s enthusiasm is palpable as he shows off something truly unusual: a Lobo MAX-80 computer from 1982. To call this machine rare would be an understatement, as the company <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hacking the Sidekick in 2026",
-    "source": "Hackaday",
-    "date": "2026-11-10",
-    "url": "https://hackaday.com/2026/11/10/hacking-the-sidekick-in-2026/",
-    "summary": "<div><img alt=\"A T-mobile Sidekick 3 phone. It has an LCD screen that swings up above a backlit QWERTY keyboard sitting between a joystick and illuminated call start and end buttons on the right and a directional pad on the left. The screen shows the selected application, a visual novel called &quot;Class of 09.&quot;\" class=\"attachment-large size-large wp-post-image\" height=\"625\" src=\"https://hackaday.com/wp-content/uploads/2026/11/danger-hiptop-tmobile-sidekick-3-classof09.webp?w=794\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"794\" /></div>The early 2000s saw a Cambrian Explosion of form factors for mobile devices, and one of the most feature-rich phones of the time was the Danger Hiptop, better known as <a class=\"read-more\" href=\"https://hackaday.com/2026/11/10/hacking-the-sidekick-in-2026/\">&#8230;read more</a>"
   },
   {
     "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
@@ -133,55 +210,6 @@
     "summary": "<p>Nickel-aluminium (Ni/Al) is emerging as an alternative to silver-aluminium (Ag/Al) in shielding applications, writes Rachid Ait El Cadi. For decades Ag/Al conductive elastomer gaskets have occupied a leading position in electromagnetic [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nickel-aluminium-is-the-smarter-alternative-to-traditional-silver-aluminium-emi-shielding-materials-2026-11/\">Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
-    "title": "TSMC October revenues up 59.7% YoY",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/",
-    "summary": "<p>TSMC today announced a 59.7% rise YoY and a $14.7% rise  MoM for its October revenue of $17.8 billion. Revenue for January through October 2026 totaled $136.2 billion, an increase [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/\">TSMC October revenues up 59.7% YoY</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Infineon expects a €20bn 2027",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/",
-    "summary": "<p>Infineon had Q4 FY 2026 revenue  of €4.706 billion for profit of €1.119 billion at a margin of 23.8% For FY 2026 it had revenue of €16.353 billion, up 12up [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/\">Infineon expects a €20bn 2027</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
-    "summary": "<p>Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox!</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/\">Get the Gadget Master newsletter!</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/products/memory/electronica-sandisk-inand-cl-em181-embedded-flash-drive-for-iot-2026-11/",
-    "summary": "<p>Sandisk is introducing the SANDISK iNAND CL EM181 Embedded Flash Drive (EFD) for the physical AI and IoT markets. It officially announced the drive at electronica 2026. Available in 64GB, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/memory/electronica-sandisk-inand-cl-em181-embedded-flash-drive-for-iot-2026-11/\">Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Electronica – The latest news roundup",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-    "summary": "<p>Don&#8217;t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/\">Electronica &#8211; The latest news roundup</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Delays reported at Rapidus",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/business/delays-reported-at-rapidus-2026-11/",
-    "summary": "<p>Rapidus, Japan’s state-backed effort to make 2nm chips, has failed to make a functioning 2nm SRAM reports Bloomberg. The failure puts in question its targets of entering 2nm mass production [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/delays-reported-at-rapidus-2026-11/\">Delays reported at Rapidus</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Gallium Oxide wafers in early production",
-    "source": "Electronics Weekly",
-    "date": "2026-11-10",
-    "url": "https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/",
-    "summary": "<p>Gallium oxide (Ga₂O₃) is moving into early production mode. The ultra-wide bandgap material with a bandgap around 4.7 to 4.9 eV — nearly fifty percent wider than SiC — is [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/\">Gallium Oxide wafers in early production</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
     "title": "Art Week NYC is Upon Us",
     "source": "Adafruit",
     "date": "2026-11-10",
@@ -250,13 +278,6 @@
     "date": "2026-11-10",
     "url": "https://blog.adafruit.com/2026/11/10/jps-product-pick-of-the-week-3pm-eastern-today-11-10-26-adafruit-adafruit-newproductpick/",
     "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a GREAT BIG DISCOUNT during the show! Tune [&#8230;]"
-  },
-  {
-    "title": "rv565: frame-independent RGB565 video for ESP32-S3 and RP2350 SPI displays",
-    "source": "Adafruit",
-    "date": "2026-11-10",
-    "url": "https://blog.adafruit.com/2026/11/10/rv565-frame-independent-rgb565-video-for-esp32-s3-and-rp2350-spi-displays/",
-    "summary": "elixpo has published RV565 on GitHub, a video format and player for small SPI displays like the ST7789. Frames are stored as independent zlib streams, and the decoded bytes are already in the panel&#8217;s native RGB565 format, so the microcontroller doesn&#8217;t have to convert anything before pushing pixels out. Clips are made from a video [&#8230;]"
   },
   {
     "title": "Inova and Lattice Demonstrate Same-Cycle Distributed Motor Control for a Humanoid Hand with DLR Powered by Lattice FPGAs",
@@ -364,20 +385,6 @@
     "summary": "<div><img alt=\"Procolored K13 Lite DTF printer review\" class=\"attachment-medium size-medium wp-post-image\" height=\"454\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Procolored-K13-Lite-DTF-printer-review-720x454.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Back in May, we wrote about the Procolored X One 3-in-1 laser engraver with UV and UV-DTF color printing, and the company contacted us a few months later for a review. But instead of having us review the laser engraver, they proposed that we test their K13 Lite DTF printer &#8220;developed for small businesses and creators producing customized apparel and merchandise&#8221;. Basically, a T-shirt printer using DTF (Direct-to-Film) technology. I wasn&#8217;t so sure at first, since T-shirt and garment printing isn&#8217;t exactly one of the primary topics we cover here at CNX Software! But I eventually decided to go ahead, since it might be interesting to understand the setup process, workflow, software, print quality/durability, and maintenance requirements for such a machine. So, let&#8217;s get started! Procolored K13 Lite DTF printer (and friends) unboxing A DTF printer does not print directly onto ordinary paper or garments. It prints the design onto [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/08/procolored-k13-lite-dtf-printer-review-custom-apparel-printing-with-printer-curing-oven-and-heat-press/\">Procolored K13 Lite DTF printer review &#8211; Custom apparel printing with printer, curing oven, and heat press</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash",
-    "source": "CNX Software",
-    "date": "2026-11-07",
-    "url": "https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/",
-    "summary": "<div><img alt=\"ESP32-S31-Zero board\" class=\"attachment-medium size-medium wp-post-image\" height=\"518\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ESP32-S31-Zero-board-720x518.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare &#8220;Zero&#8221; boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals,  but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC – Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/\">Waveshare ESP32-S31-Zero &#8211; A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU",
-    "source": "CNX Software",
-    "date": "2026-11-06",
-    "url": "https://www.cnx-software.com/2026/11/06/520-mhz-stm32h7p4-stm32h7p5-arm-cortex-m7-mcus-feature-hardware-signal-processor-hsp-optional-neural-art-npu/",
-    "summary": "<div><img alt=\"STM32H7P4 Cortex M7 MCU with Hardware Signal Processor (HSP)\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/STM32H7P4-Cortex-M7-MCU-with-Hardware-Signal-Processor-HSP-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>STMicroelectronics has introduced the STM32H7P4 and STM32H7P5, two 520 MHz Arm Cortex-M7 MCUs part of STM32H7P family designed for digital power, motor control, industrial sensing, and edge AI applications. Both feature a Hardware Signal Processor (HSP) for accelerating mathematical and signal-processing operations, while the STM32H7P5 also includes an 85 GOPS Neural-ART NPU for Edge AI inference/TinyML. The MCUs feature up to 2MB dual-bank flash, 736KB SRAM, two high-resolution timers with up to 24 PWM outputs, three advanced motor-control timers, and four 12-bit ADCs. Other features include CORDIC and FMAC mathematical accelerators, three CAN FD interfaces, USB OTG Full-Speed, and support for external memory through Octo-SPI and FMC interfaces. STM32H7P4 and STM32H7P5 specifications: MCU Core 32-bit Arm Cortex-M7 CPU @ up to 520 MHz with double-precision FPU, DSP instructions, and MPU 32 KB instruction cache and 32 KB data cache Performance – 2773 CoreMark (5.33 CoreMark/MHz) Mathematical coprocessors Hardware Signal Processor [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/06/520-mhz-stm32h7p4-stm32h7p5-arm-cortex-m7-mcus-feature-hardware-signal-processor-hsp-optional-neural-art-npu/\">520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
     "title": "ESD eBook Nov/Dec 2026, How to Make Embedded Computer Vision Work in the Real World, Connected Products: Embedded Week Insights",
     "source": "Embedded.com",
     "date": "2026-11-06",
@@ -397,13 +404,6 @@
     "date": "2026-11-05",
     "url": "https://www.embedded.com/seco-peridio-simplify-robotics-deployment-with-avocado-os/",
     "summary": "<p>Seco S.p.A. and Peridio have announced a collaboration to make Avocado OS, Peridio's production-ready Linux distribution, available across Seco's portfolio of systems based on Qualcomm Dragonwing platforms. The partnership targets robotics and physical AI applications, providing developers with a commercially supported operating system validated on Seco hardware and intended to simplify the transition from prototype [...]</p>\n<p>The post <a href=\"https://www.embedded.com/seco-peridio-simplify-robotics-deployment-with-avocado-os/\">Seco, Peridio Simplify Robotics Deployment with Avocado OS</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "STMicroelectronics’ STM32H7P MCUs embed digital signal processing, edge-AI, and real-time control for demanding industrial applications",
-    "source": "EE Journal",
-    "date": "2026-11-05",
-    "url": "https://www.eejournal.com/industry_news/stmicroelectronics-stm32h7p-mcus-embed-digital-signal-processing-edge-ai-and-real-time-control-for-demanding-industrial-applications/",
-    "summary": "STMicroelectronics’ STM32H7P microcontrollers add hardware acceleration for DSP and edge AI workloads alongside a 2773-CoreMark® Arm® Cortex®-M7 to handle digital power, motor control, condition monitoring, and other mission-critical industrial applications. The architecture includes ST’s Hardware Signal Processor (HSP) and Neural-ART ™ Neural Processing Unit (NPU). The HSP is a powerful, cost-optimized and energy-efficient DSP accelerator [&#8230;]"
   },
   {
     "title": "Aetina Unveils Rugged Edge AI System for Heavy-Duty Vehicles",
