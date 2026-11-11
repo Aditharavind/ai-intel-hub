@@ -1,5 +1,14 @@
 [
   {
+    "model": "taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-aug-v2v-seed7-b256-8k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-aug-v2v-seed7-b256-8k",
+    "date": "2026-11-11",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "CloudRobo/CloudRobo-WM-1.0-RoboTwin-20261111",
     "downloads": 0,
     "likes": 0,
@@ -99,12 +108,12 @@
     "score": 0.1
   },
   {
-    "model": "HarrisonPENG/TCP4D-stage1-RoboTwin",
+    "model": "mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b100",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/HarrisonPENG/TCP4D-stage1-RoboTwin",
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b100",
     "date": "2026-11-11",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -112,6 +121,69 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlapky/ZONOS3-Mini",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlapky/ZONOS3-Mini",
+    "date": "2026-11-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__mask_a75__prompt_empty__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask_a75__prompt_empty__pi05__seed_0",
+    "date": "2026-11-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_dense__mask_a75__prompt_tshirt__pi05__seed_0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_dense__mask_a75__prompt_tshirt__pi05__seed_0",
+    "date": "2026-11-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "theo-zhou/vla-mopd-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/theo-zhou/vla-mopd-checkpoints",
+    "date": "2026-11-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b30",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b30",
+    "date": "2026-11-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "matteuscruz/vla-g1-hpc",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/matteuscruz/vla-g1-hpc",
+    "date": "2026-11-11",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "research-vla/comove-rigid-gated-20261112",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/research-vla/comove-rigid-gated-20261112",
     "date": "2026-11-11",
     "keyword": "vla",
     "score": 0.1
@@ -139,78 +211,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b5",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b30",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b30",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/h2rb-banana-box-naive-vla30k-20261111",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/h2rb-banana-box-naive-vla30k-20261111",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/h2rb-banana-box-hawor-vla30k-20261111",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/h2rb-banana-box-hawor-vla30k-20261111",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/h2rb-banana-box-egopi-vla30k-20261111",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/h2rb-banana-box-egopi-vla30k-20261111",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/h2rb-banana-box-ours-vla30k-20261111",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/h2rb-banana-box-ours-vla30k-20261111",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/h2rb-e5-skill-task-tok5-vla30k-20261111",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/h2rb-e5-skill-task-tok5-vla30k-20261111",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "junbrro/h2rb-e5-skill-split-tok5-vla30k-20261111",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/junbrro/h2rb-e5-skill-split-tok5-vla30k-20261111",
-    "date": "2026-11-11",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "lyl010221-pku/deepvision-vla-rlbench10",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/lyl010221-pku/deepvision-vla-rlbench10",
     "date": "2026-11-11",
     "keyword": "vla",
     "score": 0.1
@@ -261,10 +261,37 @@
     "score": 0.1
   },
   {
-    "model": "MakinoKF/rebot_pick_nut_on_scale_dataset_20261111_183325_act-policy-v1",
+    "model": "ntlfi/enpo-qwen3-8b-eta-quarter-seed2-iter1-policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/MakinoKF/rebot_pick_nut_on_scale_dataset_20261111_183325_act-policy-v1",
+    "url": "https://huggingface.co/ntlfi/enpo-qwen3-8b-eta-quarter-seed2-iter1-policy",
+    "date": "2026-11-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "b-o-r-u/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/b-o-r-u/my_policy",
+    "date": "2026-11-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Jycccc111/Go_RL_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jycccc111/Go_RL_policy",
+    "date": "2026-11-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Yuyang-z/rwm-robodojo-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yuyang-z/rwm-robodojo-policy",
     "date": "2026-11-11",
     "keyword": "policy",
     "score": 0.1
@@ -274,6 +301,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/kickking/omx_buds_pick_merge_act_policy_30hz_bs16_ep10",
+    "date": "2026-11-11",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "MakinoKF/rebot_pick_nut_on_scale_dataset_20261111_183325_act-policy-v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/MakinoKF/rebot_pick_nut_on_scale_dataset_20261111_183325_act-policy-v1",
     "date": "2026-11-11",
     "keyword": "policy",
     "score": 0.1
@@ -331,42 +367,6 @@
     "date": "2026-11-11",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "3cda2225/record-armtest05_act_policy",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/3cda2225/record-armtest05_act_policy",
-    "date": "2026-11-11",
-    "keyword": "policy",
-    "score": 1.9
-  },
-  {
-    "model": "ntlfi/onpo-llama3-8b-eta533-seed2-iter3-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-llama3-8b-eta533-seed2-iter3-policy",
-    "date": "2026-11-11",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ntlfi/onpo-llama3-8b-eta533-seed2-iter2-policy",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-llama3-8b-eta533-seed2-iter2-policy",
-    "date": "2026-11-11",
-    "keyword": "policy",
-    "score": 0.7
-  },
-  {
-    "model": "ntlfi/onpo-llama3-8b-eta533-seed2-iter1-policy",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-llama3-8b-eta533-seed2-iter1-policy",
-    "date": "2026-11-11",
-    "keyword": "policy",
-    "score": 2.8
   },
   {
     "model": "Cusyoung/manimux-xiaomi-robotics-1-yam-latest300",
