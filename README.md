@@ -1,12 +1,14 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-12 04:26 UTC
+Last Updated: 2026-11-12 13:20 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-12 | Holiday Extras is rethinking what it can build with Codex | OpenAI | [link](https://openai.com/business/customer-stories/holidays-extras-codex) |
+| 2026-11-12 | Supporting research on AI and children’s safety | OpenAI | [link](https://openai.com/index/children-first-declaration) |
 | 2026-11-12 | Gilbert + Tobin rethinks the business of law with AI | OpenAI | [link](https://openai.com/index/gilbert-tobin-sam-nickless) |
 | 2026-11-11 | ChatGPT Plus for veterans and servicemembers | OpenAI | [link](https://openai.com/index/chatgpt-plus-for-veterans) |
 | 2026-11-11 | JioStar’s chief architect on AI discovery at 500M-user scale | OpenAI | [link](https://openai.com/index/jiostar-vijay-seshadri) |
@@ -15,8 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-10 | Helping caregivers use AI in everyday life | OpenAI | [link](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life) |
 | 2026-11-10 | Introducing Businesses in ChatGPT | OpenAI | [link](https://openai.com/index/introducing-businesses-chatgpt) |
 | 2026-11-10 | Closing the AI guidance gap in education | OpenAI | [link](https://openai.com/index/closing-ai-guidance-gap-education) |
-| 2026-11-10 | Singapore Airlines elevates travel & work with OpenAI technology | OpenAI | [link](https://openai.com/index/singapore-airlines-travel-work) |
-| 2026-11-10 | Work at the Frontier: AI’s effect on freelance work | OpenAI | [link](https://openai.com/index/ai-effect-on-freelance-work) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-12 | Tiny Transmitters Track Monarch Butterflies | Hackaday | [link](https://hackaday.com/2026/11/12/tiny-transmitters-track-monarch-butterflies/) |
+| 2026-11-12 | Espresso, Meet Custom-Machined Stainless Steel Boiler | Hackaday | [link](https://hackaday.com/2026/11/12/espresso-meet-custom-machined-stainless-steel-boiler/) |
+| 2026-11-12 | A LEGO 3D Printer | Hackaday | [link](https://hackaday.com/2026/11/11/a-lego-3d-printer/) |
 | 2026-11-12 | It’s Elite, For The Commodore Pet | Hackaday | [link](https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/) |
 | 2026-11-12 | FLOSS Weekly Episode 883: Telnet Broke Us | Hackaday | [link](https://hackaday.com/2026/11/11/floss-weekly-episode-883-telnet-broke-us/) |
+| 2026-11-12 | VZMORE iX9 Max (U9-185H) mini PC review – Part 1: Specs, unboxing, teardown, and first boot | CNX Software | [link](https://www.cnx-software.com/2026/11/12/vzmore-ix9-max-u9-185h-mini-pc-review-part-1-specs-unboxing-teardown-and-first-boot/) |
+| 2026-11-12 | HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/11/12/hiyd-2-7mm-health-tracker-attaches-to-the-back-of-regular-watches/) |
+| 2026-11-12 | WeAct Logic Analyzer V2 – A $10 USB 3.0 logic analyzer board compatible with Sigrok/Pulseview (fork) | CNX Software | [link](https://www.cnx-software.com/2026/11/12/weact-logic-analyzer-v2-a-10-usb-3-0-logic-analyzer-board-compatible-with-sigrok-pulseview/) |
 | 2026-11-12 | Lumissil IS31CS9202/IS32CS9202 Cortex-M0+ MCUs integrate serial video bus (SBV), LumiBus, and capacitive touch-key controller | CNX Software | [link](https://www.cnx-software.com/2026/11/12/lumissil-is31cs9202-is32cs9202-cortex-m0-mcus-integrate-serial-video-bus-sbv-lumibus-and-capacitive-touch-key-controller/) |
-| 2026-11-12 | No Trust In Politicians | Electronics Weekly | [link](https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/no-trust-in-politicians-2026-11/) |
-| 2026-11-12 | Richard Feynman and the math of restaurant menu choices | Adafruit | [link](https://blog.adafruit.com/2026/11/11/richard-feynman-and-the-math-of-restaurant-menu-choices/) |
-| 2026-11-12 | Your TV can see through walls | Adafruit | [link](https://blog.adafruit.com/2026/11/11/your-tv-can-see-through-walls/) |
-| 2026-11-11 | Modular, 3D Printed Train Whistles For Everyone | Hackaday | [link](https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/) |
-| 2026-11-11 | CHIP 8: The Pong Game’s Afoot! | Hackaday | [link](https://hackaday.com/2026/11/11/chip-8-the-pong-games-afoot/) |
-| 2026-11-11 | The Drawer Every Standing Desk Needs | Hackaday | [link](https://hackaday.com/2026/11/11/the-drawer-every-standing-desk-needs/) |
-| 2026-11-11 | EV Batteries Are Proving Hardier Than Expected | Hackaday | [link](https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/) |
+| 2026-11-12 | Electronica – The latest news roundup | Electronics Weekly | [link](https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,34 +77,35 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-12 | RainyBot/SemWAM-RoboTwin-Full-v1 | 0 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Full-v1) |
+| 2026-11-12 | arunos728/cosmos3-robotwin-ae-t320-cj-egoproinit-b64-60k | 0 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-ae-t320-cj-egoproinit-b64-60k) |
+| 2026-11-12 | dizzyzzh/robot_learning_tutorial_act | 0 | 0 | [link](https://huggingface.co/dizzyzzh/robot_learning_tutorial_act) |
+| 2026-11-12 | Mengmouxu/JAM-RoboTwin-Small-AbsPose | 0 | 0 | [link](https://huggingface.co/Mengmouxu/JAM-RoboTwin-Small-AbsPose) |
+| 2026-11-12 | arunos728/cosmos3-robotwin-ae-h169crop-cj-rlhndinit-b64-60k | 41 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-ae-h169crop-cj-rlhndinit-b64-60k) |
+| 2026-11-12 | pollen-robotics/microduck-policies | 67163 | 54 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
+| 2026-11-12 | LoongForge/LoongForge-LingBot-VA-RoboTwin | 0 | 0 | [link](https://huggingface.co/LoongForge/LoongForge-LingBot-VA-RoboTwin) |
+| 2026-11-12 | puppet-robotics/golf-model-3-8fps-servos | 2 | 0 | [link](https://huggingface.co/puppet-robotics/golf-model-3-8fps-servos) |
+| 2026-11-12 | roboterax/Era0-5B-Preview-RoboDojo | 83 | 0 | [link](https://huggingface.co/roboterax/Era0-5B-Preview-RoboDojo) |
 | 2026-11-12 | taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-seed0-b256-8k | 0 | 0 | [link](https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-seed0-b256-8k) |
-| 2026-11-12 | Yuanyuan-Lee/robotrtc-pi05-vace-4tasks-ft30k-rtc15k | 0 | 0 | [link](https://huggingface.co/Yuanyuan-Lee/robotrtc-pi05-vace-4tasks-ft30k-rtc15k) |
-| 2026-11-12 | RobotisSW/refilling_bottles_tuned_30k | 0 | 0 | [link](https://huggingface.co/RobotisSW/refilling_bottles_tuned_30k) |
-| 2026-11-12 | RobotisSW/Drill_Dynamixel_7K_VF | 0 | 0 | [link](https://huggingface.co/RobotisSW/Drill_Dynamixel_7K_VF) |
-| 2026-11-12 | taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-seed7-b256-8k | 0 | 0 | [link](https://huggingface.co/taeyoungrlwlrd/cosmos3-ap-openarm-wam-robot-auxonly-hi-movonly-chain-lam10-aug-v2v-seed7-b256-8k) |
-| 2026-11-12 | mim-chess-vlas/train_800_sparse__mask_a75__ur5e__groot__seed_0__b_b30 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__mask_a75__ur5e__groot__seed_0__b_b30) |
-| 2026-11-12 | SelfDriving-VLA/laq-ad-backup | 0 | 0 | [link](https://huggingface.co/SelfDriving-VLA/laq-ad-backup) |
-| 2026-11-12 | mim-chess-vlas/train_800_sparse__mask_a75__ur5e__groot__seed_0__b_b5 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__mask_a75__ur5e__groot__seed_0__b_b5) |
-| 2026-11-12 | VladHong/Groot-19B-A3B-261023-APEX-GGUF | 0 | 0 | [link](https://huggingface.co/VladHong/Groot-19B-A3B-261023-APEX-GGUF) |
-| 2026-11-12 | mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b100 | 0 | 0 | [link](https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__ab_b100) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30154 | Python | 12061.7 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 3943 | Python | 1577.3 | [link](https://github.com/NVIDIA/skills) |
-| autonomous-ai/lampOS | 555 | Rust | 222.1 | [link](https://github.com/autonomous-ai/lampOS) |
-| earthtojake/text-to-cad | 26093 | Python | 10437.3 | [link](https://github.com/earthtojake/text-to-cad) |
-| wechaty/wechaty | 23549 | TypeScript | 9419.7 | [link](https://github.com/wechaty/wechaty) |
-| questdb/questdb | 17523 | Java | 7009.3 | [link](https://github.com/questdb/questdb) |
-| RLinf/RLinf | 5636 | Python | 2254.5 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 4079 | Rust | 1631.7 | [link](https://github.com/dora-rs/dora) |
-| sou350121/VLA-Handbook | 768 | HTML | 307.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| deeplethe/utopia | 8705 | Rust | 3482.1 | [link](https://github.com/deeplethe/utopia) |
+| harvard-edge/cs249r_book | 30164 | Python | 12065.7 | [link](https://github.com/harvard-edge/cs249r_book) |
+| PetoiCamp/OpenCat-Quadruped-Robot | 5559 | C++ | 2223.7 | [link](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) |
+| NVIDIA/skills | 3947 | Python | 1578.9 | [link](https://github.com/NVIDIA/skills) |
+| mosaico-labs/mosaico | 1128 | Python | 451.3 | [link](https://github.com/mosaico-labs/mosaico) |
+| autonomous-ai/lampOS | 557 | Rust | 222.9 | [link](https://github.com/autonomous-ai/lampOS) |
+| commaai/openpilot | 64116 | Python | 25646.5 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 26134 | Python | 10453.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| wechaty/wechaty | 23551 | TypeScript | 9420.5 | [link](https://github.com/wechaty/wechaty) |
+| questdb/questdb | 17522 | Java | 7008.9 | [link](https://github.com/questdb/questdb) |
+| zauberzeug/nicegui | 16335 | Python | 6534.1 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
+| 2026-11-12 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcHI4ZEpOTlNCZWhtdk4wcjU0S1JRUkFGVG5hYkJKUldvdWM3MXVZZ1ZWSjVsVjFYWmRrclRDNXM5dGhqa0w1c1NpdnRrTHI3UEVvZ2VMUFcwUW5oWHlCVDNud0ZVcUNuUlR6clBYYURrVnN5TFMwWnNoYw?oc=5) |
 | 2026-11-11 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFY5Z2pNTXBneGdERERGbUxuNnRIa2hOVEUwMWZHOXpyVkJlVF9HcWNQM1lteXZ3d1E3WTBpUWRqZEdueVlQSWd5eng2UGRpV0pOODZWN3kyTE9GN3ZQY0R3bVJTdzdrcjJJX2s3M0dzREFjR19FTklfWjEzRmVaNGFCM0NnMUdRMWtoaXNoMkY5YU5kNENuaDd3VEpoZnZNSFk5QTZGS1drZXFkYkFGR1M0UE85dzA0c1NjcFRuaUpiVU82X2hOT2RiU1VoNmFITkNjT2hoZkJZS1prMWtEVkpuYw?oc=5) |
 | 2026-11-08 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xEOEU1Q2xoZnQ0WWVwUjljRDA2QVNFQlBhUGN5ZDdqSUsyamFtZnNqX1BjMmdJdkZ3UFdQR3l4Ukd6UU5PZGxnaVY5bXdIT0VqTGVWY2EzekFfYUQ4VUhfYzlXNXZ0NTJMN1JEczNxbmVIZjVfR3Fkdk8wa2d2RXJYYmtnQVgyd2FyRFJkQzRBVTQyZmJtRWV4OFJQZGM?oc=5) |
 | 2026-11-08 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE0ta2dlQUtULWpWV0RfOWNRekxXaG51Y3hJckxRamR3MmY2S0ZYSmxKZGZKb0ZMVVNVUDdmSl9rUFJ4YktCUk41VzdNRHJBOXp5ZVF3SW1kUUo1TGV1TUNPaWREelpmTWZGVERpalhiejUyUDRKWWc?oc=5) |
@@ -113,12 +114,12 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5) |
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5) |
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxObVZvM2ltdDFRcEFzdHJaSkhuTHl1eTlReVlQaGtyX2dyS0JJeHh4b2xESXZJeUx1Vjd5VUYxYzVaTnlMaXJFcl8zWGtOWXliRW1VbmhwN2xMTFo2OGctRDVCVDdXTzNwV1pPeldGZkdEMW4xeUJSVFVNSEN6TkRRSDladnRBWW41ZWlmalBfNURsaGwyNEl3aEJB?oc=5) |
-| 2026-10-29 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWExSTmZ6Tk1ZOFE1bjA5MUNnVUItZGE5UmoxbW9LZjA1cy1yOGZRQk80YkNWVVpXWXZJYkFOckpEQVJsNlhnRGFnNEhYbDhQdEkta2hjTW9seE84WEptdVB3WGlicEI3VGtmUHNLczVYeGxPd3AyaGdod1hlbEhhQmppM0dxMnotM1pBYU14OHdtdUY0bnZQR2dLNjJqUDcteFp6dWxrX0x3VHZU?oc=5) |
 | 2026-10-28 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTBjSFdhRjUyX1lRVzVQRjZYeHdMRFVlQWcwQWNCaC1IUnZ3Q1VYdEk5cXRIVkRxU0E3a1Q5Z3lGR0VBNzFONVNVVVA5c3o2SUl3OFk2LWtlZFVxcDVjczB3Rm9ORlJ5RmpRMWE3RkowLVdFSDB1d3pIM3YtZDVVTGtYUzJEZjlEbU1ka2FqRkhOQTg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-12 | Saudi Arabia joins ‘accelerating’ tier in physical AI, AWS report finds - Arab News | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWF3NnZYQUxxblVEZzNlUHh0NTlqZzJDNWpTMFkyOTBvTkJFZXdMSmpfUHIwTzkwR3NRaHh2WEk5c2ZSVnNWbTBqb1c0VUc2bmp1THJLYmJfckNXYWxOQ08xMC0yckdLY25LX0xyY0E0T0N1eWpiUUFsamFxMWs0SUR1eUFCSzFwUHF3eVpZNFdadjVTUGFzd3lKZWlMM2FsNUR3YVFSc0E2Z05zaksyU2tRNVE?oc=5) |
 | 2026-11-11 | Seattle VC firm Ascend closes $17M fund to back 'Third Act' startups in physical AI and hardware - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTNacXl4V3dCOEowODNNcEZIZ1FlNW5IVjluYzgyQ0NnWFZURzBBNU51QTN2ZFR0WEdrQVRVZ3g1NnN6M1d0eFdVZG1DYVhKWDZWSVZaVkRYUW1IYzg4NnRqZldldkVtaFZLUW1NOTF2Zmw3a19EX3lXUk12dFZBYzVGVW9ySjUwV2FWSDlxWFdrUU9fMGtOSy1aVjN4S0NiQTI0V292MFN0UXZmVFU5YVllaVlCcW1CcmRXUEtFeVdOQQ?oc=5) |
 | 2026-11-11 | Humanoid robot start-up backed by Eric Trump in talks with Israel’s military - Financial Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGJxdXNLcWwtZGYxNmpla0VGbVE0OU0yN1NaaWgzZUxmZW93NkVLcFFfMTVUOGl4SVRyZnVfa1pNQS1vSkVVQU5yd1AwQU1EZHoxaFJjdDFNcDZObTNxR3Z3SUlMQWRkcTFnb2FpMHkxUzQ0cTh4VUlTdDI0SUR3WnY0NGo?oc=5) |
 | 2026-11-10 | Where Will the Physical AI Patent Wars Begin? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPalB1dHpJSmFBOUxkSnZDZHpYUWcyQmpGLVYxMXNOSFZTQ1ZFSmtFLXU4WkR3eXZlN0RQazM1a0haQ3d4amVTYWtsSHFFNHdOTlRlN0N6eVlIZkh1TDRBcVBHOFNGM0F5SzAybHc4R2s4V09jNnVUUTdEOS1IaDliRTFoTUJjaUNSVTVOTVRNMzVER05VM3AwN0tXaHJDUQ?oc=5) |
@@ -128,7 +129,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-09 | Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTlZaWDB0eGFzZmZZX0pDc1QxLVZ5Nk1TMmZVb3ZpRG54RFI1WFVYQ09RXzluY2x4QVVuZnlCeXBONDZUc29hQV9BcEVVdEo2U1VR?oc=5) |
 | 2026-11-09 | NVIDIA AI Day Seoul Highlights Korea’s Advances in Sovereign, Agentic and Physical AI — Live Updates - NVIDIA Blog | physical ai startup | [link](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JLTQ2SGNUWVJmamVBcTF4RU5fM3lndGFYTTd5Q3paVEttV0hha1dLZi1NR3pZaWpidzFieTlXMFlPQXZnbm1LcXI1U3BiQ2xiblc0a19n?oc=5) |
 | 2026-11-09 | Nvidia Backs Korean AI Startup Point2 in Seoul Forum Push - The Tech Buzz | physical ai startup | [link](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDBMUGg4cTREMmJpRDNKTDVwSUdWbDk1T0FDTWtYbmRFUE1hRVRhZWhWMmtheHZlSUF2OERMN3FPbm1Kbmg5QXpyTGw0RldDQjNSUy14U196Q0hTanNBNGp2czVmZ2NyS3M3b0QtbURlX05mdXpxay04OG52ekJMaVpxSXhBZUh5RllGX0JBRjFPUUlu?oc=5) |
-| 2026-11-08 | Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
