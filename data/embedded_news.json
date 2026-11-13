@@ -1,5 +1,19 @@
 [
   {
+    "title": "Using a Toothbrush’s NFC chip to Unlock a Computer",
+    "source": "Hackaday",
+    "date": "2026-11-13",
+    "url": "https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/toothbrush-snf-featured_d95783.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Depending on which type of electric toothbrush you are using, the replaceable brushes may contain an NFC chip that the handle and possibly base station uses to track various details, <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Drop-in Vintage CPU Replacements with the tranZPUter Project",
+    "source": "Hackaday",
+    "date": "2026-11-13",
+    "url": "https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"314\" src=\"https://hackaday.com/wp-content/uploads/2026/11/pico6809_pcb_top_horiz.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the struggles with vintage computer systems is that many of the ICs in them have no modern-day version that you can just purchase and drop-in. Creating replacements that <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/\">&#8230;read more</a>"
+  },
+  {
     "title": "Hackaday Podcast Episode 394: Linux in Weird Places, Yet More Hidden SDRs, and a Supercon Wrapup",
     "source": "Hackaday",
     "date": "2026-11-13",
@@ -35,20 +49,6 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/bmds-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The ESP32-P4 is Espressif&#8217;s high-end application processor, with two blistering fast RISC-V cores for a surprisingly reasonable price. As it&#8217;s a very capable computer in its own right, there have <a class=\"read-more\" href=\"https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/\">&#8230;read more</a>"
   },
   {
-    "title": "Hacking Meta’s Smart Glasses",
-    "source": "Hackaday",
-    "date": "2026-11-13",
-    "url": "https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/meta-glases-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Meta&#8217;s Ray-Ban smart glasses have attracted plenty of controversy in the relatively short time they have been available, given their potential for covert and unvanted surveillance. But given the chance <a class=\"read-more\" href=\"https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Watch That Sound: Your Own Chladni Plate",
-    "source": "Hackaday",
-    "date": "2026-11-13",
-    "url": "https://hackaday.com/2026/11/12/watch-that-sound-your-own-chladni-plate/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/sound.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>What if you could see sound? A Chladni plate uses a speaker and small particles, like sand, to give you a visual representation of sound, and [CrazyScience] shows you how <a class=\"read-more\" href=\"https://hackaday.com/2026/11/12/watch-that-sound-your-own-chladni-plate/\">&#8230;read more</a>"
-  },
-  {
     "title": "Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026",
     "source": "CNX Software",
     "date": "2026-11-13",
@@ -77,6 +77,13 @@
     "summary": "<div><img alt=\"ESP32 4 Channel PWM Fan Controller with Home Assistant support\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/ESP32-4-Channel-PWM-Fan-Controller-with-Home-Assistant-support-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Designed by CoolMaker Lab in China, the ESP32 4-channel PWM fan controller is an open-source, Home Assistant-compatible board for managing cooling in server racks, NAS systems, network cabinets, and other DIY enclosures. It can independently control up to four 4-pin PWM fans, supporting PWM-based speed adjustment, tachometer-based RPM monitoring, and individual fan power switching. The controller supports up to four external DS18B20 temperature sensors for automatic fan speed adjustment, along with a web interface, an HTTP REST API, and Bluetooth proxy functionality. The latest v2.0 hardware and firmware also support optional LD2402G 24GHz mmWave radar for presence-based automation. ESP32 4-channel PWM fan controller specifications: MCU – ESP32-WROOM-32-N4 module with 4MB flash, 2.4GHz Wi-Fi, and Bluetooth LE (BLE proxy) Fan control 4x independent 4-pin PWM fan connectors with  1–100% PWM speed adjustment 4x tachometer inputs for RPM monitoring TPS22810DBVR-based individual fan power switch with load switches for complete shutdown (zero-RPM operation) Automatic [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/13/home-assistant-compatible-esp32-4-channel-pwm-fan-controller-is-designed-for-server-racks-and-nas-systems/\">Home Assistant-compatible ESP32 4-channel PWM fan controller is designed for server racks and NAS systems</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "ST's Unified STM32 MCU Platform, TI Brings Agentic AI to CCStudio, NXP Unified Robotics Platform: Embedded Week Insights",
+    "source": "Embedded.com",
+    "date": "2026-11-13",
+    "url": "https://www.embedded.com/sts-unified-stm32-mcu-platform-ti-brings-agentic-ai-to-ccstudio-nxp-unified-robotics-platform-embedded-week-insights/",
+    "summary": "<p>Here's a roundup of this week's must-reads, packed with electronica 2026 news: ST's unified STM32 MCU platform, TI brings agentic AI to CCStudio, and NXP's unified robotics platform! Also, check News Archives - Embedded and Technical Articles Archives - Embedded for the complete list of news and articles from our website. NEWS Skyworks Unveils Multi-Core DSPs for In-Car Audio [...]</p>\n<p>The post <a href=\"https://www.embedded.com/sts-unified-stm32-mcu-platform-ti-brings-agentic-ai-to-ccstudio-nxp-unified-robotics-platform-embedded-week-insights/\">ST’s Unified STM32 MCU Platform, TI Brings Agentic AI to CCStudio, NXP Unified Robotics Platform: Embedded Week Insights</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
+  },
+  {
     "title": "Taoglas Launches CRPA Reference Design for Resilient GNSS Systems",
     "source": "Embedded.com",
     "date": "2026-11-13",
@@ -98,11 +105,11 @@
     "summary": "<p>Melexis has unveiled the MLX90901 Tactile Fingertip Module, its first integrated mechatronic solution for tactile sensing in humanoid robots. Designed to provide true three-dimensional force detection, the module enables robotic hands to measure both normal and shear forces, delivering the tactile feedback necessary for more precise and reliable object manipulation. As advances in artificial intelligence [...]</p>\n<p>The post <a href=\"https://www.embedded.com/melexis-brings-3d-touch-sensing-to-humanoid-robots/\">Melexis Brings 3D Touch Sensing to Humanoid Robots</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
-    "title": "Picture of the Day: Lemo drives Sauber F1 to Electronca",
+    "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
     "source": "Electronics Weekly",
     "date": "2026-11-13",
-    "url": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/lemo-drives-sauber-f1-to-electronca-2026-11/",
-    "summary": "<p>One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/lemo-drives-sauber-f1-to-electronca-2026-11/\">Picture of the Day: Lemo drives Sauber F1 to Electronca</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
+    "summary": "<p>One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/\">Picture of the Day: Lemo drives Sauber F1 to Electronica</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
@@ -168,6 +175,34 @@
     "summary": "<p>Imec and Japan&#8217;s Advanced SoC Research for Automotive (ASRA), have published the Automotive Chiplet Interoperability Requirement (ACIR) establishing a common set of architectural requirements for interoperable automotive chiplets. Unveiled at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/\">Imec and Japan’s ASR standardise auto chiplets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
+    "title": "What happened to 3Com?",
+    "source": "Adafruit",
+    "date": "2026-11-13",
+    "url": "https://blog.adafruit.com/2026/11/13/what-happened-to-3com/",
+    "summary": "Dave Farquhar traces the rise and fall of 3Com on his blog The Silicon Underground. Bob Metcalfe, the co-inventor of Ethernet, founded the company in 1979, and for two decades its network cards were the safe choice. They cost more than clones, but the drivers worked, the hardware was reliable, and they were made in [&#8230;]"
+  },
+  {
+    "title": "Nintendo takes down Switch emulators and mod chip firmware in massive GitHub DMCA sweep",
+    "source": "Adafruit",
+    "date": "2026-11-13",
+    "url": "https://blog.adafruit.com/2026/11/13/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep/",
+    "summary": "Jacqueline Thomas reports for IGN that Nintendo has sent four DMCA takedown notices to GitHub, aimed at two Switch emulators, Yuzu and Citron Neo, and at firmware for mod chips. The firmware part covered 144 repositories, all of them now removed and replaced with a takedown notice. Mod chips like Picofly are soldered to the [&#8230;]"
+  },
+  {
+    "title": "Stockfish: a free and strong UCI chess engine",
+    "source": "Adafruit",
+    "date": "2026-11-13",
+    "url": "https://blog.adafruit.com/2026/11/13/stockfish-a-free-and-strong-uci-chess-engine/",
+    "summary": "Stockfish is a free, open source chess engine from the project of the same name, derived from Glaurung 2.1. It analyzes chess positions and works out the best moves. It talks to chess apps over the UCI protocol, so the board and pieces come from a separate graphical program. Stockfish itself doesn&#8217;t draw a chessboard. [&#8230;]"
+  },
+  {
+    "title": "Is the Raspberry Pi 400 Underappreciated? #piday #raspberrypi",
+    "source": "Adafruit",
+    "date": "2026-11-13",
+    "url": "https://blog.adafruit.com/2026/11/13/is-the-raspberry-pi-400-underappreciated-piday-raspberrypi/",
+    "summary": "Are you sleeping on the Pi 400? It might not be the flashiest or newest but Raspberry Pi&#8217;s first complete personal computer integrated into a keyboard still packs a punch. And for the price? it might just be the perfect fit for your next project or the beginner maker in your life. Tanveer Singh with [&#8230;]"
+  },
+  {
     "title": "Rare 1989 Apple Computer factory tour behind-the-scenes original film restoration",
     "source": "Adafruit",
     "date": "2026-11-13",
@@ -196,6 +231,13 @@
     "summary": "Richard Speed at The Register reports that Microsoft is retiring a set of legacy layout settings in the Word desktop app, which could rearrange documents created or last saved in Word 2010 or earlier. Compatibility Mode is what lets a newer version of Word open an older document without shifting its layout, with newer features [&#8230;]"
   },
   {
+    "title": "LG Guggenheim Art and Technology Initiative",
+    "source": "Adafruit",
+    "date": "2026-11-13",
+    "url": "https://blog.adafruit.com/2026/11/13/lg-guggenheim-art-and-technology-initiative/",
+    "summary": "The LG Guggenheim Art and Technology Initiative is a five-year collaboration between LG Electronics  and the Solomon R. Guggenheim Foundation that explores the intersection of contemporary art and technology. This initiative annually recognizes a tech based artist with a $100,000 prize and this year&#8217;s winner was Trevor Paglan. Via Guggenheim.org The LG Guggenheim Art and [&#8230;]"
+  },
+  {
     "title": "John Park’s CircuitPython Parsec: Sparkline Graphs",
     "source": "Adafruit",
     "date": "2026-11-13",
@@ -215,41 +257,6 @@
     "date": "2026-11-13",
     "url": "https://blog.adafruit.com/2026/11/13/build-a-4-ai-desk-assistant-with-an-esp32-s3-chip/",
     "summary": "Julian Horsey writes at Geeky Gadgets about a voice-controlled desk assistant built by EDISON SCIENCE CORNER around the $4 ESP32S3 0 microcontroller. It sets timers, reports the weather and shows a social media status on a 1.3-inch OLED display. The ESP32S3 0 replaces the ESP32C3 mini used in an earlier version, which had WiFi trouble [&#8230;]"
-  },
-  {
-    "title": "Sony brings back its 1979 Walkman headphones with retro foam ear pads",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/sony-brings-back-its-1979-walkman-headphones-with-retro-foam-ear-pads/",
-    "summary": "Kat Barandy writes at designboom that Sony has revived the headphones that shipped with the first Walkman, the TPS-L2, in 1979. The new MDR-3R keeps the thin silver headband, the exposed metal arms and the small on-ear speaker housings of the original MDR-3, and swaps the old plug for USB-C so it works with current [&#8230;]"
-  },
-  {
-    "title": "DSPi ported to the Raspberry Pi Zero 2 W bare metal",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/dspi-ported-to-the-raspberry-pi-zero-2-w-bare-metal/",
-    "summary": "Weeb Labs has posted a first preview of DSPi running on the Raspberry Pi Zero 2 W, published as a release on GitHub. It&#8217;s a ready-to-write SD card image, and DSPi&#8217;s own firmware (v1.1.6) runs unchanged on a bare-metal port, meaning the code runs straight on the hardware without an operating system under it. This [&#8230;]"
-  },
-  {
-    "title": "The complete history of PlayStation 3",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/the-complete-history-of-playstation-3/",
-    "summary": "ObsoleteSony has posted a history of the PlayStation 3 on Obsolete Sony&#8217;s Newsletter, starting with the November 11, 2006 Japanese launch of about 100,000 consoles. Six days later it reached North America at $499 for the 20GB model and $599 for the 60GB one. A teardown by iSuppli put the build cost at $805.85 and [&#8230;]"
-  },
-  {
-    "title": "8088 Domination – how did they show video on CGA?",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/8088-domination-how-did-they-show-video-on-cga/",
-    "summary": "MobyGamer, also known as Trixter, wrote up how 8088 Domination plays full-motion video in CGA graphics mode on a 1981 IBM PC. In a 2007 talk,, he&#8217;d called it impossible: 24fps of 16KB CGA frames works out to 384KB/s, while CGA RAM can only be changed at 240KB/s and hard drives of the era managed [&#8230;]"
-  },
-  {
-    "title": "Satellite images of sand dunes migrating in Egypt",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/satellite-images-of-sand-dunes-migrating-in-egypt/",
-    "summary": "Jason Kottke posted on kottke.org about satellite images that show sand dunes on the move in Egypt. Comparing pictures of the same stretch of desert taken years apart shows the dunes shifting across the landscape. The rate works out to about 13 meters a year. The dunes keep their shape as they go, so the [&#8230;]"
   },
   {
     "title": "Visteon, SHINRY and Infineon collaborate on breakthrough single-stage onboard charger with GaN BDS technology",
@@ -404,13 +411,6 @@
     "date": "2026-11-11",
     "url": "https://www.embedded.com/eds-from-silicon-to-systems-enabling-the-next-era-of-model-based-electronics-design/",
     "summary": "<p>As electronic systems grow more complex, the industry is reaching the limits of a silicon‑centric design model. Success is no longer defined by individual components, but by how effectively hardware, software, and lifecycle considerations are integrated into complete systems. This talk explores the industry's shift from silicon to systems, and why the next era of [...]</p>\n<p>The post <a href=\"https://www.embedded.com/eds-from-silicon-to-systems-enabling-the-next-era-of-model-based-electronics-design/\">ESD: From Silicon to Systems: Enabling the Next Era of Model-Based Electronics Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "ESD: Software Guided Intelligence for Physical AI Platform Design",
-    "source": "Embedded.com",
-    "date": "2026-11-11",
-    "url": "https://www.embedded.com/eds-software-guided-intelligence-for-physical-ai-platform-design/",
-    "summary": "<p>In this presentation, Sam Grove will show how the change from hardware-first to software-first platform architecture is driving changes for embedded design. With RISC-V and the power of virtual models, it is now possible to start with the workload, select and optimize the hardware, and finalize the platform without time-consuming, budget-busting tape-out cycles. The appearance [...]</p>\n<p>The post <a href=\"https://www.embedded.com/eds-software-guided-intelligence-for-physical-ai-platform-design/\">ESD: Software Guided Intelligence for Physical AI Platform Design</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
     "title": "Siemens’ HyperLynx brings physics-validated agentic AI to electronic systems verification",
