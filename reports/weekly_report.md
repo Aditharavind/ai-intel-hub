@@ -1,33 +1,33 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-13 02:11 UTC
+Generated: 2026-11-13 10:07 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-11-11 | Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation | [link](https://arxiv.org/pdf/2611.15020v1) |
-| 2026-11-11 | Fast Inference-Time Policy Refinement via Action-Affine World Models | [link](https://arxiv.org/pdf/2611.15011v1) |
-| 2026-11-11 | From Forecasting to World Modeling: Can Temporal Foundation Models Recover Causal Response? | [link](https://arxiv.org/pdf/2611.15009v1) |
-| 2026-11-11 | EvoX: Rethinking the Agent Harness as a Runtime Policy | [link](https://arxiv.org/pdf/2611.15006v1) |
-| 2026-11-11 | A Cardiorespiratory Foundation Model Pretrained on Ten Physiological Signals for Perioperative and Critical Care | [link](https://arxiv.org/pdf/2611.15004v1) |
+| 2026-11-12 | ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation | [link](https://arxiv.org/pdf/2611.17330v1) |
+| 2026-11-12 | Spatial Foundry: A Multimodal Dataset for Spatial Intelligence | [link](https://arxiv.org/pdf/2611.17318v1) |
+| 2026-11-12 | Interactions from memory footprints: Cage-hopping, mnemotaxis & nonreciprocity | [link](https://arxiv.org/pdf/2611.17257v1) |
+| 2026-11-12 | HEIR: Harness Egocentric Intent for Human-Robot Interactions | [link](https://arxiv.org/pdf/2611.17238v1) |
+| 2026-11-12 | Collaborative Task Allocation for Heterogeneous Multi-Robot Systems Through Iterative Clustering | [link](https://arxiv.org/pdf/2611.17213v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84822 | 33928.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64119 | 25647.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44786 | 17914.5 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30901 | 12360.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30173 | 12069.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 84826 | 33930.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64123 | 25649.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44790 | 17916.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30908 | 12363.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30180 | 12072.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| pollen-robotics/microduck-policies | 67163 | 20159.8 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
+| pollen-robotics/microduck-policies | 71037 | 21322.0 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
 | zxyty/physicalai-dinov3-vitl16 | 4731 | 1419.4 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
-| nvidia/Cosmos3-H-Embodied-Nano | 1122 | 337.5 | [link](https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano) |
-| mradermacher/EmbodiedBrain-32B-GGUF | 228 | 68.5 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-32B-GGUF) |
-| oggata/mesa-world-model-sharp | 72 | 21.7 | [link](https://huggingface.co/oggata/mesa-world-model-sharp) |
+| nvidia/Cosmos3-H-Embodied-Nano | 1142 | 343.5 | [link](https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano) |
+| mradermacher/EmbodiedBrain-32B-GGUF | 227 | 68.2 | [link](https://huggingface.co/mradermacher/EmbodiedBrain-32B-GGUF) |
+| mesa-wm/mesa-world-model-sharp | 72 | 21.7 | [link](https://huggingface.co/mesa-wm/mesa-world-model-sharp) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-11-13 02:11 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-13 | SG physical AI startup Ropedia expands robotics training data - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXNHZWF1VzQxRkhiay1jMEoxdjVhQ3UtcDh2amVZV251TkxEeFVrcV9GRWRPREJfa2Z5VjhvNEVRSjJaejBKZWpPSTlWY1Z3Vl9wMXdnQlA0LXh3Z1Z6RnFXaHp1SXc1VVc2ZUt6ekFFUkdFMVoyUTY0STlRcGZ5Zk5pYXd3WkpvSV84eVU0M0ZfVnlQOVo5dQ?oc=5) |
+| 2026-11-13 | MeitY examines data collection by home services platforms for physical AI training - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDN1dlBubGk0Y212OU91cVk5bUdfekNEQnpaX0ppLTgxNHo1TVNmSnUwUm9zY0Q4T2h6emlxM3RwS3Nwc01QSGc2YUhTdFRRVWFFUkZYYXdnQkhYOHJTVHFvTkU2QURCR0pJdVdpOXd2Q09xQ09TakxqdGloaTBFckhLd29TMGhrSU5pbm1Rd2w2R0JVMDFyZnJERThMb1JBbTlmcXlaLTlheHYwRkpNQ0xHbzNscXoy0gG4AUFVX3lxTE1IM3V2UG5saTRjbXY5T3VxWTltR196Q0RCelpfSmktODE0ejVNU2ZKdTBSb3NjRDhPaHp6aXEzdHBLc3BzTVBIZzZhSFN0VFFVYUVSRlhhd2dCSFg4clNUcW9ORTZBREJHSkl1V2k5d3ZDT3FDT1NqTGp0aWhpMEVySEt3b1MwaGtJTmlubVF3bDZHQlUwMXJmckRFOExvUkFtOWZxeVotOWF4djBGSk1DTEdvM2xxejI?oc=5) |
+| 2026-11-13 | NVIDIA CEO Exit Sparks Investment Fears for Korean Startups - 조선일보 | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczhTRXVhMnlNYkt0MUtPS3I2SXN1V2RYZlZRR1RuMFN4MjRsOFA3SksyZkdJSVdWaTBYU2UwQlZudy1PQXBPclRPNV9ieUNURE5vSVVhX0N4UmI0Y0ExUmxlLTkzUmFVSnNFNG9Gb0tZTHgxeU1MRUZNQ1hmcVdXNDJycDI4Rk1N?oc=5) |
+| 2026-11-13 | Pantera Partner's Shenzhen Field Research: China Accounts for 90% of Global Humanoid Robot Output, With Software Weakness the Biggest Hidden Concern - BigGo Finance | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1WZVFIanVicTRxb3pyYmtvdmQ2cHZWdFZLZ082RWpJVnpfQTBSS25NUVZOTzRkaTVzMWFDNXR5UVQ0ZjNBVHpJLU5mbUtoUVhfX3RfSEVMQkRpVmR0d1FrYjcxQ1lRNUEwZVVWUTE4RDVtMXI3V2c?oc=5) |
 | 2026-11-12 | Qvyon Technologies emerges from stealth with $8 million USD to prepare physical AI for dangerous edge cases - BetaKit | physical ai startup | [link](https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzNuaFRQUjI5T2p4LXl4azJQZmEyRkJzc0dqdVhFMTNPa1ZiZ1NMQzNCb3psRXp1MGlOenIxemtzdGQySzkwZ1JyaDRHVFZYN3hocTJzMDlxUnBMbE9WSUNUc2dLeVZWNDZWdU9Lem9VemdMS2xvX2c1cnFCSEhjOUZ5SUZrMWtpUVppODhmYUd3NktUOURlQUlqc2t5R0IzLV9CNEFVZlZxYXZuVEJuZW0teWtTc3UzNEptZEMtTHRBTFFPWHc?oc=5) |
-| 2026-11-12 | Saudi Arabia joins ‘accelerating’ tier in physical AI, AWS report finds - Arab News | physical ai startup | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWF3NnZYQUxxblVEZzNlUHh0NTlqZzJDNWpTMFkyOTBvTkJFZXdMSmpfUHIwTzkwR3NRaHh2WEk5c2ZSVnNWbTBqb1c0VUc2bmp1THJLYmJfckNXYWxOQ08xMC0yckdLY25LX0xyY0E0T0N1eWpiUUFsamFxMWs0SUR1eUFCSzFwUHF3eVpZNFdadjVTUGFzd3lKZWlMM2FsNUR3YVFSc0E2Z05zaksyU2tRNVE?oc=5) |
-| 2026-11-11 | Seattle VC firm Ascend closes $17M fund to back 'Third Act' startups in physical AI and hardware - GeekWire | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTNacXl4V3dCOEowODNNcEZIZ1FlNW5IVjluYzgyQ0NnWFZURzBBNU51QTN2ZFR0WEdrQVRVZ3g1NnN6M1d0eFdVZG1DYVhKWDZWSVZaVkRYUW1IYzg4NnRqZldldkVtaFZLUW1NOTF2Zmw3a19EX3lXUk12dFZBYzVGVW9ySjUwV2FWSDlxWFdrUU9fMGtOSy1aVjN4S0NiQTI0V292MFN0UXZmVFU5YVllaVlCcW1CcmRXUEtFeVdOQQ?oc=5) |
-| 2026-11-11 | Humanoid robot start-up backed by Eric Trump in talks with Israel’s military - Financial Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGJxdXNLcWwtZGYxNmpla0VGbVE0OU0yN1NaaWgzZUxmZW93NkVLcFFfMTVUOGl4SVRyZnVfa1pNQS1vSkVVQU5yd1AwQU1EZHoxaFJjdDFNcDZObTNxR3Z3SUlMQWRkcTFnb2FpMHkxUzQ0cTh4VUlTdDI0SUR3WnY0NGo?oc=5) |
-| 2026-11-10 | Where Will the Physical AI Patent Wars Begin? - Foley & Lardner LLP | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxPalB1dHpJSmFBOUxkSnZDZHpYUWcyQmpGLVYxMXNOSFZTQ1ZFSmtFLXU4WkR3eXZlN0RQazM1a0haQ3d4amVTYWtsSHFFNHdOTlRlN0N6eVlIZkh1TDRBcVBHOFNGM0F5SzAybHc4R2s4V09jNnVUUTdEOS1IaDliRTFoTUJjaUNSVTVOTVRNMzVER05VM3AwN0tXaHJDUQ?oc=5) |
