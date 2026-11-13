@@ -1,24 +1,24 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-12 21:09 UTC
+Generated: 2026-11-13 02:11 UTC
 
 ## Top Papers
 | Published | Title | PDF |
 | --- | --- | --- |
-| 2026-11-10 | Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training | [link](https://arxiv.org/pdf/2611.14519v1) |
-| 2026-11-10 | Toward Foundation Detection Models via Example-Based Grounding in EM-DETR | [link](https://arxiv.org/pdf/2611.14518v1) |
-| 2026-11-10 | Emergent Biological Capabilities in a Foundation Model for Molecular Interactions | [link](https://arxiv.org/pdf/2611.14504v1) |
-| 2026-11-10 | TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics | [link](https://arxiv.org/pdf/2611.14491v1) |
-| 2026-11-10 | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies | [link](https://arxiv.org/pdf/2611.14488v1) |
+| 2026-11-11 | Genie Sim Benchmark: Real-to-Sim Fidelity and Evaluation | [link](https://arxiv.org/pdf/2611.15020v1) |
+| 2026-11-11 | Fast Inference-Time Policy Refinement via Action-Affine World Models | [link](https://arxiv.org/pdf/2611.15011v1) |
+| 2026-11-11 | From Forecasting to World Modeling: Can Temporal Foundation Models Recover Causal Response? | [link](https://arxiv.org/pdf/2611.15009v1) |
+| 2026-11-11 | EvoX: Rethinking the Agent Harness as a Runtime Policy | [link](https://arxiv.org/pdf/2611.15006v1) |
+| 2026-11-11 | A Cardiorespiratory Foundation Model Pretrained on Ten Physiological Signals for Perioperative and Critical Care | [link](https://arxiv.org/pdf/2611.15004v1) |
 
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
 | Developer-Y/cs-video-courses | 84822 | 33928.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 64119 | 25647.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44787 | 17914.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44786 | 17914.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30901 | 12360.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30171 | 12068.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30173 | 12069.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -32,11 +32,11 @@ Generated: 2026-11-12 21:09 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
+| 2026-11-13 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXNIUG1VRllocjk2WS1uQWpyeTZkWW1hR05mWkVXY2p2ek5Pa2d2X3NqZ1RKaG1OLVFvNktKdWFoZE12N0l3M1dYYUQ1d0VDVXN4MDlPSWRMaGl0SXZsNnpJRU9xMHFoX0NtRm95OHJMNmpsWmlhTVBJWDd3dU5ZTXdyeF93OWpfa2Zudw?oc=5) |
 | 2026-11-12 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ndEQtbjd6S3FHVlpYaEdlbDJGOW1neGV4M3RFbHk4R0tBdmlpcFFDQS1oR1dSbGVTeDAzbEV5bHo5ckJ5cXgwUVA2bWQ1SnZrQkJN?oc=5) |
 | 2026-11-12 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcHI4ZEpOTlNCZWhtdk4wcjU0S1JRUkFGVG5hYkJKUldvdWM3MXVZZ1ZWSjVsVjFYWmRrclRDNXM5dGhqa0w1c1NpdnRrTHI3UEVvZ2VMUFcwUW5oWHlCVDNud0ZVcUNuUlR6clBYYURrVnN5TFMwWnNoYw?oc=5) |
 | 2026-11-11 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFY5Z2pNTXBneGdERERGbUxuNnRIa2hOVEUwMWZHOXpyVkJlVF9HcWNQM1lteXZ3d1E3WTBpUWRqZEdueVlQSWd5eng2UGRpV0pOODZWN3kyTE9GN3ZQY0R3bVJTdzdrcjJJX2s3M0dzREFjR19FTklfWjEzRmVaNGFCM0NnMUdRMWtoaXNoMkY5YU5kNENuaDd3VEpoZnZNSFk5QTZGS1drZXFkYkFGR1M0UE85dzA0c1NjcFRuaUpiVU82X2hOT2RiU1VoNmFITkNjT2hoZkJZS1prMWtEVkpuYw?oc=5) |
 | 2026-11-08 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xEOEU1Q2xoZnQ0WWVwUjljRDA2QVNFQlBhUGN5ZDdqSUsyamFtZnNqX1BjMmdJdkZ3UFdQR3l4Ukd6UU5PZGxnaVY5bXdIT0VqTGVWY2EzekFfYUQ4VUhfYzlXNXZ0NTJMN1JEczNxbmVIZjVfR3Fkdk8wa2d2RXJYYmtnQVgyd2FyRFJkQzRBVTQyZmJtRWV4OFJQZGM?oc=5) |
-| 2026-11-08 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE0ta2dlQUtULWpWV0RfOWNRekxXaG51Y3hJckxRamR3MmY2S0ZYSmxKZGZKb0ZMVVNVUDdmSl9rUFJ4YktCUk41VzdNRHJBOXp5ZVF3SW1kUUo1TGV1TUNPaWREelpmTWZGVERpalhiejUyUDRKWWc?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
