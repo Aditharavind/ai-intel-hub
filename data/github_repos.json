@@ -1,23 +1,23 @@
 [
   {
     "repo": "harvard-edge/cs249r_book",
-    "stars": 30203,
+    "stars": 30202,
     "language": "Python",
     "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
     "url": "https://github.com/harvard-edge/cs249r_book",
     "date": "2026-11-14",
     "topic": "embodied-ai",
-    "score": 12081.3
+    "score": 12080.9
   },
   {
     "repo": "NVIDIA/skills",
-    "stars": 3987,
+    "stars": 3989,
     "language": "Python",
     "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
     "url": "https://github.com/NVIDIA/skills",
     "date": "2026-11-14",
     "topic": "physical-ai",
-    "score": 1594.9
+    "score": 1595.7
   },
   {
     "repo": "copper-project/copper-rs",
@@ -41,23 +41,23 @@
   },
   {
     "repo": "commaai/openpilot",
-    "stars": 64136,
+    "stars": 64138,
     "language": "Python",
     "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "url": "https://github.com/commaai/openpilot",
     "date": "2026-11-14",
     "topic": "robotics",
-    "score": 25654.5
+    "score": 25655.3
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 26312,
+    "stars": 26321,
     "language": "Python",
     "description": "Design physical products with AI",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-11-14",
     "topic": "robotics",
-    "score": 10524.9
+    "score": 10528.5
   },
   {
     "repo": "questdb/questdb",
@@ -71,23 +71,23 @@
   },
   {
     "repo": "ArduPilot/ardupilot",
-    "stars": 16363,
+    "stars": 16365,
     "language": "C++",
     "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
     "url": "https://github.com/ArduPilot/ardupilot",
     "date": "2026-11-14",
     "topic": "robotics",
-    "score": 6545.3
+    "score": 6546.1
   },
   {
     "repo": "zauberzeug/nicegui",
-    "stars": 16335,
+    "stars": 16336,
     "language": "Python",
     "description": "Create web-based user interfaces with Python. The nice way.",
     "url": "https://github.com/zauberzeug/nicegui",
     "date": "2026-11-14",
     "topic": "robotics",
-    "score": 6534.1
+    "score": 6534.5
   },
   {
     "repo": "datawhalechina/every-embodied",
@@ -111,13 +111,13 @@
   },
   {
     "repo": "flashrt-project/FlashRT",
-    "stars": 804,
+    "stars": 805,
     "language": "C++",
     "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
     "url": "https://github.com/flashrt-project/FlashRT",
     "date": "2026-11-14",
     "topic": "vla",
-    "score": 321.7
+    "score": 322.1
   },
   {
     "repo": "sou350121/VLA-Handbook",
@@ -150,24 +150,34 @@
     "score": 210.9
   },
   {
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 506,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
+    "date": "2026-11-14",
+    "topic": "vla",
+    "score": 202.5
+  },
+  {
     "repo": "deeplethe/utopia",
-    "stars": 8710,
+    "stars": 8711,
     "language": "Rust",
     "description": "World's first open-source enterprise world model.",
     "url": "https://github.com/deeplethe/utopia",
     "date": "2026-11-14",
     "topic": "world-model",
-    "score": 3484.1
+    "score": 3484.5
   },
   {
     "repo": "vllm-project/vllm-omni",
-    "stars": 7754,
+    "stars": 7758,
     "language": "Python",
     "description": "A framework for efficient model inference with omni-modality models",
     "url": "https://github.com/vllm-project/vllm-omni",
     "date": "2026-11-14",
     "topic": "world-model",
-    "score": 3101.7
+    "score": 3103.3
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -181,23 +191,23 @@
   },
   {
     "repo": "OpenHUTB/hutb",
-    "stars": 745,
+    "stars": 746,
     "language": "C++",
     "description": "人机模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-11-14",
     "topic": "humanoid",
-    "score": 298.1
+    "score": 298.5
   },
   {
     "repo": "isaac-sim/IsaacLab",
-    "stars": 8646,
+    "stars": 8647,
     "language": "Python",
     "description": "Unified framework for robot learning with multi-physics/renderer support",
     "url": "https://github.com/isaac-sim/IsaacLab",
     "date": "2026-11-14",
     "topic": "robot-learning",
-    "score": 3458.5
+    "score": 3458.9
   },
   {
     "repo": "rokbenko/quackd",
@@ -231,13 +241,13 @@
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 17954,
+    "stars": 17971,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-11-13",
     "topic": "robotics",
-    "score": 7181.7
+    "score": 7188.5
   },
   {
     "repo": "RLinf/RLinf",
@@ -268,16 +278,6 @@
     "date": "2026-11-13",
     "topic": "world-model",
     "score": 823.3
-  },
-  {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 506,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-11-13",
-    "topic": "vla",
-    "score": 202.5
   },
   {
     "repo": "LMD0311/Awesome-World-Model",
@@ -411,13 +411,13 @@
   },
   {
     "repo": "robocurve/inspect-robots",
-    "stars": 759,
+    "stars": 760,
     "language": "Python",
     "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
     "url": "https://github.com/robocurve/inspect-robots",
     "date": "2026-11-11",
     "topic": "vla",
-    "score": 303.7
+    "score": 304.1
   },
   {
     "repo": "RobotecAI/rai",
@@ -461,23 +461,23 @@
   },
   {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 84844,
+    "stars": 84845,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-11-10",
     "topic": "robotics",
-    "score": 33937.7
+    "score": 33938.1
   },
   {
     "repo": "AtsushiSakai/PythonRobotics",
-    "stars": 30913,
+    "stars": 30916,
     "language": "Python",
     "description": "Python sample codes and textbook for robotics algorithms.",
     "url": "https://github.com/AtsushiSakai/PythonRobotics",
     "date": "2026-11-10",
     "topic": "robotics",
-    "score": 12365.3
+    "score": 12366.5
   },
   {
     "repo": "NVlabs/ProtoMotions",
@@ -571,13 +571,13 @@
   },
   {
     "repo": "NaiboWang/EasySpider",
-    "stars": 44793,
+    "stars": 44794,
     "language": "JavaScript",
     "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "url": "https://github.com/NaiboWang/EasySpider",
     "date": "2026-11-07",
     "topic": "robotics",
-    "score": 17917.3
+    "score": 17917.7
   },
   {
     "repo": "Huy-Quang-Dao/instantTrack",
@@ -621,13 +621,13 @@
   },
   {
     "repo": "Octoday-Hub/Embodied-AI",
-    "stars": 3114,
+    "stars": 3115,
     "language": "",
     "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
     "url": "https://github.com/Octoday-Hub/Embodied-AI",
     "date": "2026-11-05",
     "topic": "robot-learning",
-    "score": 1245.7
+    "score": 1246.1
   },
   {
     "repo": "PKU-YuanGroup/Helios",
@@ -771,13 +771,13 @@
   },
   {
     "repo": "nicklashansen/tdmpc2",
-    "stars": 1000,
+    "stars": 1001,
     "language": "Python",
     "description": "Code for \"TD-MPC2: Scalable, Robust World Models for Continuous Control\"",
     "url": "https://github.com/nicklashansen/tdmpc2",
     "date": "2026-10-20",
     "topic": "world-model",
-    "score": 400.1
+    "score": 400.5
   },
   {
     "repo": "kaichen-z/SteerAct",

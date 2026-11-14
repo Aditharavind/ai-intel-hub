@@ -1,5 +1,14 @@
 [
   {
+    "model": "arunos728/cosmos3-robotwin-ae-t320-cj-vegopro40k-fmax04-b64-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/arunos728/cosmos3-robotwin-ae-t320-cj-vegopro40k-fmax04-b64-60k",
+    "date": "2026-11-14",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "OPTML-Group/ResWAM-RoboTwin2",
     "downloads": 0,
     "likes": 0,
@@ -69,6 +78,24 @@
     "url": "https://huggingface.co/vga-robotics/vga-pretrain-libero90",
     "date": "2026-11-14",
     "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_08.11.2026_400eps_policy_ACT_500k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_08.11.2026_400eps_policy_ACT_500k",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cmrn-vla/m34_01_canted_hatch_bin",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cmrn-vla/m34_01_canted_hatch_bin",
+    "date": "2026-11-14",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -171,10 +198,37 @@
     "score": 4.0
   },
   {
+    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter2-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter2-policy",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "Bench2Dex/policy_ckpt",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Bench2Dex/policy_ckpt",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter1-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter1-policy",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "bhavyananda17/policyguard-tiny-aya-global-lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bhavyananda17/policyguard-tiny-aya-global-lora",
     "date": "2026-11-14",
     "keyword": "policy",
     "score": 0.1
@@ -234,33 +288,6 @@
     "score": 2.8
   },
   {
-    "model": "cubeow/lerobot-act-model-policy",
-    "downloads": 14,
-    "likes": 1,
-    "url": "https://huggingface.co/cubeow/lerobot-act-model-policy",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 4.5
-  },
-  {
-    "model": "SunWoooo/omx_act_policy",
-    "downloads": 22,
-    "likes": 0,
-    "url": "https://huggingface.co/SunWoooo/omx_act_policy",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 6.7
-  },
-  {
-    "model": "ntlfi/onpo-qwen3-8b-eta2133-seed2-iter2-policy",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-qwen3-8b-eta2133-seed2-iter2-policy",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 5.8
-  },
-  {
     "model": "yiwu/gr00t-robot-case-six-task-21066",
     "downloads": 13,
     "likes": 0,
@@ -288,15 +315,6 @@
     "score": 7.3
   },
   {
-    "model": "RainyBot/SemWAM-RoboTwin-NoSemantic-v1",
-    "downloads": 6,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-NoSemantic-v1",
-    "date": "2026-11-13",
-    "keyword": "robot",
-    "score": 1.9
-  },
-  {
     "model": "AceAction/3A-VLA_Qwen3.5-4B_1112",
     "downloads": 4,
     "likes": 0,
@@ -319,24 +337,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/theo-zhou/vla-mopd-checkpoints",
-    "date": "2026-11-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "sarojdebnath/vla-course-weights",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/sarojdebnath/vla-course-weights",
-    "date": "2026-11-13",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SXY7/X-VLA-Food-Progress",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SXY7/X-VLA-Food-Progress",
     "date": "2026-11-13",
     "keyword": "vla",
     "score": 0.1
@@ -367,15 +367,6 @@
     "date": "2026-11-13",
     "keyword": "world model",
     "score": 23.8
-  },
-  {
-    "model": "ntlfi/onpo-qwen3-8b-eta2133-seed2-iter1-policy",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-qwen3-8b-eta2133-seed2-iter1-policy",
-    "date": "2026-11-13",
-    "keyword": "policy",
-    "score": 4.9
   },
   {
     "model": "rigby-robotics/rigby-task-potential-v2",
