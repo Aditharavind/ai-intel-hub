@@ -1,5 +1,26 @@
 [
   {
+    "title": "Borland C++ 2.0 Compiler Source Reconstructed",
+    "source": "Hackaday",
+    "date": "2026-11-14",
+    "url": "https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2017/05/c.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>As the successor to Turbo C++, Borland C++ was a staple of professional IDEs for C and C++ development, starting with the initial 2.0 release in 1991. Being a commercial <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/\">&#8230;read more</a>"
+  },
+  {
+    "title": "X Window System on the ESP32",
+    "source": "Hackaday",
+    "date": "2026-11-14",
+    "url": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"444\" src=\"https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3, [Sergey Zorin]&#8211; and Claude&#8211; have <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)",
+    "source": "CNX Software",
+    "date": "2026-11-14",
+    "url": "https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/",
+    "summary": "<div><img alt=\"Bare Metal Do Stuff BMDS OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Bare-Metal-Do-Stuff-BMDS-OS-720x405.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve recently written about the P4 Launcher project that offers a desktop PC-like and/or retro-gaming experience to ESP32-P4 boards with applications stored on a microSD card and loaded into PSRAM when they run. However, I&#8217;ve recently been tipped about two new projects that go even further and aim to provide a desktop OS for microcontrollers, both currently focusing on the Olimex ESP32-P4-PC board with HDMI, Ethernet, and USB ports: Sylphide OS and Bare Metal, Do Stuff (BMDS). Sylphide OS &#8211;  A Macintosh-like desktop for ESP32-P4, RP2350, and ESP32 Thomas Capricelli (Orzelf) has developed Sylphide OS as an operating system for computers based on microcontrollers. It&#8217;s designed to run on other targets beyond ESP32-P4 boards, and has currently been tested on the Raspberry Pi Pico 2 with VGA+USB connectors and the FabGL board (Olimex ESP32-SBC-FabGL variant) with PS/2 input and VGA connectors. If you don&#8217;t own any compatible hardware, a Sylphide [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/\">Desktop operating systems for ESP32-P4-based &#8220;PCs&#8221; &#8211; Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
     "title": "Using a Toothbrush’s NFC chip to Unlock a Computer",
     "source": "Hackaday",
     "date": "2026-11-13",
@@ -33,20 +54,6 @@
     "date": "2026-11-13",
     "url": "https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"465\" src=\"https://hackaday.com/wp-content/uploads/2026/11/missing_resistor_mainboard_fix_the_pixel_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Doing board level diagnosis on a PCB is hardly black magic, but some PCBs are definitely more daunting than others. The Socket LGA 1851 mainboard that [Fix the Pixel] got <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hacked Nixie Clock Waits for the Bus",
-    "source": "Hackaday",
-    "date": "2026-11-13",
-    "url": "https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/nixiebus_feat.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Nixie clocks have become popular enough that these days there&#8217;s no shortage of turn-key options that let you experience that warm glow with a minimum of fuss. Many still come <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A Desktop OS for the ESP32-P4",
-    "source": "Hackaday",
-    "date": "2026-11-13",
-    "url": "https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/bmds-featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The ESP32-P4 is Espressif&#8217;s high-end application processor, with two blistering fast RISC-V cores for a surprisingly reasonable price. As it&#8217;s a very capable computer in its own right, there have <a class=\"read-more\" href=\"https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/\">&#8230;read more</a>"
   },
   {
     "title": "Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026",
@@ -390,13 +397,6 @@
     "date": "2026-11-11",
     "url": "https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/",
     "summary": "<div><img alt=\"Renesas RZ T2N Cortex A55 R52 MPU with four axis motor control, industrial Ethernet, and Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Renesas-RZ-T2N-Cortex-A55-R52-MPU-with-four-axis-motor-control-industrial-Ethernet-and-Linux-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas RZ/T2N industrial MPU supports up to four-axis motor control and includes PWM timers, encoder interfaces, and trigonometric accelerators. It&#8217;s designed for industrial robots, programmable logic controllers (PLCs), motion controllers, and multi-axis servo drives. The MPU features up to two 1.2 GHz Arm Cortex-A55 cores for application processing and two 800 MHz Cortex-R52 cores for real-time control. It also integrates a three-port Gigabit Ethernet switch with TSN support and industrial Ethernet protocols such as EtherCAT, PROFINET RT/IRT, and EtherNet/IP. This feature set allows real-time motor control, industrial networking, and Linux applications to run on a single chip, reducing the need for separate processors. The MPU can also work as an industrial Ethernet network controller or device, depending on the application. Renesas RZ/T2N specifications: CPU Up to 2x Arm Cortex-A55 (64-bit) cores clocked at 1.2 GHz with 32KB L1 instruction/data cache, 128KB L2 cache per core, and 256KB L3 cache 2x [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/\">Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT&#8230;</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "LocalDot – Open-source PCB for 3rd-gen Amazon Echo Dot enables Home Assistant support (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-11-11",
-    "url": "https://www.cnx-software.com/2026/11/11/localdot-an-open-source-replacement-pcb-for-3rd-gen-echo-dot-with-home-assistant-support/",
-    "summary": "<div><img alt=\"Assembled Localdot prototype\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Assembled-Localdot-prototype-720x540.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>AAElectronics&#8217; LocalDot is an open-source replacement mainboard that converts a 3rd-generation Amazon Echo Dot into a local voice assistant compatible with Home Assistant. The board replaces one of the two original PCBs while reusing the existing microphones, speaker, buttons, LEDs, and enclosure, so the device works without relying on Amazon&#8217;s cloud services. The board combines an ESP32-S3 for WiFi connectivity and device control with an ESP32-P4 for audio processing. It supports the original four-microphone array with beamforming, on-device wake-word detection, and local voice commands through Home Assistant. Installation requires no soldering or enclosure modifications, and the device still uses the original Echo Dot power adapter. LocalDot specifications: Compatibility – 3rd-generation Amazon Echo Dot (Donut and Crumpet variants; Clock version not tested) SoC ESP32-S3 – Wi-Fi connectivity and device control ESP32-P4 – Dedicated audio processing Audio TAS5805 audio amplifier for the original speaker On-device wake-word detection Beamforming support Reuses the original [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/localdot-an-open-source-replacement-pcb-for-3rd-gen-echo-dot-with-home-assistant-support/\">LocalDot &#8211; Open-source PCB for 3rd-gen Amazon Echo Dot enables Home Assistant support (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "ESD: Panel Discussion: Future Directions in Embedded Systems - Challenges and Opportunities",

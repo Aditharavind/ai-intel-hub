@@ -1,5 +1,86 @@
 [
   {
+    "model": "vga-robotics/vga-pretrain-libero90",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vga-robotics/vga-pretrain-libero90",
+    "date": "2026-11-14",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "DreamingLizard/llm-driven-robot-policy-learning",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/DreamingLizard/llm-driven-robot-policy-learning",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Drop30_20261113_165557",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Drop30_20261113_165557",
+    "date": "2026-11-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Jacky-lee/embodied-ai-colab",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Jacky-lee/embodied-ai-colab",
+    "date": "2026-11-14",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/onpo-qwen3-8b-eta2133-seed2-iter3-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/onpo-qwen3-8b-eta2133-seed2-iter3-policy",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cubeow/lerobot-act-model-policy",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/cubeow/lerobot-act-model-policy",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.3
+  },
+  {
+    "model": "SunWoooo/omx_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SunWoooo/omx_act_policy",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/onpo-qwen3-8b-eta2133-seed2-iter2-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/onpo-qwen3-8b-eta2133-seed2-iter2-policy",
+    "date": "2026-11-14",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "yiwu/gr00t-robot-case-six-task-21066",
     "downloads": 0,
     "likes": 0,
@@ -87,33 +168,6 @@
     "url": "https://huggingface.co/romanmelnykana/robotics-vision-language-survey",
     "date": "2026-11-13",
     "keyword": "robotics",
-    "score": 0.1
-  },
-  {
-    "model": "jiman19990221/auto-robot",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/jiman19990221/auto-robot",
-    "date": "2026-11-13",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "Yuanyuan-Lee/robotrtc-pi05-4tasks-ft30k-rtc15k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Yuanyuan-Lee/robotrtc-pi05-4tasks-ft30k-rtc15k",
-    "date": "2026-11-13",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "SelfDriving-VLA/laq-ad-backup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
-    "date": "2026-11-13",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -252,15 +306,6 @@
     "score": 0.1
   },
   {
-    "model": "cubeow/lerobot-act-model-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/cubeow/lerobot-act-model-policy",
-    "date": "2026-11-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "ntlfi/enpo-llama3-8b-eta-eighth-seed1-rerun-iter3-policy",
     "downloads": 0,
     "likes": 0,
@@ -315,42 +360,6 @@
     "score": 0.1
   },
   {
-    "model": "LaLa-World/lala-policy-libero",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LaLa-World/lala-policy-libero",
-    "date": "2026-11-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "LaLa-World/lala-policy-robocasa50",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/LaLa-World/lala-policy-robocasa50",
-    "date": "2026-11-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ntlfi/enpo-llama3-8b-eta-eighth-seed1-rerun-iter1-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-llama3-8b-eta-eighth-seed1-rerun-iter1-policy",
-    "date": "2026-11-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "WoojongKim/smolvla_policy_omy_gelsight_snack_all_nogel",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/WoojongKim/smolvla_policy_omy_gelsight_snack_all_nogel",
-    "date": "2026-11-13",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "afhwoinavsnvo/VLAct-OFT-State-TCP",
     "downloads": 14,
     "likes": 0,
@@ -358,15 +367,6 @@
     "date": "2026-11-12",
     "keyword": "vla",
     "score": 4.3
-  },
-  {
-    "model": "mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__b_b100",
-    "downloads": 15,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-chess-vlas/train_800_sparse__no_mask__ur5e__groot__seed_0__b_b100",
-    "date": "2026-11-12",
-    "keyword": "vla",
-    "score": 4.6
   },
   {
     "model": "iapple1/CoCode-World-Model",
@@ -565,15 +565,6 @@
     "date": "2026-11-09",
     "keyword": "robotics",
     "score": 7.3
-  },
-  {
-    "model": "MeituanRobotics/Meituan-Robotics-0-RoboTwin",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MeituanRobotics/Meituan-Robotics-0-RoboTwin",
-    "date": "2026-11-09",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "ctrobinson/embodied-ai-review",
@@ -799,15 +790,6 @@
     "date": "2026-10-21",
     "keyword": "embodied",
     "score": 68.2
-  },
-  {
-    "model": "vvosstijn/my-embodied-ai",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/vvosstijn/my-embodied-ai",
-    "date": "2026-10-21",
-    "keyword": "embodied",
-    "score": 8.2
   },
   {
     "model": "StrongUzumaki/rover-navigation-stack-yolov8n",
