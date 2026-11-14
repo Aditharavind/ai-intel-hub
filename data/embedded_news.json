@@ -1,5 +1,19 @@
 [
   {
+    "title": "IRis Learning Remote Has Five Buttons, Supports Thousands of Devices",
+    "source": "Hackaday",
+    "date": "2026-11-14",
+    "url": "https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/IRis-remote-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Universal IR remotes able to learn codes from existing devices were once popular consumer items as well as DIY projects, but they could become quite complex themselves, sometimes with a <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Reverse Engineering Score Perfect to Rescue its Files",
+    "source": "Hackaday",
+    "date": "2026-11-14",
+    "url": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
+    "summary": "<div><img alt=\"Sheet music is displayed on a screen, with the label &quot;AIR&quot; in the center top, and &quot;Bach&quot; to the right.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/score_perfect.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/\">&#8230;read more</a>"
+  },
+  {
     "title": "Making CO₂ Sensors Fail Visibly, Not Silently",
     "source": "Hackaday",
     "date": "2026-11-14",
@@ -35,25 +49,39 @@
     "summary": "<div><img alt=\"Bare Metal Do Stuff BMDS OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Bare-Metal-Do-Stuff-BMDS-OS-720x405.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve recently written about the P4 Launcher project that offers a desktop PC-like and/or retro-gaming experience to ESP32-P4 boards with applications stored on a microSD card and loaded into PSRAM when they run. However, I&#8217;ve recently been tipped about two new projects that go even further and aim to provide a desktop OS for microcontrollers, both currently focusing on the Olimex ESP32-P4-PC board with HDMI, Ethernet, and USB ports: Sylphide OS and Bare Metal, Do Stuff (BMDS). Sylphide OS &#8211;  A Macintosh-like desktop for ESP32-P4, RP2350, and ESP32 Thomas Capricelli (Orzelf) has developed Sylphide OS as an operating system for computers based on microcontrollers. It&#8217;s designed to run on other targets beyond ESP32-P4 boards, and has currently been tested on the Raspberry Pi Pico 2 with VGA+USB connectors and the FabGL board (Olimex ESP32-SBC-FabGL variant) with PS/2 input and VGA connectors. If you don&#8217;t own any compatible hardware, a Sylphide [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/\">Desktop operating systems for ESP32-P4-based &#8220;PCs&#8221; &#8211; Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
+    "title": "Stenberg: 30 years of Internet transfers with curl",
+    "source": "Adafruit",
+    "date": "2026-11-14",
+    "url": "https://blog.adafruit.com/2026/11/14/stenberg-30-years-of-internet-transfers-with-curl/",
+    "summary": "corbet at LWN points to Daniel Stenberg&#8217;s post marking 30 years of the curl project. curl is the command line tool for transferring data with URLs, and libcurl is the library version that other software builds on. Stenberg puts libcurl at an estimated thirty billion installations. He&#8217;s clear that the figure is rough. Most projects [&#8230;]"
+  },
+  {
+    "title": "My $300 embroidery machine needed a subscription, so I built my own app",
+    "source": "Adafruit",
+    "date": "2026-11-14",
+    "url": "https://blog.adafruit.com/2026/11/14/my-300-embroidery-machine-needed-a-subscription-so-i-built-my-own-app/",
+    "summary": "Kathy Korevec built ZigZag, a free, open-source embroidery editor for Mac and Windows, after finding that her $300 Brother Skitch (PP1) machine wanted a subscription. It&#8217;s written in Rust and turns SVG artwork into stitches, then exports PES, DST, EXP, JEF or VP3 for most embroidery machines. Designs can also be sent straight to the [&#8230;]"
+  },
+  {
+    "title": "Locating the source of a mysterious beep using Claude",
+    "source": "Adafruit",
+    "date": "2026-11-14",
+    "url": "https://blog.adafruit.com/2026/11/14/locating-the-source-of-a-mysterious-beep-using-claude/",
+    "summary": "Simon Willison had an intermittent beep coming from a room full of unpacked boxes, so he had Claude Code build Beep Locator, a system that triangulates a sound using several ordinary devices. He wrote it up on his weblog. A Python web server shows the main map, and other devices join over a URL or [&#8230;]"
+  },
+  {
+    "title": "Adafruit New Products this Week: Featuring Adafruit MCP2222 Breakout – General Purpose USB to GPIO/SPI/I2C – Stemma QT / Qwiic",
+    "source": "Adafruit",
+    "date": "2026-11-14",
+    "url": "https://blog.adafruit.com/2026/11/14/adafruit-new-products-this-week-featuring-adafruit-mcp2222-breakout-general-purpose-usb-to-gpio-spi-i2c-stemma-qt-qwiic/",
+    "summary": "This week we debuted 2 New Products. Keep up with all the new at Adafruit.com/NEW. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special offers, exciting original content, and more. Sign-up for [&#8230;]"
+  },
+  {
     "title": "Using a Toothbrush’s NFC chip to Unlock a Computer",
     "source": "Hackaday",
     "date": "2026-11-13",
     "url": "https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/toothbrush-snf-featured_d95783.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Depending on which type of electric toothbrush you are using, the replaceable brushes may contain an NFC chip that the handle and possibly base station uses to track various details, <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Drop-in Vintage CPU Replacements with the tranZPUter Project",
-    "source": "Hackaday",
-    "date": "2026-11-13",
-    "url": "https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"314\" src=\"https://hackaday.com/wp-content/uploads/2026/11/pico6809_pcb_top_horiz.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>One of the struggles with vintage computer systems is that many of the ICs in them have no modern-day version that you can just purchase and drop-in. Creating replacements that <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Hackaday Podcast Episode 394: Linux in Weird Places, Yet More Hidden SDRs, and a Supercon Wrapup",
-    "source": "Hackaday",
-    "date": "2026-11-13",
-    "url": "https://hackaday.com/2026/11/13/hackaday-podcast-episode-394-linux-in-weird-places-yet-more-hidden-sdrs-and-a-supercon-wrapup/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Hackaday Editors Elliot Williams and Tom Nardi are back from Supercon, and they&#8217;ve got plenty of thoughts to share about it. But before they discuss this weekend&#8217;s higlights, they&#8217;ll cover <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/hackaday-podcast-episode-394-linux-in-weird-places-yet-more-hidden-sdrs-and-a-supercon-wrapup/\">&#8230;read more</a>"
   },
   {
     "title": "Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026",
@@ -236,34 +264,6 @@
     "date": "2026-11-13",
     "url": "https://blog.adafruit.com/2026/11/13/oh-my-word-microsoft-retires-compatibility-options-because-who-needs-layouts-to-stay-put/",
     "summary": "Richard Speed at The Register reports that Microsoft is retiring a set of legacy layout settings in the Word desktop app, which could rearrange documents created or last saved in Word 2010 or earlier. Compatibility Mode is what lets a newer version of Word open an older document without shifting its layout, with newer features [&#8230;]"
-  },
-  {
-    "title": "LG Guggenheim Art and Technology Initiative",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/lg-guggenheim-art-and-technology-initiative/",
-    "summary": "The LG Guggenheim Art and Technology Initiative is a five-year collaboration between LG Electronics  and the Solomon R. Guggenheim Foundation that explores the intersection of contemporary art and technology. This initiative annually recognizes a tech based artist with a $100,000 prize and this year&#8217;s winner was Trevor Paglan. Via Guggenheim.org The LG Guggenheim Art and [&#8230;]"
-  },
-  {
-    "title": "John Park’s CircuitPython Parsec: Sparkline Graphs",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/john-parks-circuitpython-parsec-sparkline-graphs/",
-    "summary": "#circuitpythonparsec Make Edward Tufte proud and draw some sparkline graphs in CircuitPython! Try out the code example To learn about CircuitPython: https://circuitpython.org &#160;"
-  },
-  {
-    "title": "Endangered, colorful garter snakes released into the wild for the first time",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/endangered-colorful-garter-snakes-released-into-the-wild-for-the-first-time/",
-    "summary": "Andrew Paul, writing for Popular Science, reports that 62 young San Francisco garter snakes born at the San Francisco Zoo were released at sites in San Mateo County this fall. It&#8217;s the first release of its kind for the species. The snake is found only in California&#8217;s San Mateo and Santa Cruz counties, and it [&#8230;]"
-  },
-  {
-    "title": "Build a $4 AI desk assistant with an ESP32-S3 chip",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/build-a-4-ai-desk-assistant-with-an-esp32-s3-chip/",
-    "summary": "Julian Horsey writes at Geeky Gadgets about a voice-controlled desk assistant built by EDISON SCIENCE CORNER around the $4 ESP32S3 0 microcontroller. It sets timers, reports the weather and shows a social media status on a 1.3-inch OLED display. The ESP32S3 0 replaces the ESP32C3 mini used in an earlier version, which had WiFi trouble [&#8230;]"
   },
   {
     "title": "Visteon, SHINRY and Infineon collaborate on breakthrough single-stage onboard charger with GaN BDS technology",
