@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-14 21:42 UTC
+Generated: 2026-11-15 01:21 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-14 21:42 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84845 | 33938.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| Developer-Y/cs-video-courses | 84848 | 33939.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
 | commaai/openpilot | 64138 | 25655.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44794 | 17917.7 | [link](https://github.com/NaiboWang/EasySpider) |
+| NaiboWang/EasySpider | 44793 | 17917.3 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30916 | 12366.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30202 | 12080.9 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30204 | 12081.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -42,7 +42,7 @@ Generated: 2026-11-14 21:42 UTC
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
 | 2026-11-14 | Physical AI is a major opportunity for Europe, but founders say capital is holding back scale - About Amazon Europe | physical ai startup | [link](https://news.google.com/rss/articles/CBMixwFBVV95cUxORHpNQTk0c3ZqWW84MFN1Nk5iRHNCMkk4c3RhbldXRFFsLWs1QjYzR0dWNkxTcWFJUW51eEt1aF9qZXZjZFJ1S2FkT2paOW9VSXRVTW0zeTZ5TVJqUThYdlhkLU9BTHpibTFodkE0RnJWVVkwZlhIVE91VHZYS3YtNm5FYm1IU1N1ZGRBX195TklWT0hoQ1dsR181Yy1QRV9CQ0lvRFlEQVZBS0xiNzd4ZEt4TW1sMnZ6LUloM2o5eTQxeVlZYzdr?oc=5) |
-| 2026-11-14 | A SoMa startup is building humanoid robots for war - The San Francisco Standard | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUC1NcXR1NkxLYWhmQUhjUnZtc1lrbzhJZFZwS2J3bnB6ZjJEZU5tb2hzLXZPVkVnamZLZENLRDdhTkY4NXFRT2hVOEZGbmIzZG9PWTEwVHlxSmhXWTFEWG9aanBWZ25pMklDWFEzZlNXcDBIU3c?oc=5) |
 | 2026-11-14 | Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQdIBd0FVX3lxTE9DQVVfcVVUOVhwbko1ME5GeG16NmR6Q2lWVnNNdU1mTjdYS3RmVVh2WDQyY2hqZWM4UGNvcWVnX3hhdkZFby1hVjRTVHFWUmg4TjNxSE93aDFPejc4SWFIM1RGOGVzR0xhdXAxbU5kUmtiLWxoZzFF?oc=5) |
+| 2026-11-14 | A SoMa startup is building humanoid robots for war - The San Francisco Standard | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUC1NcXR1NkxLYWhmQUhjUnZtc1lrbzhJZFZwS2J3bnB6ZjJEZU5tb2hzLXZPVkVnamZLZENLRDdhTkY4NXFRT2hVOEZGbmIzZG9PWTEwVHlxSmhXWTFEWG9aanBWZ25pMklDWFEzZlNXcDBIU3c?oc=5) |
 | 2026-11-13 | SG physical AI startup Ropedia expands robotics training data - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXNHZWF1VzQxRkhiay1jMEoxdjVhQ3UtcDh2amVZV251TkxEeFVrcV9GRWRPREJfa2Z5VjhvNEVRSjJaejBKZWpPSTlWY1Z3Vl9wMXdnQlA0LXh3Z1Z6RnFXaHp1SXc1VVc2ZUt6ekFFUkdFMVoyUTY0STlRcGZ5Zk5pYXd3WkpvSV84eVU0M0ZfVnlQOVo5dQ?oc=5) |
-| 2026-11-13 | AI startup hiring humans to oversee robots during overnight shifts - NewsNation | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcVUtTkRkeDZLOUJDMHFXNGg2WUViZVZWakprSHgwWl8td1VJMG9nQno2VDRreUVXT2xWSXFyQ3RYZHAxVDQ5UGdBdEpHckV6ZjBVYXJNbWVSQnBFVU9rTlcwcVhtbXNxWGVyd1A1Q3ZqMWUwNVVhSUsxaDA2S2VTRk9uc0N0YmxEa0hKTVVwckLSAZYBQVVfeXFMTThfWVo3LUZjU1E2SU1nSFRBNjhLRVQ0SFFDclVvbFA1NWd4RmF2d3hRcGlMUThERXpYbzNQZ3ZoR3VHSE5DZl9fUDJBWmJ5ekY5aktySEljQ3ktekMzZG4tcjBHamlobFZRV0NwSVUzR3pWLVYwV2FBaTh4cFhGcE9sa0dOOHEyZ2VTcV9FM2NjczZaT1VB?oc=5) |
+| 2026-11-13 | Pantera Partner's Shenzhen Field Research: China Accounts for 90% of Global Humanoid Robot Output, With Software Weakness the Biggest Hidden Concern - BigGo Finance | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1WZVFIanVicTRxb3pyYmtvdmQ2cHZWdFZLZ082RWpJVnpfQTBSS25NUVZOTzRkaTVzMWFDNXR5UVQ0ZjNBVHpJLU5mbUtoUVhfX3RfSEVMQkRpVmR0d1FrYjcxQ1lRNUEwZVVWUTE4RDVtMXI3V2c?oc=5) |

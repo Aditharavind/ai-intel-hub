@@ -1,5 +1,50 @@
 [
   {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "AZH04/embodied-memory-qwen3.5-4b-image-lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/AZH04/embodied-memory-qwen3.5-4b-image-lora",
+    "date": "2026-11-15",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "AZH04/embodied-memory-qwen3.5-4b-goal-lora",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/AZH04/embodied-memory-qwen3.5-4b-goal-lora",
+    "date": "2026-11-15",
+    "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "Rosa2004/force_policy_local_only",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Rosa2004/force_policy_local_only",
+    "date": "2026-11-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter3-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter3-policy",
+    "date": "2026-11-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "arunos728/cosmos3-robotwin-ae-t320-cj-vegopro40k-fmax04-b64-60k",
     "downloads": 0,
     "likes": 0,
@@ -68,7 +113,7 @@
     "likes": 0,
     "url": "https://huggingface.co/DreamingLizard/llm-driven-robot-policy-learning",
     "date": "2026-11-14",
-    "keyword": "policy",
+    "keyword": "robot",
     "score": 0.1
   },
   {
@@ -78,6 +123,24 @@
     "url": "https://huggingface.co/vga-robotics/vga-pretrain-libero90",
     "date": "2026-11-14",
     "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "cmrn-vla/m34_02_billet_shuttle",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cmrn-vla/m34_02_billet_shuttle",
+    "date": "2026-11-14",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Dense_20261113_173802",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Dense_20261113_173802",
+    "date": "2026-11-14",
+    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -112,24 +175,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/research-vla/comove-from-base-21700-20261114",
-    "date": "2026-11-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SelfDriving-VLA/laq-ad-backup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
-    "date": "2026-11-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Dense_20261113_173802",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Dense_20261113_173802",
     "date": "2026-11-14",
     "keyword": "vla",
     "score": 0.1
@@ -279,15 +324,6 @@
     "score": 0.7
   },
   {
-    "model": "ntlfi/onpo-qwen3-8b-eta2133-seed2-iter3-policy",
-    "downloads": 9,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-qwen3-8b-eta2133-seed2-iter3-policy",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 2.8
-  },
-  {
     "model": "yiwu/gr00t-robot-case-six-task-21066",
     "downloads": 13,
     "likes": 0,
@@ -331,15 +367,6 @@
     "date": "2026-11-13",
     "keyword": "vla",
     "score": 13.6
-  },
-  {
-    "model": "theo-zhou/vla-mopd-checkpoints",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/theo-zhou/vla-mopd-checkpoints",
-    "date": "2026-11-13",
-    "keyword": "vla",
-    "score": 0.1
   },
   {
     "model": "LevinShan/rr-worldmodel-v0-policies",
@@ -684,15 +711,6 @@
     "score": 0.1
   },
   {
-    "model": "X-EraAI/e05-embodied-vggt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/X-EraAI/e05-embodied-vggt",
-    "date": "2026-10-28",
-    "keyword": "embodied",
-    "score": 0.1
-  },
-  {
     "model": "zxyty/physicalai-trellis-image-large",
     "downloads": 0,
     "likes": 0,
@@ -790,15 +808,6 @@
     "date": "2026-10-25",
     "keyword": "navigation",
     "score": 16.9
-  },
-  {
-    "model": "aaubret/embodied_ssl",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/aaubret/embodied_ssl",
-    "date": "2026-10-23",
-    "keyword": "embodied",
-    "score": 0.1
   },
   {
     "model": "StrongUzumaki/rover-navigation-stack-yolov8n",
