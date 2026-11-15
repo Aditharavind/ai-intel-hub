@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-15 15:54 UTC
+Generated: 2026-11-15 20:37 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-15 15:54 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84856 | 33942.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64146 | 25658.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44797 | 17918.9 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30921 | 12368.5 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30216 | 12086.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 84857 | 33942.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64147 | 25658.9 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44796 | 17918.5 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30922 | 12368.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30218 | 12087.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-11-15 15:54 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-11-14 | Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQQ?oc=5) |
+| 2026-11-15 | Physicl raises $10 million to improve physical AI training with synthetic data - Robotics & Automation News | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQcnhKaW1XcEFPVzV1MUp4LTRoM3ZqalZ3UHd5VFpSc3FXWEt5NzExOWJ1b2JOZXNaSV9aUk5rLXg1aENZdHFBeExPUjRFcDZLdFdpLWlMdEJxU2c4Z2FmcXc0dmJBcDJxSG4zMTAxZnQyRENFRUYyY1RkT3RXdVFvWlJ0MG9CMG1idUFUcUdOSUd6Z2RJQjhOMy1OTHNqWThaNGI5M2Vld2EycGhlSlA3ZWpMTGdrSUY5eGxzRUNJSWFYal9ZMmtiYUhuZ0J0alU?oc=5) |
+| 2026-11-14 | Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQdIBd0FVX3lxTE9DQVVfcVVUOVhwbko1ME5GeG16NmR6Q2lWVnNNdU1mTjdYS3RmVVh2WDQyY2hqZWM4UGNvcWVnX3hhdkZFby1hVjRTVHFWUmg4TjNxSE93aDFPejc4SWFIM1RGOGVzR0xhdXAxbU5kUmtiLWxoZzFF?oc=5) |
 | 2026-11-14 | A SoMa startup is building humanoid robots for war - The San Francisco Standard | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUC1NcXR1NkxLYWhmQUhjUnZtc1lrbzhJZFZwS2J3bnB6ZjJEZU5tb2hzLXZPVkVnamZLZENLRDdhTkY4NXFRT2hVOEZGbmIzZG9PWTEwVHlxSmhXWTFEWG9aanBWZ25pMklDWFEzZlNXcDBIU3c?oc=5) |
 | 2026-11-13 | SG physical AI startup Ropedia expands robotics training data - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXNHZWF1VzQxRkhiay1jMEoxdjVhQ3UtcDh2amVZV251TkxEeFVrcV9GRWRPREJfa2Z5VjhvNEVRSjJaejBKZWpPSTlWY1Z3Vl9wMXdnQlA0LXh3Z1Z6RnFXaHp1SXc1VVc2ZUt6ekFFUkdFMVoyUTY0STlRcGZ5Zk5pYXd3WkpvSV84eVU0M0ZfVnlQOVo5dQ?oc=5) |
 | 2026-11-12 | German AI robotics startup valued at $8.5 billion after new fundraising - Tech Xplore | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE9wdXBKMVJsUmpkejdlalY1X3BNTU5rWTFVb29vVzFEczZkSnluMkJpeEM3Zm83eW9qa2gzQXUzeU9OOVVPZlJ5ZGk0OHZTMXBFYzJTVFlyYUNNOC01QWRZblZXb3hSc2VqS2JLcjJ2OEdJdTVXaUZyZTM4Z1pDSkU?oc=5) |
-| 2026-11-12 | Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation - The New York Times | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDBwNTBVZzdhQjlkVDRaQXRiM2dsVUJYdmx3c3NLeC1ZeUJfNDd3ZHdoOFZhdXh0S3FZdEk3dEVfXzA4UE80ckVLYnktSDFfbHRQRW94ZndRWndBV3B1SEFOaUNFbmhhbGZSS1BwelA4ZDB4MzRCQndMcDJfakNFSkQtZw?oc=5) |

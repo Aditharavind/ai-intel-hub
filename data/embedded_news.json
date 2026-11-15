@@ -1,5 +1,12 @@
 [
   {
+    "title": "An Orbital Sanders Crash Course and the Threat of HAVS",
+    "source": "Hackaday",
+    "date": "2026-11-15",
+    "url": "https://hackaday.com/2026/11/15/an-orbital-sanders-crash-course-and-the-threat-of-havs/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"427\" src=\"https://hackaday.com/wp-content/uploads/2026/11/orbital_sander_brake_and_damper_ring_five_duck_studio_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Most people know about orbital sanders, as the cousin of sheet sanders, with many people using them every day to make wood and other surfaces smooth. Yet if you have <a class=\"read-more\" href=\"https://hackaday.com/2026/11/15/an-orbital-sanders-crash-course-and-the-threat-of-havs/\">&#8230;read more</a>"
+  },
+  {
     "title": "Printing Smooth Upper Surfaces with a Non-Planar Slicer",
     "source": "Hackaday",
     "date": "2026-11-15",
@@ -49,11 +56,25 @@
     "summary": "<div><img alt=\"Radxa Linkr review\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Radxa-Linkr-review-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We had a first look at the Radxa Linkr IP KVM in the first part of the review, checking out the specifications, the hardware design, and overall features at the end of August. That was at the end of August, and I didn&#8217;t have time to test it before I went on a two-month road trip. Since I&#8217;m now back, I&#8217;ve taken the time to test it using an AAEON UP Xtreme i11 Edge mini PC running Ubuntu 26.04 as the target device, so I&#8217;ll report my experience in this post. Connecting Radxa Linkr to the target The Radxa Linkr works over USB, Ethernet, or WiFi. I decided to use the provided USB-C to Ethernet cable to connect it to an Ethernet switch, a USB-C to USB-A cable for power using one of the USB 3.0 ports of the UP Xtreme i11 Edge, and plugged the device directly into the [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/15/radxa-linkr-review-a-compact-ip-kvm-with-https-2fa-authentication-and-tailscale-support/\">Radxa Linkr review &#8211; A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
-    "title": "Warm Analog DSP, on the ESP",
-    "source": "Hackaday",
-    "date": "2026-11-14",
-    "url": "https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/9847301794483913575.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a look. It&#8217;s a tube-sound <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/\">&#8230;read more</a>"
+    "title": "Adafruit Weekly Editorial Round-Up: CircuitPython, LED Spirit Board & More!",
+    "source": "Adafruit",
+    "date": "2026-11-15",
+    "url": "https://blog.adafruit.com/2026/11/15/adafruit-weekly-editorial-round-up-circuitpython-led-spirit-board-more/",
+    "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ CircuitPython 11.0.0-alpha.3 Released! [&#8230;]"
+  },
+  {
+    "title": "WM 0.10 is a window manager for DOS XT and 286",
+    "source": "Adafruit",
+    "date": "2026-11-15",
+    "url": "https://blog.adafruit.com/2026/11/15/wm-0-10-is-a-window-manager-for-dos-xt-and-286/",
+    "summary": "theelf has posted WM 0.10 on the VCF Forums, a window manager for DOS that&#8217;s been years of personal work. It runs on a 286 with a VGA card at 640&#215;480 in 16 colors. It also runs on an XT, though that part isn&#8217;t fully tested, since the development machine is a Harris 286-25. Memory [&#8230;]"
+  },
+  {
+    "title": "Underwater internet cables can help save endangered whales",
+    "source": "Adafruit",
+    "date": "2026-11-15",
+    "url": "https://blog.adafruit.com/2026/11/15/underwater-internet-cables-can-help-save-endangered-whales/",
+    "summary": "Andrew Paul, writing for Popular Science, covers work by Cornell University bioacoustics researcher Léa Bouffaut that turns deep sea fiber-optic cables into microphones for listening to whales. The method is called distributed acoustic sensing, or DAS. Laser pulses are sent down a telecom cable, and the returning light is checked for tiny changes caused by [&#8230;]"
   },
   {
     "title": "Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)",
@@ -147,6 +168,76 @@
     "summary": "<p>Melexis has unveiled the MLX90901 Tactile Fingertip Module, its first integrated mechatronic solution for tactile sensing in humanoid robots. Designed to provide true three-dimensional force detection, the module enables robotic hands to measure both normal and shear forces, delivering the tactile feedback necessary for more precise and reliable object manipulation. As advances in artificial intelligence [...]</p>\n<p>The post <a href=\"https://www.embedded.com/melexis-brings-3d-touch-sensing-to-humanoid-robots/\">Melexis Brings 3D Touch Sensing to Humanoid Robots</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
   },
   {
+    "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
+    "summary": "<p>One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/\">Picture of the Day: Lemo drives Sauber F1 to Electronica</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
+    "summary": "<p>Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/\">Jedec creates Subcommittee to address System Level Reliability Testing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Technologies Which Died",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
+    "summary": "<p>30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/\">Technologies Which Died</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica: Renesas adds Xplorer Developer Hub",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
+    "summary": "<p>Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company&#8217;s electronics system development platform. Renesas launched the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/\">Electronica: Renesas adds Xplorer Developer Hub</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica – The latest news roundup",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+    "summary": "<p>Don&#8217;t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/\">Electronica &#8211; The latest news roundup</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
+    "summary": "<p>AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/\">Electronica: AATC1051 TCXO aims for compact, power-conscious applications</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/",
+    "summary": "<p>The UK Space Agency (UKSA) is partnering with the European Space Agency (ESA) for the latest ESERO-UK programme. Investing £4.5 million, the programme aims to inspire young people into space [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/\">STEM for space &#8211; UK Space Agency invests £4.5m for ESERO-UK</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-electronica-2026-7nm-fdsoi-3d-dram-2026-11/",
+    "summary": "<p>The most popular articles on the site cover TME showcasing the Arduino VENTUNO Q, our latest news from Electronica, and an apology from Jensen Huang...</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-electronica-2026-7nm-fdsoi-3d-dram-2026-11/\">Most Read &#8211; Electronica 2026, 7nm FDSOI, 3D DRAM</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Panmesia and Intel hook up on CXL",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/",
+    "summary": "<p>Panmnesia, the Korean developer of link solutions for AI infrastructure, has signed an MOU with Intel Korea to collaborate on CXL technology. The agreement aims to bring CXL-based servers into [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/\">Panmesia and Intel hook up on CXL</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Imec and Japan’s ASR standardise auto chiplets",
+    "source": "Electronics Weekly",
+    "date": "2026-11-13",
+    "url": "https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/",
+    "summary": "<p>Imec and Japan&#8217;s Advanced SoC Research for Automotive (ASRA), have published the Automotive Chiplet Interoperability Requirement (ACIR) establishing a common set of architectural requirements for interoperable automotive chiplets. Unveiled at [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/\">Imec and Japan’s ASR standardise auto chiplets</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
     "title": "What happened to 3Com?",
     "source": "Adafruit",
     "date": "2026-11-13",
@@ -180,27 +271,6 @@
     "date": "2026-11-13",
     "url": "https://blog.adafruit.com/2026/11/13/rare-1989-apple-computer-factory-tour-behind-the-scenes-original-film-restoration/",
     "summary": "The Computer History Archives Project (CHAP) has posted a partially restored 1989 Apple Computer film, an 11 minute tour of the company&#8217;s Service Operations Center at 900 East Hamilton Avenue in Campbell, California. It shows technicians, engineers and consultants diagnosing, repairing, testing and evaluating Macintosh and Apple II systems and peripherals. The Campbell site managed [&#8230;]"
-  },
-  {
-    "title": "A stunning 500-gigapixel map of the universe is revealed by the Euclid Space Telescope",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/a-stunning-500-gigapixel-map-of-the-universe-is-revealed-by-the-euclid-space-telescope/",
-    "summary": "VideoFromSpace, the Space.com channel on YouTube, has posted a look at the latest release from the European Space Agency&#8217;s Euclid space telescope: a 500-gigapixel mosaic of millions of stars and galaxies. The video zooms from the wide view down into the Messier 81 galaxy group, nearly 12 million light-years from Earth. At that scale, Euclid&#8217;s [&#8230;]"
-  },
-  {
-    "title": "DOOM on a USB flash drive",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/doom-on-a-usb-flash-drive/",
-    "summary": "Aaron Christophel has ported DOOM to a USB flash drive, and he shows it running in a video on his YouTube channel. The drive is a MOVESPEED MSSU10, which has a small LCD built-in. Out of the box that screen shows the connection speed, read and write activity, and the drive&#8217;s temperature. There&#8217;s enough processing [&#8230;]"
-  },
-  {
-    "title": "Oh my Word! Microsoft retires compatibility options, because who needs layouts to stay put",
-    "source": "Adafruit",
-    "date": "2026-11-13",
-    "url": "https://blog.adafruit.com/2026/11/13/oh-my-word-microsoft-retires-compatibility-options-because-who-needs-layouts-to-stay-put/",
-    "summary": "Richard Speed at The Register reports that Microsoft is retiring a set of legacy layout settings in the Word desktop app, which could rearrange documents created or last saved in Word 2010 or earlier. Compatibility Mode is what lets a newer version of Word open an older document without shifting its layout, with newer features [&#8230;]"
   },
   {
     "title": "Visteon, SHINRY and Infineon collaborate on breakthrough single-stage onboard charger with GaN BDS technology",

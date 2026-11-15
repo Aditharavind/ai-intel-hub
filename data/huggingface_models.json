@@ -1,5 +1,23 @@
 [
   {
+    "model": "RobotisSW/Task905-943-GR00T-VisionKL-Tactile",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-Tactile",
+    "date": "2026-11-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "lin-v8-robot/v8-real-fr3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/lin-v8-robot/v8-real-fr3",
+    "date": "2026-11-15",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "motus-robotics/Motus2_stage1",
     "downloads": 0,
     "likes": 0,
@@ -27,19 +45,19 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task905-943-GR00T-VisionKL-Tactile",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-Tactile",
-    "date": "2026-11-15",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "SelfDriving-VLA/laq-ad-backup",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "twanghcmut/g1-throw-vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/twanghcmut/g1-throw-vla",
     "date": "2026-11-15",
     "keyword": "vla",
     "score": 0.1
@@ -162,6 +180,42 @@
     "score": 6.1
   },
   {
+    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-eighth-beta02-seed2-iter2-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-eighth-beta02-seed2-iter2-policy",
+    "date": "2026-11-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "87361Yly/rc-policy-01",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/87361Yly/rc-policy-01",
+    "date": "2026-11-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-eighth-beta02-seed2-iter1-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-eighth-beta02-seed2-iter1-policy",
+    "date": "2026-11-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "dontKnow23456/WAM-Policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dontKnow23456/WAM-Policy",
+    "date": "2026-11-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
     "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-quarter-seed2-iter3-policy",
     "downloads": 0,
     "likes": 0,
@@ -223,15 +277,6 @@
     "date": "2026-11-15",
     "keyword": "policy",
     "score": 0.1
-  },
-  {
-    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter3-policy",
-    "downloads": 23,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter3-policy",
-    "date": "2026-11-15",
-    "keyword": "policy",
-    "score": 7.0
   },
   {
     "model": "arunos728/cosmos3-robotwin-ae-t320-cj-vegopro40k-fmax04-b64-60k",
@@ -297,15 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "vga-robotics/vga-pretrain-libero90",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vga-robotics/vga-pretrain-libero90",
-    "date": "2026-11-14",
-    "keyword": "robotics",
-    "score": 0.1
-  },
-  {
     "model": "cmrn-vla/m34_02_billet_shuttle",
     "downloads": 0,
     "likes": 0,
@@ -322,15 +358,6 @@
     "date": "2026-11-14",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "SamerAyyad/VLA_Samer_08.11.2026_400eps_policy_ACT_500k",
-    "downloads": 25,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_08.11.2026_400eps_policy_ACT_500k",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 7.6
   },
   {
     "model": "AmberHeart/Uni-MOPD-Teacher-Embodied",
@@ -351,22 +378,13 @@
     "score": 6.4
   },
   {
-    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter2-policy",
-    "downloads": 21,
+    "model": "vga-robotics/vga-pretrain-libero90",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter2-policy",
+    "url": "https://huggingface.co/vga-robotics/vga-pretrain-libero90",
     "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 6.4
-  },
-  {
-    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter1-policy",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-sixteenth-seed2-iter1-policy",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 6.4
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "LevinShan/rr-worldmodel-v0-policies",
