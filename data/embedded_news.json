@@ -1,10 +1,31 @@
 [
   {
+    "title": "Bringing a Cloud Based Monitor Home",
+    "source": "Hackaday",
+    "date": "2026-11-15",
+    "url": "https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/",
+    "summary": "<div><img alt=\"ESP-Guardian\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/05-feather-installed-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When setting up to grow plants hydroponically, it’s important to keep an eye on the numbers, temperature, pH, and electrical conductivity, to name a few. To do this, [Joziti] bought <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/\">&#8230;read more</a>"
+  },
+  {
+    "title": "RPN Loved Honk If (or, Write Your Own PostScript Interpreter)",
+    "source": "Hackaday",
+    "date": "2026-11-15",
+    "url": "https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/post.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Maybe you like old laser printers. Maybe you were a fan of [Don Lancaster]. Maybe you like Forth, HP calculators, and everything RPN. Whichever it is, why not write your <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/\">&#8230;read more</a>"
+  },
+  {
     "title": "DIVINER: Occult Synth Firmware for the Cardputer",
     "source": "Hackaday",
     "date": "2026-11-15",
     "url": "https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/11/8459231792676999283.png?w=720\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"720\" /></div>We see some strange software around these parts, but this is probably the strangest. DIVINER is a firmware for the M5 Cardputer, which is an interesting device in its own <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Radxa Linkr review – A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support",
+    "source": "CNX Software",
+    "date": "2026-11-15",
+    "url": "https://www.cnx-software.com/2026/11/15/radxa-linkr-review-a-compact-ip-kvm-with-https-2fa-authentication-and-tailscale-support/",
+    "summary": "<div><img alt=\"Radxa Linkr review\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Radxa-Linkr-review-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We had a first look at the Radxa Linkr IP KVM in the first part of the review, checking out the specifications, the hardware design, and overall features at the end of August. That was at the end of August, and I didn&#8217;t have time to test it before I went on a two-month road trip. Since I&#8217;m now back, I&#8217;ve taken the time to test it using an AAEON UP Xtreme i11 Edge mini PC running Ubuntu 26.04 as the target device, so I&#8217;ll report my experience in this post. Connecting Radxa Linkr to the target The Radxa Linkr works over USB, Ethernet, or WiFi. I decided to use the provided USB-C to Ethernet cable to connect it to an Ethernet switch, a USB-C to USB-A cable for power using one of the USB 3.0 ports of the UP Xtreme i11 Edge, and plugged the device directly into the [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/15/radxa-linkr-review-a-compact-ip-kvm-with-https-2fa-authentication-and-tailscale-support/\">Radxa Linkr review &#8211; A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "Warm Analog DSP, on the ESP",
@@ -33,20 +54,6 @@
     "date": "2026-11-14",
     "url": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
     "summary": "<div><img alt=\"Sheet music is displayed on a screen, with the label &quot;AIR&quot; in the center top, and &quot;Bach&quot; to the right.\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/score_perfect.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Making CO₂ Sensors Fail Visibly, Not Silently",
-    "source": "Hackaday",
-    "date": "2026-11-14",
-    "url": "https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/CO2-sensors.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>CO₂ buildup in a living area can be a serious problem, and a sensor that fails quietly cannot be relied upon. [William Collis] addressed this important issue by creating CO₂ monitors <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/\">&#8230;read more</a>"
-  },
-  {
-    "title": "ESP32 Flight Tracker on Apple CRT",
-    "source": "Hackaday",
-    "date": "2026-11-14",
-    "url": "https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"600\" src=\"https://hackaday.com/wp-content/uploads/2026/11/ESP32-CRT-flightracker1.jpeg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Sometimes we&#8217;re most taken by what&#8217;s on the screen; sometimes the screen itself is the most interesting part of the project. In this case, it&#8217;s the latter. That&#8217;s no slight <a class=\"read-more\" href=\"https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/\">&#8230;read more</a>"
   },
   {
     "title": "Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)",
@@ -390,13 +397,6 @@
     "date": "2026-11-11",
     "url": "https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/",
     "summary": "<div><img alt=\"Arduino Nano XL Link and carrier board\" class=\"attachment-medium size-medium wp-post-image\" height=\"435\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Arduino-Nano-XL-and-carrier-board-720x435.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100 Mbps Ethernet field bus transceivers for industrial, home, and building automation applications such as industrial networks, motor drives, building automation buses, smart sensors, and touch panels.  The company also unveiled the Nano XL Link Connector Carrier to go along with the new board. Arduino Nano XL Link Arduino Nano XL Link (ABX00182) specifications: MCU &#8211; Microchip PIC32CK2051SG01144 CPU &#8211; Arm Cortex-M33 @ 120 MHz Memory &#8211; 512 kB RAM Storage &#8211; 2 MB flash; 728 kB available for sketches Security &#8211; Integrated Hardware Security Module (HSM) + TrustZone USB &#8211; USB Type-C port for power, programming, and serial communication Industrial communication interfaces [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/\">Arduino Nano XL Link board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT…",
-    "source": "CNX Software",
-    "date": "2026-11-11",
-    "url": "https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/",
-    "summary": "<div><img alt=\"Renesas RZ T2N Cortex A55 R52 MPU with four axis motor control, industrial Ethernet, and Linux\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Renesas-RZ-T2N-Cortex-A55-R52-MPU-with-four-axis-motor-control-industrial-Ethernet-and-Linux-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Renesas RZ/T2N industrial MPU supports up to four-axis motor control and includes PWM timers, encoder interfaces, and trigonometric accelerators. It&#8217;s designed for industrial robots, programmable logic controllers (PLCs), motion controllers, and multi-axis servo drives. The MPU features up to two 1.2 GHz Arm Cortex-A55 cores for application processing and two 800 MHz Cortex-R52 cores for real-time control. It also integrates a three-port Gigabit Ethernet switch with TSN support and industrial Ethernet protocols such as EtherCAT, PROFINET RT/IRT, and EtherNet/IP. This feature set allows real-time motor control, industrial networking, and Linux applications to run on a single chip, reducing the need for separate processors. The MPU can also work as an industrial Ethernet network controller or device, depending on the application. Renesas RZ/T2N specifications: CPU Up to 2x Arm Cortex-A55 (64-bit) cores clocked at 1.2 GHz with 32KB L1 instruction/data cache, 128KB L2 cache per core, and 256KB L3 cache 2x [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/\">Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT&#8230;</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "ESD: Panel Discussion: Future Directions in Embedded Systems - Challenges and Opportunities",

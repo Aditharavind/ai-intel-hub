@@ -1,11 +1,56 @@
 [
   {
+    "model": "adi2440/kinematic-residual-vla-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/adi2440/kinematic-residual-vla-checkpoints",
+    "date": "2026-11-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "SelfDriving-VLA/laq-ad-backup",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
     "date": "2026-11-15",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Dexverse-CSI/xl-vla-reproduce",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/Dexverse-CSI/xl-vla-reproduce",
+    "date": "2026-11-15",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_08.11.2026_400eps_policy_Pi0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_08.11.2026_400eps_policy_Pi0",
+    "date": "2026-11-15",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "cmrn-vla/m34_05_die_rotation",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/cmrn-vla/m34_05_die_rotation",
+    "date": "2026-11-15",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "GOVINDFROM/surgical-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/GOVINDFROM/surgical-world-model",
+    "date": "2026-11-15",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -24,6 +69,15 @@
     "url": "https://huggingface.co/AZH04/embodied-memory-qwen3.5-4b-goal-lora",
     "date": "2026-11-15",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "ntlfi/enpo-anchored-explorer-qwen3-8b-eta-quarter-seed2-iter1-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ntlfi/enpo-anchored-explorer-qwen3-8b-eta-quarter-seed2-iter1-policy",
+    "date": "2026-11-15",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -189,24 +243,6 @@
     "score": 0.1
   },
   {
-    "model": "Najongs/vla-recipe-ckpts",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Najongs/vla-recipe-ckpts",
-    "date": "2026-11-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Drop30_20261113_165557",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_OpenVLA-OFT_B1K5_Drop30_20261113_165557",
-    "date": "2026-11-14",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "WorldModelBenchmark/piperx-pi0.5-1111",
     "downloads": 0,
     "likes": 0,
@@ -306,24 +342,6 @@
     "score": 0.1
   },
   {
-    "model": "ntlfi/onpo-qwen3-8b-eta1067-seed2-iter2-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-qwen3-8b-eta1067-seed2-iter2-policy",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "ntlfi/onpo-qwen3-8b-eta1067-seed2-iter1-policy",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/ntlfi/onpo-qwen3-8b-eta1067-seed2-iter1-policy",
-    "date": "2026-11-14",
-    "keyword": "policy",
-    "score": 0.7
-  },
-  {
     "model": "yiwu/gr00t-robot-case-six-task-21066",
     "downloads": 13,
     "likes": 0,
@@ -351,37 +369,10 @@
     "score": 7.3
   },
   {
-    "model": "AceAction/3A-VLA_Qwen3.5-4B_1112",
-    "downloads": 4,
-    "likes": 0,
-    "url": "https://huggingface.co/AceAction/3A-VLA_Qwen3.5-4B_1112",
-    "date": "2026-11-13",
-    "keyword": "vla",
-    "score": 1.3
-  },
-  {
-    "model": "afhwoinavsnvo/VLAct-OFT-TCP-PoseState",
-    "downloads": 45,
-    "likes": 0,
-    "url": "https://huggingface.co/afhwoinavsnvo/VLAct-OFT-TCP-PoseState",
-    "date": "2026-11-13",
-    "keyword": "vla",
-    "score": 13.6
-  },
-  {
     "model": "LevinShan/rr-worldmodel-v0-policies",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/LevinShan/rr-worldmodel-v0-policies",
-    "date": "2026-11-13",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "GOVINDFROM/surgical-world-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/GOVINDFROM/surgical-world-model",
     "date": "2026-11-13",
     "keyword": "world model",
     "score": 0.1
@@ -470,11 +461,11 @@
   {
     "model": "pollen-robotics/microduck-policies",
     "downloads": 70028,
-    "likes": 54,
+    "likes": 55,
     "url": "https://huggingface.co/pollen-robotics/microduck-policies",
     "date": "2026-11-12",
     "keyword": "robotics",
-    "score": 21019.3
+    "score": 21019.5
   },
   {
     "model": "puppet-robotics/golf-model-3-8fps-servos",
