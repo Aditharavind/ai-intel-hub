@@ -1,21 +1,11 @@
 [
   {
-    "repo": "harvard-edge/cs249r_book",
-    "stars": 30218,
-    "language": "Python",
-    "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
-    "url": "https://github.com/harvard-edge/cs249r_book",
-    "date": "2026-11-15",
-    "topic": "embodied-ai",
-    "score": 12087.3
-  },
-  {
     "repo": "copper-project/copper-rs",
     "stars": 1553,
     "language": "Rust",
     "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
     "url": "https://github.com/copper-project/copper-rs",
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "topic": "physical-ai",
     "score": 621.3
   },
@@ -25,19 +15,59 @@
     "language": "Rust",
     "description": "The open-source operating system for physical AI.",
     "url": "https://github.com/autonomous-ai/lampOS",
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "topic": "physical-ai",
     "score": 227.7
   },
   {
+    "repo": "deeplethe/utopia",
+    "stars": 8716,
+    "language": "Rust",
+    "description": "World's first open-source enterprise world model.",
+    "url": "https://github.com/deeplethe/utopia",
+    "date": "2026-11-16",
+    "topic": "world-model",
+    "score": 3486.5
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "stars": 7772,
+    "language": "Python",
+    "description": "A framework for efficient model inference with omni-modality models",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "date": "2026-11-16",
+    "topic": "world-model",
+    "score": 3108.9
+  },
+  {
+    "repo": "harvard-edge/cs249r_book",
+    "stars": 30219,
+    "language": "Python",
+    "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "date": "2026-11-15",
+    "topic": "embodied-ai",
+    "score": 12087.7
+  },
+  {
+    "repo": "NVIDIA/skills",
+    "stars": 4006,
+    "language": "Python",
+    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+    "url": "https://github.com/NVIDIA/skills",
+    "date": "2026-11-15",
+    "topic": "physical-ai",
+    "score": 1602.5
+  },
+  {
     "repo": "Developer-Y/cs-video-courses",
-    "stars": 84857,
+    "stars": 84858,
     "language": "",
     "description": "List of Computer Science courses with video lectures.",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "date": "2026-11-15",
     "topic": "robotics",
-    "score": 33942.9
+    "score": 33943.3
   },
   {
     "repo": "commaai/openpilot",
@@ -51,33 +81,33 @@
   },
   {
     "repo": "earthtojake/text-to-cad",
-    "stars": 26379,
+    "stars": 26385,
     "language": "Python",
     "description": "Design physical products with AI",
     "url": "https://github.com/earthtojake/text-to-cad",
     "date": "2026-11-15",
     "topic": "robotics",
-    "score": 10551.7
+    "score": 10554.1
   },
   {
     "repo": "google-deepmind/mujoco",
-    "stars": 18060,
+    "stars": 18070,
     "language": "C++",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
     "date": "2026-11-15",
     "topic": "robotics",
-    "score": 7224.1
+    "score": 7228.1
   },
   {
     "repo": "questdb/questdb",
-    "stars": 17530,
+    "stars": 17531,
     "language": "Java",
     "description": "QuestDB is a high performance, open-source, time-series database",
     "url": "https://github.com/questdb/questdb",
     "date": "2026-11-15",
     "topic": "robotics",
-    "score": 7012.1
+    "score": 7012.5
   },
   {
     "repo": "ArduPilot/ardupilot",
@@ -111,13 +141,13 @@
   },
   {
     "repo": "knightnemo/Awesome-World-Models",
-    "stars": 3526,
+    "stars": 3527,
     "language": "",
     "description": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "date": "2026-11-15",
     "topic": "embodied-ai",
-    "score": 1410.5
+    "score": 1410.9
   },
   {
     "repo": "flashrt-project/FlashRT",
@@ -150,24 +180,14 @@
     "score": 284.1
   },
   {
-    "repo": "deeplethe/utopia",
-    "stars": 8716,
-    "language": "Rust",
-    "description": "World's first open-source enterprise world model.",
-    "url": "https://github.com/deeplethe/utopia",
+    "repo": "luohongk/Embodied-AI-Daily",
+    "stars": 506,
+    "language": "HTML",
+    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+    "url": "https://github.com/luohongk/Embodied-AI-Daily",
     "date": "2026-11-15",
-    "topic": "world-model",
-    "score": 3486.5
-  },
-  {
-    "repo": "vllm-project/vllm-omni",
-    "stars": 7770,
-    "language": "Python",
-    "description": "A framework for efficient model inference with omni-modality models",
-    "url": "https://github.com/vllm-project/vllm-omni",
-    "date": "2026-11-15",
-    "topic": "world-model",
-    "score": 3108.1
+    "topic": "vla",
+    "score": 202.5
   },
   {
     "repo": "NucleoidAI/Nucleoid",
@@ -220,16 +240,6 @@
     "score": 118.9
   },
   {
-    "repo": "NVIDIA/skills",
-    "stars": 4004,
-    "language": "Python",
-    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-    "url": "https://github.com/NVIDIA/skills",
-    "date": "2026-11-14",
-    "topic": "physical-ai",
-    "score": 1601.7
-  },
-  {
     "repo": "zauberzeug/nicegui",
     "stars": 16341,
     "language": "Python",
@@ -260,24 +270,14 @@
     "score": 210.9
   },
   {
-    "repo": "luohongk/Embodied-AI-Daily",
-    "stars": 506,
-    "language": "HTML",
-    "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
-    "url": "https://github.com/luohongk/Embodied-AI-Daily",
-    "date": "2026-11-14",
-    "topic": "vla",
-    "score": 202.5
-  },
-  {
     "repo": "OpenHUTB/hutb",
-    "stars": 748,
+    "stars": 749,
     "language": "C++",
     "description": "人机模拟器（Human-vehicle Simulator）",
     "url": "https://github.com/OpenHUTB/hutb",
     "date": "2026-11-14",
     "topic": "humanoid",
-    "score": 299.3
+    "score": 299.7
   },
   {
     "repo": "NVlabs/alpasim",
@@ -381,23 +381,23 @@
   },
   {
     "repo": "mll-lab-nu/embodied-first-exam",
-    "stars": 279,
+    "stars": 280,
     "language": "Python",
     "description": "The first exam for code agents in the physical world: frozen robot tasks from many benchmark suites, each answered with a program and verified in a separate sandbox. Runs on Harbor.",
     "url": "https://github.com/mll-lab-nu/embodied-first-exam",
     "date": "2026-11-12",
     "topic": "robot-learning",
-    "score": 111.7
+    "score": 112.1
   },
   {
     "repo": "roboninecom/SO-ARM102",
-    "stars": 219,
+    "stars": 220,
     "language": "",
     "description": "An open-source SO-ARM102 robot arm, successor to SO-ARM100 and SO-ARM101. LeRobot-compatible leader-follower kit for teleoperation and imitation learning, with improved rigidity, parallel gripper, STEP/STL files and BOM.",
     "url": "https://github.com/roboninecom/SO-ARM102",
     "date": "2026-11-12",
     "topic": "lerobot",
-    "score": 87.7
+    "score": 88.1
   },
   {
     "repo": "aws-samples/sample-rfm-simulation-on-aws",
@@ -591,23 +591,23 @@
   },
   {
     "repo": "dexmal/opendm",
-    "stars": 2706,
+    "stars": 2715,
     "language": "Python",
     "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
     "url": "https://github.com/dexmal/opendm",
     "date": "2026-11-06",
     "topic": "vla",
-    "score": 1082.5
+    "score": 1086.1
   },
   {
     "repo": "eust-w/opengeniemaster",
-    "stars": 448,
+    "stars": 450,
     "language": "Python",
     "description": "Open-source embodied agent framework: execution, feedback, and continual improvement",
     "url": "https://github.com/eust-w/opengeniemaster",
     "date": "2026-11-06",
     "topic": "vla",
-    "score": 179.3
+    "score": 180.1
   },
   {
     "repo": "Tavish9/any4lerobot",
@@ -721,13 +721,13 @@
   },
   {
     "repo": "NoizAI/HelixWorld",
-    "stars": 653,
+    "stars": 654,
     "language": "Python",
     "description": "🪐 HelixWorld: real-time interactive audio-visual world model.",
     "url": "https://github.com/NoizAI/HelixWorld",
     "date": "2026-10-26",
     "topic": "world-model",
-    "score": 261.3
+    "score": 261.7
   },
   {
     "repo": "TianxingChen/Embodied-AI-Guide",

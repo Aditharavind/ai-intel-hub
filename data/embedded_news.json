@@ -1,5 +1,26 @@
 [
   {
+    "title": "Hackaday Links: November 15, 2026",
+    "source": "Hackaday",
+    "date": "2026-11-16",
+    "url": "https://hackaday.com/2026/11/15/hackaday-links-november-15-2026/",
+    "summary": "<div><img alt=\"Hackaday Links Column Banner\" class=\"attachment-large size-large wp-post-image\" height=\"430\" src=\"https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Another Hackaday Supercon is in the history books. The new venue was amazing. We had more attendees than ever and still had room to spare. You can find many of <a class=\"read-more\" href=\"https://hackaday.com/2026/11/15/hackaday-links-november-15-2026/\">&#8230;read more</a>"
+  },
+  {
+    "title": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more",
+    "source": "CNX Software",
+    "date": "2026-11-16",
+    "url": "https://www.cnx-software.com/2026/11/16/69-home-assistant-connect-aux-2-offers-poe-audio-streaming-rs-232-control-bluetooth-proxy/",
+    "summary": "<div><img alt=\"Home Assistant Connect AUX 2 smart home controller\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Home-Assistant-Connect-AUX-2-smart-home-controller-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Nabu Casa has launched the Home Assistant Connect AUX-2, an ESP32-S3-based smart home controller that combines audio streaming, RS-232 serial control, Bluetooth LE proxy, and USB expansion for Z-Wave connectivity. It is designed for older audio systems, TVs, AV receivers, UPSs, solar inverters, and other devices to integrate into Home Assistant without cloud services. More specifically, the device features a Texas Instruments PCM5122 DAC for analog and optical audio output, two RS-232 ports, a USB-A port, and a Grove connector for additional sensors. It also supports 2.4 GHz Wi-Fi and Ethernet with 802.3af Power over Ethernet (PoE), so you can install it away from the main Home Assistant server. Home Assistant Connect AUX-2 specifications: SoC – Espressif ESP32-S3R8 dual-core Tensilica LX7 MCU up to 240 MHz with WiFi and Bluetooth LE wireless connectivity Connectivity Wireless – 2.4 GHz Wi-Fi 4 (802.11b/g/n), Bluetooth 5 LE Ethernet – 10/100 Mbps RJ45 port [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/16/69-home-assistant-connect-aux-2-offers-poe-audio-streaming-rs-232-control-bluetooth-proxy/\">$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Loop Antennas for Transmitting",
+    "source": "Hackaday",
+    "date": "2026-11-15",
+    "url": "https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/loop.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Loop antennas are becoming increasingly popular as more radio fans find they can&#8217;t erect elaborate outdoor antennas. Like most things, of course, there are trade-offs. But, most often, loop antennas <a class=\"read-more\" href=\"https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/\">&#8230;read more</a>"
+  },
+  {
     "title": "An Orbital Sanders Crash Course and the Threat of HAVS",
     "source": "Hackaday",
     "date": "2026-11-15",
@@ -33,20 +54,6 @@
     "date": "2026-11-15",
     "url": "https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/",
     "summary": "<div><img alt=\"ESP-Guardian\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/05-feather-installed-banner.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>When setting up to grow plants hydroponically, it’s important to keep an eye on the numbers, temperature, pH, and electrical conductivity, to name a few. To do this, [Joziti] bought <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/\">&#8230;read more</a>"
-  },
-  {
-    "title": "RPN Loved Honk If (or, Write Your Own PostScript Interpreter)",
-    "source": "Hackaday",
-    "date": "2026-11-15",
-    "url": "https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/post.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Maybe you like old laser printers. Maybe you were a fan of [Don Lancaster]. Maybe you like Forth, HP calculators, and everything RPN. Whichever it is, why not write your <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/\">&#8230;read more</a>"
-  },
-  {
-    "title": "DIVINER: Occult Synth Firmware for the Cardputer",
-    "source": "Hackaday",
-    "date": "2026-11-15",
-    "url": "https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"405\" src=\"https://hackaday.com/wp-content/uploads/2026/11/8459231792676999283.png?w=720\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"720\" /></div>We see some strange software around these parts, but this is probably the strangest. DIVINER is a firmware for the M5 Cardputer, which is an interesting device in its own <a class=\"read-more\" href=\"https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/\">&#8230;read more</a>"
   },
   {
     "title": "Radxa Linkr review – A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support",
@@ -390,13 +397,6 @@
     "date": "2026-11-11",
     "url": "https://www.cnx-software.com/2026/11/11/mikrotik-knot-gateway-hl9-an-outdoor-wi-fi-halow-iot-gateway-with-gbe-wifi-6-ble-5-1-4g-lte-cat-1-bis-and-gnss/",
     "summary": "<div><img alt=\"Mikrotik KNOT Gateway HL9\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Mikrotik-KNOT-Gateway-HL9-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>MikroTik KNOT Gateway HL9 is an IP66-rated outdoor IoT gateway that combines 915 MHz Wi-Fi HaLow (802.11ah), Bluetooth 5.1, Wi-Fi 6, LTE Cat 1 bis, Gigabit Ethernet, and GNSS. The gateway supports asset tracking, remote sensor monitoring, industrial IoT, and agricultural applications. Built around a dual-core Qualcomm IPQ-5010 ARM64 processor, it features 256MB RAM and 128MB NAND flash. It relies on a Morse Micro MM6108 Wi-Fi HaLow SoC for sub-GHz connectivity, with Gigabit Ethernet, 2.4 GHz Wi-Fi 6, and LTE Cat 1 bis cellular for backhaul. MikroTik KNOT Gateway HL9 specifications: SoC – Qualcomm IPQ-5010 dual-core 64-bit Arm processor @ 800 MHz Memory – 256MB RAM Storage – 128MB NAND flash Connectivity Ethernet – Gigabit Ethernet RJ45 port with 802.3af/at PoE-in support Wi-Fi HaLow – 915 MHz IEEE 802.11ah via Morse Micro MM6108 SoC Wi-Fi – 2.4 GHz Wi-Fi 6 (802.11b/g/n/ax), 1&#215;1, up to 287 Mbps, 3.9 dBi integrated antenna [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/mikrotik-knot-gateway-hl9-an-outdoor-wi-fi-halow-iot-gateway-with-gbe-wifi-6-ble-5-1-4g-lte-cat-1-bis-and-gnss/\">Mikrotik KNOT Gateway HL9 &#8211; An outdoor Wi-Fi HaLow IoT gateway with GbE, WiFi 6, BLE 5.1, 4G LTE Cat 1 bis, and GNSS</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Arduino Nano XL Link board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation",
-    "source": "CNX Software",
-    "date": "2026-11-11",
-    "url": "https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/",
-    "summary": "<div><img alt=\"Arduino Nano XL Link and carrier board\" class=\"attachment-medium size-medium wp-post-image\" height=\"435\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Arduino-Nano-XL-and-carrier-board-720x435.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100 Mbps Ethernet field bus transceivers for industrial, home, and building automation applications such as industrial networks, motor drives, building automation buses, smart sensors, and touch panels.  The company also unveiled the Nano XL Link Connector Carrier to go along with the new board. Arduino Nano XL Link Arduino Nano XL Link (ABX00182) specifications: MCU &#8211; Microchip PIC32CK2051SG01144 CPU &#8211; Arm Cortex-M33 @ 120 MHz Memory &#8211; 512 kB RAM Storage &#8211; 2 MB flash; 728 kB available for sketches Security &#8211; Integrated Hardware Security Module (HSM) + TrustZone USB &#8211; USB Type-C port for power, programming, and serial communication Industrial communication interfaces [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/\">Arduino Nano XL Link board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "ESD: Panel Discussion: Future Directions in Embedded Systems - Challenges and Opportunities",
