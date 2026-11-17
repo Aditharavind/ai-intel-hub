@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-17 09:46 UTC
+Generated: 2026-11-17 18:47 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,20 +14,20 @@ Generated: 2026-11-17 09:46 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84872 | 33948.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64153 | 25661.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44800 | 17920.1 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30934 | 12373.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30235 | 12094.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 84876 | 33950.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64158 | 25663.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44798 | 17919.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30937 | 12374.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30238 | 12095.3 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
-| pollen-robotics/microduck-policies | 68768 | 20641.7 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
-| zxyty/physicalai-dinov3-vitl16 | 4741 | 1422.4 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
-| edoardochiavazza/drone-navigation-models | 146 | 43.9 | [link](https://huggingface.co/edoardochiavazza/drone-navigation-models) |
-| lindafei001/sft391-agenticA-v2-navigation-think-ep2 | 59 | 17.8 | [link](https://huggingface.co/lindafei001/sft391-agenticA-v2-navigation-think-ep2) |
-| lindafei001/sft391-agenticA-navigation-think-ep2 | 57 | 17.2 | [link](https://huggingface.co/lindafei001/sft391-agenticA-navigation-think-ep2) |
+| pollen-robotics/microduck-policies | 67184 | 20166.5 | [link](https://huggingface.co/pollen-robotics/microduck-policies) |
+| zxyty/physicalai-dinov3-vitl16 | 4743 | 1423.0 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
+| edoardochiavazza/drone-navigation-models | 214 | 64.3 | [link](https://huggingface.co/edoardochiavazza/drone-navigation-models) |
+| lindafei001/sft391-agenticA-v2-navigation-think-ep2 | 60 | 18.1 | [link](https://huggingface.co/lindafei001/sft391-agenticA-v2-navigation-think-ep2) |
+| AmberHeart/Uni-MOPD-Teacher-Embodied | 58 | 17.5 | [link](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-Embodied) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-11-17 09:46 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-11-17 | Eric Trump-backed U.S. humanoid startup faces survival crisis after missing payroll - 디지털투데이 | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcmdjOS10Nm4xVUtJZ0E3T2FHZlhhR0g5aGt4X2ZkLUEzTGJrQnc2b3MtYkF4WFI0VjJDd1Niek9samRWTU9RNVhVdFJTMFNGbTRVcWxKNjUzZFNzUlV2a1I4QXVsMlktZWM2WDFfdXBqQVBpSjF1Zmk1eTBCQkRLX3QxR2FjbXhQV0s5VTBEcHVIX2lLeFhpc1ltYThfWjRIM0xtSXM3cDJZcFh3NjB1MlJvdmxYWnZlT09DWjhOQlBNSEFVZ2tILWtQTHFMYVdTXzJCTmNjUmpaa3NRSFAzQ1N4UU5nTVA5QWtSeA?oc=5) |
-| 2026-11-16 | Israel ranks second globally in physical AI - CTech | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5) |
-| 2026-11-16 | Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMieEFVX3lxTE9xWDdmeC1RV2tQN3VDU0cxSXJQRG93aXAtQnJjNm9VUDFFbkNrUlhpNmlzR0YyS0xYdmJlc1JfenAwaTJfM2VZZnptZ3lOX2g2c1A4WXp5OXRMVkxFOVNqSkM0bXI2RmxoVjdYOFZITDhuZXZBV3dJZA?oc=5) |
-| 2026-11-16 | NVIDIA and MSIT Back 4 Korean AI Startups - CASRAI | physical ai startup | [link](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjFVdEJLd2N3ay0xb0ZXMEtIbGJLcG04T3lGYVgtV1NTSnozcDhzWnVvdG9BcXF1NFFUNF9fTkQwQ3c4ckplNGl6ZlNnQ041YXo2QnZDVk9ISlVoQzVUYVdYSzR2Zk5PclVUYWtCam9PMHJDTWloNmdHakxyRWZmaGd3?oc=5) |
-| 2026-11-16 | Silicon Valley startup showcases humanoid robot with human neurons - TechTarget | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmctanpzd1hWemx1a19pQzRkOG8xZ3FQclVyUG1rRy1UMmI1ODM5WUhaRGltQXMtZzAzZHI3VjZwTzZJQmRqekxIem41cWgtMkU5Zmh3SU1vNTFKY0dpSlBRejhFYzNqWGdsbFRIejRRbGR1ZC1BQ2VwWEpQdlNsY2s3QUwxazk1bUdNbkQ4cjZyOFkxbHR1amQ4d3o1cGdobExyR1ZyZFpWUQ?oc=5) |
+| 2026-11-17 | Inside Hellbender, the Pittsburgh startup building physical AI hardware to rival overseas manufacturing - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdDhRamxTVFhRR2wtU0tweFpyQlhpRzdLWmRqRno5cnlkYmNpcjd2SjJIMkREUU94c1NXOTFsenJZbTdhSm01SkU3RzZ1ck5tMnRRTmlfS2VEVDJ1T3Fjb2RTZk9EYXhQOFUxRGgtT1lyWG9MUnBqeVVQZ2VhUmxmbzd3QngwNTNWcVdj?oc=5) |
+| 2026-11-17 | Robotics startup Genesis AI raises $500m backed by Nvidia - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1c3VtQkRvTHBNQVRCX2k2WVdOWmJHUlJCNGhUdldPMnJTN3RhenFoMWV1Z3BESFhYaEhqaXN6NEtQN3lPZ0c5Y1JOelljbVR4ck9aYms3dFpjaFRXMGc?oc=5) |
+| 2026-11-17 | Israel ties for second in physical AI startups, AWS study finds - JNS.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0hCRjhiOHNzLXZYY0dNNkhKcnNGMjh6SVE5c1hHN2F1Tk9IaXBHQm9FVEgtdzhCajRwWmNPaUpsR2ZLZWNLRVBPWlVFbUx6SFJsenBqM01jWUVtRE16UDNsZC1iQmhCWDhHTFp5VFJCZTFaMmVsYUJTLVFhS19IZ01YYmYxdXpvdHYtS0p3RVIycWtjRk9qU05ZR1NZNVdO?oc=5) |
+| 2026-11-17 | Naver invests in US autonomous welding startup Path Robotics to expand into physical AI - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE9pWDVKRWlJZ09Fbm1Id2ZqSk1icEU4UkF3RXhpYUVHRWdfZjA2c3FOcC05TUhyVzU2RVZPVUhoa0VHS2d3TWJRSjlnOVM5OFZwOFdBRk9reWRBMmVkV2lUMlNzSmlzZ0U0OUFaLVp0S1M5QXdjODJ5SVFIMmxwZ1E?oc=5) |
+| 2026-11-17 | Eric Trump’s Robot Soldier Startup Fails to Pay Employees After CEO Bought a $4.6 Mansion With Company Funds - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXh6aDc3eWVvMS1yTTItellVTldLOVhYRF9qLXZQelNzZlNxT3ZVQS0yZFlWQ2lOcEhQdjdpZ3FBLVhfa2pxdUt5cHBXemg5RzlBMmVoMVFqVWdDVTJnTFJsRWRaUWtZcl9lLWdQckJyQmFBLW5XRHp2SkFJbjVRS2hoeXNkYWc1SGcwRm9rb1MyZ3lDd0tVdDVHakF4M20ySzg4Yg?oc=5) |
