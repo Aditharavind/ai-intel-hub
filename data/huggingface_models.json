@@ -1,5 +1,59 @@
 [
   {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vpraise00/vla-ft-ckpt-archive",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vpraise00/vla-ft-ckpt-archive",
+    "date": "2026-11-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "s1ghhh/VLADrop_pi05_B1K5_pt12_b1k5b_drop16_cos1e-5",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_b1k5b_drop16_cos1e-5",
+    "date": "2026-11-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "L7-Robotics/pi05_so101_camera_setting_2026Nov_redcube_whitebowl_polarbear_greentray_v1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/L7-Robotics/pi05_so101_camera_setting_2026Nov_redcube_whitebowl_polarbear_greentray_v1",
+    "date": "2026-11-17",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "bageldotcom/Bagel-Robotics-1",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
+    "date": "2026-11-17",
+    "keyword": "robotics",
+    "score": 0.3
+  },
+  {
+    "model": "Signumve/detailed_robotic_arm",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Signumve/detailed_robotic_arm",
+    "date": "2026-11-17",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "Joyjeetsingh/rwm-robot-level",
     "downloads": 0,
     "likes": 0,
@@ -81,37 +135,19 @@
     "score": 0.1
   },
   {
-    "model": "72y2hdje/RobotInteligente",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/72y2hdje/RobotInteligente",
-    "date": "2026-11-17",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "vis22/test_Robotwin_move_can_pot",
+    "model": "SieloRobotics/fineart_vla_machine_tending_II_action",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/vis22/test_Robotwin_move_can_pot",
+    "url": "https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action",
     "date": "2026-11-17",
-    "keyword": "robot",
+    "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "polarisai-robots/bento_ur7e_pi05_nextech_v1",
+    "model": "driftwood3342/flow-vla-rl-checkpoints",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/polarisai-robots/bento_ur7e_pi05_nextech_v1",
-    "date": "2026-11-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "SelfDriving-VLA/laq-ad-backup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "url": "https://huggingface.co/driftwood3342/flow-vla-rl-checkpoints",
     "date": "2026-11-17",
     "keyword": "vla",
     "score": 0.1
@@ -180,76 +216,112 @@
     "score": 0.1
   },
   {
-    "model": "s1ghhh/VLADrop_pi05_B1K5_pt12_drop16_dtr",
-    "downloads": 0,
+    "model": "fusion-world-model/gru_100m_h-task-outputs",
+    "downloads": 6,
     "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_drop16_dtr",
-    "date": "2026-11-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "xiangxin0923/t2-vla-realworld-all-step20000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/xiangxin0923/t2-vla-realworld-all-step20000",
-    "date": "2026-11-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop_pi05_B1K5_pt12_dense_dtr",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_dense_dtr",
-    "date": "2026-11-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop_pi05_B1K5_pt12_drop9_dtr",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_drop9_dtr",
-    "date": "2026-11-17",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "GOVINDFROM/surgical-world-model",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/GOVINDFROM/surgical-world-model",
+    "url": "https://huggingface.co/fusion-world-model/gru_100m_h-task-outputs",
     "date": "2026-11-17",
     "keyword": "world model",
-    "score": 0.1
+    "score": 1.9
   },
   {
-    "model": "WorldModelBenchmark/piperx-pi0.5-1111",
-    "downloads": 0,
+    "model": "fusion-world-model/gru_100m_g-residual",
+    "downloads": 2,
     "likes": 0,
-    "url": "https://huggingface.co/WorldModelBenchmark/piperx-pi0.5-1111",
+    "url": "https://huggingface.co/fusion-world-model/gru_100m_g-residual",
     "date": "2026-11-17",
     "keyword": "world model",
-    "score": 0.1
+    "score": 0.7
   },
   {
-    "model": "edgarmoreau/g1-legs-world-model",
-    "downloads": 0,
+    "model": "fusion-world-model/gru_100m_f-sim",
+    "downloads": 2,
     "likes": 0,
-    "url": "https://huggingface.co/edgarmoreau/g1-legs-world-model",
+    "url": "https://huggingface.co/fusion-world-model/gru_100m_f-sim",
     "date": "2026-11-17",
     "keyword": "world model",
-    "score": 0.1
+    "score": 0.7
   },
   {
-    "model": "KAYT-SAVAV/h-jepa-hierarchical-world-model-planner-code-weights-paper-mit-261116",
-    "downloads": 0,
+    "model": "fusion-world-model/gru_100m_e-joint",
+    "downloads": 6,
     "likes": 0,
-    "url": "https://huggingface.co/KAYT-SAVAV/h-jepa-hierarchical-world-model-planner-code-weights-paper-mit-261116",
+    "url": "https://huggingface.co/fusion-world-model/gru_100m_e-joint",
     "date": "2026-11-17",
     "keyword": "world model",
-    "score": 0.1
+    "score": 1.9
+  },
+  {
+    "model": "fusion-world-model/gru_100m_d-sim-to-shots",
+    "downloads": 6,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_100m_d-sim-to-shots",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 1.9
+  },
+  {
+    "model": "fusion-world-model/gru_100m_c-shots",
+    "downloads": 7,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_100m_c-shots",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 2.2
+  },
+  {
+    "model": "fusion-world-model/gru_10m_h-task-outputs",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_10m_h-task-outputs",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 1.0
+  },
+  {
+    "model": "fusion-world-model/gru_10m_f-sim",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_10m_f-sim",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 1.0
+  },
+  {
+    "model": "fusion-world-model/gru_10m_e-joint",
+    "downloads": 11,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_10m_e-joint",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 3.4
+  },
+  {
+    "model": "fusion-world-model/gru_10m_d-sim-to-shots",
+    "downloads": 7,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_10m_d-sim-to-shots",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 2.2
+  },
+  {
+    "model": "fusion-world-model/gru_10m_c-shots",
+    "downloads": 9,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_10m_c-shots",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 2.8
+  },
+  {
+    "model": "fusion-world-model/gru_1m_h-task-outputs",
+    "downloads": 3,
+    "likes": 0,
+    "url": "https://huggingface.co/fusion-world-model/gru_1m_h-task-outputs",
+    "date": "2026-11-17",
+    "keyword": "world model",
+    "score": 1.0
   },
   {
     "model": "xjtulmx/q38-embodied-xfer",
@@ -258,6 +330,24 @@
     "url": "https://huggingface.co/xjtulmx/q38-embodied-xfer",
     "date": "2026-11-17",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "tanaysingh1/click-policy-v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tanaysingh1/click-policy-v3",
+    "date": "2026-11-17",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "tina390/PolicyIK",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tina390/PolicyIK",
+    "date": "2026-11-17",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -339,96 +429,6 @@
     "url": "https://huggingface.co/AIGeeksGroup/WAM-Policy",
     "date": "2026-11-17",
     "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "joonyeongs/cosmos3-edge-policy-droid-failure-prevention-six-task-218-full-ft-2k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-failure-prevention-six-task-218-full-ft-2k",
-    "date": "2026-11-17",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "Aellaecieee/biosentry-tier-b-reward-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Aellaecieee/biosentry-tier-b-reward-policy",
-    "date": "2026-11-17",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "fusion-world-model/lstm_10m_h-task-outputs",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_10m_h-task-outputs",
-    "date": "2026-11-16",
-    "keyword": "world model",
-    "score": 3.4
-  },
-  {
-    "model": "fusion-world-model/lstm_10m_g-residual",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_10m_g-residual",
-    "date": "2026-11-16",
-    "keyword": "world model",
-    "score": 3.1
-  },
-  {
-    "model": "fusion-world-model/lstm_10m_f-sim",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_10m_f-sim",
-    "date": "2026-11-16",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "fusion-world-model/lstm_1m_h-task-outputs",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_1m_h-task-outputs",
-    "date": "2026-11-16",
-    "keyword": "world model",
-    "score": 2.5
-  },
-  {
-    "model": "fusion-world-model/lstm_1m_g-residual",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_1m_g-residual",
-    "date": "2026-11-16",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
-    "model": "fusion-world-model/lstm_10m_e-joint",
-    "downloads": 11,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_10m_e-joint",
-    "date": "2026-11-16",
-    "keyword": "world model",
-    "score": 3.4
-  },
-  {
-    "model": "fusion-world-model/lstm_1m_f-sim",
-    "downloads": 8,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_1m_f-sim",
-    "date": "2026-11-16",
-    "keyword": "world model",
-    "score": 2.5
-  },
-  {
-    "model": "fusion-world-model/lstm_10m_d-sim-to-shots",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/lstm_10m_d-sim-to-shots",
-    "date": "2026-11-16",
-    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -628,24 +628,6 @@
     "date": "2026-11-10",
     "keyword": "embodied",
     "score": 13.1
-  },
-  {
-    "model": "HIT-Robotics/ur5e_pick_and_place",
-    "downloads": 37,
-    "likes": 0,
-    "url": "https://huggingface.co/HIT-Robotics/ur5e_pick_and_place",
-    "date": "2026-11-10",
-    "keyword": "robotics",
-    "score": 11.2
-  },
-  {
-    "model": "MeituanRobotics/Meituan-Robotics-0-RoboCasa365",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MeituanRobotics/Meituan-Robotics-0-RoboCasa365",
-    "date": "2026-11-09",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "ctrobinson/embodied-ai-review",

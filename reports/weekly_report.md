@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-17 18:47 UTC
+Generated: 2026-11-18 01:22 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-17 18:47 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84876 | 33950.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64158 | 25663.3 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44798 | 17919.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30937 | 12374.9 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30238 | 12095.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| Developer-Y/cs-video-courses | 84877 | 33950.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64160 | 25664.1 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44797 | 17918.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30939 | 12375.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| harvard-edge/cs249r_book | 30241 | 12096.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -41,8 +41,8 @@ Generated: 2026-11-17 18:47 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-17 | Israel ties for second in physical AI startups, AWS study finds - JNS.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0hCRjhiOHNzLXZYY0dNNkhKcnNGMjh6SVE5c1hHN2F1Tk9IaXBHQm9FVEgtdzhCajRwWmNPaUpsR2ZLZWNLRVBPWlVFbUx6SFJsenBqM01jWUVtRE16UDNsZC1iQmhCWDhHTFp5VFJCZTFaMmVsYUJTLVFhS19IZ01YYmYxdXpvdHYtS0p3RVIycWtjRk9qU05ZR1NZNVdO?oc=5) |
 | 2026-11-17 | Inside Hellbender, the Pittsburgh startup building physical AI hardware to rival overseas manufacturing - Technical.ly | physical ai startup | [link](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdDhRamxTVFhRR2wtU0tweFpyQlhpRzdLWmRqRno5cnlkYmNpcjd2SjJIMkREUU94c1NXOTFsenJZbTdhSm01SkU3RzZ1ck5tMnRRTmlfS2VEVDJ1T3Fjb2RTZk9EYXhQOFUxRGgtT1lyWG9MUnBqeVVQZ2VhUmxmbzd3QngwNTNWcVdj?oc=5) |
 | 2026-11-17 | Robotics startup Genesis AI raises $500m backed by Nvidia - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1c3VtQkRvTHBNQVRCX2k2WVdOWmJHUlJCNGhUdldPMnJTN3RhenFoMWV1Z3BESFhYaEhqaXN6NEtQN3lPZ0c5Y1JOelljbVR4ck9aYms3dFpjaFRXMGc?oc=5) |
-| 2026-11-17 | Israel ties for second in physical AI startups, AWS study finds - JNS.org | physical ai startup | [link](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0hCRjhiOHNzLXZYY0dNNkhKcnNGMjh6SVE5c1hHN2F1Tk9IaXBHQm9FVEgtdzhCajRwWmNPaUpsR2ZLZWNLRVBPWlVFbUx6SFJsenBqM01jWUVtRE16UDNsZC1iQmhCWDhHTFp5VFJCZTFaMmVsYUJTLVFhS19IZ01YYmYxdXpvdHYtS0p3RVIycWtjRk9qU05ZR1NZNVdO?oc=5) |
 | 2026-11-17 | Naver invests in US autonomous welding startup Path Robotics to expand into physical AI - KED Global | physical ai startup | [link](https://news.google.com/rss/articles/CBMif0FVX3lxTE9pWDVKRWlJZ09Fbm1Id2ZqSk1icEU4UkF3RXhpYUVHRWdfZjA2c3FOcC05TUhyVzU2RVZPVUhoa0VHS2d3TWJRSjlnOVM5OFZwOFdBRk9reWRBMmVkV2lUMlNzSmlzZ0U0OUFaLVp0S1M5QXdjODJ5SVFIMmxwZ1E?oc=5) |
 | 2026-11-17 | Eric Trump’s Robot Soldier Startup Fails to Pay Employees After CEO Bought a $4.6 Mansion With Company Funds - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXh6aDc3eWVvMS1yTTItellVTldLOVhYRF9qLXZQelNzZlNxT3ZVQS0yZFlWQ2lOcEhQdjdpZ3FBLVhfa2pxdUt5cHBXemg5RzlBMmVoMVFqVWdDVTJnTFJsRWRaUWtZcl9lLWdQckJyQmFBLW5XRHp2SkFJbjVRS2hoeXNkYWc1SGcwRm9rb1MyZ3lDd0tVdDVHakF4M20ySzg4Yg?oc=5) |
