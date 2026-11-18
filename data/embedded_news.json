@@ -1,10 +1,87 @@
 [
   {
+    "title": "Not-So-Large Language Model Fits On a Floppy Disk",
+    "source": "Hackaday",
+    "date": "2026-11-18",
+    "url": "https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"500\" src=\"https://hackaday.com/wp-content/uploads/2026/11/tiny21.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>At some point when hackers start pushing edge cases, nomenclature gets weird, like Large Language Models, or LLMs. At some point, the word &#8220;large&#8221; obviously becomes impossible to justify, but <a class=\"read-more\" href=\"https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Linux in a Browser Tab",
+    "source": "Hackaday",
+    "date": "2026-11-18",
+    "url": "https://hackaday.com/2026/11/17/linux-in-a-browser-tab/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-113538-1-e1794962722312.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Linux was once distributed on CDs and DVDs stuck to the front of computer magazines. Now, technology has advanced to the point where you can simply run a Linux kernel <a class=\"read-more\" href=\"https://hackaday.com/2026/11/17/linux-in-a-browser-tab/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Coding on Windows? Redmond May Already Know.",
+    "source": "Hackaday",
+    "date": "2026-11-18",
+    "url": "https://hackaday.com/2026/11/17/coding-on-windows-redmond-may-already-know/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"574\" src=\"https://hackaday.com/wp-content/uploads/2026/11/agent-names.jpeg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>File this one under &#8220;shocked, but not that shocked&#8221;&#8211; hacker [Xusheng Li] did some digging on a recent Windows 11 build and found that it seems to be phoning home <a class=\"read-more\" href=\"https://hackaday.com/2026/11/17/coding-on-windows-redmond-may-already-know/\">&#8230;read more</a>"
+  },
+  {
     "title": "A Pen Plotter to Draw You Up (on) the Wall",
     "source": "Hackaday",
     "date": "2026-11-18",
     "url": "https://hackaday.com/2026/11/17/a-pen-plotter-to-draw-you-up-on-the-wall/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/mural-penplotter2.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Back in our day you were told not to draw on the walls; nowadays we have robots for that&#8211; like Mural 2.0 by [Nik Ivanov]. If the name doesn&#8217;t give <a class=\"read-more\" href=\"https://hackaday.com/2026/11/17/a-pen-plotter-to-draw-you-up-on-the-wall/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope",
+    "source": "CNX Software",
+    "date": "2026-11-18",
+    "url": "https://www.cnx-software.com/2026/11/18/web-based-breadboard-simulator-lets-you-build-circuits-fix-errors-and-monitor-designs-with-a-built-in-oscilloscope/",
+    "summary": "<div><img alt=\"de:volt breadboard simulator\" class=\"attachment-medium size-medium wp-post-image\" height=\"412\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/De-volt-breadboard-simulator-720x412.png\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Dev Kapadia&#8217;s de:volt is a breadboard simulator that runs in your browser. You can place parts and wires on a breadboard, and the circuit runs live the whole time as you build it. The project aims to be as close as a real breadboard would be. It reports errors and warnings, and you can monitor pins with its built-in oscilloscope and/or multimeter. For instance, an LED with no resistor burns out, a weak battery sags under load, a motor pulls current, and a 555 on the 4-channel scope shows its timing capacitor charging and discharging. de:volt highlights: Build circuits on a virtual breadboard using the 105 parts available from the interface: resistors, capacitors, diodes, transistors, LEDs, 555 timers, 74-series and CD4000 logic, EEPROMs, motor drivers, sensors, and more. Four Arduino, BBC micro:bit, and RP2040 MCU boards are also available, and you can write and run MicroPython code from the web [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/18/web-based-breadboard-simulator-lets-you-build-circuits-fix-errors-and-monitor-designs-with-a-built-in-oscilloscope/\">Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Flipper One – A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding)",
+    "source": "CNX Software",
+    "date": "2026-11-18",
+    "url": "https://www.cnx-software.com/2026/11/18/flipper-one-a-rockchip-rk3576-powered-portable-arm-linux-computer-and-networking-multi-tool/",
+    "summary": "<div><img alt=\"Flipper One\" class=\"attachment-medium size-medium wp-post-image\" height=\"489\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/05/Flipper-One-720x489.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Flipper Devices has launched the Flipper One open-source hardware portable Arm Linux platform and networking/Edge AI multi-tool powered by a Rockchip RK3576 octa-core Arm Cortex-A72/A53 SoC. It also features a Raspberry Pi RP2350 microcontroller for low-level control. You may think of it as a successor to the popular STM32-based Flipper Zero hardware and wireless hacking tool, but the company stresses that the Flipper One is NOT a replacement for the Flipper Zero. It is a different product with mainline Linux kernel support, no binary blobs (probably not 100% true), and open-source drivers, and operating at a different level of the networking and wireless stacks with dual Gigabit Ethernet, Wi-Fi 6E, and optional 5G or 4G LTE modem. Flipper One specifications: SoC – Rockchip RK3576 CPU 4x Cortex-A72 cores @ 2.2GHz, 4x Cortex-A53 cores @ 1.8GHz Arm Cortex-M0 MCU at 400MHz GPU – ARM Mali-G52 MC3 GPU with support for OpenGL [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/18/flipper-one-a-rockchip-rk3576-powered-portable-arm-linux-computer-and-networking-multi-tool/\">Flipper One &#8211; A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Nvidia Q3 sparkles. Chairman says no return for Jensen",
+    "source": "Electronics Weekly",
+    "date": "2026-11-18",
+    "url": "https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/",
+    "summary": "<p>Nvidia’s Q3 revenue was $115.8 billion at a gross margin of 74.8%. Net profit was $65.3 billion. Datacentre revenue was up 110% at $107.6 billion. Nvidia expects Q4 revenue of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/\">Nvidia Q3 sparkles. Chairman says no return for Jensen</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Siemens buys Breker Verification Systems",
+    "source": "Electronics Weekly",
+    "date": "2026-11-18",
+    "url": "https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/",
+    "summary": "<p>Siemens is to buy Breker Verification Systems acquiring SoC-level technologies that accelerate the verification of increasingly complex SoC architectures. Upon closing, the acquisition will strengthen Siemens&#8217; SoC verification portfolio, building [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/\">Siemens buys Breker Verification Systems</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Imec sets up photonics R&D centre in Hokkaido",
+    "source": "Electronics Weekly",
+    "date": "2026-11-18",
+    "url": "https://www.electronicsweekly.com/news/business/imec-sets-up-photonics-rd-centre-in-hokkaido-2026-11/",
+    "summary": "<p>Imec is expanding its activities in Hokkaido, Japan, with the backing of Japan&#8217;s Ministry of Economy, Trade and Industry (METI) and in collaboration with Leading-edge Semiconductor Technology Center (LSTC), to [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/imec-sets-up-photonics-rd-centre-in-hokkaido-2026-11/\">Imec sets up photonics R&#038;D centre in Hokkaido</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "SkyeChip and SiPearl hook up to design Arm-based CPU",
+    "source": "Electronics Weekly",
+    "date": "2026-11-18",
+    "url": "https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/",
+    "summary": "<p>SkyeChip, the Malaysian IC design company, and SiPearl, the French CPU designer, have signed a non-binding MoU to define, develop and commercialise a next-generation compute platform based on Arm Neoverse [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/\">SkyeChip and SiPearl hook up to design Arm-based CPU</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Farnell selling Panasonic ERJPC series resistors",
+    "source": "Electronics Weekly",
+    "date": "2026-11-18",
+    "url": "https://www.electronicsweekly.com/news/business/farnell-selling-panasonic-erjpc-series-resistors-2026-11/",
+    "summary": "<p>Farnell is now selling the ERJPC series of super high-precision thick-film resistors from Panasonic. The series delivers precision levels previously only achievable with thin-film technology, offering engineers a  new tool [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/farnell-selling-panasonic-erjpc-series-resistors-2026-11/\">Farnell selling Panasonic ERJPC series resistors</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Top Ten (less 5) Vendors Of Server CPUs",
+    "source": "Electronics Weekly",
+    "date": "2026-11-18",
+    "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-vendors-of-cpus-for-servers-2026-11/",
+    "summary": "<p>Thanks to TrendForce for this one &#8211;  the top five suppliers of CPUs for servers:</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-vendors-of-cpus-for-servers-2026-11/\">Top Ten (less 5) Vendors Of Server CPUs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Custom Firmware for Fortinet FortiGate 60 Firewall/Router",
@@ -26,27 +103,6 @@
     "date": "2026-11-17",
     "url": "https://hackaday.com/2026/11/17/the-fm-1-open-source-hacked-open-vibe-coding-and-farting-synthesizers/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/fm_1_featured.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The M-Vave FM-1 was a pretty unremarkable little synthesizer “toy” until the open-source synth hackers took it over. Now, it’s a sweet platform for exploration, the incredible work done by <a class=\"read-more\" href=\"https://hackaday.com/2026/11/17/the-fm-1-open-source-hacked-open-vibe-coding-and-farting-synthesizers/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Making an Affordable Two-Axis Solar Tracker",
-    "source": "Hackaday",
-    "date": "2026-11-17",
-    "url": "https://hackaday.com/2026/11/17/making-an-affordable-two-axis-solar-tracker/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"504\" src=\"https://hackaday.com/wp-content/uploads/2026/11/two-axis_solar_tracker_greenhill_forge_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Setting up a photovoltaic panel is simple, but you lose a lot of potential power if you merely bolt said panel into place. With a tracker the panel will instead <a class=\"read-more\" href=\"https://hackaday.com/2026/11/17/making-an-affordable-two-axis-solar-tracker/\">&#8230;read more</a>"
-  },
-  {
-    "title": "The $50 Per Hour Search Engine",
-    "source": "Hackaday",
-    "date": "2026-11-17",
-    "url": "https://hackaday.com/2026/11/17/the-50-per-hour-search-engine/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"484\" src=\"https://hackaday.com/wp-content/uploads/2026/04/SearchEngine.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Imagine doing a Google search and getting a bill for $50 an hour &#8212; or even $300 an hour. Even worse, that&#8217;s $50 for every hour you were even connected. <a class=\"read-more\" href=\"https://hackaday.com/2026/11/17/the-50-per-hour-search-engine/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Newer Rigol Scopes Get a Custom Linux Firmware",
-    "source": "Hackaday",
-    "date": "2026-11-17",
-    "url": "https://hackaday.com/2026/11/17/newer-rigol-scopes-get-a-custom-linux-firmware/",
-    "summary": "<div><img alt=\"OSS Rigol\" class=\"attachment-large size-large wp-post-image\" height=\"469\" src=\"https://hackaday.com/wp-content/uploads/2026/11/pane-spectrum.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Electronics test equipment is a topic near and dear to many Hackaday readers. The average reader of this article is most likely within 50 feet of a multimeter, and it <a class=\"read-more\" href=\"https://hackaday.com/2026/11/17/newer-rigol-scopes-get-a-custom-linux-firmware/\">&#8230;read more</a>"
   },
   {
     "title": "Review of Seeed Studio 4.26″ Mono and 7.3″ Color e-paper Kit with OpenDisplay and Home Assistant",
@@ -103,48 +159,6 @@
     "date": "2026-11-17",
     "url": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
     "summary": "<p>Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/\">OptiMOS 7 switching-optimised 40 V power mosfets address AI servers</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Decline And Fall",
-    "source": "Electronics Weekly",
-    "date": "2026-11-17",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
-    "summary": "<p>Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/\">Decline And Fall</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
-    "source": "Electronics Weekly",
-    "date": "2026-11-17",
-    "url": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
-    "summary": "<p>“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/\">Now’s the time to rethink the GPU/datacentre model says Penn</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Nvidia launches Rubin HPC with 50k CUDA cores",
-    "source": "Electronics Weekly",
-    "date": "2026-11-17",
-    "url": "https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/",
-    "summary": "<p>Nvidia has launched Rubin HPC &#8211; a new GPU in the NVIDIA Vera Rubin platform with more than 50,000 CUDA cores &#8211; which is expected to be available in 2028. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/\">Nvidia launches Rubin HPC with 50k CUDA cores</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Anglia signs Cimo Microelectronics",
-    "source": "Electronics Weekly",
-    "date": "2026-11-17",
-    "url": "https://www.electronicsweekly.com/news/business/anglia-signs-cimo-microelectronics-2026-11/",
-    "summary": "<p>Anglia Components has signed a pan-European franchise agreement with Cimo Microelectronics, the Chinese  maker of high-precision, high-speed ADCs, DACs, amplifiers, voltage references and PMICs. Says John Bowman, Anglia’s Marketing Director: [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/anglia-signs-cimo-microelectronics-2026-11/\">Anglia signs Cimo Microelectronics</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Melexis launches fingertip modules for humanoid robots",
-    "source": "Electronics Weekly",
-    "date": "2026-11-17",
-    "url": "https://www.electronicsweekly.com/news/business/melexis-launches-fingertip-modules-for-humanoid-robots-2026-11/",
-    "summary": "<p>Melexis has introduced the MLX90901 Tactile Fingertip Module, bringing true 3D force sensing (normal &#38; shear) to humanoid robotic hands. The company’s first mechatronic module combines its Tactaxis sensing technology [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/melexis-launches-fingertip-modules-for-humanoid-robots-2026-11/\">Melexis launches fingertip modules for humanoid robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "ST adds 600V devices to STDRIVE portfolio",
-    "source": "Electronics Weekly",
-    "date": "2026-11-17",
-    "url": "https://www.electronicsweekly.com/news/business/st-adds-600v-devices-to-stdrie-portfolio-2026-11/",
-    "summary": "<p>ST has extended its STDRIVE family of three-phase gate drivers with two new 600V devices that let motor drives and inverters operate directly from a high-voltage bus. The STDRIVE631P and [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/st-adds-600v-devices-to-stdrie-portfolio-2026-11/\">ST adds 600V devices to STDRIVE portfolio</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "artport: A History of Internet Art",
@@ -348,20 +362,6 @@
     "date": "2026-11-14",
     "url": "https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/",
     "summary": "<div><img alt=\"Bare Metal Do Stuff BMDS OS\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Bare-Metal-Do-Stuff-BMDS-OS-720x405.webp\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>We&#8217;ve recently written about the P4 Launcher project that offers a desktop PC-like and/or retro-gaming experience to ESP32-P4 boards with applications stored on a microSD card and loaded into PSRAM when they run. However, I&#8217;ve recently been tipped about two new projects that go even further and aim to provide a desktop OS for microcontrollers, both currently focusing on the Olimex ESP32-P4-PC board with HDMI, Ethernet, and USB ports: Sylphide OS and Bare Metal, Do Stuff (BMDS). Sylphide OS &#8211;  A Macintosh-like desktop for ESP32-P4, RP2350, and ESP32 Thomas Capricelli (Orzelf) has developed Sylphide OS as an operating system for computers based on microcontrollers. It&#8217;s designed to run on other targets beyond ESP32-P4 boards, and has currently been tested on the Raspberry Pi Pico 2 with VGA+USB connectors and the FabGL board (Olimex ESP32-SBC-FabGL variant) with PS/2 input and VGA connectors. If you don&#8217;t own any compatible hardware, a Sylphide [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/\">Desktop operating systems for ESP32-P4-based &#8220;PCs&#8221; &#8211; Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026",
-    "source": "CNX Software",
-    "date": "2026-11-13",
-    "url": "https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/",
-    "summary": "<div><img alt=\"VT SBC SMARC IMX952 computer on module\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/VT-SBC-SMARC-IMX952-computer-on-module-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Vantron has introduced the VT-SBC-SMARC-IMX952, an 82 × 50 mm SMARC 2.1 system-on-module (SoM) built around NXP&#8217;s i.MX 952 processor with two or four Arm Cortex-A55 cores, a Mali-G310 GPU, and a 2 TOPS eIQ Neutron NPU. The module is designed for industrial HMIs, edge AI vision, factory automation, in-cabin sensing, and other embedded applications. The module comes with 8GB LPDDR4x memory, 64GB eMMC storage, two Ethernet interfaces (GbE + 2.5 GbE) with TSN support, and an optional Wi-Fi 5 and Bluetooth 5.0 wireless module. It exposes all I/Os through a standard 314-pin MXM 3.0 connector VT-SBC-SMARC-IMX952 specifications: SoC – NXP i.MX 952 CPU Dual- or quad-core Arm Cortex-A55 @ up to 1.7 GHz Arm Cortex-M7 real-time core @ 800 MHz Arm Cortex-M33 safety core @ 333 MHz GPU – Arm Mali-G310 with OpenGL ES 3.2, Vulkan 1.2, and OpenCL 3.0 support VPU Video encoding – H.264 up to 4K [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/\">Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450",
-    "source": "CNX Software",
-    "date": "2026-11-13",
-    "url": "https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/",
-    "summary": "<div><img alt=\"Tektronix 1 Series DPO oscilloscope\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Tektronix-1-Series-DPO-oscilloscope-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Tektronix is better known for its high-end and pricey oscilloscopes, but has now introduced the 1 Series DPO, a line of low-cost digital phosphor oscilloscopes starting at just $450, with optional AI-assisted control through the new Tek Intelligence connector. These oscilloscopes are designed for electronics testing, embedded development, education, and everyday circuit debugging. The 1 Series DPOs feature up to four analog channels, 50 MHz to 200 MHz bandwidth, 12-bit vertical resolution, and up to 1.25 GS/s sampling rate. They also integrate a 7-inch touchscreen and 10 Mpoints of memory per channel, support I2C, SPI, and UART protocol decoding, and implement built-in waveform analysis tools. The higher-priced S models add a 25 MHz arbitrary function generator (AFG) and Bode plot analysis. Tektronix 1 Series DPO key specifications: Models – 16 variants covering four bandwidth options, two channel configurations, and versions with or without AFG Display – 7-inch capacitive multi-touchscreen, 1024 [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/\">Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "ST's Unified STM32 MCU Platform, TI Brings Agentic AI to CCStudio, NXP Unified Robotics Platform: Embedded Week Insights",
