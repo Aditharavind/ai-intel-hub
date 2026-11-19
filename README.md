@@ -1,22 +1,22 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-18 18:27 UTC
+Last Updated: 2026-11-19 00:47 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
-| 2026-11-18 | Inside the Codex sandbox | OpenAI | [link](https://openai.com/index/inside-the-codex-sandbox) |
 | 2026-11-18 | The Silent Consensus | OpenAI | [link](https://openai.com/index/the-silent-consensus) |
-| 2026-11-18 | Advancing chip design with OpenAI models | OpenAI | [link](https://openai.com/index/advancing-chip-design-with-our-models) |
+| 2026-11-18 | Research acceleration: The jagged frontier | OpenAI | [link](https://openai.com/index/research-acceleration-jagged-frontier) |
+| 2026-11-18 | How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise | OpenAI | [link](https://openai.com/business/customer-stories/sumitomo-life) |
+| 2026-11-18 | Inside the Codex sandbox | OpenAI | [link](https://openai.com/index/inside-the-codex-sandbox) |
+| 2026-11-18 | Managing frontier AI risk: From training to deployment | OpenAI | [link](https://openai.com/index/managing-frontier-ai-risk) |
 | 2026-11-18 | Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT | OpenAI | [link](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership) |
+| 2026-11-18 | Advancing chip design with OpenAI models | OpenAI | [link](https://openai.com/index/advancing-chip-design-with-our-models) |
+| 2026-11-18 | DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency | Hugging Face | [link](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin) |
+| 2026-11-18 | Why your fine-tuning job takes longer than the FLOPs say | Hugging Face | [link](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time) |
 | 2026-11-18 | Time-Series Models in the Streamhouse: A New Frontier and Use Cases | Hugging Face | [link](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse) |
-| 2026-11-18 | 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers | Hugging Face | [link](https://huggingface.co/blog/moe-expert-streaming) |
-| 2026-11-18 | Rumble-2-Flash: an open 0.5B speech model for 40+ languages | Hugging Face | [link](https://huggingface.co/blog/rumble-2-flash) |
-| 2026-11-17 | Introducing GPT-6.2 Astra and Sol | OpenAI | [link](https://openai.com/index/introducing-gpt-6-2-astra-sol) |
-| 2026-11-17 | Strengthening NATO and allied cyber defenses with AI | OpenAI | [link](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) |
-| 2026-11-17 | Introducing ChatGPT for Sales | OpenAI | [link](https://openai.com/index/introducing-chatgpt-for-sales) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -36,6 +36,8 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
 | 2026-11-18 | Rockwell Automation acquiring mobile robot maker AGILOX | Robotics Business Review | [link](https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/) |
+| 2026-11-18 | Humyn Labs raises $47M to collect real-world data for robotics | Robotics Business Review | [link](https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/) |
+| 2026-11-18 | From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics | Robotics Business Review | [link](https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/) |
 | 2026-11-17 | Boston Dynamics’ Atlas humanoid lands first non-automotive trial | Robotics Business Review | [link](https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/) |
 | 2026-11-17 | California DMV bars Waymo AVs from operating on the state’s freeways | Robotics Business Review | [link](https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/) |
 | 2026-11-17 | Learn how AI is changing supply chain robotics | Robotics Business Review | [link](https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/) |
@@ -43,19 +45,17 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-16 | 28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace? | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security) |
 | 2026-11-16 | The hidden reason most robots fail on the factory floor | Robotics Business Review | [link](https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/) |
 | 2026-11-16 | Agile Robots raises $500M to increase production capacity | Robotics Business Review | [link](https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/) |
-| 2026-11-15 | Why Skydio Built a Lopsided Drone | IEEE Spectrum Robotics | [link](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone) |
-| 2026-11-14 | Food robotics 2.0: why this time could be different | Robotics Business Review | [link](https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/) |
 
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-19 | Tracking Down a Mystery Beep By Giving a Coding Agent a Few Ears | Hackaday | [link](https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/) |
+| 2026-11-18 | The Mega Tamagotchi Manga Reader | Hackaday | [link](https://hackaday.com/2026/11/18/the-mega-tamagotchi-manga-reader/) |
+| 2026-11-18 | Handheld Motor Cancels Out Every Twist and Turn | Hackaday | [link](https://hackaday.com/2026/11/18/handheld-motor-cancels-out-every-twist-and-turn/) |
 | 2026-11-18 | Serial: The Port That Won’t Die | Hackaday | [link](https://hackaday.com/2026/11/18/serial-the-port-that-wont-die/) |
 | 2026-11-18 | Remarkable Observatory Receives Orbital Radio | Hackaday | [link](https://hackaday.com/2026/11/18/remarkable-observatory-receives-orbital-radio/) |
 | 2026-11-18 | We’re Hiring: Come Join Us! | Hackaday | [link](https://hackaday.com/2026/11/18/were-hiring-come-join-us-8/) |
 | 2026-11-18 | Local Prusa Connect Cuts Out the Cloud | Hackaday | [link](https://hackaday.com/2026/11/18/local-prusa-connect-cuts-out-the-cloud/) |
-| 2026-11-18 | Not-So-Large Language Model Fits On a Floppy Disk | Hackaday | [link](https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/) |
-| 2026-11-18 | Linux in a Browser Tab | Hackaday | [link](https://hackaday.com/2026/11/17/linux-in-a-browser-tab/) |
-| 2026-11-18 | Coding on Windows? Redmond May Already Know. | Hackaday | [link](https://hackaday.com/2026/11/17/coding-on-windows-redmond-may-already-know/) |
 | 2026-11-18 | Bluetooth 7.0 specification ratified with HDT (High Data Throughput) support | CNX Software | [link](https://www.cnx-software.com/2026/11/18/bluetooth-7-0-specification-ratified-with-hdt-high-data-throughput-support/) |
 | 2026-11-18 | Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope | CNX Software | [link](https://www.cnx-software.com/2026/11/18/web-based-breadboard-simulator-lets-you-build-circuits-fix-errors-and-monitor-designs-with-a-built-in-oscilloscope/) |
 | 2026-11-18 | Flipper One – A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding) | CNX Software | [link](https://www.cnx-software.com/2026/11/18/flipper-one-a-rockchip-rk3576-powered-portable-arm-linux-computer-and-networking-multi-tool/) |
@@ -77,6 +77,9 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-19 | SelfDriving-VLA/laq-ad-backup | 0 | 0 | [link](https://huggingface.co/SelfDriving-VLA/laq-ad-backup) |
+| 2026-11-18 | gargrohin/flux3-action-robotwin-aloha-mix500 | 0 | 0 | [link](https://huggingface.co/gargrohin/flux3-action-robotwin-aloha-mix500) |
+| 2026-11-18 | arunos728/cosmos3-robotwin-ae-h169-cj-vego169dkv40k-fmax04-b64-60k | 0 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-ae-h169-cj-vego169dkv40k-fmax04-b64-60k) |
 | 2026-11-18 | arunos728/cosmos3-robotwin-ae-t320-cj-vdetachkv40k-fmax04-b64-60k | 0 | 0 | [link](https://huggingface.co/arunos728/cosmos3-robotwin-ae-t320-cj-vdetachkv40k-fmax04-b64-60k) |
 | 2026-11-18 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v4.1 | 0 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v4.1) |
 | 2026-11-18 | DVSun/g1-advanced-robotic | 0 | 1 | [link](https://huggingface.co/DVSun/g1-advanced-robotic) |
@@ -84,23 +87,20 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-18 | Zaidoppa/tinydepth-robot | 0 | 0 | [link](https://huggingface.co/Zaidoppa/tinydepth-robot) |
 | 2026-11-18 | junbrro/vwam-robotwin-e3-h994-pfcross-ema60k-g4-20261118 | 0 | 0 | [link](https://huggingface.co/junbrro/vwam-robotwin-e3-h994-pfcross-ema60k-g4-20261118) |
 | 2026-11-18 | HarrisonPENG/TCP4D-stage2-RoboTwin | 29 | 0 | [link](https://huggingface.co/HarrisonPENG/TCP4D-stage2-RoboTwin) |
-| 2026-11-18 | HarrisonPENG/TCP4D-stage1-RoboTwin | 37 | 0 | [link](https://huggingface.co/HarrisonPENG/TCP4D-stage1-RoboTwin) |
-| 2026-11-18 | L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v4 | 10 | 0 | [link](https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v4) |
-| 2026-11-18 | Snare314/VLA-Fabric-pi05-Frame4 | 0 | 0 | [link](https://huggingface.co/Snare314/VLA-Fabric-pi05-Frame4) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30260 | Python | 12104.1 | [link](https://github.com/harvard-edge/cs249r_book) |
-| PetoiCamp/OpenCat-Quadruped-Robot | 5570 | C++ | 2228.1 | [link](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) |
-| NVIDIA/skills | 4063 | Python | 1625.3 | [link](https://github.com/NVIDIA/skills) |
-| Source-Robotics/PAROL6-Desktop-robot-arm | 3490 | HTML | 1396.1 | [link](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) |
+| harvard-edge/cs249r_book | 30262 | Python | 12104.9 | [link](https://github.com/harvard-edge/cs249r_book) |
 | copper-project/copper-rs | 1552 | Rust | 620.9 | [link](https://github.com/copper-project/copper-rs) |
-| Edgenesis/shifu | 1437 | Go | 574.9 | [link](https://github.com/Edgenesis/shifu) |
-| PetoiCamp/OpenCat-Old | 1382 | C++ | 552.9 | [link](https://github.com/PetoiCamp/OpenCat-Old) |
-| mosaico-labs/mosaico | 1144 | Python | 457.7 | [link](https://github.com/mosaico-labs/mosaico) |
 | commaai/openpilot | 64167 | Python | 25666.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 26736 | Python | 10694.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| questdb/questdb | 17543 | Java | 7017.3 | [link](https://github.com/questdb/questdb) |
+| knightnemo/Awesome-World-Models | 3536 |  | 1414.5 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| deeplethe/utopia | 8735 | Rust | 3494.1 | [link](https://github.com/deeplethe/utopia) |
+| ROBOTIS-GIT/ai_worker | 208 | C++ | 83.3 | [link](https://github.com/ROBOTIS-GIT/ai_worker) |
+| isaac-sim/IsaacLab | 8679 | Python | 3471.7 | [link](https://github.com/isaac-sim/IsaacLab) |
+| kaichen-z/SteerAct | 288 | Python | 115.3 | [link](https://github.com/kaichen-z/SteerAct) |
+| PetoiCamp/OpenCat-Quadruped-Robot | 5570 | C++ | 2228.1 | [link](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
@@ -119,16 +119,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-18 | Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm5NTDJJMFZvYV9BOWZHcEF6MWRBV1VaVy1WLU9saHlhWWw4dHRlQWM4b0w0ZlE0bVdwSktncEowUUJseWFBWTl5Tm5YOWMxMlk1eW1RSDJ4THF4VHI2OXF1T0RZWVdFXzJFWWQ4V3R4ZXRkaGhoOEpjS0ljQkJYeWxSbWVWYTc2SHhkbWhVellFbVBwMThwS0VIUWFvejlMQ2dGc08zaWJ6eVkwTFFvQjlBZGt6RWZjNjNmbThGLTZSbFUwejBPcg?oc=5) |
 | 2026-11-18 | Physical AI Startup Humyn Raises $47 Million From Accel, Prosus - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlpWaHp2emQzQXpHUnZSbjFoSlQ5YlhpclpCMEdyRm1sNUxuSkQ1MklQS3Zrd0Y1Q2pzRUlqblc4R0ltU3BvNk1kWUlqd3NHejF3YnpINnc2aXFkZGtsUk56QUEwZXRTSHFxRmd0ZU5LVHA1R0xRRmVGd1dyeTJQUHdIXzVGd3JkNUFPUU9DdXphaUYzbS1yX00wV0xrY054cGRTdFlvOU5HSmM1WG42RjJ3?oc=5) |
 | 2026-11-18 | Jeff Bezos’s $41 billion AI startup Prometheus is shrouded in secrecy. We found out who’s building it - Fast Company | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmNuc0I2ZDhFSmxKUThyVjN6clF0OGoxOVhOekdtbWZ4MzdjTGRNeTFSVDY2ejA2WWtybDlPbWtVMFFZRG44TGZGTkhmS2ZEUXE4QnM2YzZoclM5aVMwU0NUa2pzTVpMOTZPX1RIMk1peFBfWk1QY2c2MWVmZlhaYVBabFhudHEyMGJLVzgzbHUxRWJfdmhWeUs3Uy1JblRjUDFYYW83TmxXQTZpQ3FkV3lPV2JKaHNTVEQ5WWExZ3F6cTdOTVRqVEpsdWNlUmc?oc=5) |
+| 2026-11-18 | Indian physical AI startup Humyn Labs raises $47m series A - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxNa09RdlRpVEdGN3Z0c01xVk5vdFVkdC02MzBtamdvMlh1dF85TnQtOVNxOG5pTC1ZY19COWhmVnQwcTZXZlozUXctUl9KWFIzWG56SlNubXY5RHltaW5VUUZGejYzYUpPNGQ2UWdQZml3VVlzSWJhajRWX25sbkthNkd1ajNMVEpaaXZLaXZHbGg?oc=5) |
 | 2026-11-18 | BrightAI Raises $97M to Scale Physical AI for Essential Infrastructure - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWTlaSGZ3bllIaTI5LXMyVjJWQVNvVmVBOWZPMk9wM0w3bzNvLVE5RGtYdlgycF9iaE50R1kxY2JvSTQxdVhaX3BzQzJsLU9sbTFHMmc4N0hTT0d4MkptNkZhakNDQ2ZNTkFMUjA4cWlsS3kyN2ZvZmFHYkNNclFmUHNlZHVsaGRsMnpFV0pHM1BOeXhIeVE?oc=5) |
 | 2026-11-18 | Physical AI startup Humyn Labs raises $47 Mn in equity and debt - Entrackr | physical ai startup | [link](https://news.google.com/rss/articles/CBMingFBVV95cUxQeHhuT0twUU91V09UZzdoX3BDNUhBc0EyQ2czRF9uQlNibUJPb2gzWENaN1RZQV8wSDYtZnJDTFNhd1I4ejh3eGZlMm1Xd1FZNl9ia0R4X1R6V0RUY2ZWU1pvTGJnVE9ncUluU0JsODlqRzBNVl9YUi0wdmNWWE5lLXZvNFhxSkFMdVlDNDh1ZmJuWk14X2Y2cncteHBjQdIBngFBVV95cUxQeHhuT0twUU91V09UZzdoX3BDNUhBc0EyQ2czRF9uQlNibUJPb2gzWENaN1RZQV8wSDYtZnJDTFNhd1I4ejh3eGZlMm1Xd1FZNl9ia0R4X1R6V0RUY2ZWU1pvTGJnVE9ncUluU0JsODlqRzBNVl9YUi0wdmNWWE5lLXZvNFhxSkFMdVlDNDh1ZmJuWk14X2Y2cncteHBjQQ?oc=5) |
 | 2026-11-18 | AI startup Humyn Labs raises $47 million in Series A funding round - Business Standard | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXZSOGpKLWxTdFIzakN4c0JQS3BJdkM5MVNfRDA0QUZjVUdxMWZOSUdWbHROQ0ZYQmh6VjNSSm1xQmFXZnZGMVlyMHBSeTFtem1OTUhoMEtfZWZfRkZMdXduT2ZSQVNETV9rZGptWmJEckg4cU4yTVNES3hKU2NNY3gwaDR1Q0tESFRlSTZ3bTVUN1B5TTQtcFlhUHRrR2V5X2tlYkxJTTV4d2JvWjRMTnRnbHhMWkVHNWJPSFJTUWo0dlJpWGFEYjQxdTNodVnSAdQBQVVfeXFMUDBNU251cTZyY1huU29YVFhrd3lqUHNPNlBVRXNLR0I5T3d6aWpaazBPX1Q2NGcybjZ2ZTZoZG9lYjl3VnBLOHlRQkdHQzBmNWhyZmY2YTJPd1NiVk9zTjFYVXk4SXBodWotVlpQbTJlbUt6czliUzhDRlVqX1lNa29pZjl6SGx3dVFseFR3UUhXOXg2QllDMjdJM0xVZVM0OGpCVEFOQkFhbldrMmltRWdScXhWY0t6dTdCa3gxTWdFNVc0SmhGZG01cjB4SG9JQl9HRl8?oc=5) |
 | 2026-11-18 | An Eric Trump-backed startup unveils a powerful new humanoid robot—and won't rule out arming it - Fast Company | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxOay05N1JJSXFwUk1VakFZM3ZXRVVsSkEyWVhiSlVoUmt2b2c5bzJCcEx5cGE3WU5qbktYemF5WVBPZFlsMTd0NmJCM3ZNSnhBYndUblI1SHBvNTdNR0d0ZWNzS0xJOVNTS0hFZ3NoY05ialAwUHdLdlozNU5XbDl4ek05VlV4UWJQRDdvTw?oc=5) |
 | 2026-11-17 | Robotics startup Genesis AI raises $500m backed by Nvidia - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1c3VtQkRvTHBNQVRCX2k2WVdOWmJHUlJCNGhUdldPMnJTN3RhenFoMWV1Z3BESFhYaEhqaXN6NEtQN3lPZ0c5Y1JOelljbVR4ck9aYms3dFpjaFRXMGc?oc=5) |
 | 2026-11-17 | Eric Trump’s Robot Soldier Startup Fails to Pay Employees After CEO Bought a $4.6 Mansion With Company Funds - Futurism | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXh6aDc3eWVvMS1yTTItellVTldLOVhYRF9qLXZQelNzZlNxT3ZVQS0yZFlWQ2lOcEhQdjdpZ3FBLVhfa2pxdUt5cHBXemg5RzlBMmVoMVFqVWdDVTJnTFJsRWRaUWtZcl9lLWdQckJyQmFBLW5XRHp2SkFJbjVRS2hoeXNkYWc1SGcwRm9rb1MyZ3lDd0tVdDVHakF4M20ySzg4Yg?oc=5) |
-| 2026-11-16 | Israel ranks second globally in physical AI - CTech | physical ai startup | [link](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tOUFsNVlVRXh5cHU3NGhySkhkOTlGM3RJRm1KUDBVSmFJVmVQRVdaOGhTbXZBS3ZtVkVmY2pfRjk4eWJMdHNDS2ZXQlYzeXNOeFNFcTl5TU1VbTRhQkFBZ2dIRE5ja1U?oc=5) |
-| 2026-11-16 | Robo-soldier startup backed by Eric Trump misses payroll, may collapse - Ars Technica | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEF0S2EzRXozeVdvVHdyTkVCRDF2Z0ZhenNTb09xM3BKU0VVYWFvNXRpa3lEbTlxbTNqTFU2amtzdm9oSzZBRExBNFQxZEVPM0hNNHRrdXFsRGl6cnlkSktyZllqaUtxdkl2LVVQaUtXcWpyUEhKMHZuX2dfVTY0V256Wm80dTU0RkFTQkVIdWxBVGxJWHJHemdrYnRWa2M3bHhxVG9ORC0?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |

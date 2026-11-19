@@ -1,5 +1,26 @@
 [
   {
+    "title": "The Silent Consensus",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+  },
+  {
+    "title": "Research acceleration: The jagged frontier",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+  },
+  {
     "title": "Inside the Codex sandbox",
     "source": "OpenAI",
     "date": "2026-11-18",
@@ -7,11 +28,18 @@
     "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
   },
   {
-    "title": "The Silent Consensus",
+    "title": "Managing frontier AI risk: From training to deployment",
     "source": "OpenAI",
     "date": "2026-11-18",
-    "url": "https://openai.com/index/the-silent-consensus",
-    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+  },
+  {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
   },
   {
     "title": "Advancing chip design with OpenAI models",
@@ -21,11 +49,18 @@
     "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
   },
   {
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "source": "OpenAI",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "source": "Hugging Face",
     "date": "2026-11-18",
-    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "summary": ""
+  },
+  {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "source": "Hugging Face",
+    "date": "2026-11-18",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "summary": ""
   },
   {
     "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
@@ -70,13 +105,6 @@
     "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
   },
   {
-    "title": "Introducing OpenAI for Chile",
-    "source": "OpenAI",
-    "date": "2026-11-17",
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-  },
-  {
     "title": "Astra for Law leads in legal intelligence",
     "source": "OpenAI",
     "date": "2026-11-17",
@@ -84,25 +112,11 @@
     "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
   },
   {
-    "title": "Broadening access to AI for scientists",
+    "title": "Introducing OpenAI for Chile",
     "source": "OpenAI",
-    "date": "2026-11-16",
-    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-  },
-  {
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "source": "OpenAI",
-    "date": "2026-11-16",
-    "url": "https://openai.com/index/strengthening-online-child-safety",
-    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
-  },
-  {
-    "title": "Science at the Frontier: How scientists use ChatGPT",
-    "source": "OpenAI",
-    "date": "2026-11-16",
-    "url": "https://openai.com/index/science-at-the-frontier",
-    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+    "date": "2026-11-17",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
   },
   {
     "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
@@ -151,20 +165,6 @@
     "source": "Hugging Face",
     "date": "2026-11-11",
     "url": "https://huggingface.co/blog/qvac/botpsy",
-    "summary": ""
-  },
-  {
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "source": "Hugging Face",
-    "date": "2026-11-11",
-    "url": "https://huggingface.co/blog/token-pooling",
-    "summary": ""
-  },
-  {
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "source": "Hugging Face",
-    "date": "2026-11-10",
-    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
     "summary": ""
   },
   {

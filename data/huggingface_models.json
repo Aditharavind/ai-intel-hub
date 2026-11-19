@@ -1,5 +1,32 @@
 [
   {
+    "model": "SelfDriving-VLA/laq-ad-backup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "date": "2026-11-19",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "gargrohin/flux3-action-robotwin-aloha-mix500",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/gargrohin/flux3-action-robotwin-aloha-mix500",
+    "date": "2026-11-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "arunos728/cosmos3-robotwin-ae-h169-cj-vego169dkv40k-fmax04-b64-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/arunos728/cosmos3-robotwin-ae-h169-cj-vego169dkv40k-fmax04-b64-60k",
+    "date": "2026-11-18",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "arunos728/cosmos3-robotwin-ae-t320-cj-vdetachkv40k-fmax04-b64-60k",
     "downloads": 0,
     "likes": 0,
@@ -81,19 +108,28 @@
     "score": 3.1
   },
   {
-    "model": "Snare314/VLA-Fabric-pi05-Frame4",
+    "model": "SieloRobotics/fineart_vla_machine_tending_II_action_v2",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Frame4",
+    "url": "https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action_v2",
     "date": "2026-11-18",
     "keyword": "vla",
     "score": 0.1
   },
   {
-    "model": "SelfDriving-VLA/laq-ad-backup",
+    "model": "s1ghhh/VLADrop_pi05_B1K5_pt12_dense_cos1e-5",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SelfDriving-VLA/laq-ad-backup",
+    "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_dense_cos1e-5",
+    "date": "2026-11-18",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Snare314/VLA-Fabric-pi05-Frame4",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Snare314/VLA-Fabric-pi05-Frame4",
     "date": "2026-11-18",
     "keyword": "vla",
     "score": 0.1
@@ -112,15 +148,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_drop9_cos1e-5",
-    "date": "2026-11-18",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "s1ghhh/VLADrop_pi05_B1K5_pt12_dense_cos1e-5",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_dense_cos1e-5",
     "date": "2026-11-18",
     "keyword": "vla",
     "score": 0.1
@@ -180,12 +207,12 @@
     "score": 0.1
   },
   {
-    "model": "s1ghhh/VLADrop_pi05_B1K5_pt12_b1k5b_drop16_cos1e-5",
+    "model": "paradoxailab/paradox-world-model-series",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/s1ghhh/VLADrop_pi05_B1K5_pt12_b1k5b_drop16_cos1e-5",
+    "url": "https://huggingface.co/paradoxailab/paradox-world-model-series",
     "date": "2026-11-18",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -317,29 +344,11 @@
   {
     "model": "bageldotcom/Bagel-Robotics-1",
     "downloads": 0,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
     "date": "2026-11-17",
     "keyword": "robotics",
-    "score": 0.3
-  },
-  {
-    "model": "Signumve/detailed_robotic_arm",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Signumve/detailed_robotic_arm",
-    "date": "2026-11-17",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Joyjeetsingh/rwm-robot-level",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Joyjeetsingh/rwm-robot-level",
-    "date": "2026-11-17",
-    "keyword": "robot",
-    "score": 0.1
+    "score": 0.5
   },
   {
     "model": "fusion-world-model/gru_100m_h-task-outputs",
@@ -430,15 +439,6 @@
     "date": "2026-11-17",
     "keyword": "world model",
     "score": 5.8
-  },
-  {
-    "model": "fusion-world-model/gru_10m_c-shots",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/gru_10m_c-shots",
-    "date": "2026-11-17",
-    "keyword": "world model",
-    "score": 5.5
   },
   {
     "model": "xjtulmx/q38-embodied-xfer",
@@ -632,11 +632,11 @@
   {
     "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
     "downloads": 20,
-    "likes": 35,
+    "likes": 36,
     "url": "https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B",
     "date": "2026-11-10",
     "keyword": "embodied",
-    "score": 13.1
+    "score": 13.3
   },
   {
     "model": "ctrobinson/embodied-ai-review",
