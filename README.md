@@ -1,12 +1,13 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-20 04:36 UTC
+Last Updated: 2026-11-20 13:39 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
 ## Latest AI News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-20 | Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost | Hugging Face | [link](https://huggingface.co/blog/harness-adapters-at-scale) |
 | 2026-11-19 | How OpenAI’s Performance Factory keeps ChatGPT fast | OpenAI | [link](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast) |
 | 2026-11-19 | Deploying Daybreak Red | OpenAI | [link](https://openai.com/business/learn/deploying-daybreak-red) |
 | 2026-11-19 | See PR scans in action | OpenAI | [link](https://openai.com/business/learn/pr-scans-demo) |
@@ -16,7 +17,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-18 | Research acceleration: The jagged frontier | OpenAI | [link](https://openai.com/index/research-acceleration-jagged-frontier) |
 | 2026-11-18 | How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise | OpenAI | [link](https://openai.com/business/customer-stories/sumitomo-life) |
 | 2026-11-18 | Inside the Codex sandbox | OpenAI | [link](https://openai.com/index/inside-the-codex-sandbox) |
-| 2026-11-18 | Managing frontier AI risk: From training to deployment | OpenAI | [link](https://openai.com/index/managing-frontier-ai-risk) |
 
 ## Physical AI News
 | Date | Title | Source | URL |
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-20 | Hacking The Contra Pocket Player | Hackaday | [link](https://hackaday.com/2026/11/20/hacking-the-contra-pocket-player/) |
+| 2026-11-20 | One Hundred Gratuitous Case Fans? We’re Fans of This. | Hackaday | [link](https://hackaday.com/2026/11/20/one-hundred-gratuitous-case-fans-were-fans-of-this/) |
+| 2026-11-20 | Crashing Microcontrollers Competitively | Hackaday | [link](https://hackaday.com/2026/11/19/crashing-microcontrollers-competitively/) |
 | 2026-11-20 | DabbleCAD Takes Design Offline | Hackaday | [link](https://hackaday.com/2026/11/19/dabblecad-takes-design-offline/) |
 | 2026-11-20 | Preventing a Garage Door Opener From Rebooting When Offline | Hackaday | [link](https://hackaday.com/2026/11/19/preventing-a-garage-door-opener-from-rebooting-when-offline/) |
-| 2026-11-20 | Gingerbread christmas train #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/11/19/gingerbread-christmas-train-3dthursday-3dprinting/) |
-| 2026-11-20 | Modern Utensil Holder – Draining Cutlery Organizer (verify directly) #3DThursday #3DPrinting | Adafruit | [link](https://blog.adafruit.com/2026/11/19/modern-utensil-holder-draining-cutlery-organizer-verify-directly-3dthursday-3dprinting/) |
-| 2026-11-19 | A Big Ol’ LED Matrix Cube | Hackaday | [link](https://hackaday.com/2026/11/19/a-big-ol-led-matrix-cube/) |
-| 2026-11-19 | Digital Badge Gets Reverse Engineered | Hackaday | [link](https://hackaday.com/2026/11/19/digital-badge-gets-reverse-engineered/) |
-| 2026-11-19 | Monitors that Throttle Downloads | Hackaday | [link](https://hackaday.com/2026/11/19/monitors-that-throttle-downloads/) |
-| 2026-11-19 | How Apple’s HomeView Actively Resists Repairs | Hackaday | [link](https://hackaday.com/2026/11/19/how-apples-homeview-actively-resists-repairs/) |
-| 2026-11-19 | Mesh2Cad Automates Re-Modelling | Hackaday | [link](https://hackaday.com/2026/11/19/mesh2cad-automates-re-modelling/) |
-| 2026-11-19 | Waveshare ESP32-S31-Touch-LCD-4.3C – An ESP32-S31 4.3-inch display devkit with optional DIN rail case | CNX Software | [link](https://www.cnx-software.com/2026/11/19/waveshare-esp32-s31-touch-lcd-4-3c-an-esp32-s31-4-3-inch-display-devkit-with-optional-din-rail-case/) |
+| 2026-11-20 | GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port | CNX Software | [link](https://www.cnx-software.com/2026/11/20/guition-esp32-s31-development-kit-features-7-inch-capacitive-touch-display-ethernet-port/) |
+| 2026-11-20 | M5Stack Chain Captain – An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx | CNX Software | [link](https://www.cnx-software.com/2026/11/20/m5stack-chain-captain-an-esp32-s3-multifunctional-controller-with-1-54-inch-color-display-audio-motion-sensing-ir-tx-rx/) |
+| 2026-11-20 | Black Friday and Cyber Monday 2026 international deals and coupons | CNX Software | [link](https://www.cnx-software.com/2026/11/20/black-friday-and-cyber-monday-2026-international-deals-and-coupons/) |
+| 2026-11-20 | Where did the margin go? The hidden errors in PCB assembly | Electronics Weekly | [link](https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/) |
+| 2026-11-20 | TI’s multiprotocol comms SoM connects factories | Electronics Weekly | [link](https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,58 +77,58 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-11-20 | jungwook2358/vwam-robotwin-fredicl-e3-scratch-b64-60k-sfix-iter60000 | 0 | 0 | [link](https://huggingface.co/jungwook2358/vwam-robotwin-fredicl-e3-scratch-b64-60k-sfix-iter60000) |
-| 2026-11-20 | AIGeeksGroup/WAM-Policy | 0 | 0 | [link](https://huggingface.co/AIGeeksGroup/WAM-Policy) |
-| 2026-11-20 | LindsayCC/Nov18_3cams_policy | 0 | 0 | [link](https://huggingface.co/LindsayCC/Nov18_3cams_policy) |
-| 2026-11-20 | LindsayCC/take_tray_out_policy | 0 | 0 | [link](https://huggingface.co/LindsayCC/take_tray_out_policy) |
-| 2026-11-19 | mvdelibas/robot-tutma-noktasi-pose-yolo11s-v1 | 0 | 0 | [link](https://huggingface.co/mvdelibas/robot-tutma-noktasi-pose-yolo11s-v1) |
-| 2026-11-19 | Miiche/roboturn-pear-rl-qwen38 | 0 | 0 | [link](https://huggingface.co/Miiche/roboturn-pear-rl-qwen38) |
-| 2026-11-19 | bageldotcom/Bagel-Robotics-1 | 0 | 6 | [link](https://huggingface.co/bageldotcom/Bagel-Robotics-1) |
-| 2026-11-19 | Aaron-Tian/lingbot-vla-v2-c05-robotwin | 0 | 0 | [link](https://huggingface.co/Aaron-Tian/lingbot-vla-v2-c05-robotwin) |
-| 2026-11-19 | RuFlect/RoboTwin-IF-OpenWAM-LDS | 0 | 0 | [link](https://huggingface.co/RuFlect/RoboTwin-IF-OpenWAM-LDS) |
-| 2026-11-19 | RuFlect/RoboTwin-IF-InternW0-Delta-LDS | 0 | 0 | [link](https://huggingface.co/RuFlect/RoboTwin-IF-InternW0-Delta-LDS) |
+| 2026-11-20 | Miiche/roboturn-pear-rl-envcache | 0 | 0 | [link](https://huggingface.co/Miiche/roboturn-pear-rl-envcache) |
+| 2026-11-20 | khaledalqahtani/robotics-vision-language | 0 | 0 | [link](https://huggingface.co/khaledalqahtani/robotics-vision-language) |
+| 2026-11-20 | mjleee/gr00t-n1.7-robotwin-90-k4-recap-true | 6 | 0 | [link](https://huggingface.co/mjleee/gr00t-n1.7-robotwin-90-k4-recap-true) |
+| 2026-11-20 | RainyBot/SemWAM-RoboTwin-Full-v1 | 47 | 0 | [link](https://huggingface.co/RainyBot/SemWAM-RoboTwin-Full-v1) |
+| 2026-11-20 | jungwook2358/vwam-robotwin-fredicl-e3-scratch-b64-60k-sfix-iter60000 | 25 | 0 | [link](https://huggingface.co/jungwook2358/vwam-robotwin-fredicl-e3-scratch-b64-60k-sfix-iter60000) |
+| 2026-11-20 | SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_XVLA | 0 | 0 | [link](https://huggingface.co/SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_XVLA) |
+| 2026-11-20 | changh95/vla-jepa-base-p150 | 0 | 0 | [link](https://huggingface.co/changh95/vla-jepa-base-p150) |
+| 2026-11-20 | yiyangd/vla_torch_checkpoints_fp32_babel | 0 | 0 | [link](https://huggingface.co/yiyangd/vla_torch_checkpoints_fp32_babel) |
+| 2026-11-20 | napalna/coarse-vla-pi05-assembly-checkpoints | 0 | 1 | [link](https://huggingface.co/napalna/coarse-vla-pi05-assembly-checkpoints) |
+| 2026-11-20 | Lisavila/TacInno-VLA | 0 | 1 | [link](https://huggingface.co/Lisavila/TacInno-VLA) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30273 | Python | 12109.3 | [link](https://github.com/harvard-edge/cs249r_book) |
-| NVIDIA/skills | 4088 | Python | 1635.3 | [link](https://github.com/NVIDIA/skills) |
+| harvard-edge/cs249r_book | 30275 | Python | 12110.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| NVIDIA/skills | 4095 | Python | 1638.1 | [link](https://github.com/NVIDIA/skills) |
 | copper-project/copper-rs | 1551 | Rust | 620.5 | [link](https://github.com/copper-project/copper-rs) |
-| commaai/openpilot | 64180 | Python | 25672.1 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 26926 | Python | 10770.5 | [link](https://github.com/earthtojake/text-to-cad) |
-| google-deepmind/mujoco | 18328 | C++ | 7331.3 | [link](https://github.com/google-deepmind/mujoco) |
-| questdb/questdb | 17540 | Java | 7016.1 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16401 | C++ | 6560.5 | [link](https://github.com/ArduPilot/ardupilot) |
-| dora-rs/dora | 4099 | Rust | 1639.7 | [link](https://github.com/dora-rs/dora) |
-| knightnemo/Awesome-World-Models | 3539 |  | 1415.7 | [link](https://github.com/knightnemo/Awesome-World-Models) |
+| mosaico-labs/mosaico | 1149 | Python | 459.7 | [link](https://github.com/mosaico-labs/mosaico) |
+| commaai/openpilot | 64184 | Python | 25673.7 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 26966 | Python | 10786.5 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 18346 | C++ | 7338.5 | [link](https://github.com/google-deepmind/mujoco) |
+| questdb/questdb | 17542 | Java | 7016.9 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 16407 | C++ | 6562.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 16351 | Python | 6540.5 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
 | 2026-11-16 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmhZZTk1REMxb1VFYlAzSHJPMWlHNUNtZUZwZjR4aUpWZl95ZG1qYmJHU0NyNHk0REhyZUczNGVNZnVTcTZQenlrOEEtMHRJek9fZmUtcHFZeXNWWmRreUpPUzlGUllIdERVWVJ2Sm5oV3c5NXVYdjdLS1VIMUx6VC1RLWFVdUJj?oc=5) |
-| 2026-11-13 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXNIUG1VRllocjk2WS1uQWpyeTZkWW1hR05mWkVXY2p2ek5Pa2d2X3NqZ1RKaG1OLVFvNktKdWFoZE12N0l3M1dYYUQ1d0VDVXN4MDlPSWRMaGl0SXZsNnpJRU9xMHFoX0NtRm95OHJMNmpsWmlhTVBJWDd3dU5ZTXdyeF93OWpfa2Zudw?oc=5) |
+| 2026-11-12 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXNIUG1VRllocjk2WS1uQWpyeTZkWW1hR05mWkVXY2p2ek5Pa2d2X3NqZ1RKaG1OLVFvNktKdWFoZE12N0l3M1dYYUQ1d0VDVXN4MDlPSWRMaGl0SXZsNnpJRU9xMHFoX0NtRm95OHJMNmpsWmlhTVBJWDd3dU5ZTXdyeF93OWpfa2Zudw?oc=5) |
 | 2026-11-12 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcHI4ZEpOTlNCZWhtdk4wcjU0S1JRUkFGVG5hYkJKUldvdWM3MXVZZ1ZWSjVsVjFYWmRrclRDNXM5dGhqa0w1c1NpdnRrTHI3UEVvZ2VMUFcwUW5oWHlCVDNud0ZVcUNuUlR6clBYYURrVnN5TFMwWnNoYw?oc=5) |
-| 2026-11-12 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1SODdjaWh3SG5RRl9vM2NUOU0ydlowX1I0cGtVOVVEclM1WG8zNVNDdUNQYVF6eUx5ZEMxbEhnQ1l3dUV1eUVncTlnemNTQV92VUxqc0pndTdmZm53Vm40aHo2a01yWUVRdVFiR1E5NHJ3alBUcVE?oc=5) |
 | 2026-11-11 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFY5Z2pNTXBneGdERERGbUxuNnRIa2hOVEUwMWZHOXpyVkJlVF9HcWNQM1lteXZ3d1E3WTBpUWRqZEdueVlQSWd5eng2UGRpV0pOODZWN3kyTE9GN3ZQY0R3bVJTdzdrcjJJX2s3M0dzREFjR19FTklfWjEzRmVaNGFCM0NnMUdRMWtoaXNoMkY5YU5kNENuaDd3VEpoZnZNSFk5QTZGS1drZXFkYkFGR1M0UE85dzA0c1NjcFRuaUpiVU82X2hOT2RiU1VoNmFITkNjT2hoZkJZS1prMWtEVkpuYw?oc=5) |
 | 2026-11-08 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xEOEU1Q2xoZnQ0WWVwUjljRDA2QVNFQlBhUGN5ZDdqSUsyamFtZnNqX1BjMmdJdkZ3UFdQR3l4Ukd6UU5PZGxnaVY5bXdIT0VqTGVWY2EzekFfYUQ4VUhfYzlXNXZ0NTJMN1JEczNxbmVIZjVfR3Fkdk8wa2d2RXJYYmtnQVgyd2FyRFJkQzRBVTQyZmJtRWV4OFJQZGM?oc=5) |
 | 2026-11-08 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE0ta2dlQUtULWpWV0RfOWNRekxXaG51Y3hJckxRamR3MmY2S0ZYSmxKZGZKb0ZMVVNVUDdmSl9rUFJ4YktCUk41VzdNRHJBOXp5ZVF3SW1kUUo1TGV1TUNPaWREelpmTWZGVERpalhiejUyUDRKWWc?oc=5) |
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5) |
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMimgFBVV95cUxObVZvM2ltdDFRcEFzdHJaSkhuTHl1eTlReVlQaGtyX2dyS0JJeHh4b2xESXZJeUx1Vjd5VUYxYzVaTnlMaXJFcl8zWGtOWXliRW1VbmhwN2xMTFo2OGctRDVCVDdXTzNwV1pPeldGZkdEMW4xeUJSVFVNSEN6TkRRSDladnRBWW41ZWlmalBfNURsaGwyNEl3aEJB?oc=5) |
 | 2026-11-04 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEIzYUw5N2NyLXhwcEp2QlFxa2pmVmxjLWRsUVlsUGtGaWpUenlkaTFodkdmVlY3Ulh5R0Fqb1F5UWlTQ280Y2xZS1lQRmZVTW1KZ3hpeXd2WnlObGhkd2JqVFpHTUEtSGRwN083d1BFaFNaQUs4Nm9VZTliWnJWWUh0eXNDZw?oc=5) |
+| 2026-11-04 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1lGWDF3RkNRdDdLZlV2V1d2N0ZSNzRmNVc2ajd5QUJhZ2pFWVlFTThaQWk4X2ZLQWFTZDhXSTgtaUV3OGtaQnpQWFRqdWxlRWFRQThtU3UzM0xlSzVkOFEyNlVNZGxoZHBiejlINEYzS3dCamU4MzVuTFdrUVV2Tl9VRkprWXl4cmZQQXZOU0JXakhEX1VaR25udHppNzg?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-20 | Humyn Labs raises $47 mn to collect training data for physical AI - MediaNama | physical ai startup | [link](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjdVNVgtOVNhRXRLeGU4YWdGcmZneUxtLVF1cWs3aURzSUNIZHRsU2pKN1BnWHk0R18zWER2YnZ1a19hTkpnNjAtVEJhMk9zRGZucGhLWmN2aHd4U0c1eW54bW15TTNhbFNYVXBtWmdOVm52LUZTZUlQZVh5Y0hPWg?oc=5) |
 | 2026-11-19 | Physical AI Startup Humyn Labs Raises USD 47M Series A - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oU3htTy1tZG5yQUVVSTZlcHVTQklLeUdqVzVwSWhvdzd3eGNXTC1nSTdodFF2RklGb2g3YXNBRGNVb0tMZEF3LU9rUVFPU0tfUUFr?oc=5) |
 | 2026-11-19 | Physical AI startup Humyn Labs raises $47M in Series A - YourStory.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRTNnYnVTenhZTFRnWjNWQnRZWUhKRlp6emZMNDByelhIMVR2aUoyd3BJS0ZIOVRsME1WdWE4TUowU3V3aHlIdm1ickJ6VDBVSmJ3ZU9UTDJqSFNRaWdRQ09fTDZfaFUyVXdKUldPUk9ZN0tFdnU0MmdIcVduZmRtSFdwZ1ZRb3Fpc0lqUmxkV2g?oc=5) |
 | 2026-11-18 | Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm5NTDJJMFZvYV9BOWZHcEF6MWRBV1VaVy1WLU9saHlhWWw4dHRlQWM4b0w0ZlE0bVdwSktncEowUUJseWFBWTl5Tm5YOWMxMlk1eW1RSDJ4THF4VHI2OXF1T0RZWVdFXzJFWWQ4V3R4ZXRkaGhoOEpjS0ljQkJYeWxSbWVWYTc2SHhkbWhVellFbVBwMThwS0VIUWFvejlMQ2dGc08zaWJ6eVkwTFFvQjlBZGt6RWZjNjNmbThGLTZSbFUwejBPcg?oc=5) |
 | 2026-11-18 | Physical AI Startup Humyn Raises $47 Million From Accel, Prosus - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlpWaHp2emQzQXpHUnZSbjFoSlQ5YlhpclpCMEdyRm1sNUxuSkQ1MklQS3Zrd0Y1Q2pzRUlqblc4R0ltU3BvNk1kWUlqd3NHejF3YnpINnc2aXFkZGtsUk56QUEwZXRTSHFxRmd0ZU5LVHA1R0xRRmVGd1dyeTJQUHdIXzVGd3JkNUFPUU9DdXphaUYzbS1yX00wV0xrY054cGRTdFlvOU5HSmM1WG42RjJ3?oc=5) |
 | 2026-11-18 | Jeff Bezos’s $41 billion AI startup Prometheus is shrouded in secrecy. We found out who’s building it - Fast Company | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmNuc0I2ZDhFSmxKUThyVjN6clF0OGoxOVhOekdtbWZ4MzdjTGRNeTFSVDY2ejA2WWtybDlPbWtVMFFZRG44TGZGTkhmS2ZEUXE4QnM2YzZoclM5aVMwU0NUa2pzTVpMOTZPX1RIMk1peFBfWk1QY2c2MWVmZlhaYVBabFhudHEyMGJLVzgzbHUxRWJfdmhWeUs3Uy1JblRjUDFYYW83TmxXQTZpQ3FkV3lPV2JKaHNTVEQ5WWExZ3F6cTdOTVRqVEpsdWNlUmc?oc=5) |
-| 2026-11-18 | Indian physical AI startup Humyn Labs raises $47m series A - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxNa09RdlRpVEdGN3Z0c01xVk5vdFVkdC02MzBtamdvMlh1dF85TnQtOVNxOG5pTC1ZY19COWhmVnQwcTZXZlozUXctUl9KWFIzWG56SlNubXY5RHltaW5VUUZGejYzYUpPNGQ2UWdQZml3VVlzSWJhajRWX25sbkthNkd1ajNMVEpaaXZLaXZHbGg?oc=5) |
 | 2026-11-18 | India’s Humyn Labs raises $47M to feed US robotics companies the data they need - TechCrunch | physical ai startup | [link](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzBfSHFXbmNhSlhJUVNRcUdnQV91UWR1aXl0eEp4UktiVnU2SGluYzBIcW5kNTlRNlhaUDB6TmhlQ01kYVVPcnZoR0VwRTJWdEtmTFN6UVVFRjBjd1hMRnhISF8xR2l3TlR6NTRTTmhqbUt3OTdmSWdOb0k4Z2d4NktKY0FlTlVRUTV3T3pUSThIalJWX1htRGw5Y2VCc1dTU1V1czNVUXJ0S2hDVzM1VGk2R0t5SU5NWFlCa29ZUjNZMDg?oc=5) |
+| 2026-11-18 | Indian physical AI startup Humyn Labs raises $47m series A - Tech in Asia | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxNa09RdlRpVEdGN3Z0c01xVk5vdFVkdC02MzBtamdvMlh1dF85TnQtOVNxOG5pTC1ZY19COWhmVnQwcTZXZlozUXctUl9KWFIzWG56SlNubXY5RHltaW5VUUZGejYzYUpPNGQ2UWdQZml3VVlzSWJhajRWX25sbkthNkd1ajNMVEpaaXZLaXZHbGg?oc=5) |
 | 2026-11-18 | BrightAI Raises $97M to Scale Physical AI for Essential Infrastructure - Unite.AI | physical ai startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWTlaSGZ3bllIaTI5LXMyVjJWQVNvVmVBOWZPMk9wM0w3bzNvLVE5RGtYdlgycF9iaE50R1kxY2JvSTQxdVhaX3BzQzJsLU9sbTFHMmc4N0hTT0d4MkptNkZhakNDQ2ZNTkFMUjA4cWlsS3kyN2ZvZmFHYkNNclFmUHNlZHVsaGRsMnpFV0pHM1BOeXhIeVE?oc=5) |
 | 2026-11-18 | An Eric Trump-backed startup unveils a powerful new humanoid robot—and won't rule out arming it - Fast Company | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxOay05N1JJSXFwUk1VakFZM3ZXRVVsSkEyWVhiSlVoUmt2b2c5bzJCcEx5cGE3WU5qbktYemF5WVBPZFlsMTd0NmJCM3ZNSnhBYndUblI1SHBvNTdNR0d0ZWNzS0xJOVNTS0hFZ3NoY05ialAwUHdLdlozNU5XbDl4ek05VlV4UWJQRDdvTw?oc=5) |
-| 2026-11-17 | Robotics startup Genesis AI raises $500m backed by Nvidia - Sifted | physical ai startup | [link](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1c3VtQkRvTHBNQVRCX2k2WVdOWmJHUlJCNGhUdldPMnJTN3RhenFoMWV1Z3BESFhYaEhqaXN6NEtQN3lPZ0c5Y1JOelljbVR4ck9aYms3dFpjaFRXMGc?oc=5) |
 
 ## Jobs
 | Posted | Title | Company | Location | URL |
