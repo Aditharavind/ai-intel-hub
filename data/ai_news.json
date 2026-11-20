@@ -1,5 +1,33 @@
 [
   {
+    "title": "Combatting adversarial distillation",
+    "source": "OpenAI",
+    "date": "2026-11-20",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "source": "OpenAI",
+    "date": "2026-11-20",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "source": "OpenAI",
+    "date": "2026-11-20",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+  },
+  {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "source": "Hugging Face",
+    "date": "2026-11-20",
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "summary": ""
+  },
+  {
     "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
     "source": "Hugging Face",
     "date": "2026-11-20",
@@ -14,11 +42,11 @@
     "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
   },
   {
-    "title": "Deploying Daybreak Red",
+    "title": "Explore the Codex Security Plugin",
     "source": "OpenAI",
     "date": "2026-11-19",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
   },
   {
     "title": "See PR scans in action",
@@ -28,18 +56,18 @@
     "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
   },
   {
-    "title": "Explore the Codex Security Plugin",
-    "source": "OpenAI",
-    "date": "2026-11-19",
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
-  },
-  {
     "title": "Get started with Daybreak Blue",
     "source": "OpenAI",
     "date": "2026-11-19",
     "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
     "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
+  },
+  {
+    "title": "Deploying Daybreak Red",
+    "source": "OpenAI",
+    "date": "2026-11-19",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
   },
   {
     "title": "The Silent Consensus",
@@ -49,13 +77,6 @@
     "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
   },
   {
-    "title": "Research acceleration: The jagged frontier",
-    "source": "OpenAI",
-    "date": "2026-11-18",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-  },
-  {
     "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
     "source": "OpenAI",
     "date": "2026-11-18",
@@ -63,32 +84,18 @@
     "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
   },
   {
+    "title": "Research acceleration: The jagged frontier",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+  },
+  {
     "title": "Inside the Codex sandbox",
     "source": "OpenAI",
     "date": "2026-11-18",
     "url": "https://openai.com/index/inside-the-codex-sandbox",
     "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
-  },
-  {
-    "title": "Managing frontier AI risk: From training to deployment",
-    "source": "OpenAI",
-    "date": "2026-11-18",
-    "url": "https://openai.com/index/managing-frontier-ai-risk",
-    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
-  },
-  {
-    "title": "Advancing chip design with OpenAI models",
-    "source": "OpenAI",
-    "date": "2026-11-18",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
-  },
-  {
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "source": "OpenAI",
-    "date": "2026-11-18",
-    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
   },
   {
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -158,13 +165,6 @@
     "source": "Hugging Face",
     "date": "2026-11-12",
     "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "summary": ""
-  },
-  {
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "source": "Hugging Face",
-    "date": "2026-11-12",
-    "url": "https://huggingface.co/blog/3d-lora-finetuning",
     "summary": ""
   },
   {

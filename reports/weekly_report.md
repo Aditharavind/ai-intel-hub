@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-20 13:39 UTC
+Generated: 2026-11-20 21:34 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-20 13:39 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84892 | 33956.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64184 | 25673.7 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44798 | 17919.3 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 84901 | 33960.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64188 | 25675.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44801 | 17920.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30954 | 12381.7 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30275 | 12110.1 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30276 | 12110.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,8 +26,8 @@ Generated: 2026-11-20 13:39 UTC
 | zxyty/physicalai-dinov3-vitl16 | 4751 | 1425.4 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
 | mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF | 296 | 88.9 | [link](https://huggingface.co/mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF) |
 | edoardochiavazza/drone-navigation-models | 216 | 64.9 | [link](https://huggingface.co/edoardochiavazza/drone-navigation-models) |
-| MakinoKF/rebot_pick_multiple_nut_dataset_20261116_155455_act-policy-v1 | 70 | 21.1 | [link](https://huggingface.co/MakinoKF/rebot_pick_multiple_nut_dataset_20261116_155455_act-policy-v1) |
 | lindafei001/sft391-agenticA-v2-navigation-think-ep2 | 62 | 18.7 | [link](https://huggingface.co/lindafei001/sft391-agenticA-v2-navigation-think-ep2) |
+| AmberHeart/Uni-MOPD-Teacher-Embodied | 61 | 18.4 | [link](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-Embodied) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -45,4 +45,4 @@ Generated: 2026-11-20 13:39 UTC
 | 2026-11-19 | Physical AI Startup Humyn Labs Raises USD 47M Series A - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oU3htTy1tZG5yQUVVSTZlcHVTQklLeUdqVzVwSWhvdzd3eGNXTC1nSTdodFF2RklGb2g3YXNBRGNVb0tMZEF3LU9rUVFPU0tfUUFr?oc=5) |
 | 2026-11-19 | Physical AI startup Humyn Labs raises $47M in Series A - YourStory.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRTNnYnVTenhZTFRnWjNWQnRZWUhKRlp6emZMNDByelhIMVR2aUoyd3BJS0ZIOVRsME1WdWE4TUowU3V3aHlIdm1ickJ6VDBVSmJ3ZU9UTDJqSFNRaWdRQ09fTDZfaFUyVXdKUldPUk9ZN0tFdnU0MmdIcVduZmRtSFdwZ1ZRb3Fpc0lqUmxkV2g?oc=5) |
 | 2026-11-18 | Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm5NTDJJMFZvYV9BOWZHcEF6MWRBV1VaVy1WLU9saHlhWWw4dHRlQWM4b0w0ZlE0bVdwSktncEowUUJseWFBWTl5Tm5YOWMxMlk1eW1RSDJ4THF4VHI2OXF1T0RZWVdFXzJFWWQ4V3R4ZXRkaGhoOEpjS0ljQkJYeWxSbWVWYTc2SHhkbWhVellFbVBwMThwS0VIUWFvejlMQ2dGc08zaWJ6eVkwTFFvQjlBZGt6RWZjNjNmbThGLTZSbFUwejBPcg?oc=5) |
-| 2026-11-18 | Physical AI Startup Humyn Raises $47 Million From Accel, Prosus - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlpWaHp2emQzQXpHUnZSbjFoSlQ5YlhpclpCMEdyRm1sNUxuSkQ1MklQS3Zrd0Y1Q2pzRUlqblc4R0ltU3BvNk1kWUlqd3NHejF3YnpINnc2aXFkZGtsUk56QUEwZXRTSHFxRmd0ZU5LVHA1R0xRRmVGd1dyeTJQUHdIXzVGd3JkNUFPUU9DdXphaUYzbS1yX00wV0xrY054cGRTdFlvOU5HSmM1WG42RjJ3?oc=5) |
+| 2026-11-18 | Nebius names the 2026 Physical AI Awards winners - Nebius | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTFA1V0gzUmRKbEZQZFc5RkdqbS11Qm9wLWVXSldjeEY0elZBUnRDTXM1Z1czNFNCc1d2Y25ISXhXam1UYi0zTy1pOUpDVnJ2cmVCUEN2NjhfRjJxMTVxVXllMWxIN3pjaEdCYXE1dDBB?oc=5) |
