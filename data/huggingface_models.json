@@ -1,5 +1,77 @@
 [
   {
+    "model": "Aitor04/modelo_act_robot_v2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Aitor04/modelo_act_robot_v2",
+    "date": "2026-11-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "x-square-robot/wall-wm-2.0-robodojo",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/x-square-robot/wall-wm-2.0-robodojo",
+    "date": "2026-11-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "LiberalMind/robot-learn",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LiberalMind/robot-learn",
+    "date": "2026-11-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "bageldotcom/Bagel-Robotics-1",
+    "downloads": 0,
+    "likes": 6,
+    "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
+    "date": "2026-11-21",
+    "keyword": "robotics",
+    "score": 1.3
+  },
+  {
+    "model": "pawanpaudel93/xiaomi-robotics-1-robocasa365-refs",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/pawanpaudel93/xiaomi-robotics-1-robocasa365-refs",
+    "date": "2026-11-21",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "LiberalMind/robot-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/LiberalMind/robot-policy",
+    "date": "2026-11-21",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "zzzyzh/ReOPD-RoboTwin-Warmup",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/zzzyzh/ReOPD-RoboTwin-Warmup",
+    "date": "2026-11-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "isthathuman/robottwin-original-dp3-dif-source",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/isthathuman/robottwin-original-dp3-dif-source",
+    "date": "2026-11-21",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "arunos728/cosmos3-robotwin-ae-h43-ee16cam-c3init-fmax04-b64-60k",
     "downloads": 31,
     "likes": 0,
@@ -9,10 +81,46 @@
     "score": 9.4
   },
   {
+    "model": "Harrysunshine/vla-ce-exp050-edge-jp6",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Harrysunshine/vla-ce-exp050-edge-jp6",
+    "date": "2026-11-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "ahad-j/nat-vla-450m",
+    "downloads": 18,
+    "likes": 0,
+    "url": "https://huggingface.co/ahad-j/nat-vla-450m",
+    "date": "2026-11-21",
+    "keyword": "vla",
+    "score": 5.5
+  },
+  {
     "model": "SieloRobotics/fineart_vla_machine_tending_II_action_v3",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action_v3",
+    "date": "2026-11-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "shkreza/lingbot-vla-4b-click-bell-focus-qkv",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/shkreza/lingbot-vla-4b-click-bell-focus-qkv",
+    "date": "2026-11-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "capstone-vlavla/e3-seed2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/capstone-vlavla/e3-seed2",
     "date": "2026-11-21",
     "keyword": "vla",
     "score": 0.1
@@ -72,6 +180,15 @@
     "score": 0.1
   },
   {
+    "model": "Lerone1980/orange_green_policy",
+    "downloads": 41,
+    "likes": 0,
+    "url": "https://huggingface.co/Lerone1980/orange_green_policy",
+    "date": "2026-11-21",
+    "keyword": "policy",
+    "score": 12.4
+  },
+  {
     "model": "YunBeen1205/pnp_cube_model1_merged_act_policy",
     "downloads": 0,
     "likes": 0,
@@ -97,15 +214,6 @@
     "date": "2026-11-21",
     "keyword": "policy",
     "score": 1.0
-  },
-  {
-    "model": "bageldotcom/Bagel-Robotics-1",
-    "downloads": 0,
-    "likes": 6,
-    "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
-    "date": "2026-11-20",
-    "keyword": "robotics",
-    "score": 1.3
   },
   {
     "model": "Aitor04/modelo_act_robot",
@@ -135,69 +243,6 @@
     "score": 0.1
   },
   {
-    "model": "zzzyzh/ReOPD-RoboTwin-Warmup",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zzzyzh/ReOPD-RoboTwin-Warmup",
-    "date": "2026-11-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "DVSun/g1-advanced-robotic",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/DVSun/g1-advanced-robotic",
-    "date": "2026-11-20",
-    "keyword": "robot",
-    "score": 0.3
-  },
-  {
-    "model": "Miiche/roboturn-pear-rl-envcache",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Miiche/roboturn-pear-rl-envcache",
-    "date": "2026-11-20",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "khaledalqahtani/robotics-vision-language",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/khaledalqahtani/robotics-vision-language",
-    "date": "2026-11-20",
-    "keyword": "robotics",
-    "score": 6.1
-  },
-  {
-    "model": "mjleee/gr00t-n1.7-robotwin-90-k4-recap-true",
-    "downloads": 16,
-    "likes": 0,
-    "url": "https://huggingface.co/mjleee/gr00t-n1.7-robotwin-90-k4-recap-true",
-    "date": "2026-11-20",
-    "keyword": "robot",
-    "score": 4.9
-  },
-  {
-    "model": "RainyBot/SemWAM-RoboTwin-Full-v1",
-    "downloads": 50,
-    "likes": 0,
-    "url": "https://huggingface.co/RainyBot/SemWAM-RoboTwin-Full-v1",
-    "date": "2026-11-20",
-    "keyword": "robot",
-    "score": 15.1
-  },
-  {
-    "model": "jungwook2358/vwam-robotwin-fredicl-e3-scratch-b64-60k-sfix-iter60000",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/jungwook2358/vwam-robotwin-fredicl-e3-scratch-b64-60k-sfix-iter60000",
-    "date": "2026-11-20",
-    "keyword": "robot",
-    "score": 8.5
-  },
-  {
     "model": "SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_Pi0",
     "downloads": 16,
     "likes": 0,
@@ -220,42 +265,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/HITzyx/harness-vla-pi05-real",
-    "date": "2026-11-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "yiyangd/vla_libero10_finetune_qwen3vl_babel",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yiyangd/vla_libero10_finetune_qwen3vl_babel",
-    "date": "2026-11-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "pawanpaudel93/vla-jepa-libero-fp16-ov",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/pawanpaudel93/vla-jepa-libero-fp16-ov",
-    "date": "2026-11-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "ahad-j/nat-vla-450m",
-    "downloads": 18,
-    "likes": 0,
-    "url": "https://huggingface.co/ahad-j/nat-vla-450m",
-    "date": "2026-11-20",
-    "keyword": "vla",
-    "score": 5.5
-  },
-  {
-    "model": "Harrysunshine/vla-ce-exp050-edge-jp6",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Harrysunshine/vla-ce-exp050-edge-jp6",
     "date": "2026-11-20",
     "keyword": "vla",
     "score": 0.1
@@ -387,22 +396,13 @@
     "score": 0.1
   },
   {
-    "model": "tonifuc3m/hf_act_policy_so101-three-cams-v0",
-    "downloads": 0,
+    "model": "khaledalqahtani/robotics-vision-language",
+    "downloads": 20,
     "likes": 0,
-    "url": "https://huggingface.co/tonifuc3m/hf_act_policy_so101-three-cams-v0",
+    "url": "https://huggingface.co/khaledalqahtani/robotics-vision-language",
     "date": "2026-11-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "JJinJJin2/omx_act_policy_v7",
-    "downloads": 23,
-    "likes": 0,
-    "url": "https://huggingface.co/JJinJJin2/omx_act_policy_v7",
-    "date": "2026-11-20",
-    "keyword": "policy",
-    "score": 7.0
+    "keyword": "robotics",
+    "score": 6.1
   },
   {
     "model": "KevinSoulier/ml2-gen-world-model",
@@ -610,15 +610,6 @@
     "date": "2026-11-13",
     "keyword": "robotics",
     "score": 0.1
-  },
-  {
-    "model": "romanmelnykana/robotics-vision-language-survey",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/romanmelnykana/robotics-vision-language-survey",
-    "date": "2026-11-13",
-    "keyword": "robotics",
-    "score": 8.2
   },
   {
     "model": "Embodied-Self-Improvement/ESI-pi05",
