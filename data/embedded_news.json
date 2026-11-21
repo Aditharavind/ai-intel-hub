@@ -1,5 +1,19 @@
 [
   {
+    "title": "ESP32 Drives MDA Display For Wireless Terminal",
+    "source": "Hackaday",
+    "date": "2026-11-21",
+    "url": "https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/ESP32-TLL-CRT.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Don&#8217;t you miss the days where you had to point a particle accelerator at your face for a full shift? Well, maybe not when we think of it that way, <a class=\"read-more\" href=\"https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/\">&#8230;read more</a>"
+  },
+  {
+    "title": "Automation For The Swimming Pool",
+    "source": "Hackaday",
+    "date": "2026-11-21",
+    "url": "https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/11/4805701792398468069-e1795094773583.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Swimming pools demand constant maintenance if they are to avoid becoming disgusting pools of fetid, bacterial soup. [ingTacchelli] has been working on an automation system for this very purpose. Swimming <a class=\"read-more\" href=\"https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/\">&#8230;read more</a>"
+  },
+  {
     "title": "LiDAR Glasses For the Visually Impaired",
     "source": "Hackaday",
     "date": "2026-11-21",
@@ -35,18 +49,18 @@
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"550\" src=\"https://hackaday.com/wp-content/uploads/2026/11/43246_2026_1377_Fig1_HTML.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Generally lithium-ion cells feature graphite anodes, but their chemical stability comes with the trade-off of poor capacity. Metal alloy anodes such as aluminium, silver and magnesium provide many advantages here, <a class=\"read-more\" href=\"https://hackaday.com/2026/11/20/improving-aluminium-anodes-for-lithium-batteries-with-magnesium/\">&#8230;read more</a>"
   },
   {
-    "title": "Decapitation Seems Like a Great Way to Start X-Mas Decorating",
-    "source": "Hackaday",
+    "title": "ChatGPT for the SNES",
+    "source": "Adafruit",
     "date": "2026-11-21",
-    "url": "https://hackaday.com/2026/11/20/decapitation-seems-like-a-great-way-to-start-x-mas-decorating/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"500\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Snowman-armature-and-dressed.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>American cultural osmosis being what it is, it&#8217;s likely more people know the story of Frosty the Snowman than have ever actually had the chance to build a snowman. What <a class=\"read-more\" href=\"https://hackaday.com/2026/11/20/decapitation-seems-like-a-great-way-to-start-x-mas-decorating/\">&#8230;read more</a>"
+    "url": "https://blog.adafruit.com/2026/11/21/chatgpt-for-the-snes/",
+    "summary": "Will fitting ChatGPT onto hardware become the new &#8220;does it run Doom?&#8221; Benj Edwards worked to put chat onto a Super Nintendo! ChatGPT for SNES is an unofficial experiment designed by Benj Edwards and coded by AI agents: a ChatGPT-style chat program for the Super Nintendo. Its training conversations were written by gpt-oss-120b, OpenAI&#8217;s open-weight [&#8230;]"
   },
   {
-    "title": "Old FireWire Audio Interface Gets USB C Upgrade",
-    "source": "Hackaday",
-    "date": "2026-11-20",
-    "url": "https://hackaday.com/2026/11/20/old-firewire-audio-interface-gets-usb-c-upgrade/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://hackaday.com/wp-content/uploads/2026/11/fuegocable_presonus_fsp_finishing_01-d158c-3264-e1795088226682.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>[bonsembiante] had a PreSonus Firestudio Project on hand. It&#8217;s a very capable audio interface with 8 inputs and 8 outputs, along with MIDI to boot. However, it&#8217;s got one problem—it <a class=\"read-more\" href=\"https://hackaday.com/2026/11/20/old-firewire-audio-interface-gets-usb-c-upgrade/\">&#8230;read more</a>"
+    "title": "Adafruit New Products this Week: Featuring Adafruit VL53L7CX Time-of-Flight Distance 8×8 Pixel Camera – STEMMA QT / Qwiic",
+    "source": "Adafruit",
+    "date": "2026-11-21",
+    "url": "https://blog.adafruit.com/2026/11/21/adafruit-new-products-this-week-featuring-adafruit-vl53l7cx-time-of-flight-distance-8x8-pixel-camera-stemma-qt-qwiic/",
+    "summary": "We&#8217;ve got the New nEw NEW for you right here This week we debut 4 New Products. Visit www.adafruit.com/new for more info."
   },
   {
     "title": "GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port",
@@ -89,76 +103,6 @@
     "date": "2026-11-20",
     "url": "https://www.embedded.com/seco-opens-sampling-of-amd-ryzen-embedded-8000-module/",
     "summary": "<p>Seco has announced samples of its SOM-COMe-CT6-R8000, a COM Express 3.1 Type 6 Compact module based on AMD Ryzen Embedded 8000 Series processors. The platform combines multicore x86 processing, integrated AMD RDNA 3 graphics, and an AMD XDNA neural processing unit (NPU), targeting industrial edge applications that require computing performance, graphics processing, and local AI [...]</p>\n<p>The post <a href=\"https://www.embedded.com/seco-opens-sampling-of-amd-ryzen-embedded-8000-module/\">Seco Opens Sampling of AMD Ryzen Embedded 8000 Module</a> appeared first on <a href=\"https://www.embedded.com\">Embedded</a>.</p>"
-  },
-  {
-    "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-    "summary": "<p>At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/\">Electronica: Video Interview – Farnell on AI, eCommerce and customer needs</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-    "summary": "<p>At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/\">Electronica: Video Interview – NXP on scaling intelligence across vehicles</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Counterfeiting",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-    "summary": "<p>30 years ago counterfeiting was just as much of a problem as it is now &#160; ‘There is a general concern in the industry that component availability can mean that [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/\">Counterfeiting</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-    "summary": "<p>The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn.</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/\">Most Read &#8211; Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Where did the margin go? The hidden errors in PCB assembly",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-    "summary": "<p>Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/\">Where did the margin go? The hidden errors in PCB assembly</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "TI’s multiprotocol comms SoM connects factories",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-    "summary": "<p>Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/\">TI&#8217;s multiprotocol comms SoM connects factories</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Renesas RZ/T2N MPU targets industrial automation",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/products/micros/renesas-rz-t2n-mpu-targets-industrial-automation-2026-11/",
-    "summary": "<p>Renesas Electronics is introducing the RZ/T2N, a 64-bit MPU that combines real-time motor control, industrial Ethernet and application processing on a single chip. It is aimed at a range of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/micros/renesas-rz-t2n-mpu-targets-industrial-automation-2026-11/\">Renesas RZ/T2N MPU targets industrial automation</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "AI-native chip development platform connects intent, knowledge and execution",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/ai-native-chip-development-platform-connects-intent-knowledge-and-execution-2026-11/",
-    "summary": "<p>A multi-player AI-native chip development platform has been announced by AidaChip. The platform covers all silicon roles, from architecture to production, says the company. The platform is built on three [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/ai-native-chip-development-platform-connects-intent-knowledge-and-execution-2026-11/\">AI-native chip development platform connects intent, knowledge and execution</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Google’s opportunity to rejig TPU supply chain",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/",
-    "summary": "<p>Google is rejigging the supply chain for its TPUs as Jensen Huang’s exit impacts a capacity-constrained AI chip rmarket. SemiAnalysis founder Dylan Patel told CNBC that Google is already going [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/\">Google’s opportunity to rejig TPU supply chain</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "NAND price to fall",
-    "source": "Electronics Weekly",
-    "date": "2026-11-20",
-    "url": "https://www.electronicsweekly.com/news/business/nand-price-to-fall-2026-11/",
-    "summary": "<p>NAND could be in over-supply next year as production increases rapidly, China CSPs cut SSD demand and consumer orders fall, says TrendForce. TrendForce reckons that NAND contract prices will begin [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/nand-price-to-fall-2026-11/\">NAND price to fall</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "John Park’s CircuitPython Parsec: Display Shapes: Arc",
@@ -229,20 +173,6 @@
     "date": "2026-11-20",
     "url": "https://blog.adafruit.com/2026/11/20/new-guide-adafruit-mcp2222-breakout-adafruitlearningsystem-adafruit/",
     "summary": "What can the MCP2222 chip do? This chip from Microchip is similar to a USB to serial converter chips but adds a GPIO, UART Serial, SPI and I2C interface as well. The I2C interface is great for talking to OLEDs, sensors, PWM drivers, it&#8217;s the most popular interface for small devices. SPI is for more [&#8230;]"
-  },
-  {
-    "title": "A Geographical History of Native Americans",
-    "source": "Adafruit",
-    "date": "2026-11-20",
-    "url": "https://blog.adafruit.com/2026/11/20/a-geographical-history-of-native-americans/",
-    "summary": "via National Geographic Kids National Geographic Kids has child-friendly resources on the history of Native Americans by geographical location."
-  },
-  {
-    "title": "Gingerbread christmas train #3DThursday #3DPrinting",
-    "source": "Adafruit",
-    "date": "2026-11-20",
-    "url": "https://blog.adafruit.com/2026/11/19/gingerbread-christmas-train-3dthursday-3dprinting/",
-    "summary": "Tomany shares: Fun and festive little train with a quirky gingerbread look—perfect for decorating under the tree or entertaining the kids. It comes with easy-to-assemble tracks and two chimney versions: one shaped like a lollipop and one more classic download the files on: https://makerworld.com/en/models/1993646-gingerbread-christmas-train Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing [&#8230;]"
   },
   {
     "title": "SECO’s AMD Ryzen™ Embedded 8000 Series-based COM Express module now available for sampling",
