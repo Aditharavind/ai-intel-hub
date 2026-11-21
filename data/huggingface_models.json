@@ -1,11 +1,47 @@
 [
   {
-    "model": "Aitor04/modelo_act_robot",
+    "model": "arunos728/cosmos3-robotwin-ae-h43-ee16cam-c3init-fmax04-b64-60k",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Aitor04/modelo_act_robot",
-    "date": "2026-11-20",
+    "url": "https://huggingface.co/arunos728/cosmos3-robotwin-ae-h43-ee16cam-c3init-fmax04-b64-60k",
+    "date": "2026-11-21",
     "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Yingxu12/vla-ckpt",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yingxu12/vla-ckpt",
+    "date": "2026-11-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SieloRobotics/fineart_vla_machine_tending_II_action_v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action_v3",
+    "date": "2026-11-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "changh95/vla-jepa-base-p150",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/changh95/vla-jepa-base-p150",
+    "date": "2026-11-21",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "Miraiyochi/world-model-qa-mario",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Miraiyochi/world-model-qa-mario",
+    "date": "2026-11-21",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -16,6 +52,15 @@
     "date": "2026-11-20",
     "keyword": "robotics",
     "score": 1.3
+  },
+  {
+    "model": "Aitor04/modelo_act_robot",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Aitor04/modelo_act_robot",
+    "date": "2026-11-20",
+    "keyword": "robot",
+    "score": 0.1
   },
   {
     "model": "execbat/robot-finetuning",
@@ -99,12 +144,12 @@
     "score": 7.6
   },
   {
-    "model": "SieloRobotics/fineart_vla_machine_tending_II_action_v3",
+    "model": "SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_Pi0",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action_v3",
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_Pi0",
     "date": "2026-11-20",
-    "keyword": "vla",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -171,15 +216,6 @@
     "score": 0.1
   },
   {
-    "model": "changh95/vla-jepa-base-p150",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/changh95/vla-jepa-base-p150",
-    "date": "2026-11-20",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "yiyangd/vla_torch_checkpoints_fp32_babel",
     "downloads": 0,
     "likes": 0,
@@ -187,24 +223,6 @@
     "date": "2026-11-20",
     "keyword": "vla",
     "score": 0.1
-  },
-  {
-    "model": "napalna/coarse-vla-pi05-assembly-checkpoints",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/napalna/coarse-vla-pi05-assembly-checkpoints",
-    "date": "2026-11-20",
-    "keyword": "vla",
-    "score": 0.3
-  },
-  {
-    "model": "Lisavila/TacInno-VLA",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/Lisavila/TacInno-VLA",
-    "date": "2026-11-20",
-    "keyword": "vla",
-    "score": 0.3
   },
   {
     "model": "into-the-night/sokoban-world-model-qwen3-0.6b",
@@ -369,24 +387,6 @@
     "score": 0.1
   },
   {
-    "model": "liang12121/wuji-tracking-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/liang12121/wuji-tracking-policy",
-    "date": "2026-11-20",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "mvdelibas/robot-tutma-noktasi-pose-yolo11s-v1",
-    "downloads": 10,
-    "likes": 0,
-    "url": "https://huggingface.co/mvdelibas/robot-tutma-noktasi-pose-yolo11s-v1",
-    "date": "2026-11-19",
-    "keyword": "robot",
-    "score": 3.1
-  },
-  {
     "model": "KevinSoulier/ml2-gen-world-model",
     "downloads": 0,
     "likes": 0,
@@ -511,15 +511,6 @@
     "date": "2026-11-17",
     "keyword": "world model",
     "score": 6.7
-  },
-  {
-    "model": "fusion-world-model/gru_100m_c-shots",
-    "downloads": 21,
-    "likes": 0,
-    "url": "https://huggingface.co/fusion-world-model/gru_100m_c-shots",
-    "date": "2026-11-17",
-    "keyword": "world model",
-    "score": 6.4
   },
   {
     "model": "xjtulmx/q38-embodied-xfer",
