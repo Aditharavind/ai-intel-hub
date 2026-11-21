@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-21 02:52 UTC
+Generated: 2026-11-21 10:19 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,29 +14,29 @@ Generated: 2026-11-21 02:52 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84900 | 33960.1 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64191 | 25676.5 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44802 | 17920.9 | [link](https://github.com/NaiboWang/EasySpider) |
+| Developer-Y/cs-video-courses | 84901 | 33960.5 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64193 | 25677.3 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44801 | 17920.5 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30953 | 12381.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30278 | 12111.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30280 | 12112.1 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
 | --- | --- | --- | --- |
 | zxyty/physicalai-dinov3-vitl16 | 4751 | 1425.4 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
-| mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF | 296 | 88.9 | [link](https://huggingface.co/mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF) |
-| edoardochiavazza/drone-navigation-models | 216 | 64.9 | [link](https://huggingface.co/edoardochiavazza/drone-navigation-models) |
-| lindafei001/sft391-agenticA-v2-navigation-think-ep2 | 62 | 18.7 | [link](https://huggingface.co/lindafei001/sft391-agenticA-v2-navigation-think-ep2) |
-| AmberHeart/Uni-MOPD-Teacher-Embodied | 61 | 18.4 | [link](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-Embodied) |
+| mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF | 314 | 94.3 | [link](https://huggingface.co/mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF) |
+| edoardochiavazza/drone-navigation-models | 222 | 66.7 | [link](https://huggingface.co/edoardochiavazza/drone-navigation-models) |
+| AmberHeart/Uni-MOPD-Teacher-Embodied | 65 | 19.6 | [link](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-Embodied) |
+| lindafei001/sft391-agenticA-v2-navigation-think-ep2 | 63 | 19.0 | [link](https://huggingface.co/lindafei001/sft391-agenticA-v2-navigation-think-ep2) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-11-19 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXM0U2NHTDBqdHN3dDVDUFM2dDdtdDVrWlZjTEJOam1fTjMwaVF3aEV4ajV6X0VScC1VVnJYSEpUZ1NxNFVXQjdMOXN0Z0VHM1RISnA1NFU1cWdCSExsc3FEMjFWUlRSQ3Q5d2pxWjZESXFHeVdaWHE3djlRcENTXzFQclp2cjBXTHh5QXU1NVEyYkZPWlg3MVpJMGxfelpSZVMzUlNLMWRlVU1JYUtaMlB4dGpCZw?oc=5) |
 | 2026-11-16 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmhZZTk1REMxb1VFYlAzSHJPMWlHNUNtZUZwZjR4aUpWZl95ZG1qYmJHU0NyNHk0REhyZUczNGVNZnVTcTZQenlrOEEtMHRJek9fZmUtcHFZeXNWWmRreUpPUzlGUllIdERVWVJ2Sm5oV3c5NXVYdjdLS1VIMUx6VC1RLWFVdUJj?oc=5) |
 | 2026-11-12 | Figure AI |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXNIUG1VRllocjk2WS1uQWpyeTZkWW1hR05mWkVXY2p2ek5Pa2d2X3NqZ1RKaG1OLVFvNktKdWFoZE12N0l3M1dYYUQ1d0VDVXN4MDlPSWRMaGl0SXZsNnpJRU9xMHFoX0NtRm95OHJMNmpsWmlhTVBJWDd3dU5ZTXdyeF93OWpfa2Zudw?oc=5) |
 | 2026-11-12 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcHI4ZEpOTlNCZWhtdk4wcjU0S1JRUkFGVG5hYkJKUldvdWM3MXVZZ1ZWSjVsVjFYWmRrclRDNXM5dGhqa0w1c1NpdnRrTHI3UEVvZ2VMUFcwUW5oWHlCVDNud0ZVcUNuUlR6clBYYURrVnN5TFMwWnNoYw?oc=5) |
-| 2026-11-08 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xEOEU1Q2xoZnQ0WWVwUjljRDA2QVNFQlBhUGN5ZDdqSUsyamFtZnNqX1BjMmdJdkZ3UFdQR3l4Ukd6UU5PZGxnaVY5bXdIT0VqTGVWY2EzekFfYUQ4VUhfYzlXNXZ0NTJMN1JEczNxbmVIZjVfR3Fkdk8wa2d2RXJYYmtnQVgyd2FyRFJkQzRBVTQyZmJtRWV4OFJQZGM?oc=5) |
+| 2026-11-12 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1SODdjaWh3SG5RRl9vM2NUOU0ydlowX1I0cGtVOVVEclM1WG8zNVNDdUNQYVF6eUx5ZEMxbEhnQ1l3dUV1eUVncTlnemNTQV92VUxqc0pndTdmZm53Vm40aHo2a01yWUVRdVFiR1E5NHJ3alBUcVE?oc=5) |
+| 2026-11-11 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFY5Z2pNTXBneGdERERGbUxuNnRIa2hOVEUwMWZHOXpyVkJlVF9HcWNQM1lteXZ3d1E3WTBpUWRqZEdueVlQSWd5eng2UGRpV0pOODZWN3kyTE9GN3ZQY0R3bVJTdzdrcjJJX2s3M0dzREFjR19FTklfWjEzRmVaNGFCM0NnMUdRMWtoaXNoMkY5YU5kNENuaDd3VEpoZnZNSFk5QTZGS1drZXFkYkFGR1M0UE85dzA0c1NjcFRuaUpiVU82X2hOT2RiU1VoNmFITkNjT2hoZkJZS1prMWtEVkpuYw?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |
