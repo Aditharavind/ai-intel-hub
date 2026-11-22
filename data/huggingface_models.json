@@ -1,5 +1,32 @@
 [
   {
+    "model": "yeahyeahyeahyeah123123/Qwen3.5-9B-No-robots",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/yeahyeahyeahyeah123123/Qwen3.5-9B-No-robots",
+    "date": "2026-11-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "arunos728/cosmos3-robotwin-ae-t320-cj-abc130kpt-fmax04-b64-60k",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/arunos728/cosmos3-robotwin-ae-t320-cj-abc130kpt-fmax04-b64-60k",
+    "date": "2026-11-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "responsible-robot-benchmark/ResponsibleRobotBench-Policies",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/responsible-robot-benchmark/ResponsibleRobotBench-Policies",
+    "date": "2026-11-22",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
     "model": "arunos728/cosmos3-robotwin-ae-h169-cj-cosmos3init-fmax04-b64-60k",
     "downloads": 0,
     "likes": 0,
@@ -81,13 +108,13 @@
     "score": 6.1
   },
   {
-    "model": "Efficient-Large-Model/SANA-Robot-AR-Pretrain",
-    "downloads": 24,
-    "likes": 1,
-    "url": "https://huggingface.co/Efficient-Large-Model/SANA-Robot-AR-Pretrain",
+    "model": "wdw8869/my_lingbot_vla",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/wdw8869/my_lingbot_vla",
     "date": "2026-11-22",
-    "keyword": "robot",
-    "score": 7.5
+    "keyword": "vla",
+    "score": 0.1
   },
   {
     "model": "cshizhe/hi3r_vla",
@@ -185,17 +212,8 @@
     "likes": 0,
     "url": "https://huggingface.co/SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_GR00T",
     "date": "2026-11-22",
-    "keyword": "policy",
-    "score": 5.2
-  },
-  {
-    "model": "capstone-vlavla/e3-seed2",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/capstone-vlavla/e3-seed2",
-    "date": "2026-11-22",
     "keyword": "vla",
-    "score": 0.1
+    "score": 5.2
   },
   {
     "model": "Tahary/mundus-0.1-world-model",
@@ -240,6 +258,33 @@
     "url": "https://huggingface.co/Rico123789/evy-lfm3-embodied-sft",
     "date": "2026-11-22",
     "keyword": "embodied",
+    "score": 0.1
+  },
+  {
+    "model": "tonifuc3m/hf_act_policy_so101-three-cams-v0",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/tonifuc3m/hf_act_policy_so101-three-cams-v0",
+    "date": "2026-11-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "acai7/so101_pickplace_policy_fast_finetuned",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/acai7/so101_pickplace_policy_fast_finetuned",
+    "date": "2026-11-22",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Leeyounggi/act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Leeyounggi/act_policy",
+    "date": "2026-11-22",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -306,33 +351,6 @@
     "score": 0.1
   },
   {
-    "model": "sachinkum0009/act_policy_trash",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/sachinkum0009/act_policy_trash",
-    "date": "2026-11-22",
-    "keyword": "policy",
-    "score": 7.3
-  },
-  {
-    "model": "yyuncong/pear-roboturn-full_v2_20261120",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/yyuncong/pear-roboturn-full_v2_20261120",
-    "date": "2026-11-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Josebarv01/act_pti_v4_uniforme_sin_fila_robot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Josebarv01/act_pti_v4_uniforme_sin_fila_robot",
-    "date": "2026-11-21",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Miraiyochi/world-model-qa-mario",
     "downloads": 0,
     "likes": 0,
@@ -360,22 +378,13 @@
     "score": 13.6
   },
   {
-    "model": "Aitor04/policy_test",
-    "downloads": 35,
-    "likes": 0,
-    "url": "https://huggingface.co/Aitor04/policy_test",
-    "date": "2026-11-21",
-    "keyword": "policy",
-    "score": 10.6
-  },
-  {
     "model": "bageldotcom/Bagel-Robotics-1",
     "downloads": 0,
-    "likes": 6,
+    "likes": 8,
     "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
     "date": "2026-11-21",
     "keyword": "robotics",
-    "score": 1.3
+    "score": 1.7
   },
   {
     "model": "pawanpaudel93/xiaomi-robotics-1-robocasa365-refs",
