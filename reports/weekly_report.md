@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-21 22:28 UTC
+Generated: 2026-11-22 02:41 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,11 +14,11 @@ Generated: 2026-11-21 22:28 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 84902 | 33960.9 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64194 | 25677.7 | [link](https://github.com/commaai/openpilot) |
+| Developer-Y/cs-video-courses | 84903 | 33961.3 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64197 | 25678.9 | [link](https://github.com/commaai/openpilot) |
 | NaiboWang/EasySpider | 44802 | 17920.9 | [link](https://github.com/NaiboWang/EasySpider) |
 | AtsushiSakai/PythonRobotics | 30955 | 12382.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
-| harvard-edge/cs249r_book | 30283 | 12113.3 | [link](https://github.com/harvard-edge/cs249r_book) |
+| harvard-edge/cs249r_book | 30284 | 12113.7 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
 | Model | Downloads | Score | URL |
@@ -26,8 +26,8 @@ Generated: 2026-11-21 22:28 UTC
 | zxyty/physicalai-dinov3-vitl16 | 4751 | 1425.4 | [link](https://huggingface.co/zxyty/physicalai-dinov3-vitl16) |
 | mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF | 314 | 94.3 | [link](https://huggingface.co/mradermacher/EmbodiedVLM_1.7M_Without_Fast_video-GGUF) |
 | edoardochiavazza/drone-navigation-models | 222 | 66.7 | [link](https://huggingface.co/edoardochiavazza/drone-navigation-models) |
-| VLA-playground/molmoact2_so101_cube_v3_1 | 78 | 23.5 | [link](https://huggingface.co/VLA-playground/molmoact2_so101_cube_v3_1) |
 | AmberHeart/Uni-MOPD-Teacher-Embodied | 65 | 19.6 | [link](https://huggingface.co/AmberHeart/Uni-MOPD-Teacher-Embodied) |
+| lindafei001/sft391-agenticA-v2-navigation-think-ep2 | 63 | 19.0 | [link](https://huggingface.co/lindafei001/sft391-agenticA-v2-navigation-think-ep2) |
 
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
@@ -41,8 +41,8 @@ Generated: 2026-11-21 22:28 UTC
 ## Most Active Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
-| 2026-11-19 | Physical AI Startup Humyn Labs Raises USD 47M Series A - Wowtale | physical ai startup | [link](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oU3htTy1tZG5yQUVVSTZlcHVTQklLeUdqVzVwSWhvdzd3eGNXTC1nSTdodFF2RklGb2g3YXNBRGNVb0tMZEF3LU9rUVFPU0tfUUFr?oc=5) |
+| 2026-11-20 | AI Healthcare and Humanoid Robots Take Centre Stage at Bengaluru Tech Summit 2026 - www.nationpathindia.com | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0lYN2sxdXFybkstbzlVWjBadDRjWUdYM3RWZENaNVRabTNtODFEUTVfRlNyRnZ2VWYxdnpwS0ZXMkMwbWVmUWlyc2F0Z1J4RHRVRGRjN041NzYzNUgxWE5zU2ljM2tzYUx6eG1PTjk3Uk14cS1CbENqVUFQM2piQWFuSlMyUHFTdVFpck5MV25PdzEzakZYZzhBQQ?oc=5) |
+| 2026-11-19 | Physical AI startup Humyn Labs raises $47M in Series A - YourStory.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRTNnYnVTenhZTFRnWjNWQnRZWUhKRlp6emZMNDByelhIMVR2aUoyd3BJS0ZIOVRsME1WdWE4TUowU3V3aHlIdm1ickJ6VDBVSmJ3ZU9UTDJqSFNRaWdRQ09fTDZfaFUyVXdKUldPUk9ZN0tFdnU0MmdIcVduZmRtSFdwZ1ZRb3Fpc0lqUmxkV2g?oc=5) |
+| 2026-11-19 | S.F. humanoid robotics startup wants to build ATVs — if it can survive the year - The Business Journals | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNkxnMEZHa2pjU0tiM05kbHpUcEdQQS1UcUdqdUdZQkZkYS03LUtSdmZfanNnTEVTUGlOalhhWlpLNzdpNVhBN1lZX0lfaGk4Q3owV3ZCQVFHSVhjRjQ3aVJjclN5cWZUY3p6T1dSd1VYeExSMzJlS0RsdEdzWVNpTmRxOGlpWEN6YkVjU2V0a0RQWmNySXJxUA?oc=5) |
 | 2026-11-18 | Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million - Forbes | physical ai startup | [link](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm5NTDJJMFZvYV9BOWZHcEF6MWRBV1VaVy1WLU9saHlhWWw4dHRlQWM4b0w0ZlE0bVdwSktncEowUUJseWFBWTl5Tm5YOWMxMlk1eW1RSDJ4THF4VHI2OXF1T0RZWVdFXzJFWWQ4V3R4ZXRkaGhoOEpjS0ljQkJYeWxSbWVWYTc2SHhkbWhVellFbVBwMThwS0VIUWFvejlMQ2dGc08zaWJ6eVkwTFFvQjlBZGt6RWZjNjNmbThGLTZSbFUwejBPcg?oc=5) |
 | 2026-11-18 | Nebius names the 2026 Physical AI Awards winners - Nebius | physical ai startup | [link](https://news.google.com/rss/articles/CBMibkFVX3lxTFA1V0gzUmRKbEZQZFc5RkdqbS11Qm9wLWVXSldjeEY0elZBUnRDTXM1Z1czNFNCc1d2Y25ISXhXam1UYi0zTy1pOUpDVnJ2cmVCUEN2NjhfRjJxMTVxVXllMWxIN3pjaEdCYXE1dDBB?oc=5) |
-| 2026-11-18 | Physical AI Startup Humyn Raises $47 Million From Accel, Prosus - Bloomberg.com | physical ai startup | [link](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlpWaHp2emQzQXpHUnZSbjFoSlQ5YlhpclpCMEdyRm1sNUxuSkQ1MklQS3Zrd0Y1Q2pzRUlqblc4R0ltU3BvNk1kWUlqd3NHejF3YnpINnc2aXFkZGtsUk56QUEwZXRTSHFxRmd0ZU5LVHA1R0xRRmVGd1dyeTJQUHdIXzVGd3JkNUFPUU9DdXphaUYzbS1yX00wV0xrY054cGRTdFlvOU5HSmM1WG42RjJ3?oc=5) |
-| 2026-11-18 | Jeff Bezos’s $41 billion AI startup Prometheus is shrouded in secrecy. We found out who’s building it - Fast Company | physical ai startup | [link](https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmNuc0I2ZDhFSmxKUThyVjN6clF0OGoxOVhOekdtbWZ4MzdjTGRNeTFSVDY2ejA2WWtybDlPbWtVMFFZRG44TGZGTkhmS2ZEUXE4QnM2YzZoclM5aVMwU0NUa2pzTVpMOTZPX1RIMk1peFBfWk1QY2c2MWVmZlhaYVBabFhudHEyMGJLVzgzbHUxRWJfdmhWeUs3Uy1JblRjUDFYYW83TmxXQTZpQ3FkV3lPV2JKaHNTVEQ5WWExZ3F6cTdOTVRqVEpsdWNlUmc?oc=5) |
