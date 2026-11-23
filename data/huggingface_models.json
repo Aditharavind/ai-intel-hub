@@ -1,5 +1,41 @@
 [
   {
+    "model": "isthathuman/RoboTwin-DP3-lift-pot-512-bs16-3000",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/isthathuman/RoboTwin-DP3-lift-pot-512-bs16-3000",
+    "date": "2026-11-23",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "prnvpwr2612/tacit-cf-vla-checkpoints",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/prnvpwr2612/tacit-cf-vla-checkpoints",
+    "date": "2026-11-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "changh95/vla-jepa-base-p150",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/changh95/vla-jepa-base-p150",
+    "date": "2026-11-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SieloRobotics/fineart_vla_machine_tending_II_action_v3",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action_v3",
+    "date": "2026-11-23",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
     "model": "yeahyeahyeahyeah123123/Qwen3.5-9B-No-robots",
     "downloads": 0,
     "likes": 0,
@@ -83,26 +119,17 @@
   {
     "model": "x-square-robot/wall-wm-2.0-robodojo",
     "downloads": 0,
-    "likes": 1,
+    "likes": 2,
     "url": "https://huggingface.co/x-square-robot/wall-wm-2.0-robodojo",
     "date": "2026-11-22",
     "keyword": "robot",
-    "score": 0.3
+    "score": 0.5
   },
   {
     "model": "Efficient-Large-Model/SANA-Robot-AR-RoboTwin2.0",
     "downloads": 20,
     "likes": 0,
     "url": "https://huggingface.co/Efficient-Large-Model/SANA-Robot-AR-RoboTwin2.0",
-    "date": "2026-11-22",
-    "keyword": "robot",
-    "score": 6.1
-  },
-  {
-    "model": "Efficient-Large-Model/SANA-Robot-AR-RoboDojo",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/Efficient-Large-Model/SANA-Robot-AR-RoboDojo",
     "date": "2026-11-22",
     "keyword": "robot",
     "score": 6.1
@@ -121,24 +148,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/cshizhe/hi3r_vla",
-    "date": "2026-11-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "SieloRobotics/fineart_vla_machine_tending_II_action_v3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action_v3",
-    "date": "2026-11-22",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "changh95/vla-jepa-base-p150",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/changh95/vla-jepa-base-p150",
     "date": "2026-11-22",
     "keyword": "vla",
     "score": 0.1
@@ -205,15 +214,6 @@
     "date": "2026-11-22",
     "keyword": "policy",
     "score": 3.4
-  },
-  {
-    "model": "SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_GR00T",
-    "downloads": 17,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_15.11.2026_300eps_Last_policy_GR00T",
-    "date": "2026-11-22",
-    "keyword": "vla",
-    "score": 5.2
   },
   {
     "model": "Tahary/mundus-0.1-world-model",
