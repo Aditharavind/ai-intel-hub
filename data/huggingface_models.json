@@ -1,12 +1,102 @@
 [
   {
-    "model": "bayazidhs04/semi-autonomous-weeding-robot-models",
+    "model": "JiayiWuLeo/RobotZero",
     "downloads": 0,
     "likes": 0,
+    "url": "https://huggingface.co/JiayiWuLeo/RobotZero",
+    "date": "2026-11-25",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "HITzyx/harness-vla-pi05-real-blocks",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/HITzyx/harness-vla-pi05-real-blocks",
+    "date": "2026-11-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "VladShash/APE-4B-SFT-V1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/VladShash/APE-4B-SFT-V1",
+    "date": "2026-11-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "zhengzhou/MFM-VLA",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/zhengzhou/MFM-VLA",
+    "date": "2026-11-25",
+    "keyword": "vla",
+    "score": 0.3
+  },
+  {
+    "model": "raoulb091602/vla-skill-consolidation",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/raoulb091602/vla-skill-consolidation",
+    "date": "2026-11-25",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "KAIST-PhysicalAI-AP/5tasks",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/KAIST-PhysicalAI-AP/5tasks",
+    "date": "2026-11-25",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "ise-e/pnp_cube_act_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ise-e/pnp_cube_act_policy",
+    "date": "2026-11-25",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "escapebirdy/dvrk_peg_cam012_rpy_jaw_baseframe_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/escapebirdy/dvrk_peg_cam012_rpy_jaw_baseframe_policy",
+    "date": "2026-11-25",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "escapebirdy/dvrk_peg_cam01_baseframe_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/escapebirdy/dvrk_peg_cam01_baseframe_policy",
+    "date": "2026-11-25",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "escapebirdy/dvrk_peg_cam012_baseframe_policy",
+    "downloads": 1,
+    "likes": 0,
+    "url": "https://huggingface.co/escapebirdy/dvrk_peg_cam012_baseframe_policy",
+    "date": "2026-11-25",
+    "keyword": "policy",
+    "score": 0.4
+  },
+  {
+    "model": "bayazidhs04/semi-autonomous-weeding-robot-models",
+    "downloads": 0,
+    "likes": 1,
     "url": "https://huggingface.co/bayazidhs04/semi-autonomous-weeding-robot-models",
     "date": "2026-11-24",
     "keyword": "robot",
-    "score": 0.1
+    "score": 0.3
   },
   {
     "model": "glannuzel/put-red-cube-in-green-box-robot_act_close08",
@@ -99,15 +189,6 @@
     "score": 0.4
   },
   {
-    "model": "limxdynamics/tron2-robot-description",
-    "downloads": 30,
-    "likes": 0,
-    "url": "https://huggingface.co/limxdynamics/tron2-robot-description",
-    "date": "2026-11-24",
-    "keyword": "robot",
-    "score": 9.1
-  },
-  {
     "model": "DORLR/wirecraft-corl2026-sim-seating-dit-vla",
     "downloads": 0,
     "likes": 0,
@@ -171,46 +252,10 @@
     "score": 0.1
   },
   {
-    "model": "HITzyx/harness-vla-pi05-real-blocks",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/HITzyx/harness-vla-pi05-real-blocks",
-    "date": "2026-11-24",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "Daankrol/vla-jepa-so101-verification",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Daankrol/vla-jepa-so101-verification",
-    "date": "2026-11-24",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "HoonheeCho/physics-reasoning-vla-ckpt",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/HoonheeCho/physics-reasoning-vla-ckpt",
-    "date": "2026-11-24",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "ahad-j/nat-vla-450m",
-    "downloads": 63,
-    "likes": 1,
-    "url": "https://huggingface.co/ahad-j/nat-vla-450m",
-    "date": "2026-11-24",
-    "keyword": "vla",
-    "score": 19.2
-  },
-  {
-    "model": "MINSUAI/mirobot-vla-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/MINSUAI/mirobot-vla-models",
     "date": "2026-11-24",
     "keyword": "vla",
     "score": 0.1
@@ -258,6 +303,15 @@
     "url": "https://huggingface.co/pilarclark/physical-ai-observability-policies",
     "date": "2026-11-24",
     "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "rusrakhimov/ecm276-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/rusrakhimov/ecm276-policy",
+    "date": "2026-11-24",
+    "keyword": "policy",
     "score": 0.1
   },
   {
@@ -310,51 +364,6 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-ft1k-codex-review-cell-pyrua-sol-fixed-150-full-ft-1k",
-    "date": "2026-11-24",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "joonyeongs/cosmos3-edge-policy-droid-ft1k-codex-review-cell-pyrua-sol-fixed-150-lora-r32-a64-1k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-ft1k-codex-review-cell-pyrua-sol-fixed-150-lora-r32-a64-1k",
-    "date": "2026-11-24",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "rusrakhimov/ecm276-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/rusrakhimov/ecm276-policy",
-    "date": "2026-11-24",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "manifoldai-research/WorldScape-Policy-2-5",
-    "downloads": 0,
-    "likes": 1,
-    "url": "https://huggingface.co/manifoldai-research/WorldScape-Policy-2-5",
-    "date": "2026-11-24",
-    "keyword": "policy",
-    "score": 0.3
-  },
-  {
-    "model": "Chaenn/act_policy_so101_onecube_sim_nodr_500_new",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Chaenn/act_policy_so101_onecube_sim_nodr_500_new",
-    "date": "2026-11-24",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "escapebirdy/dvrk_peg_cam01_baseframe_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/escapebirdy/dvrk_peg_cam01_baseframe_policy",
     "date": "2026-11-24",
     "keyword": "policy",
     "score": 0.1
@@ -799,15 +808,6 @@
     "date": "2026-10-27",
     "keyword": "physical ai",
     "score": 1426.0
-  },
-  {
-    "model": "zxyty/physicalai-trellis2-4b",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zxyty/physicalai-trellis2-4b",
-    "date": "2026-10-27",
-    "keyword": "physical ai",
-    "score": 0.1
   },
   {
     "model": "lindafei001/sft391-agenticA-v2-navigation-think-ep2",
