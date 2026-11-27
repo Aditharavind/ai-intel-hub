@@ -1,5 +1,32 @@
 [
   {
+    "model": "Dongkkka/k1_sapiens_haf_vla_head_rgb_no_state_100K",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Dongkkka/k1_sapiens_haf_vla_head_rgb_no_state_100K",
+    "date": "2026-11-27",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "mws-physical-ai/gr00t-n16-postloop100-real80-synth20-20261127",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/mws-physical-ai/gr00t-n16-postloop100-real80-synth20-20261127",
+    "date": "2026-11-27",
+    "keyword": "physical ai",
+    "score": 0.1
+  },
+  {
+    "model": "bayazidhs04/semi-autonomous-weeding-robot-models",
+    "downloads": 0,
+    "likes": 1,
+    "url": "https://huggingface.co/bayazidhs04/semi-autonomous-weeding-robot-models",
+    "date": "2026-11-26",
+    "keyword": "robot",
+    "score": 0.3
+  },
+  {
     "model": "resoLve111/hyvla_robotwin_umi_rand50_seed0",
     "downloads": 0,
     "likes": 0,
@@ -54,10 +81,19 @@
     "score": 0.1
   },
   {
-    "model": "improved-harness-vla/Improved-Harness-VLA-runs",
+    "model": "matteuscruz/vla-g1-paper",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/improved-harness-vla/Improved-Harness-VLA-runs",
+    "url": "https://huggingface.co/matteuscruz/vla-g1-paper",
+    "date": "2026-11-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "vlapky/tiny-voca-ru",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vlapky/tiny-voca-ru",
     "date": "2026-11-26",
     "keyword": "vla",
     "score": 0.1
@@ -67,6 +103,15 @@
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/napalna/coarse-vla-pi05-assembly-dr",
+    "date": "2026-11-26",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "improved-harness-vla/Improved-Harness-VLA-runs",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/improved-harness-vla/Improved-Harness-VLA-runs",
     "date": "2026-11-26",
     "keyword": "vla",
     "score": 0.1
@@ -135,13 +180,13 @@
     "score": 0.1
   },
   {
-    "model": "SamerAyyad/VLA_Samer_22.11.2026_200eps_policy_Pi05",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_22.11.2026_200eps_policy_Pi05",
+    "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
+    "downloads": 20,
+    "likes": 37,
+    "url": "https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B",
     "date": "2026-11-26",
-    "keyword": "vla",
-    "score": 0.1
+    "keyword": "embodied",
+    "score": 13.5
   },
   {
     "model": "AmberHeart/Uni-MOPD-Teacher-Embodied",
@@ -178,6 +223,42 @@
     "date": "2026-11-26",
     "keyword": "policy",
     "score": 0.3
+  },
+  {
+    "model": "Yewy/mahjong_surfaces_standard_mat_v1_v15_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yewy/mahjong_surfaces_standard_mat_v1_v15_policy",
+    "date": "2026-11-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "dexpoint/bulb1-policy-inference-20261126",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/dexpoint/bulb1-policy-inference-20261126",
+    "date": "2026-11-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "addifer/my_policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/addifer/my_policy",
+    "date": "2026-11-26",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "joonyeongs/cosmos3-edge-policy-droid-pyrua-sol-fixed-150-first10-plus-dagger-90-codex-only-full-ft-600-run2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-pyrua-sol-fixed-150-first10-plus-dagger-90-codex-only-full-ft-600-run2",
+    "date": "2026-11-26",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "thanujmaligi/ecm2027-team200-act-policy",
@@ -243,42 +324,6 @@
     "score": 0.1
   },
   {
-    "model": "Autism-Skill-Issue/pi05-lora-napkin-ur12e-3cam-60fps-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Autism-Skill-Issue/pi05-lora-napkin-ur12e-3cam-60fps-policy",
-    "date": "2026-11-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "CyanMask/my_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/CyanMask/my_policy",
-    "date": "2026-11-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "joonyeongs/cosmos3-edge-policy-droid-pyrua-sol-fixed-150-first10-plus-codex-review-phase-90-full-ft-1k",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-pyrua-sol-fixed-150-first10-plus-codex-review-phase-90-full-ft-1k",
-    "date": "2026-11-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
-    "model": "escapebirdy/dvrk_rope_cam012_rpy_jaw_mtdit_baseframe_policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/escapebirdy/dvrk_rope_cam012_rpy_jaw_mtdit_baseframe_policy",
-    "date": "2026-11-26",
-    "keyword": "policy",
-    "score": 0.1
-  },
-  {
     "model": "ipplab/HOG-WAM-RoboTwin-Uncond",
     "downloads": 0,
     "likes": 0,
@@ -321,33 +366,6 @@
     "url": "https://huggingface.co/Efficient-Large-Model/SANA-Robot-AR-LIBERO-LeRobot",
     "date": "2026-11-25",
     "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "Efficient-Large-Model/SANA-Robot-AR-Pretrain-LeRobot",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Efficient-Large-Model/SANA-Robot-AR-Pretrain-LeRobot",
-    "date": "2026-11-25",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "SamerAyyad/VLA_Samer_22.11.2026_200eps_policy_Pi0",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_22.11.2026_200eps_policy_Pi0",
-    "date": "2026-11-25",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Adam-YAN/lingbot-vla-v2-6b-e5c3aug-8h200-gbs1024-s20000",
-    "date": "2026-11-25",
-    "keyword": "vla",
     "score": 0.1
   },
   {
@@ -567,15 +585,6 @@
     "score": 9.4
   },
   {
-    "model": "WorldModelBenchmark/piperx-pi0.5-1111",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/WorldModelBenchmark/piperx-pi0.5-1111",
-    "date": "2026-11-20",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "vincentsaputra/research-embodied-ai99",
     "downloads": 21,
     "likes": 0,
@@ -610,15 +619,6 @@
     "date": "2026-11-20",
     "keyword": "embodied",
     "score": 9.4
-  },
-  {
-    "model": "nikitaazdj/test-embodied-ai34",
-    "downloads": 28,
-    "likes": 0,
-    "url": "https://huggingface.co/nikitaazdj/test-embodied-ai34",
-    "date": "2026-11-20",
-    "keyword": "embodied",
-    "score": 8.5
   },
   {
     "model": "pawanpaudel93/xiaomi-robotics-1-robocasa365-fp16-ov",
@@ -817,15 +817,6 @@
     "date": "2026-10-27",
     "keyword": "physical ai",
     "score": 8.2
-  },
-  {
-    "model": "zxyty/physicalai-ltx-2.3-ic-lora-union-control",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/zxyty/physicalai-ltx-2.3-ic-lora-union-control",
-    "date": "2026-10-27",
-    "keyword": "physical ai",
-    "score": 0.1
   },
   {
     "model": "lindafei001/sft391-agenticA-v2-navigation-think-ep2",
