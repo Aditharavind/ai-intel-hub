@@ -1,10 +1,94 @@
 [
   {
+    "title": "The Happy Mac that Apple Never Made",
+    "source": "Hackaday",
+    "date": "2026-11-27",
+    "url": "https://hackaday.com/2026/11/27/the-happy-mac-that-apple-never-made/",
+    "summary": "<div><img alt=\"Two images of similar all-in-one computers side-by-side. They each are sitting on a green cutting mat with a pedestal with two black slits below a slightly wider screen mounted at the top. It is lined up on the left side with the pedestal, but the right edge of the screen is floating over space. The left image has a white apple logo and the text &quot;Apple Computer&quot; on the screen bezel while the device on the right has the rainbow Apple logo and no text.\" class=\"attachment-large size-large wp-post-image\" height=\"533\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Apple-Happy-Mac-Frog-Design-Comparison.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>The plethora of different machines available in the 80s are one of the things that makes retrocomputing fun, but sometimes we run across ideas that never quite made it to <a class=\"read-more\" href=\"https://hackaday.com/2026/11/27/the-happy-mac-that-apple-never-made/\">&#8230;read more</a>"
+  },
+  {
+    "title": "A Modular 6502 Computer",
+    "source": "Hackaday",
+    "date": "2026-11-27",
+    "url": "https://hackaday.com/2026/11/26/a-modular-6502-computer/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/The-20c-Episodio-0-Hola-0-0-screenshot.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Back in the day, there were plenty of nice compact microcomputers out there that featured the 6502 CPU. There were also simpler computers that put the chip on a bare <a class=\"read-more\" href=\"https://hackaday.com/2026/11/26/a-modular-6502-computer/\">&#8230;read more</a>"
+  },
+  {
+    "title": "When Decoupling Capacitors Go Wrong",
+    "source": "Hackaday",
+    "date": "2026-11-27",
+    "url": "https://hackaday.com/2026/11/26/when-decoupling-capacitors-go-wrong/",
+    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"462\" src=\"https://hackaday.com/wp-content/uploads/2026/11/discrete_clock_issue_ben_eater_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Popular wisdom holds that decoupling capacitors are good, and thus more decoupling capacitors is better. Unfortunately physics disagrees on that notion, as [Ben Eater] discusses in a recent video, following <a class=\"read-more\" href=\"https://hackaday.com/2026/11/26/when-decoupling-capacitors-go-wrong/\">&#8230;read more</a>"
+  },
+  {
     "title": "Diagnosing a Failed LG Fridge Ice Maker",
     "source": "Hackaday",
     "date": "2026-11-27",
     "url": "https://hackaday.com/2026/11/26/diagnosing-a-failed-lg-fridge-ice-maker/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"477\" src=\"https://hackaday.com/wp-content/uploads/2026/11/ice_cube_tray_adrians_digital_basement_extras_youtube.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Although a useful feature for people who use ice cubes a lot, an automatic ice cube maker feature in a refrigerator can be a bit of a pain if they <a class=\"read-more\" href=\"https://hackaday.com/2026/11/26/diagnosing-a-failed-lg-fridge-ice-maker/\">&#8230;read more</a>"
+  },
+  {
+    "title": "usb-rea generates a Linux driver for your Windows-only USB gadget",
+    "source": "CNX Software",
+    "date": "2026-11-27",
+    "url": "https://www.cnx-software.com/2026/11/27/usb-rea-generates-a-linux-driver-for-your-windows-only-usb-gadget/",
+    "summary": "<div><img alt=\"usb rea reverse engineer tool for USB device\" class=\"attachment-medium size-medium wp-post-image\" height=\"414\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/usb-rea-reverse-engineer-tool-for-USB-device-720x414.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>usb-rea is an MIT-licensed tool for people who own a USB gadget that only ships with a Windows program. It captures packets while you use the Windows app and generates a pyusb driver for Linux. Many years ago, I had to reverse-engineer a USB video capture card, whose vendor didn&#8217;t want to work with a company specializing in &#8220;small-volume production&#8221;. I had to capture the packets with Wireshark and manually implement code to replay URB (USB Request Block) packets using libusb, while paying close attention to timings. A tool like usb-rea would have been useful at the time. More specifically, usb-rea captures USB traffic with USBPcap or usbmon while the user clicks through the vendor app and labels the actions. The open-source program then infers the command structure (constants, counters, value fields, lookup tables, CRCs) and writes a Markdown protocol report plus a standalone Linux driver. The developer, Emir Mrkaljevic, [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/27/usb-rea-generates-a-linux-driver-for-your-windows-only-usb-gadget/\">usb-rea generates a Linux driver for your Windows-only USB gadget</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Waveshare ESP32-S3-Touch-LCD-3.49 gets open-source retro firmware with clock, internet radio, games…",
+    "source": "CNX Software",
+    "date": "2026-11-27",
+    "url": "https://www.cnx-software.com/2026/11/27/waveshare-esp32-s3-touch-lcd-3-49-gets-open-source-retro-firmware-with-clock-internet-radio-games/",
+    "summary": "<div><img alt=\"Phosphor fimware Waveshare ESP32-S3-Touch-LCD-3.49\" class=\"attachment-medium size-medium wp-post-image\" height=\"405\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Phosphor-fimware-Waveshare-ESP32-S3-Touch-LCD-3.49-720x405.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>Phosphor is an open-source firmware for the Waveshare ESP32-S3-Touch-LCD-3.49 wide display (640&#215;172) devkit that turns it into a retro desk gadget. The firmware implements a clock with alarm, weather, internet radio, timers, touchable pixel scenes, three games, and small tools in four different styles, namely VFD, C64, Amiga, and Atari 2600. Phophor firmware highlights Written in Arduino C++; the radio on one of the ESP32-S3 cores, and the UI on the other core Clock and alarm Internet radio with genre buttons, dancing couple, and equalizer; supports Radio Browser, MP3 and AAC streams Three games &#8211; Blackjack, Lighthouse Keeper, and Runner Other screens &#8211; Fish tank, Lighthouse, Ocean liner, focus timer, snowy cabin, hourglass, coin flip, etc&#8230; Settings Theme &#8211; select between VFD, C64 (16 colors), Amiga (32 out of 4096 colors), and Amiga 2600 (4 colors by line) styles Time/date, units, language, brightness QR code for other settings (e.g., WiFi [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/27/waveshare-esp32-s3-touch-lcd-3-49-gets-open-source-retro-firmware-with-clock-internet-radio-games/\">Waveshare ESP32-S3-Touch-LCD-3.49 gets open-source retro firmware with clock, internet radio, games&#8230;</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
+  },
+  {
+    "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+    "source": "Electronics Weekly",
+    "date": "2026-11-27",
+    "url": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+    "summary": "<p>Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using NVIDIA SCADA software harnessing the performance of Kioxia SSDs in support of NVIDIA’s [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/\">Kioxia and Nvidia extend GPU to petabyte scale</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series",
+    "source": "Electronics Weekly",
+    "date": "2026-11-27",
+    "url": "https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/",
+    "summary": "<p>Starting with a Common Engineering Question In energy storage PCS DC-link designs, rated voltage and capacitance are essential starting points, but they do not fully determine how a capacitor performs [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/\">Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR &#038; Thermal Performance of YMIN CW3/CW6 Series</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Musk to give two SpaceX shares to every American child",
+    "source": "Electronics Weekly",
+    "date": "2026-11-27",
+    "url": "https://www.electronicsweekly.com/news/business/musk-to-give-twospacex-shares-to-every-american-child-2026-11/",
+    "summary": "<p>Elon Musk is to give two SpaceX shares to every child in America. The gift is worth $18 billion. Children will receive one share from SpaceX and one from him [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/musk-to-give-twospacex-shares-to-every-american-child-2026-11/\">Musk to give two SpaceX shares to every American child</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "UK quantum companies have raised $621m this year",
+    "source": "Electronics Weekly",
+    "date": "2026-11-27",
+    "url": "https://www.electronicsweekly.com/news/business/uk-quantum-conpanies-have-raised-621m-this-year-2026-11/",
+    "summary": "<p>UK Quantum Computing funding has raised $621M raised  so far this year,  says Tracxn Technologies, 4.8x the $129M raised in 2025. Two Late Stage rounds contributed $510M in 2026 YTD, [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/uk-quantum-conpanies-have-raised-621m-this-year-2026-11/\">UK quantum companies have raised $621m this year</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Smart phone units won’t regain last year’s level till 2030",
+    "source": "Electronics Weekly",
+    "date": "2026-11-27",
+    "url": "https://www.electronicsweekly.com/news/business/smart-phone-market-to-fall-14-this-year-6-next-year-2026-11/",
+    "summary": "<p>The smartphone market is forecast to decline 13.9% ToT in 2026 and 6% in 2027,  says Counterpoint Research. The  rise in component costs, reduced availability of economically viable lower-priced devices [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/smart-phone-market-to-fall-14-this-year-6-next-year-2026-11/\">Smart phone units won’t regain last year’s level till 2030</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "Kioxia demoes XL-FLASH Gen 3",
+    "source": "Electronics Weekly",
+    "date": "2026-11-27",
+    "url": "https://www.electronicsweekly.com/news/products/memory/kioxia-2-2026-11/",
+    "summary": "<p>Yesterday, at the Kioxia Forum in Tokyo, Kioxia showed off a prototype of its XL-FLASH generation 3 technology, the next generation of its low-latency, high-performance flash memory for AI applications. [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/memory/kioxia-2-2026-11/\">Kioxia demoes XL-FLASH Gen 3</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
+  },
+  {
+    "title": "76-81 GHz 4Tx/4Rx radar MMIC",
+    "source": "Electronics Weekly",
+    "date": "2026-11-27",
+    "url": "https://www.electronicsweekly.com/news/business/76-81-ghz-4tx-4rx-radar-mmic-2026-11/",
+    "summary": "<p>Infineon has introduced the RASIC CTRX8144FS, a 76-81 GHz radar MMIC with four transmit and four receive channels (4Tx/4Rx). Building on the CTRX8191F/FS and CTRX8188F, the device further expands Infineon&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/76-81-ghz-4tx-4rx-radar-mmic-2026-11/\">76-81 GHz 4Tx/4Rx radar MMIC</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Another Split Flap Display You Can Print Yourself",
@@ -26,27 +110,6 @@
     "date": "2026-11-26",
     "url": "https://hackaday.com/2026/11/26/scientific-analysis-of-nontraditional-garden-watering-method/",
     "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/rainwater-main.png?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Around two years ago, [SuburbanBiology] built an unconventional system to keep his garden properly watered. Instead of relying solely on a metered municipal water supply or even collecting and storing <a class=\"read-more\" href=\"https://hackaday.com/2026/11/26/scientific-analysis-of-nontraditional-garden-watering-method/\">&#8230;read more</a>"
-  },
-  {
-    "title": "NASA’s Perseverance and Odyssey Teams Investigate Technical Issues",
-    "source": "Hackaday",
-    "date": "2026-11-26",
-    "url": "https://hackaday.com/2026/11/26/nasas-perseverance-and-odyssey-teams-investigate-technical-issues/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2021/04/perseverance-ingenuity-selfie.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Teams over at NASA are currently dealing with two major issues affecting the Perseverance rover and the 2001 Mars Odyssey orbiter, with the former losing one of its two UHF radios and <a class=\"read-more\" href=\"https://hackaday.com/2026/11/26/nasas-perseverance-and-odyssey-teams-investigate-technical-issues/\">&#8230;read more</a>"
-  },
-  {
-    "title": "A Toolkit For Identifying RFID Tags",
-    "source": "Hackaday",
-    "date": "2026-11-26",
-    "url": "https://hackaday.com/2026/11/26/a-toolkit-for-identifying-rfid-tags/",
-    "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/11/gcenter-l33g.webp?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Let&#8217;s say you happen across a random RFID or NFC tag. You look at it&#8230; it&#8217;s in a form factor you haven&#8217;t seen before and it&#8217;s not easily describable enough <a class=\"read-more\" href=\"https://hackaday.com/2026/11/26/a-toolkit-for-identifying-rfid-tags/\">&#8230;read more</a>"
-  },
-  {
-    "title": "Sega Saturn Portable Pays Homage to the Sega CDX Design",
-    "source": "Hackaday",
-    "date": "2026-11-26",
-    "url": "https://hackaday.com/2026/11/25/sega-saturn-portable-pays-homage-to-the-sega-cdx-design/",
-    "summary": "<div><img alt=\"Sega Saturn console modded into a Sanyo portable CD player case.\" class=\"attachment-large size-large wp-post-image\" height=\"499\" src=\"https://hackaday.com/wp-content/uploads/2026/11/Sega-Saturn-CDX-1.jpg?w=800\" style=\"margin: 0 auto; margin-bottom: 15px;\" width=\"800\" /></div>Back in the 90&#8217;s the Sega Corporation put out game hardware for every type of video game player under the sun. There was the Sega Genesis for average gamers, the <a class=\"read-more\" href=\"https://hackaday.com/2026/11/25/sega-saturn-portable-pays-homage-to-the-sega-cdx-design/\">&#8230;read more</a>"
   },
   {
     "title": "VZMORE iX9 Max review – Part 2: An Intel Core Ultra 9 185H Windows 11 mini PC tested with different power modes",
@@ -103,55 +166,6 @@
     "date": "2026-11-26",
     "url": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
     "summary": "<p>Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/\">Microchip Ethernet TSN switches drive in-vehicle networks</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
-    "source": "Electronics Weekly",
-    "date": "2026-11-26",
-    "url": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
-    "summary": "<p>Rutronik is partnering with 3Peak &#8211; a analogue and mixed-signal components specialist &#8211; to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/\">Rutronik partners with 3Peak for IoT, AI, automotive</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
-    "source": "Electronics Weekly",
-    "date": "2026-11-26",
-    "url": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
-    "summary": "<p>Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/\">FCC gives SpaceX permission to launch 1m datacentres into orbit</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
-    "source": "Electronics Weekly",
-    "date": "2026-11-26",
-    "url": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
-    "summary": "<p>Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/\">Samsung and Hynix adopt YMTC’s Xtacking technology</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Agile Analog delivers physical anti-tamper protection for datacentre chip",
-    "source": "Electronics Weekly",
-    "date": "2026-11-26",
-    "url": "https://www.electronicsweekly.com/news/business/agile-analog-2-2026-11/",
-    "summary": "<p>Agile Analog, the customisable analogue IP specialist, has been selected by ASPEED Technology, the Taiwanese datacentre SoC specialist, to provide  physical anti-tamper protection for the AST1080 PRoT SoC. A set [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/agile-analog-2-2026-11/\">Agile Analog delivers physical anti-tamper protection for datacentre chip</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Avnet Silica’s European semis outlook for 2027",
-    "source": "Electronics Weekly",
-    "date": "2026-11-26",
-    "url": "https://www.electronicsweekly.com/news/business/avnet-silicas-european-semis-outlook-for-2007-2026-11/",
-    "summary": "<p>Avnet Silica has released the latest edition of its quarterly Trendliner market report, providing an updated outlook for the semiconductor industry as it heads into 2027. The report examines global [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/avnet-silicas-european-semis-outlook-for-2007-2026-11/\">Avnet Silica’s European semis outlook for 2027</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Rise of the Robots",
-    "source": "Electronics Weekly",
-    "date": "2026-11-26",
-    "url": "https://www.electronicsweekly.com/news/business/rise-of-the-robots-2026-11/",
-    "summary": "<p>element14 has launched the Rise of the Robots design challenge, inviting engineers, makers and technology enthusiasts to design and build innovative robotics projects using a kit of development hardware, motors [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/news/business/rise-of-the-robots-2026-11/\">Rise of the Robots</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
-  },
-  {
-    "title": "Social Media Increasingly Supplying News",
-    "source": "Electronics Weekly",
-    "date": "2026-11-26",
-    "url": "https://www.electronicsweekly.com/blogs/mannerisms/tv/social-media-increasingly-supplying-news-2026-11/",
-    "summary": "<p>An increasing number of people are getting their daily news fix from social media, according to Pew Research Center. 57% of both Facebook and X users get news from the [&#8230;]</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/tv/social-media-increasingly-supplying-news-2026-11/\">Social Media Increasingly Supplying News</a> appeared first on <a href=\"https://www.electronicsweekly.com\">Electronics Weekly</a>.</p>"
   },
   {
     "title": "Happy Thanksgiving 2026!",
@@ -376,20 +390,6 @@
     "date": "2026-11-24",
     "url": "https://www.eejournal.com/industry_news/xjprobe-brings-board-voltage-measurements-to-xjtag-4-4/",
     "summary": "XJTAG®, a leading provider of test and programming solutions, is proud to announce the release of version 4.4 of the XJTAG Software Suite, alongside XJProbe, a new test probe that helps engineers investigate board faults by measuring voltages directly in XJAnalyser. XJProbe connects directly to an XJLink-PF20 or XJLink-PF40 JTAG controller, between the controller and [&#8230;]"
-  },
-  {
-    "title": "Tessera open-source dashboard for Home Assistant runs on ESP32 touchscreen devkits",
-    "source": "CNX Software",
-    "date": "2026-11-23",
-    "url": "https://www.cnx-software.com/2026/11/23/tessera-open-source-dashboard-for-home-assistant-runs-on-esp32-touchscreen-devkits/",
-    "summary": "<div><img alt=\"Tessera Guition 10.1- inch ESP32 P4 kit\" class=\"attachment-medium size-medium wp-post-image\" height=\"540\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Tessera-Guition-10.1-inch-ESP32-P4-board-720x540.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>The open-source Tessera project enables neat dashboards for Home Assistant on affordable 2.8-inch to 10.1-inch ESP32 touchscreen (development) kits from CYD, Guition, and Waveshare. The Tessera firmware adds a layer to ESPHome firmware for display management, touchscreen handling, dashboard rendering, tiles, plugins, and more. It works in conjunction with the Tessera Screen Manager, which provides the Home Assistant interface to configure screens, manage layouts, install firmware, and push updates. The whole solution is supposed to be easy to use thanks to a drag-and-drop editor, and users don&#8217;t need to know anything about YAML or MQTT. Tessera features highlights: Hardware support &#8211; Various ESP32 touchscreen platforms from 2.8-inch Cheap Yellow Displays (CYD) to 10.1-inch Guition panels. Drag-and-drop dashboard editor Configure screens, pages and tiles from Home Assistant. No YAML knowledge is needed. Multi-page dashboards – Organize controls across multiple pages Customizable layouts – Configure grid dimensions, tile sizes, icons, colours and [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/23/tessera-open-source-dashboard-for-home-assistant-runs-on-esp32-touchscreen-devkits/\">Tessera open-source dashboard for Home Assistant runs on ESP32 touchscreen devkits</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
-  },
-  {
-    "title": "Piccola CNC – An open-source hardware desktop milling machine with PCB auto-leveling and integrated CAM (Crowdfunding)",
-    "source": "CNX Software",
-    "date": "2026-11-23",
-    "url": "https://www.cnx-software.com/2026/11/23/piccola-cnc-open-source-desktop-milling-machine-with-pcb-auto-leveling-and-integrated-cam/",
-    "summary": "<div><img alt=\"Piccola CNC desktop milling machine with sample parts\" class=\"attachment-medium size-medium wp-post-image\" height=\"480\" src=\"https://www.cnx-software.com/wp-content/uploads/2026/11/Piccola-CNC-desktop-milling-machine-with-sample-parts-720x480.jpg\" style=\"margin-bottom: 10px;\" width=\"720\" /></div>\n<p>InMachines Ingrassia GmbH has launched the Piccola CNC, an open-source hardware desktop CNC milling machine designed for PCB prototyping and machining wood, plastics, and soft metals such as aluminum, brass, and copper. Built in Germany, the machine features a 150 × 150 × 70 mm work area, belt-driven ball screws on all three axes, ER11 collets, and a choice of 100W or 200W spindles. The machine comes in three versions, which include the Basic, Pro, and Ultimate. The Pro variant adds a full enclosure and safety interlocks, while the Ultimate model further adds a brushless spindle and laser distance sensor. Other features include USB-C and Wi-Fi connectivity, built-in CAM software for PCB, 2D, 3D, and rotary milling, and laser-based PCB height mapping on the Ultimate, with the sensor available as an accessory for Basic and Pro. Piccola CNC specifications: Work area – 150 × 150 × 70 mm (X × [...]</p>\n<p>The post <a href=\"https://www.cnx-software.com/2026/11/23/piccola-cnc-open-source-desktop-milling-machine-with-pcb-auto-leveling-and-integrated-cam/\">Piccola CNC &#8211; An open-source hardware desktop milling machine with PCB auto-leveling and integrated CAM (Crowdfunding)</a> appeared first on <a href=\"https://www.cnx-software.com\">CNX Software - Embedded Systems News</a>.</p>"
   },
   {
     "title": "TuyaOpen Integrates Silicon Labs SiWx917 Wi-Fi 6 SoC",
