@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-28 02:16 UTC
+Last Updated: 2026-11-28 10:57 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-28 | Who Resurrected the Electric Car? | Hackaday | [link](https://hackaday.com/2026/11/28/who-resurrected-the-electric-car/) |
+| 2026-11-28 | Repurposing Lava Lamps To Cook Dinner | Hackaday | [link](https://hackaday.com/2026/11/27/repurposing-lava-lamps-to-cook-dinner/) |
+| 2026-11-28 | A Detailed Breakdown of the 2021 Texas Power Crisis | Hackaday | [link](https://hackaday.com/2026/11/27/a-detailed-breakdown-of-the-2021-texas-power-crisis/) |
 | 2026-11-28 | ESP32 Remote Access Done Light | Hackaday | [link](https://hackaday.com/2026/11/27/esp32-remote-access-done-light/) |
+| 2026-11-28 | VZMORE iX9 Max mini PC review – Part 3: Ubuntu 26.04 Linux | CNX Software | [link](https://www.cnx-software.com/2026/11/28/vzmore-ix9-max-mini-pc-review-part-3-ubuntu-26-04-linux/) |
 | 2026-11-27 | How to Make a Nixie Tube | Hackaday | [link](https://hackaday.com/2026/11/27/how-to-make-a-nixie-tube/) |
 | 2026-11-27 | PS3 Boomerang Controller Concept Flies Back Into Your Hands | Hackaday | [link](https://hackaday.com/2026/11/27/ps3-boomerang-controller-concept-flies-back-into-your-hands/) |
 | 2026-11-27 | Hackaday Podcast Episode 396: Robot Hands, The Inner Life of Mechanical Watches, and the Truth about 3D Scanning | Hackaday | [link](https://hackaday.com/2026/11/27/hackaday-podcast-episode-396-robot-hands-the-inner-life-of-mechanical-watches-and-the-truth-about-3d-scanning/) |
-| 2026-11-27 | uCompute Junior is an Easy Entry to the Embedded Platform | Hackaday | [link](https://hackaday.com/2026/11/27/ucompute-junior-is-an-easy-entry-to-the-embedded-platform/) |
-| 2026-11-27 | This Week In Security: Federal Breaches, Leaky AI Routers, phpAfterShell, Bluetooth Trailer Brakes | Hackaday | [link](https://hackaday.com/2026/11/27/this-week-in-security-federal-breaches-leaky-ai-routers-phpaftershell-bluetooth-trailer-brakes/) |
-| 2026-11-27 | Classic Pokemon Goes Widescreen | Hackaday | [link](https://hackaday.com/2026/11/27/classic-pokemon-goes-widescreen/) |
 | 2026-11-27 | ShiMetaPi Pico-G1 – A compact AI Vision Linux SBC powered by GOKE GK7206 4K camera SoC | CNX Software | [link](https://www.cnx-software.com/2026/11/27/shimetapi-pico-g1-a-compact-ai-vision-linux-sbc-powered-by-goke-gk7206-4k-camera-soc/) |
 | 2026-11-27 | usb-rea generates a Linux driver for your Windows-only USB gadget | CNX Software | [link](https://www.cnx-software.com/2026/11/27/usb-rea-generates-a-linux-driver-for-your-windows-only-usb-gadget/) |
-| 2026-11-27 | Waveshare ESP32-S3-Touch-LCD-3.49 gets open-source retro firmware with clock, internet radio, games… | CNX Software | [link](https://www.cnx-software.com/2026/11/27/waveshare-esp32-s3-touch-lcd-3-49-gets-open-source-retro-firmware-with-clock-internet-radio-games/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,51 +77,51 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
+| 2026-11-28 | zimplex/roboturn-pear-rl-lr3e6-b32-20261119 | 35 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-lr3e6-b32-20261119) |
+| 2026-11-28 | zimplex/roboturn-pear-rl-task32-lr1e6-b32-20261123 | 0 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-task32-lr1e6-b32-20261123) |
+| 2026-11-28 | yanshi-robotics/so101-smolvla-snack-sorting-v1 | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/so101-smolvla-snack-sorting-v1) |
+| 2026-11-28 | resoLve111/hyvla_robotwin_umi_rand100_seed0 | 0 | 0 | [link](https://huggingface.co/resoLve111/hyvla_robotwin_umi_rand100_seed0) |
+| 2026-11-28 | zimplex/roboturn-pear-rl-lr1e6-b32-20261119 | 38 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-lr1e6-b32-20261119) |
+| 2026-11-28 | bayazidhs04/semi-autonomous-weeding-robot-models | 0 | 1 | [link](https://huggingface.co/bayazidhs04/semi-autonomous-weeding-robot-models) |
+| 2026-11-28 | zimplex/roboturn-pear-rl-task512-t50-lr1e6-b32-20261126 | 0 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-task512-t50-lr1e6-b32-20261126) |
+| 2026-11-28 | shambhuraje/Llama-3.2-1B-no-robots-GGUF | 922 | 2 | [link](https://huggingface.co/shambhuraje/Llama-3.2-1B-no-robots-GGUF) |
 | 2026-11-28 | RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125) |
 | 2026-11-28 | Yingxu12/vla-ckpt-atomic10 | 0 | 0 | [link](https://huggingface.co/Yingxu12/vla-ckpt-atomic10) |
-| 2026-11-27 | schaefersch/robotics-vision-language-medium | 0 | 0 | [link](https://huggingface.co/schaefersch/robotics-vision-language-medium) |
-| 2026-11-27 | bryantil/reading-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/bryantil/reading-robotics-vision-language) |
-| 2026-11-27 | ketiyohannes/robot-harness-world-models | 0 | 0 | [link](https://huggingface.co/ketiyohannes/robot-harness-world-models) |
-| 2026-11-27 | william-yudi/twinvla-independent-ft-robotwin | 0 | 1 | [link](https://huggingface.co/william-yudi/twinvla-independent-ft-robotwin) |
-| 2026-11-27 | IncMac/PolyVu-Robotics-v0 | 47 | 0 | [link](https://huggingface.co/IncMac/PolyVu-Robotics-v0) |
-| 2026-11-27 | fo-wajo/Qwen3.5-4B-no-robots | 0 | 0 | [link](https://huggingface.co/fo-wajo/Qwen3.5-4B-no-robots) |
-| 2026-11-27 | resoLve111/hyvla_robotwin_umi_rand100_seed0 | 0 | 0 | [link](https://huggingface.co/resoLve111/hyvla_robotwin_umi_rand100_seed0) |
-| 2026-11-27 | Mengmouxu/JAM-RoboTwin-Base | 0 | 0 | [link](https://huggingface.co/Mengmouxu/JAM-RoboTwin-Base) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
-| harvard-edge/cs249r_book | 30324 | Python | 12129.7 | [link](https://github.com/harvard-edge/cs249r_book) |
-| commaai/openpilot | 64248 | Python | 25699.3 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 27625 | Python | 11050.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| harvard-edge/cs249r_book | 30326 | Python | 12130.5 | [link](https://github.com/harvard-edge/cs249r_book) |
+| copper-project/copper-rs | 1557 | Rust | 622.9 | [link](https://github.com/copper-project/copper-rs) |
+| Developer-Y/cs-video-courses | 85014 |  | 34005.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64257 | Python | 25702.9 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 27650 | Python | 11060.1 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 18554 | C++ | 7421.7 | [link](https://github.com/google-deepmind/mujoco) |
 | questdb/questdb | 17554 | Java | 7021.7 | [link](https://github.com/questdb/questdb) |
-| sou350121/VLA-Handbook | 798 | HTML | 319.3 | [link](https://github.com/sou350121/VLA-Handbook) |
-| luohongk/Embodied-AI-Daily | 513 | HTML | 205.3 | [link](https://github.com/luohongk/Embodied-AI-Daily) |
-| deeplethe/utopia | 8745 | Rust | 3498.1 | [link](https://github.com/deeplethe/utopia) |
-| OpenHUTB/hutb | 792 | C++ | 316.9 | [link](https://github.com/OpenHUTB/hutb) |
-| isaac-sim/IsaacLab | 8739 | Python | 3495.7 | [link](https://github.com/isaac-sim/IsaacLab) |
-| embodied-ai-nexus/Eden | 344 | Python | 137.7 | [link](https://github.com/embodied-ai-nexus/Eden) |
+| ArduPilot/ardupilot | 16443 | C++ | 6577.3 | [link](https://github.com/ArduPilot/ardupilot) |
+| RLinf/RLinf | 5735 | Python | 2294.1 | [link](https://github.com/RLinf/RLinf) |
+| dora-rs/dora | 4112 | Rust | 1644.9 | [link](https://github.com/dora-rs/dora) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-11-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPam05YVNJekQxT09lVTJJY2VRMERxV3BPcGNFbUNCUjlGMEwyY2s3RmtjM1RDVHVOUWt4eTNhb3pPZDF6aHFRcnI1Y0Q5Wi1hTjNIRDZoWVVxaC1jZXgxanpGUE53Yk9JbkpHTFJUZm15SThBYjlEV3ZsT3BrSi1mdWhWRlpnVW11YWtEQUdpM0VPaW9NYWlSenBtaFoxX0g5Y0NWNWZlbzQ3N1NicloyWldkT0I?oc=5) |
+| 2026-11-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Z9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5) |
+| 2026-11-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hOWJYWkh3VTBaaS1vay03TURaMnpkc2JHMVNjSTgxWkN5Q0VWeGhjN1JZWm1vVExhSnZMRVJGbDRPY0ZBcEFXVE1pUllNQzlLd2FzOVlMNXlGNmVa?oc=5) |
 | 2026-11-24 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzBybXIzOGw5TG4tVXJBNUQtRUR3b1c0YlRDNHZHSnZYU3VOSjMtLUR2UzlGZnlqd3p6N2JVd0NpZlMtZDJaMzRmYWRpenhpdUljOWdVcXZfQXFLTkxqU0R6WmxUczE0QmZyTUlZQ3FadEQ4c0VwUTk0NFR1aHVJT1FSQmVWU2lH?oc=5) |
 | 2026-11-22 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IbWJob3hvWTZuUDRrRXFpZ2phdjVSWllyTmpLN2VSMlR0MV9NaExQVjJ3cHdlVUQ0czI1Y09HM256ZWY4QVhUZ3VLbUFBSTN1RU1GLVdENTdIcmNvSzlibnluYTlHUFc3b2M1TGRWTjNTeXNNZmc?oc=5) |
-| 2026-11-19 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXM0U2NHTDBqdHN3dDVDUFM2dDdtdDVrWlZjTEJOam1fTjMwaVF3aEV4ajV6X0VScC1VVnJYSEpUZ1NxNFVXQjdMOXN0Z0VHM1RISnA1NFU1cWdCSExsc3FEMjFWUlRSQ3Q5d2pxWjZESXFHeVdaWHE3djlRcENTXzFQclp2cjBXTHh5QXU1NVEyYkZPWlg3MVpJMGxfelpSZVMzUlNLMWRlVU1JYUtaMlB4dGpCZw?oc=5) |
+| 2026-11-19 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXVuR1R2LU9GdzNIM29heUxTZGNNZ3dNVHdiZ1Y4WFpVQ1hmQk9pbUhWbENQUjN4UTB2RVE3RnRDM05yWHdKaFlxZHZhS2RkNFpGVFFoTEVTZU9rMVpDbWZ0aDFIbmtlTjZZdG00VU82U3pLMlB3SHFGY3VyZEsxZnpjMjNsWE9JdUhGeFg2S19aYkV3X250SDRaZWN3R2xZME5WZjk4VGpjSk90Y2wzZHpVaG0?oc=5) |
 | 2026-11-12 | Figure AI |  |  | [link](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXNIUG1VRllocjk2WS1uQWpyeTZkWW1hR05mWkVXY2p2ek5Pa2d2X3NqZ1RKaG1OLVFvNktKdWFoZE12N0l3M1dYYUQ1d0VDVXN4MDlPSWRMaGl0SXZsNnpJRU9xMHFoX0NtRm95OHJMNmpsWmlhTVBJWDd3dU5ZTXdyeF93OWpfa2Zudw?oc=5) |
 | 2026-11-12 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcHI4ZEpOTlNCZWhtdk4wcjU0S1JRUkFGVG5hYkJKUldvdWM3MXVZZ1ZWSjVsVjFYWmRrclRDNXM5dGhqa0w1c1NpdnRrTHI3UEVvZ2VMUFcwUW5oWHlCVDNud0ZVcUNuUlR6clBYYURrVnN5TFMwWnNoYw?oc=5) |
 | 2026-11-08 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xEOEU1Q2xoZnQ0WWVwUjljRDA2QVNFQlBhUGN5ZDdqSUsyamFtZnNqX1BjMmdJdkZ3UFdQR3l4Ukd6UU5PZGxnaVY5bXdIT0VqTGVWY2EzekFfYUQ4VUhfYzlXNXZ0NTJMN1JEczNxbmVIZjVfR3Fkdk8wa2d2RXJYYmtnQVgyd2FyRFJkQzRBVTQyZmJtRWV4OFJQZGM?oc=5) |
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5) |
 | 2026-11-04 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEIzYUw5N2NyLXhwcEp2QlFxa2pmVmxjLWRsUVlsUGtGaWpUenlkaTFodkdmVlY3Ulh5R0Fqb1F5UWlTQ280Y2xZS1lQRmZVTW1KZ3hpeXd2WnlObGhkd2JqVFpHTUEtSGRwN083d1BFaFNaQUs4Nm9VZTliWnJWWUh0eXNDZw?oc=5) |
-| 2026-11-03 | Physical Intelligence |  |  | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdE5aZVJfckwzUVhsU1I2U054bHFLdWx0NTBxYWl3Tk9OcTVFSGVGbmlHM0RRQ0JNbHF5YnpucHI0ZWFDUmc1QkZ0dEFKcFExUndQTVR0ZUQ4UVU1TGdWaXRZVlJFMURFeTQ5NU9TcE1Sd2Vsa0p4Tm9tcHpvalNjWVFoS3FzUXdSZnc?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
 | --- | --- | --- | --- |
+| 2026-11-28 | Embo comes out of stealth with a $110 million seed for robot world models - MLQ.ai | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVVVdjJPNmlMMWdkZzBKNDhVU2RVTzROTF9sTXBZdm94SFN5VVQ1QU8xZTlEbFZTeFA0NE4xZVd4ZGUzWC1QaEw0YzRidXBid0xMRE54MGJXbHNESmdJUlZNX2c4ZFR0cUREZ2Z3ZE8wNTExZ0ZWNnpZN29mQzd3bDVWNllmb1YxSFBzVWFDZWJXd0ZkWVdKaw?oc=5) |
 | 2026-11-27 | Lute Raises $20M in Funding to Develop Touch-Based AI Models for Robots - AI Insider | physical ai startup | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlBsT2xtb3BNaHFsaHBKSkRRNVBmQldzbl9QR0NGdDUxWkV4dTY3MnNnQzJBYzRaRVpTZ2g3MDhPNFl2ZHdITldNZGlueHZiRW9ZYTVjbGlCWmliYkljX3ZvMVdTX2JnY25IdENNa2RPeWdBekY2VTIydkc1NE10RXo4NGRIcDFWN3lBSnZleFRPSE9Ja3BQcHlZM3FqVUxwa2paUlNZR0NFVG1E?oc=5) |
 | 2026-11-27 | Lute’s CEO calls touch ‘the missing signal’ as it raises $20M - The Next Web | physical ai startup | [link](https://news.google.com/rss/articles/CBMidEFVX3lxTE9EZ0VkdzdvSzFiU2xsZm9sWGRGRlFJR1dScHptakItRGF6cjltcEp4MlBnWFFjUmRxbVlOZnZKS282MVFMaWdsRkgxZk9oUlh2U0NneldZM2RNVTFBWU1BWnV0VU5RR29DM2I2dE9XcGw4NW00?oc=5) |
-| 2026-11-27 | He Built a Robot at 12! Now He Runs an AI Startup - The Better India | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1FTNTUyeWtOOTNzVk02ZEV1aWd1ZGxhbkZoNllwRk1yeXlSbUs2WU9UOFNqOFR6NUZHM2FnTWFLR3BwRzA2em1iT1dzRnF3U0pwY3hmeHdoWjF5M3hvS2VjY1p5SUxzQjludWswZXJfYmNYM3d5R0RJMFhXNXNCZ1liOUppdTVhVkwxLUxWZGJGcnBPN2fSAZsBQVVfeXFMT3FIWXcwMHNJZTRCYzZZWTdVNTJKaFhySkMyX29iTnItQkZsWkxGNVd0UTNvM0dQTVV3RWQ2US1JbWxSbnIxeUNxcHNtdzM2WHlMZWJ1ekFwYkdEeGxadUhWWF9oQk1iN1g4MkUyWWlrelBqbzhqaTJJUTItZEpkRGtvNklzRHhGYi00T3hpVHd1akdlZVl3V1RBS0E?oc=5) |
 | 2026-11-27 | Eric Trump-Backed Robot Startup’s Employees Lose Health Insurance After Weeks Without Pay as Company Scrambles for $150 Million Lifeline: Report - Yahoo Finance | humanoid robot startup | [link](https://news.google.com/rss/articles/CBMilwFBVV95cUxQT01vZUc4LUtVcGZSNTd4d3VnZTRVdFRVVkZmSkwtdjh4TXJVVVNPZFhlbHNOYlBrQ1JxV01UeUQwdUpHaTg2RHhLZjVCeWZ1ZGlvMHVtRXdSV1Nhd3dZMzFuV3Z2RlhrTHlRWHV6azg1VV83cXd1bWQwZWlYbkVhTV8tWFVRSmlSYmoxYlZTMmt1a2xBaEpB?oc=5) |
 | 2026-11-26 | Lute Raises $20M to Build Touch-Based AI for Robots - The Recursive | physical ai startup | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUltYUdhWDRYMWtMTjZYUjdKa3ZpdnJNckF1ZU5lSjdVaENvZFBmRVZZWEkwVU1GV0NfMzlLZnJGcTJRSTE3TGhDYWN5RVRBM2FOUHNSYXdnWnJCSktzYWdCMVpMV0Y4X1ZLRjNxRVBaVVlEYm0yMGFNaWZGcVROZnVQUWdsUEx1aHlrSXFhT1U4aW1HRWEwbE93ZzZIbFRVSVR1ZGhNbXg0UGlaT2M4TUJyN001T1FmOXc?oc=5) |
 | 2026-11-26 | Lute raises $20 million to give robots a sense of touch - Robotics & Automation News | physical ai startup | [link](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUhLQnYxQkluZmdRM0NrMTJCX3Fja3VnUVZ4dXo4ejhBckg1V3FJbVRVSElIUFZqUXo4VVRkYWFQQ3E0NThxMW9jR2JZMlVoTzUzOFZHb0FjVFNzTG1vUFRsQ2hIT3Q4cVdfRjBKUkZoWFdMcnhqNjRyOUFIRDNGU0J4WU1JRlBpcC12Zk5XOU5PbGFKVkp2cl9mUE1RNzBFc091X3BLX0NOU3V5TUwtNQ?oc=5) |
