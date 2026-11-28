@@ -1,5 +1,50 @@
 [
   {
+    "model": "RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
+    "date": "2026-11-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "Yingxu12/vla-ckpt-atomic10",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Yingxu12/vla-ckpt-atomic10",
+    "date": "2026-11-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "schaefersch/robotics-vision-language-medium",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/schaefersch/robotics-vision-language-medium",
+    "date": "2026-11-27",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "bryantil/reading-robotics-vision-language",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/bryantil/reading-robotics-vision-language",
+    "date": "2026-11-27",
+    "keyword": "robotics",
+    "score": 0.1
+  },
+  {
+    "model": "ketiyohannes/robot-harness-world-models",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/ketiyohannes/robot-harness-world-models",
+    "date": "2026-11-27",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
     "model": "william-yudi/twinvla-independent-ft-robotwin",
     "downloads": 0,
     "likes": 1,
@@ -27,15 +72,6 @@
     "score": 0.1
   },
   {
-    "model": "RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
-    "date": "2026-11-27",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "resoLve111/hyvla_robotwin_umi_rand100_seed0",
     "downloads": 0,
     "likes": 0,
@@ -54,10 +90,10 @@
     "score": 0.1
   },
   {
-    "model": "Yingxu12/vla-ckpt-atomic10",
+    "model": "adi2440/kinematic-residual-vla-checkpoints",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Yingxu12/vla-ckpt-atomic10",
+    "url": "https://huggingface.co/adi2440/kinematic-residual-vla-checkpoints",
     "date": "2026-11-27",
     "keyword": "vla",
     "score": 0.1
@@ -150,6 +186,24 @@
     "url": "https://huggingface.co/Dongkkka/k1_sapiens_haf_vla_head_rgb_no_state_100K",
     "date": "2026-11-27",
     "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "BurnyCoder/atlas-mountaincar-world-model",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/BurnyCoder/atlas-mountaincar-world-model",
+    "date": "2026-11-27",
+    "keyword": "world model",
+    "score": 0.1
+  },
+  {
+    "model": "Krzysztofnowak/embodied-ai-2024",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Krzysztofnowak/embodied-ai-2024",
+    "date": "2026-11-27",
+    "keyword": "embodied",
     "score": 0.1
   },
   {
@@ -279,33 +333,6 @@
     "score": 0.1
   },
   {
-    "model": "limxdynamics/tron2-robot-description",
-    "downloads": 44,
-    "likes": 0,
-    "url": "https://huggingface.co/limxdynamics/tron2-robot-description",
-    "date": "2026-11-26",
-    "keyword": "robot",
-    "score": 13.3
-  },
-  {
-    "model": "mim-sim-bimanual/robotwin5__flux3",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/mim-sim-bimanual/robotwin5__flux3",
-    "date": "2026-11-26",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
-    "model": "matteuscruz/vla-g1-paper",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/matteuscruz/vla-g1-paper",
-    "date": "2026-11-26",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
     "model": "NU-World-Model-Embodied-AI/phyjudge-9B",
     "downloads": 20,
     "likes": 37,
@@ -322,15 +349,6 @@
     "date": "2026-11-26",
     "keyword": "embodied",
     "score": 27.7
-  },
-  {
-    "model": "ipplab/HOG-WAM-RoboTwin-Uncond",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ipplab/HOG-WAM-RoboTwin-Uncond",
-    "date": "2026-11-25",
-    "keyword": "robot",
-    "score": 0.1
   },
   {
     "model": "Tahary/mundus-world-model-3b",
@@ -504,15 +522,6 @@
     "score": 15.1
   },
   {
-    "model": "Miraiyochi/world-model-qa-mario",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Miraiyochi/world-model-qa-mario",
-    "date": "2026-11-21",
-    "keyword": "world model",
-    "score": 0.1
-  },
-  {
     "model": "xjtulmx/q38-embodied-xfer",
     "downloads": 0,
     "likes": 0,
@@ -540,15 +549,6 @@
     "score": 0.1
   },
   {
-    "model": "into-the-night/sokoban-world-model-qwen3-0.6b",
-    "downloads": 32,
-    "likes": 0,
-    "url": "https://huggingface.co/into-the-night/sokoban-world-model-qwen3-0.6b",
-    "date": "2026-11-20",
-    "keyword": "world model",
-    "score": 9.7
-  },
-  {
     "model": "vincentsaputra/research-embodied-ai99",
     "downloads": 21,
     "likes": 0,
@@ -565,15 +565,6 @@
     "date": "2026-11-20",
     "keyword": "embodied",
     "score": 0.1
-  },
-  {
-    "model": "Jkmulder/embodied-ai56",
-    "downloads": 24,
-    "likes": 0,
-    "url": "https://huggingface.co/Jkmulder/embodied-ai56",
-    "date": "2026-11-20",
-    "keyword": "embodied",
-    "score": 7.3
   },
   {
     "model": "pawanpaudel93/xiaomi-robotics-1-robocasa365-fp16-ov",
@@ -630,15 +621,6 @@
     "score": 7.3
   },
   {
-    "model": "L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v4",
-    "downloads": 34,
-    "likes": 0,
-    "url": "https://huggingface.co/L7-Robotics/smolvla_so101_world_traj_ahead_conveyor_dynamic_speedup_v4",
-    "date": "2026-11-18",
-    "keyword": "robotics",
-    "score": 10.3
-  },
-  {
     "model": "edoardochiavazza/drone-navigation-models",
     "downloads": 243,
     "likes": 0,
@@ -655,15 +637,6 @@
     "date": "2026-11-16",
     "keyword": "navigation",
     "score": 7.9
-  },
-  {
-    "model": "vga-robotics/vga-pretrain-libero90",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/vga-robotics/vga-pretrain-libero90",
-    "date": "2026-11-14",
-    "keyword": "robotics",
-    "score": 0.1
   },
   {
     "model": "andersbekkevard/voice-keys-navigation-coreml-v1",
