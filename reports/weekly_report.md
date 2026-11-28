@@ -1,6 +1,6 @@
 # Weekly Physical AI Intelligence Report
 
-Generated: 2026-11-28 10:57 UTC
+Generated: 2026-11-28 18:37 UTC
 
 ## Top Papers
 | Published | Title | PDF |
@@ -14,10 +14,10 @@ Generated: 2026-11-28 10:57 UTC
 ## Top Repos
 | Repo | Stars | Score | URL |
 | --- | --- | --- | --- |
-| Developer-Y/cs-video-courses | 85014 | 34005.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64257 | 25702.9 | [link](https://github.com/commaai/openpilot) |
-| NaiboWang/EasySpider | 44813 | 17925.3 | [link](https://github.com/NaiboWang/EasySpider) |
-| AtsushiSakai/PythonRobotics | 30990 | 12396.1 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
+| Developer-Y/cs-video-courses | 85069 | 34027.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64254 | 25701.7 | [link](https://github.com/commaai/openpilot) |
+| NaiboWang/EasySpider | 44810 | 17924.1 | [link](https://github.com/NaiboWang/EasySpider) |
+| AtsushiSakai/PythonRobotics | 30993 | 12397.3 | [link](https://github.com/AtsushiSakai/PythonRobotics) |
 | harvard-edge/cs249r_book | 30326 | 12130.5 | [link](https://github.com/harvard-edge/cs249r_book) |
 
 ## Top Models
@@ -32,11 +32,11 @@ Generated: 2026-11-28 10:57 UTC
 ## Top Funding Rounds
 | Date | Company | Amount | Source |
 | --- | --- | --- | --- |
-| 2026-11-27 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Z9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5) |
-| 2026-11-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hOWJYWkh3VTBaaS1vay03TURaMnpkc2JHMVNjSTgxWkN5Q0VWeGhjN1JZWm1vVExhSnZMRVJGbDRPY0ZBcEFXVE1pUllNQzlLd2FzOVlMNXlGNmVa?oc=5) |
+| 2026-11-28 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTFTU0Q2azY0RFdXUFdkVVAyQjVRdzlYMXZPQmFNUExsSTlfLUFmaWtyODVoeE1oRzdmUWtsLXZnQjZhQ3AweFBEMWtVZXRQVFNWV1ZUcTVPWUJxbDRRejJSUHZNSEN2eWpaVUtsY3VIc3dfUWY1eUtpZlB6endtQUwxc01yYWYw?oc=5) |
+| 2026-11-28 | Unitree |  | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmtOUmhUTU1ucFZvSG83QlR3ZjR4SDdRbTA3YjR0SFd4Y01DSnRyV3dDeDZNUEVxQzNzSU1iODRydklzZ1lISl9LUmtRRy0xeDJoNHZaX2dUbW82MVg1MDVpelVLbFpEUTkyTTdCV0xxVTdkWmhqeDUtMGhnU21vZTNtUnVVQXZqWnc?oc=5) |
+| 2026-11-25 | Unitree |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPam05YVNJekQxT09lVTJJY2VRMERxV3BPcGNFbUNCUjlGMEwyY2s3RmtjM1RDVHVOUWt4eTNhb3pPZDF6aHFRcnI1Y0Q5Wi1hTjNIRDZoWVVxaC1jZXgxanpGUE53Yk9JbkpHTFJUZm15SThBYjlEV3ZsT3BrSi1mdWhWRlpnVW11YWtEQUdpM0VPaW9NYWlSenBtaFoxX0g5Y0NWNWZlbzQ3N1NicloyWldkT0I?oc=5) |
 | 2026-11-24 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzBybXIzOGw5TG4tVXJBNUQtRUR3b1c0YlRDNHZHSnZYU3VOSjMtLUR2UzlGZnlqd3p6N2JVd0NpZlMtZDJaMzRmYWRpenhpdUljOWdVcXZfQXFLTkxqU0R6WmxUczE0QmZyTUlZQ3FadEQ4c0VwUTk0NFR1aHVJT1FSQmVWU2lH?oc=5) |
 | 2026-11-22 | NVIDIA Robotics |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IbWJob3hvWTZuUDRrRXFpZ2phdjVSWllyTmpLN2VSMlR0MV9NaExQVjJ3cHdlVUQ0czI1Y09HM256ZWY4QVhUZ3VLbUFBSTN1RU1GLVdENTdIcmNvSzlibnluYTlHUFc3b2M1TGRWTjNTeXNNZmc?oc=5) |
-| 2026-11-19 | Agility Robotics |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXVuR1R2LU9GdzNIM29heUxTZGNNZ3dNVHdiZ1Y4WFpVQ1hmQk9pbUhWbENQUjN4UTB2RVE3RnRDM05yWHdKaFlxZHZhS2RkNFpGVFFoTEVTZU9rMVpDbWZ0aDFIbmtlTjZZdG00VU82U3pLMlB3SHFGY3VyZEsxZnpjMjNsWE9JdUhGeFg2S19aYkV3X250SDRaZWN3R2xZME5WZjk4VGpjSk90Y2wzZHpVaG0?oc=5) |
 
 ## Most Active Companies
 | Date | Signal | Category | Source |

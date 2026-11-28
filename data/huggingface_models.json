@@ -1,12 +1,12 @@
 [
   {
-    "model": "zimplex/roboturn-pear-rl-lr3e6-b32-20261119",
-    "downloads": 35,
+    "model": "brendawest/work-robotics-vision-language",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/zimplex/roboturn-pear-rl-lr3e6-b32-20261119",
+    "url": "https://huggingface.co/brendawest/work-robotics-vision-language",
     "date": "2026-11-28",
-    "keyword": "robot",
-    "score": 10.6
+    "keyword": "robotics",
+    "score": 0.1
   },
   {
     "model": "zimplex/roboturn-pear-rl-task32-lr1e6-b32-20261123",
@@ -16,6 +16,33 @@
     "date": "2026-11-28",
     "keyword": "robot",
     "score": 0.1
+  },
+  {
+    "model": "RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
+    "date": "2026-11-28",
+    "keyword": "robot",
+    "score": 0.1
+  },
+  {
+    "model": "zimplex/roboturn-pear-rl-lr3e6-b8-20261119",
+    "downloads": 30,
+    "likes": 0,
+    "url": "https://huggingface.co/zimplex/roboturn-pear-rl-lr3e6-b8-20261119",
+    "date": "2026-11-28",
+    "keyword": "robot",
+    "score": 9.1
+  },
+  {
+    "model": "zimplex/roboturn-pear-rl-lr3e6-b32-20261119",
+    "downloads": 35,
+    "likes": 0,
+    "url": "https://huggingface.co/zimplex/roboturn-pear-rl-lr3e6-b32-20261119",
+    "date": "2026-11-28",
+    "keyword": "robot",
+    "score": 10.6
   },
   {
     "model": "yanshi-robotics/so101-smolvla-snack-sorting-v1",
@@ -72,19 +99,28 @@
     "score": 277.1
   },
   {
-    "model": "RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125",
-    "date": "2026-11-28",
-    "keyword": "robot",
-    "score": 0.1
-  },
-  {
     "model": "Yingxu12/vla-ckpt-atomic10",
     "downloads": 0,
     "likes": 0,
     "url": "https://huggingface.co/Yingxu12/vla-ckpt-atomic10",
+    "date": "2026-11-28",
+    "keyword": "vla",
+    "score": 0.1
+  },
+  {
+    "model": "SamerAyyad/VLA_Samer_26.11.2026_100eps_policy_GR00T",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/SamerAyyad/VLA_Samer_26.11.2026_100eps_policy_GR00T",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "vpraise00/vla-ft-ckpt-archive",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/vpraise00/vla-ft-ckpt-archive",
     "date": "2026-11-28",
     "keyword": "vla",
     "score": 0.1
@@ -144,49 +180,103 @@
     "score": 4.0
   },
   {
-    "model": "periphanes/cosmos3-edge-robocasa-blockcausal-df-policy-state-13k",
+    "model": "JobSeekers/rc-policy-weights",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/periphanes/cosmos3-edge-robocasa-blockcausal-df-policy-state-13k",
+    "url": "https://huggingface.co/JobSeekers/rc-policy-weights",
     "date": "2026-11-28",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "CyanMask/my_policy_test10a",
-    "downloads": 2,
-    "likes": 0,
-    "url": "https://huggingface.co/CyanMask/my_policy_test10a",
-    "date": "2026-11-28",
-    "keyword": "policy",
-    "score": 0.7
-  },
-  {
-    "model": "Autism-Skill-Issue/pi05-lora-napkin-clean-tradeshow-ur12e-3cam-60fps-policy-20000",
+    "model": "nfc22/realitycheck-policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Autism-Skill-Issue/pi05-lora-napkin-clean-tradeshow-ur12e-3cam-60fps-policy-20000",
+    "url": "https://huggingface.co/nfc22/realitycheck-policy",
     "date": "2026-11-28",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "Autism-Skill-Issue/pi05-lora-napkin-tradeshow-ur12e-3cam-60fps-policy-20000",
+    "model": "Zakee47/rc-devin-visionik-policy",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/Autism-Skill-Issue/pi05-lora-napkin-tradeshow-ur12e-3cam-60fps-policy-20000",
+    "url": "https://huggingface.co/Zakee47/rc-devin-visionik-policy",
     "date": "2026-11-28",
     "keyword": "policy",
     "score": 0.1
   },
   {
-    "model": "heohyeri/act_policy",
-    "downloads": 27,
+    "model": "akbarjuraev/sim2real-squad-policy",
+    "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/heohyeri/act_policy",
+    "url": "https://huggingface.co/akbarjuraev/sim2real-squad-policy",
     "date": "2026-11-28",
     "keyword": "policy",
-    "score": 8.2
+    "score": 0.1
+  },
+  {
+    "model": "Autism-Skill-Issue/pi05-lora-napkin-tradeshow-ur12e-3cam-60fps-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Autism-Skill-Issue/pi05-lora-napkin-tradeshow-ur12e-3cam-60fps-policy",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "termvato/DAVE-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/termvato/DAVE-policy",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "menobi/com-guys-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/menobi/com-guys-policy",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Emily-Hui-123/Cosmos-Edge-Policy-Task2",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Emily-Hui-123/Cosmos-Edge-Policy-Task2",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Emily-Hui-123/Cosmos-Edge-Policy-Task1",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Emily-Hui-123/Cosmos-Edge-Policy-Task1",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Emily-Hui-123/Cosmos-Edge-Policy-Init",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Emily-Hui-123/Cosmos-Edge-Policy-Init",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
+  },
+  {
+    "model": "Krishnan231/reality-check-policy",
+    "downloads": 0,
+    "likes": 0,
+    "url": "https://huggingface.co/Krishnan231/reality-check-policy",
+    "date": "2026-11-28",
+    "keyword": "policy",
+    "score": 0.1
   },
   {
     "model": "schaefersch/robotics-vision-language-medium",
@@ -196,24 +286,6 @@
     "date": "2026-11-27",
     "keyword": "robotics",
     "score": 4.9
-  },
-  {
-    "model": "bryantil/reading-robotics-vision-language",
-    "downloads": 19,
-    "likes": 0,
-    "url": "https://huggingface.co/bryantil/reading-robotics-vision-language",
-    "date": "2026-11-27",
-    "keyword": "robotics",
-    "score": 5.8
-  },
-  {
-    "model": "ketiyohannes/robot-harness-world-models",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/ketiyohannes/robot-harness-world-models",
-    "date": "2026-11-27",
-    "keyword": "world model",
-    "score": 0.1
   },
   {
     "model": "adi2440/kinematic-residual-vla-checkpoints",
@@ -230,7 +302,7 @@
     "likes": 0,
     "url": "https://huggingface.co/SamerAyyad/VLA_Samer_26.11.2026_100eps_policy_XVLA",
     "date": "2026-11-27",
-    "keyword": "policy",
+    "keyword": "vla",
     "score": 5.2
   },
   {
@@ -239,7 +311,7 @@
     "likes": 0,
     "url": "https://huggingface.co/SamerAyyad/VLA_Samer_22.11.2026_200eps_policy_GR00T",
     "date": "2026-11-27",
-    "keyword": "policy",
+    "keyword": "vla",
     "score": 6.4
   },
   {
@@ -248,25 +320,16 @@
     "likes": 0,
     "url": "https://huggingface.co/SamerAyyad/VLA_Samer_26.11.2026_100eps_policy_ACT_500k",
     "date": "2026-11-27",
-    "keyword": "policy",
+    "keyword": "vla",
     "score": 6.1
   },
   {
-    "model": "rl2-vla/rl2-vla-qam-fractal",
+    "model": "ketiyohannes/robot-harness-world-models",
     "downloads": 0,
     "likes": 0,
-    "url": "https://huggingface.co/rl2-vla/rl2-vla-qam-fractal",
+    "url": "https://huggingface.co/ketiyohannes/robot-harness-world-models",
     "date": "2026-11-27",
-    "keyword": "vla",
-    "score": 0.1
-  },
-  {
-    "model": "NguyenHuuChi/vla-pruning-checkpoint-archive",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/NguyenHuuChi/vla-pruning-checkpoint-archive",
-    "date": "2026-11-27",
-    "keyword": "vla",
+    "keyword": "world model",
     "score": 0.1
   },
   {
@@ -297,40 +360,13 @@
     "score": 0.1
   },
   {
-    "model": "IdealReal/act_policy",
-    "downloads": 33,
+    "model": "bryantil/reading-robotics-vision-language",
+    "downloads": 19,
     "likes": 0,
-    "url": "https://huggingface.co/IdealReal/act_policy",
+    "url": "https://huggingface.co/bryantil/reading-robotics-vision-language",
     "date": "2026-11-27",
-    "keyword": "policy",
-    "score": 10.0
-  },
-  {
-    "model": "hums1207/act_policy_L4_20000",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/hums1207/act_policy_L4_20000",
-    "date": "2026-11-27",
-    "keyword": "policy",
-    "score": 6.1
-  },
-  {
-    "model": "schronn/policy_lab_test_v3_smolvla",
-    "downloads": 20,
-    "likes": 0,
-    "url": "https://huggingface.co/schronn/policy_lab_test_v3_smolvla",
-    "date": "2026-11-27",
-    "keyword": "policy",
-    "score": 6.1
-  },
-  {
-    "model": "Autism-Skill-Issue/pi05-lora-napkin-clean-tradeshow-ur12e-3cam-60fps-policy",
-    "downloads": 0,
-    "likes": 0,
-    "url": "https://huggingface.co/Autism-Skill-Issue/pi05-lora-napkin-clean-tradeshow-ur12e-3cam-60fps-policy",
-    "date": "2026-11-27",
-    "keyword": "policy",
-    "score": 0.1
+    "keyword": "robotics",
+    "score": 5.8
   },
   {
     "model": "IncMac/PolyVu-Robotics-v0",
@@ -434,11 +470,11 @@
   {
     "model": "bageldotcom/Bagel-Robotics-1",
     "downloads": 0,
-    "likes": 21,
+    "likes": 22,
     "url": "https://huggingface.co/bageldotcom/Bagel-Robotics-1",
     "date": "2026-11-24",
     "keyword": "robotics",
-    "score": 4.3
+    "score": 4.5
   },
   {
     "model": "fusion-world-model/linear-ridge_1m_c-shots",
@@ -610,15 +646,6 @@
     "date": "2026-11-19",
     "keyword": "robotics",
     "score": 8.7
-  },
-  {
-    "model": "MeituanRobotics/Meituan-Robotics-0-RoboCasa365",
-    "downloads": 27,
-    "likes": 0,
-    "url": "https://huggingface.co/MeituanRobotics/Meituan-Robotics-0-RoboCasa365",
-    "date": "2026-11-19",
-    "keyword": "robotics",
-    "score": 8.2
   },
   {
     "model": "edoardochiavazza/drone-navigation-models",

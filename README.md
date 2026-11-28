@@ -1,6 +1,6 @@
 # Physical AI Intelligence Hub
 
-Last Updated: 2026-11-28 10:57 UTC
+Last Updated: 2026-11-28 18:37 UTC
 
 A continuously updating intelligence feed for AI, physical AI, robotics, VLA models, world models, startups, funding, jobs, GitHub repositories, Hugging Face models, and research papers.
 
@@ -49,16 +49,16 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## Embedded & Chips News
 | Date | Title | Source | URL |
 | --- | --- | --- | --- |
+| 2026-11-28 | Solid-State Thruster has High Hopes and No Moving Parts | Hackaday | [link](https://hackaday.com/2026/11/28/solid-state-thruster-has-high-hopes-and-no-moving-parts/) |
+| 2026-11-28 | Happy Hacksgiving!* | Hackaday | [link](https://hackaday.com/2026/11/28/happy-hacksgiving/) |
+| 2026-11-28 | Robot Jellyfish Swims On Solar Power | Hackaday | [link](https://hackaday.com/2026/11/28/robot-jellyfish-swims-on-solar-power/) |
 | 2026-11-28 | Who Resurrected the Electric Car? | Hackaday | [link](https://hackaday.com/2026/11/28/who-resurrected-the-electric-car/) |
 | 2026-11-28 | Repurposing Lava Lamps To Cook Dinner | Hackaday | [link](https://hackaday.com/2026/11/27/repurposing-lava-lamps-to-cook-dinner/) |
 | 2026-11-28 | A Detailed Breakdown of the 2021 Texas Power Crisis | Hackaday | [link](https://hackaday.com/2026/11/27/a-detailed-breakdown-of-the-2021-texas-power-crisis/) |
 | 2026-11-28 | ESP32 Remote Access Done Light | Hackaday | [link](https://hackaday.com/2026/11/27/esp32-remote-access-done-light/) |
 | 2026-11-28 | VZMORE iX9 Max mini PC review – Part 3: Ubuntu 26.04 Linux | CNX Software | [link](https://www.cnx-software.com/2026/11/28/vzmore-ix9-max-mini-pc-review-part-3-ubuntu-26-04-linux/) |
-| 2026-11-27 | How to Make a Nixie Tube | Hackaday | [link](https://hackaday.com/2026/11/27/how-to-make-a-nixie-tube/) |
-| 2026-11-27 | PS3 Boomerang Controller Concept Flies Back Into Your Hands | Hackaday | [link](https://hackaday.com/2026/11/27/ps3-boomerang-controller-concept-flies-back-into-your-hands/) |
-| 2026-11-27 | Hackaday Podcast Episode 396: Robot Hands, The Inner Life of Mechanical Watches, and the Truth about 3D Scanning | Hackaday | [link](https://hackaday.com/2026/11/27/hackaday-podcast-episode-396-robot-hands-the-inner-life-of-mechanical-watches-and-the-truth-about-3d-scanning/) |
-| 2026-11-27 | ShiMetaPi Pico-G1 – A compact AI Vision Linux SBC powered by GOKE GK7206 4K camera SoC | CNX Software | [link](https://www.cnx-software.com/2026/11/27/shimetapi-pico-g1-a-compact-ai-vision-linux-sbc-powered-by-goke-gk7206-4k-camera-soc/) |
-| 2026-11-27 | usb-rea generates a Linux driver for your Windows-only USB gadget | CNX Software | [link](https://www.cnx-software.com/2026/11/27/usb-rea-generates-a-linux-driver-for-your-windows-only-usb-gadget/) |
+| 2026-11-28 | Meet The Rockefeller Center Christmas Tree | Adafruit | [link](https://blog.adafruit.com/2026/11/28/meet-the-rockefeller-center-christmas-tree/) |
+| 2026-11-28 | The Python on Microcontrollers Newsletter: subscribe for free | Adafruit | [link](https://blog.adafruit.com/2026/11/28/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-27-2/) |
 
 ## New Research Papers
 | Published | Title | PDF |
@@ -77,36 +77,37 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 ## New Hugging Face Models
 | Date | Model | Downloads | Likes | URL |
 | --- | --- | --- | --- | --- |
-| 2026-11-28 | zimplex/roboturn-pear-rl-lr3e6-b32-20261119 | 35 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-lr3e6-b32-20261119) |
+| 2026-11-28 | brendawest/work-robotics-vision-language | 0 | 0 | [link](https://huggingface.co/brendawest/work-robotics-vision-language) |
 | 2026-11-28 | zimplex/roboturn-pear-rl-task32-lr1e6-b32-20261123 | 0 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-task32-lr1e6-b32-20261123) |
+| 2026-11-28 | RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125) |
+| 2026-11-28 | zimplex/roboturn-pear-rl-lr3e6-b8-20261119 | 30 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-lr3e6-b8-20261119) |
+| 2026-11-28 | zimplex/roboturn-pear-rl-lr3e6-b32-20261119 | 35 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-lr3e6-b32-20261119) |
 | 2026-11-28 | yanshi-robotics/so101-smolvla-snack-sorting-v1 | 0 | 0 | [link](https://huggingface.co/yanshi-robotics/so101-smolvla-snack-sorting-v1) |
 | 2026-11-28 | resoLve111/hyvla_robotwin_umi_rand100_seed0 | 0 | 0 | [link](https://huggingface.co/resoLve111/hyvla_robotwin_umi_rand100_seed0) |
 | 2026-11-28 | zimplex/roboturn-pear-rl-lr1e6-b32-20261119 | 38 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-lr1e6-b32-20261119) |
 | 2026-11-28 | bayazidhs04/semi-autonomous-weeding-robot-models | 0 | 1 | [link](https://huggingface.co/bayazidhs04/semi-autonomous-weeding-robot-models) |
 | 2026-11-28 | zimplex/roboturn-pear-rl-task512-t50-lr1e6-b32-20261126 | 0 | 0 | [link](https://huggingface.co/zimplex/roboturn-pear-rl-task512-t50-lr1e6-b32-20261126) |
-| 2026-11-28 | shambhuraje/Llama-3.2-1B-no-robots-GGUF | 922 | 2 | [link](https://huggingface.co/shambhuraje/Llama-3.2-1B-no-robots-GGUF) |
-| 2026-11-28 | RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125 | 0 | 0 | [link](https://huggingface.co/RobotisSW/Task905-943-GR00T-VisionKL-TTG-20261125) |
-| 2026-11-28 | Yingxu12/vla-ckpt-atomic10 | 0 | 0 | [link](https://huggingface.co/Yingxu12/vla-ckpt-atomic10) |
 
 ## Trending GitHub Repositories
 | Repo | Stars | Language | Score | URL |
 | --- | --- | --- | --- | --- |
 | harvard-edge/cs249r_book | 30326 | Python | 12130.5 | [link](https://github.com/harvard-edge/cs249r_book) |
-| copper-project/copper-rs | 1557 | Rust | 622.9 | [link](https://github.com/copper-project/copper-rs) |
-| Developer-Y/cs-video-courses | 85014 |  | 34005.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
-| commaai/openpilot | 64257 | Python | 25702.9 | [link](https://github.com/commaai/openpilot) |
-| earthtojake/text-to-cad | 27650 | Python | 11060.1 | [link](https://github.com/earthtojake/text-to-cad) |
-| google-deepmind/mujoco | 18554 | C++ | 7421.7 | [link](https://github.com/google-deepmind/mujoco) |
-| questdb/questdb | 17554 | Java | 7021.7 | [link](https://github.com/questdb/questdb) |
-| ArduPilot/ardupilot | 16443 | C++ | 6577.3 | [link](https://github.com/ArduPilot/ardupilot) |
-| RLinf/RLinf | 5735 | Python | 2294.1 | [link](https://github.com/RLinf/RLinf) |
-| dora-rs/dora | 4112 | Rust | 1644.9 | [link](https://github.com/dora-rs/dora) |
+| copper-project/copper-rs | 1558 | Rust | 623.3 | [link](https://github.com/copper-project/copper-rs) |
+| pnoker/iot-dc3 | 1263 | Java | 505.3 | [link](https://github.com/pnoker/iot-dc3) |
+| Developer-Y/cs-video-courses | 85069 |  | 34027.7 | [link](https://github.com/Developer-Y/cs-video-courses) |
+| commaai/openpilot | 64254 | Python | 25701.7 | [link](https://github.com/commaai/openpilot) |
+| earthtojake/text-to-cad | 27679 | Python | 11071.7 | [link](https://github.com/earthtojake/text-to-cad) |
+| google-deepmind/mujoco | 18561 | C++ | 7424.5 | [link](https://github.com/google-deepmind/mujoco) |
+| questdb/questdb | 17555 | Java | 7022.1 | [link](https://github.com/questdb/questdb) |
+| ArduPilot/ardupilot | 16442 | C++ | 6576.9 | [link](https://github.com/ArduPilot/ardupilot) |
+| zauberzeug/nicegui | 16362 | Python | 6544.9 | [link](https://github.com/zauberzeug/nicegui) |
 
 ## Startup Funding
 | Date | Company | Round | Amount | Source |
 | --- | --- | --- | --- | --- |
-| 2026-11-27 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Z9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5) |
-| 2026-11-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hOWJYWkh3VTBaaS1vay03TURaMnpkc2JHMVNjSTgxWkN5Q0VWeGhjN1JZWm1vVExhSnZMRVJGbDRPY0ZBcEFXVE1pUllNQzlLd2FzOVlMNXlGNmVa?oc=5) |
+| 2026-11-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTFTU0Q2azY0RFdXUFdkVVAyQjVRdzlYMXZPQmFNUExsSTlfLUFmaWtyODVoeE1oRzdmUWtsLXZnQjZhQ3AweFBEMWtVZXRQVFNWV1ZUcTVPWUJxbDRRejJSUHZNSEN2eWpaVUtsY3VIc3dfUWY1eUtpZlB6endtQUwxc01yYWYw?oc=5) |
+| 2026-11-28 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmtOUmhUTU1ucFZvSG83QlR3ZjR4SDdRbTA3YjR0SFd4Y01DSnRyV3dDeDZNUEVxQzNzSU1iODRydklzZ1lISl9LUmtRRy0xeDJoNHZaX2dUbW82MVg1MDVpelVLbFpEUTkyTTdCV0xxVTdkWmhqeDUtMGhnU21vZTNtUnVVQXZqWnc?oc=5) |
+| 2026-11-25 | Unitree |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxPam05YVNJekQxT09lVTJJY2VRMERxV3BPcGNFbUNCUjlGMEwyY2s3RmtjM1RDVHVOUWt4eTNhb3pPZDF6aHFRcnI1Y0Q5Wi1hTjNIRDZoWVVxaC1jZXgxanpGUE53Yk9JbkpHTFJUZm15SThBYjlEV3ZsT3BrSi1mdWhWRlpnVW11YWtEQUdpM0VPaW9NYWlSenBtaFoxX0g5Y0NWNWZlbzQ3N1NicloyWldkT0I?oc=5) |
 | 2026-11-24 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzBybXIzOGw5TG4tVXJBNUQtRUR3b1c0YlRDNHZHSnZYU3VOSjMtLUR2UzlGZnlqd3p6N2JVd0NpZlMtZDJaMzRmYWRpenhpdUljOWdVcXZfQXFLTkxqU0R6WmxUczE0QmZyTUlZQ3FadEQ4c0VwUTk0NFR1aHVJT1FSQmVWU2lH?oc=5) |
 | 2026-11-22 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IbWJob3hvWTZuUDRrRXFpZ2phdjVSWllyTmpLN2VSMlR0MV9NaExQVjJ3cHdlVUQ0czI1Y09HM256ZWY4QVhUZ3VLbUFBSTN1RU1GLVdENTdIcmNvSzlibnluYTlHUFc3b2M1TGRWTjNTeXNNZmc?oc=5) |
 | 2026-11-19 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXVuR1R2LU9GdzNIM29heUxTZGNNZ3dNVHdiZ1Y4WFpVQ1hmQk9pbUhWbENQUjN4UTB2RVE3RnRDM05yWHdKaFlxZHZhS2RkNFpGVFFoTEVTZU9rMVpDbWZ0aDFIbmtlTjZZdG00VU82U3pLMlB3SHFGY3VyZEsxZnpjMjNsWE9JdUhGeFg2S19aYkV3X250SDRaZWN3R2xZME5WZjk4VGpjSk90Y2wzZHpVaG0?oc=5) |
@@ -114,7 +115,6 @@ A continuously updating intelligence feed for AI, physical AI, robotics, VLA mod
 | 2026-11-12 | NVIDIA Robotics |  |  | [link](https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcHI4ZEpOTlNCZWhtdk4wcjU0S1JRUkFGVG5hYkJKUldvdWM3MXVZZ1ZWSjVsVjFYWmRrclRDNXM5dGhqa0w1c1NpdnRrTHI3UEVvZ2VMUFcwUW5oWHlCVDNud0ZVcUNuUlR6clBYYURrVnN5TFMwWnNoYw?oc=5) |
 | 2026-11-08 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2xEOEU1Q2xoZnQ0WWVwUjljRDA2QVNFQlBhUGN5ZDdqSUsyamFtZnNqX1BjMmdJdkZ3UFdQR3l4Ukd6UU5PZGxnaVY5bXdIT0VqTGVWY2EzekFfYUQ4VUhfYzlXNXZ0NTJMN1JEczNxbmVIZjVfR3Fkdk8wa2d2RXJYYmtnQVgyd2FyRFJkQzRBVTQyZmJtRWV4OFJQZGM?oc=5) |
 | 2026-11-05 | Agility Robotics |  |  | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5) |
-| 2026-11-04 | Skild AI |  |  | [link](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEIzYUw5N2NyLXhwcEp2QlFxa2pmVmxjLWRsUVlsUGtGaWpUenlkaTFodkdmVlY3Ulh5R0Fqb1F5UWlTQ280Y2xZS1lQRmZVTW1KZ3hpeXd2WnlObGhkd2JqVFpHTUEtSGRwN083d1BFaFNaQUs4Nm9VZTliWnJWWUh0eXNDZw?oc=5) |
 
 ## New Companies
 | Date | Signal | Category | Source |
